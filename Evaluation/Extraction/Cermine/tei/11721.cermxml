@@ -1,0 +1,3588 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <article-id pub-id-type="urn">nbn:de:0168-ssoar-117210</article-id>
+      <title-group>
+        <article-title>Untersuchungen zu demographischen Gleichgewichtsverteilungen nach dem Zipfschen Gesetz</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Wolfgang</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Joachim</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Veröffentlichungsversion / Published Version</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>SSG Sozialwissenschaften</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>USB Köln</string-name>
+        </contrib>
+      </contrib-group>
+      <pub-date>
+        <year>2005</year>
+      </pub-date>
+      <fpage>22</fpage>
+      <lpage>63</lpage>
+      <abstract>
+        <p>Forschungsbericht / research report Zur Verfügung gestellt in Kooperation mit / provided in cooperation with:</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/3/11721.images/img_1_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/3/11721.images/img_1_2.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/3/11721.images/img_1_3.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/3/11721.images/img_1_4.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>Nutzungsbedingungen:</title>
+      <p>Dieser Text wird unter einer Deposit-Lizenz (Keine
+Weiterverbreitung - keine Bearbeitung) zur Verfügung gestellt.
+Gewährt wird ein nicht exklusives, nicht übertragbares,
+persönliches und beschränktes Recht auf Nutzung dieses
+Dokuments. Dieses Dokument ist ausschließlich für
+den persönlichen, nicht-kommerziellen Gebrauch bestimmt.
+Auf sämtlichen Kopien dieses Dokuments müssen alle
+Urheberrechtshinweise und sonstigen Hinweise auf gesetzlichen
+Schutz beibehalten werden. Sie dürfen dieses Dokument
+nicht in irgendeiner Weise abändern, noch dürfen Sie
+dieses Dokument für öffentliche oder kommerzielle Zwecke
+vervielfältigen, öffentlich ausstellen, aufführen, vertreiben oder
+anderweitig nutzen.</p>
+      <p>Mit der Verwendung dieses Dokuments erkennen Sie die
+Nutzungsbedingungen an.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Terms of use:</title>
+      <p>This document is made available under Deposit Licence (No
+Redistribution - no modifications). We grant a non-exclusive,
+nontransferable, individual and limited right to using this document.</p>
+      <p>This document is solely intended for your personal,
+noncommercial use. All of the copies of this documents must retain
+all copyright information and other information regarding legal
+protection. You are not allowed to alter this document in any
+way, to copy it for public or commercial purposes, to exhibit the
+document in public, to perform, distribute or otherwise use the
+document in public.</p>
+      <p>By using this particular document, you accept the above-stated
+conditions of use.</p>
+      <p>DUISBURGER BEITRÄGE zur SOZIOLOGISCHEN</p>
+      <p>FORSCHUNG</p>
+      <p>No. 4/2005</p>
+      <p>Untersuchungen
+zu demographischen Gleichgewichtsverteilungen
+nach dem Zipfschen Gesetz</p>
+      <p>von</p>
+      <p>Wolfgang und Joachim Gerß
+Herausgeber der „Duisburger Beiträge zur soziologischen Forschung“
+ist das Institut für Soziologie.</p>
+      <p>Kontaktadresse:
+Universität Duisburg-Essen
+Standort Duisburg
+Fakultät für Gesellschaftswissenschaften
+Institut für Soziologie
+e-mail: sigurd.matz@uni-duisburg.de
+Lotharstraße 65
+D – 47048 Duisburg
+Ein Verzeichnis aller bisher erschienenen Beiträge befindet sich im Anhang.</p>
+      <p>ISSN 0949-8516 (Duisburger Beiträge zur soziologischen Forschung)
+Inhaltsverzeichnis
+1. Anlass der Untersuchung
+2. Theorie und Methode
+2.1 Mathematik als wissenschaftliches Werkzeug
+2.2 Die Idee eines universellen Prinzips
+2.3 Mathematische Begründung und Algorithmus
+2.3.1 Motivation des Gesetzes von Zipf
+2.3.2 Herleitung einer Ranggrößenverteilung als Grenzverteilung</p>
+      <p>eines Gibrat’schen Wachstumsprozesses
+2.3.3 Empirische Schätzung des Koeffizienten λ</p>
+      <p>einer Ranggrößenverteilung
+2.4 Aussagefähigkeit der Ranggrößenverteilung
+3. Anwendung auf deutsche Daten
+3.1 Entwicklung des Kräfteverhältnisses im Zeitablauf
+3.2 Beziehung der Teilmengen zueinander und zur Gesamtmenge
+3.3 Auswirkung exogener Datenkatastrophen
+3.4 Zusammenfassung politischer Gemeinden zu kommunalen
+Einzugs</p>
+      <p>
+        bereichen
+4. Auf der Suche nach dem Gleichgewicht
+Literaturverzeichnis
+Anhang: Abbildungen und tabellarische Übersichten
+2
+3
+3
+5
+11
+12
+14
+18
+19
+23
+23
+27
+29
+33
+35
+41
+44
+1. Anlass der Untersuchung
+Spezielle Lehrveranstaltungen zu mathematischen Methoden für Studierende der
+Sozialwissenschaften sind in den Vorlesungsverzeichnissen der Universitäten eine
+Ausnahmeerscheinung. In den Jahren 1993 bis 2003 fanden unter der Leitung des Erstautors
+dieser Abhandlung im Institut für Soziologie der Gerhart-Mercator- Universität Duisburg und
+im Sozialwissenschaftlichen Institut der Heinrich-Heine Universität Düsseldorf mehrere
+Vorlesungen und Seminare unter dem Titel „Sozialwissenschaftliche Modellkonstruktion mit
+mathematischen Methoden“ oder „Mathematische Grundlagen sozialwissenschaftlicher
+Modelle“ statt. Das Ziel dieser Veranstaltungen war, das mathematische Gerüst der Modelle
+nicht nur zu rezeptartig benutzen, sondern auch seine Entstehung in allen Details
+nachvollziehen zu können. In den einzelnen Semestern wurden unterschiedliche
+Schwerpunkte gesetzt, die sich nicht nach den sozialwissenschaftlichen Inhalten der Modelle,
+sondern nach den dazu verwendeten mathematischen Instrumenten – wie Differential- und
+Integralrechnung, Matrizenrechnung, Wahrscheinlichkeitsrechnung, Mengenlehre – richteten.
+Eine Erfahrung war, dass diese Instrumente den meisten Studierenden der
+Sozialwissenschaften kaum bekannt sind. Kenntnisse aus der Schule waren sehr oft entweder
+nie vorhanden (vor allem Matrizenrechnung) oder vergessen worden (z.B. Differential- und
+Integralrechnung). Ein großer Zeitanteil der Veranstaltungen musste daher für die Erarbeitung
+des mathematischen Basiswissens verwendet werden, so dass für die eigentliche
+Modellkonstruktion weniger Zeit übrig blieb, als es wünschenswert gewesen wäre. Da die
+Veranstaltungen zwar zum Erwerb vorgeschriebener Leistungsnachweise über das Lehrgebiet
+„Sozialwissenschaftliche Methodenlehre“ dienten, aber auf Grund ihrer speziellen Thematik
+nicht zum Pflichtprogramm der Studienordnung gehörten, war mit keiner besonders großen
+Teilnehmerzahl zu rechnen. Die kleine Gruppe von Teilnehmer(innen) war jedoch erfreulich
+interessiert und zur kontinuierlichen Mitarbeit bis zum jeweiligen Veranstaltungsende bereit.
+Für den Dozenten ergaben sich daraus Anregungen zu weiteren Arbeiten bis in die Zeit nach
+Abschluss des Veranstaltungszyklusses. Die vorliegende Abhandlung berichtet über in diesem
+Zusammenhang durchgeführte empirische Untersuchungen mit demographischen Daten der
+deutschen amtlichen Statistik. Die Autoren sind am Institut für Soziologie der Universität
+Duisburg-Essen (Prof. Dr. Wolfgang Gerß, Vater) und am Institut für medizinische
+Informatik und Biomathematik der Universität Münster (Dr. Joachim Gerß, Sohn) tätig.
+Zu den Modellen, die besondere Aufmerksamkeit erregten, gehört das sog. Zipfsche Gesetz.
+Dr. George Kingsley Zipf war Professor für Linguistik an der Harvard University in
+Cambridge/Mass und neben seiner wissenschaftlichen Tätigkeit ein engagierter – und dafür
+im Sinne der nach dem Zweiten Weltkrieg in den USA zeitweise herrschenden politischen
+Meinung attackierter – Kritiker des Morgenthau-Plans zur Zerstörung der deutschen Industrie.
+Er trug diese Kritik in einer für einen wissenschaftlichen Text ungewöhnlich emotionalen
+Wortwahl in seinem sonst sachlich argumentierenden im Jahr 1949 erschienenen Hauptwerk
+vor, in dem er – in ironischer Anspielung auf den sowjetrussischen Sprachgebrauch – seine
+Gegner als „intelligentsia“ bezeichnete
+        <xref ref-type="bibr" rid="ref50">(Zipf 1949, S. 430 f.)</xref>
+        . In diesem auf einigen früheren
+Arbeiten aufbauenden 573 Seiten starken Band stellte Zipf umfassend und detailliert sein –
+von ihm selbst nicht so bezeichnetes – „Gesetz“ und dessen vielfältige
+Anwendungsmöglichkeiten dar. Er ging dabei von quantitativen Untersuchungen der Struktur
+von Sprachen aus – Zipf wird daher als „Vater der statistischen Linguistik“
+        <xref ref-type="bibr" rid="ref12 ref27">(Alexejew,
+Kalinin und Piotrowski 1973, S.10)</xref>
+        angesehen – und verallgemeinerte seine Aussagen dann
+auf biologische, soziologische und ökonomische Fragestellungen.
+In den folgenden Jahrzehnten wurde auf das Zipfsche Gesetz unter Hinweis auf Mängel seiner
+mathematischen Begründung eher kritisch-distanziert mit alternativ abgeleiteten Modellen
+oder thematisch auf die Linguistik eingeschränkt Bezug genommen. Dagegen trat in den
+Wirtschafts- und Sozialwissenschaften gegen Ende des 20. Jahrhunderts eine unerwartete
+Renaissance des Zipfschen Gesetzes ein, bisher im Wesentlichen beschränkt auf
+englischsprachige Literatur. In der deutschsprachigen sozialwissenschaftlichen Literatur ist
+das Zipfsche Gesetz anscheinend bisher nicht Gegenstand eigenständiger Abhandlungen,
+sondern wird nur ausnahmsweise und beiläufig neben vielen anderen Themen in Lehrbüchern
+erwähnt
+        <xref ref-type="bibr" rid="ref30">(so bei Rapoport 1980, S. 115 ff.)</xref>
+        . Seit dem Jahr 1995 sind – neben vielen
+linguistischen, biologischen, medizinischen, physikalischen, chemischen und
+informationswissenschaftlichen Arbeiten – mindestens 45 sozialwissenschaftliche oder
+wirtschaftswissenschaftliche Arbeiten erschienen (Internet-Recherche im Januar 2005), die
+sich in wesentlichem Umfang mit dem Zipfschen Gesetz befassen. Alle Texte sind englisch,
+die Publikationsorgane haben ihren Sitz fast immer im englischen Sprachraum. Die Autoren
+stammen – nach ihren Namen zu schließen – aus den verschiedensten Ländern. Offensichtlich
+deutsche oder möglicherweise deutschstämmige Namen – wie vermutlich der Name Zipf
+selbst – sind dabei äußerst selten.
+2. Theorie und Methode
+2.1. Mathematik als wissenschaftliches Werkzeug
+Die Zurückhaltung gegenüber mathematischen Methoden, die bei manchen
+Sozialwissenschaftlern besteht, ist darauf zurückzuführen, dass inhaltliche Fragestellungen im
+Vordergrund stehen, denen die formalen Werkzeuge – wie Mathematik und Statistik – so
+realitätsnah wie möglich angepasst werden müssen. Die mathematischen Modelle beruhen
+dagegen oft auf extrem vereinfachten und dementsprechend realitätsfernen Annahmen. Die
+statistischen und die darüber hinaus gehenden mathematischen Verfahren unterscheiden sich
+auch dadurch voneinander, dass den auf dem Gebiet der empirischen Sozialforschung
+arbeitenden Wissenschaftlern und Studierenden für statistische Auswertungen bequeme
+Software zur Verfügung steht. Die Qualifizierung im Umgang mit vorhandenen statistischen
+Auswertungsprogrammen ist daher für die Sozialwissenschaftler naheliegender als die
+Bemühung um Kenntnisse der Konstruktion und ggf. notwendigen eigenen Programmierung
+mathematischer Modelle. Andererseits ist die Mathematik als reinste Form des logischen
+Denkens auf jedem Forschungsgebiet für die wissenschaftliche Arbeit unentbehrlich.
+„Mathematik ist die Sprache der absoluten Strenge, Klarheit und Genauigkeit. Strenge,
+Klarheit und Genauigkeit sind Kriterien, von denen jede Wissenschaft geleitet sein sollte“
+        <xref ref-type="bibr" rid="ref30">(Rapoport 1980, S. 9-10)</xref>
+        . Mathematik wird erfolgreich angewendet, seitdem es Wissenschaft
+gibt. Die Mathematisierung erfasste zunächst die Naturwissenschaften (insbesondere die
+Physik), dann allmählich auch die sich mit dem Verhalten von Menschen befassenden
+Wissenschaften wie die Sozialwissenschaft. Die mathematisch formulierten Zusammenhänge
+werden in der Regel als „Gesetze“ bezeichnet. Diese Bezeichnung – im Sinne eines festen
+Prinzips, das das Verhalten oder den Ablauf bestimmt – ist für die Physik ohne
+Einschränkung zutreffend. Ein spektakulärer Erfolg der Anwendung eines mathematisch
+formulierten physikalischen Gesetzes – hier das Gravitationsgesetz – war die theoretische
+Berechnung der Existenz des Planeten Neptun, bevor diese Existenz durch Beobachtung
+tatsächlich bestätigt werden konnte (Galle 1858). Sozialwissenschaftliche Erkenntnisse
+werden ebenfalls unter der Bezeichnung Gesetz kodifiziert, auch wenn die Zusammenhänge
+hier nicht so zwingend sind.
+Berühmte Beispiele aus der Zeit vor dem Zipfschen Gesetz sind das Malthussche Gesetz der
+progressiven Bevölkerungsvermehrung (Malthus 1798), das Marxsche ökonomische
+Bewegungsgesetz der kapitalistischen Gesellschaft
+        <xref ref-type="bibr" rid="ref23">(Marx 1867)</xref>
+        und - weniger prominent,
+aber für die empirische Sozialforschung sehr bedeutend - das Engelsche Gesetz über den
+nichtlinearen Zusammenhang der Nahrungsmittelausgaben und des Einkommens von
+Privathaushalten (Engel 1881, S.387).
+      </p>
+      <p>
+        Die mathematischen Modelle haben primär den Zweck, eine bestimmte Situation zu
+beschreiben, zu analysieren und zu verstehen. Aufgrund dieses Verständnisses dienen sie
+dazu vorherzusagen, welche Ereignisse tatsächlich eintreten bzw. wie sich reale Akteure
+verhalten werden. Schließlich können sie aufzeigen, wie sich ideale Akteure verhalten sollten,
+um ein System oder einen Prozess optimal zu steuern. Das Zipfsche Gesetz bezieht sich vor
+allem auf die Beschreibung, liefert aber auch Anhaltspunkte für die Vorhersage und die
+Steuerung, indem es den Weg zu als optimal empfundenen Gleichgewichtsverteilungen
+darstellt. Die in den Modellen angewendeten mathematischen Methoden sind deterministisch
+oder probabilistisch bzw. stochastisch. Deterministisch sind die Differentialrechnung, die
+Integralrechnung und die Funktionalanalysis. Die stochastischen Verfahren beruhen auf
+Annahmen über die Wahrscheinlichkeit von Ereignissen und Regeln der
+Wahrscheinlichkeitsrechnung. Das Zipfsche Gesetz in der von Zipf selbst verwendeten Form
+enthält keine Wahrscheinlichkeitsberechnungen und erscheint somit äußerlich rein
+deterministisch. Tatsächlich ist jedoch nur die Vorhersage der endgültigen
+Gleichgewichtsverteilungen von Häufigkeiten deterministisch, der dahin führende Prozess
+dagegen probabilistisch. Wie es für alle Gleichgewichtsverteilungen gilt, enthält also auch das
+Zipfsche Gesetz Elemente deterministischer und stochastischer Methoden. In der von späteren
+Autoren
+        <xref ref-type="bibr" rid="ref19 ref31 ref34">(Mandelbrot 1953, Simon 1955, Read 1988)</xref>
+        revidierten Form führt das Zipfsche
+Gesetz zu einer Wahrscheinlichkeitsverteilung und ist damit stochastisch, enthält aber mit
+Differenzengleichungen immer noch einen deterministischen Bestandteil.
+      </p>
+      <p>Bei der Verwendung mathematischer Methoden muss zwischen quantitativen und
+nichtquantitativen (qualitativen) Modellen unterschieden werden. Hier ist zu beachten, auf
+welcher Skala die Modellvariablen gemessen werden können. Zum Beispiel soll die folgende
+Aussage mathematisch formuliert werden: „Die Anfälligkeit für rechtsradikale Ideologien
+(Variable R) wächst mit der Individualisierung der Gesellschaft durch Lösung traditioneller
+Bindungen (Variable I) und sinkt mit der Zunahme des Bildungsgrades (Variable B) und des
+gesellschaftlichen Ansehens (Variable A), wobei die letzten beiden Komponenten
+voneinander abhängig sind.“ Die mathematische Formulierung lautet:
+R =</p>
+      <p>I</p>
+      <p>B ⋅ A
+Die damit festgelegten mathematischen Operationen Multiplikation und Division sind aber
+nur dann zulässig, wenn es gelingt, die qualitativen Variablen R,I, B und A zu quantifizieren,
+so dass sie auf einer metrischen Skala gemessen werden können. Außerdem müssen die
+Maßeinheiten der Variablen miteinander kompatibel sein. Wenn diese Bedingungen nicht
+erfüllt werden können, ist die verwendete mathematische Formulierung unsinnig. Ein weiteres
+Problem ergibt sich aus den mathematischen Methoden zugrundeliegenden Axiomen.
+Während in der Physik als Axiome beziehungsweise grundlegende physikalische Gesetze
+zwar nicht beweisbare, aber auch unbestrittene und daher nicht beweisbedürftige Aussagen
+über die Realität verwendet werden, sind die Axiome in den Sozialwissenschaften – zunächst
+unabhängig von ihrer Realitätsnähe – Bedingungen, die zur Konstruktion des angestrebten
+mathematischen Modells erfüllt sein müssen.
+Die physikalischen – wie allgemein die naturwissenschaftlichen – Axiome sind gesicherte
+Fakten, die sozialwissenschaftlichen Axiome dagegen sind Hypothesen, die nur als System
+zueinander konsistent sein müssen. An dieser Stelle sei die – in verschiedenen Variationen
+überlieferte – Geschichte dreier Wissenschaftler erwähnt, die in einer außergewöhnlichen
+gemeinsamen Problemsituation je nach ihrer gewohnten Arbeitsweise unterschiedliche
+Lösungen anbieten. Nach einem Schiffsunglück stranden ein Physiker, ein Biologe und ein
+Soziologe auf einer unbewohnten Insel. Als Nahrung besitzen sie nur verschlossene
+Konservendosen. Um an den Inhalt heranzukommen, schlägt der Physiker vor, einen
+nuklearen Prozess auszulösen, der die Dosen sprengen würde. Dieser Vorschlag wird
+verworfen, da vermutlich von dem Doseninhalt nichts mehr übrig bleiben würde. Der Biologe
+schlägt vor, eine Kultur von Bakterien anzulegen, die das Metall der Dosen zerfressen würde.
+Auch dieser Vorschlag wird nicht weiter verfolgt, da der Doseninhalt nicht mehr appetitlich
+wäre. Schließlich erklärt der Soziologe, dass das Problem leicht zu lösen wäre; man müsse
+nur die Hypothese aufstellen, man hätte einen Dosenöffner. Diese Karikatur enthält durchaus
+einen die Wissenschaften zutreffend charakterisierenden Kern.</p>
+      <p>
+        Die Beachtung, die das Zipfsche Gesetz noch Jahrzehnte nach seiner Formulierung in
+offensichtlich zunehmendem Ausmaß erfährt, ist auf die frappierende Regelmäßigkeit der auf
+diesem Gesetz beruhenden Verteilungsform zurückzuführen. Die mathematische Erklärung
+für die vielfältige empirische Bestätigung in verschiedensten Anwendungsbereichen war
+dagegen umstritten. „Zipf`s Erklärung für diese offensichtliche Regelmäßigkeit ist
+verschwommen – ja sie grenzt so sehr ans Phantastische, dass gewöhnliche Maßstäbe
+wissenschaftlicher Bewertung oder Kritik auf sie nicht mehr angewendet werden können.“
+        <xref ref-type="bibr" rid="ref30">(Rapoport 1980, S 116)</xref>
+        . Zipf starb bereits im Jahr 1950 und konnte sich daher gegen diesen
+überzogenen Vorwurf nicht mehr wehren. Andernfalls hätte er zu seiner und seines Gesetzes
+Ehrenrettung entgegnen können: „Ich weiß zwar nicht warum, aber es funktioniert trotzdem.“
+2.2. Die Idee eines universellen Prinzips
+Die Zipfsche Philosophie geht von der Vorstellung aus, dass es im individuellen und
+kollektiven Verhalten der Menschen wie allgemein in der belebten und auch der unbelebten
+Natur die Tendenz gibt, einen bestimmten Zweck auf einem Weg zu erreichen, der
+situationsgemäß unterschiedlich, aber jeweils mit der geringsten möglichen Anstrengung
+verbunden ist. Dieses „Prinzip der geringsten Anstrengung“ (principle of least effort) bedeutet
+nicht, dass immer der tatsächlich kürzeste oder schnellste Weg eingeschlagen wird. Dieser
+kann durch für den Akteur unüberwindbare Hindernisse versperrt oder ihm unbekannt sein.
+Ausgewählt wird derjenige Weg zum Ziel, für den nach eigener Kenntnis des Akteurs oder
+ihm zugänglicher Erfahrung anderer die Wahrscheinlichkeit am größten ist, dass die über die
+ganze Zeit von der Gegenwart bis zur überschaubaren Zukunft integrierte erwartete
+Anstrengung zur Überwindung aller bekannten oder vermuteten Widerstände am geringsten
+ist. Die damit gestellte Aufgabe, das Verhalten unter Nebenbedingungen zu optimieren, ist
+dann eindeutig lösbar, wenn es nur ein einziges Ziel gibt. In der Regel verfolgt aber bereits
+ein einzelner Akteur meist zwei oder mehrere Ziele; bei einer Gruppe gemeinsam handelnder
+Akteure ist dies wohl stets der Fall. Die verschiedenen Ziele sind nur im unrealistischen
+Grenzfall vollkommen widerspruchsfrei; im Normalfall stehen sie zueinander in mehr oder
+weniger starker Konkurrenz. Sie können zu zwei Gruppen zusammengefasst werden: Die
+Zielerreichung erfordert entweder eine Verringerung oder eine Vergrößerung der Streuung
+der untersuchten Einheiten nach dem interessierenden Merkmal.
+Soweit Ziele über eine Verringerung der Streuung verfolgt werden, wirkt die „Kraft der
+Vereinheitlichung“ (force of unification). Bei einer Zielverfolgung über eine Vergrößerung
+der Streuung wirkt die „Kraft der Differenzierung“ (force of diversification). Die beiden
+gegeneinander konkurrierenden Kräfte schließen in der Regel aus, dass nur eine Zielgruppe
+zum Zuge kommt und die andere vollständig unterdrückt wird, sondern führen zu einem
+Kompromiss.
+      </p>
+      <p>Dabei strebt das aus den Akteuren, Wegen und Zielen gebildete System stets danach, dass der
+aus dem Zusammenwirken beider Kräfte resultierende Kompromiss ein Gleichgewicht
+darstellt. Ein stabiles Gleichgewicht wird dann erreicht, wenn die Kraft der Vereinheitlichung
+gleich der Kraft der Differenzierung ist. Wenn man die N untersuchten Einheiten in der
+Rangfolge ihrer Häufigkeit bzw. ihrer Größe nach dem interessierenden Merkmal (mit
+Rangnummer 1 für die häufigste bzw. größte Einheit bis Rangnummer N für die seltenste
+bzw. kleinste Einheit) auf der horizontalen Achse des ersten Quadranten eines rechtwinkligen
+Koordinatensystems anordnet, und in Richtung der vertikalen Achse die absolute oder relative
+Häufigkeit bzw. Größe des Merkmalswertes einträgt, ergibt sich nach Verbindung der im
+ersten Quadranten erscheinenden Folge diskreter Punkte und Approximation dieser
+Verbindungslinie durch eine fiktive stetige Kurve eine zu den Achsen gewölbte Hyperbel.
+Diese Kurve ist das graphische Bild der „Ranghäufigkeitsverteilung“ bzw.
+„Ranggrößenverteilung“ (rank frequency distribution bzw. rank size distribution). Wenn man
+beide Achsen logarithmiert, wird aus der Hyperbel eine von links oben nach rechts unten
+verlaufende gerade Linie. Diese stellt – nach Normierung der Maßeinheiten der beiden
+Achsen – dann die stabile Gleichgewichtsverteilung dar, wenn sie mit jeweils 45 ° sowohl auf
+die vertikale als auch auf die horizontale Achse zuläuft. In diesem Fall wird exakt ein
+Ausgleich zwischen der Tendenz zur Konzentration aller Häufigkeiten bzw. Merkmalswerte
+auf die größte Einheit (Dominanz der Kraft der Vereinheitlichung) und der Tendenz zur
+gleichmäßigen Verteilung aller Häufigkeiten bzw. Merkmalswerte auf sämtliche Einheiten
+(Dominanz der Kraft der Differenzierung) erreicht. Nach einem solchen idealen
+Gleichgewicht strebt das System, soweit und solange es nicht durch zusätzlich auftretende
+Eingriffe gestört wird. Die Abweichungen der empirisch ermittelten Punkte bzw. der ihnen
+angepassten stetigen Kurve von der idealen Gleichgewichtslinie können als Auswirkungen
+bestimmter Störungen des normalen Prozesses durch historisch zu identifizierende Ereignisse
+interpretiert werden. Das Zipfsche Gesetz ist – anders als die meisten anderen
+wissenschaftlichen Gesetze – nicht in einem einzigen Satz formulierbar, sondern ein
+komplexes Gefüge aus dem Prinzip der geringsten Anstrengung, den Kräften der
+Vereinheitlichung und der Differenzierung und der Ranggrößenverteilung als stabiler
+Gleichgewichtsverteilung. Zipf sieht in diesem Modell ein universell gültiges Prinzip und
+liefert dazu zahlreiche natur- und geisteswissenschaftliche Beispiele.</p>
+      <p>In der Terminologie jüngerer Publikationen wird die Bezeichnung „Zipfsches Gesetz“ in der
+Regel auf den Fall beschränkt, dass das ideale Gleichgewicht der beiden Kräfte tatsächlich
+gegeben ist. Im Fall der Dominanz einer der beiden Kräfte wird lediglich allgemein von der
+Ranggrößenverteilung gesprochen.</p>
+      <p>
+        Das Prinzip der geringsten Anstrengung ist eine Verallgemeinerung des in der Physik
+definierten „Prinzips der kleinsten Wirkung“, das durch einfache Beobachtungen
+demonstriert werden kann. Natürliche Fließgewässer fließen nicht geradlinig von der Quelle
+zur Mündung, sondern suchen sich je nach Beschaffenheit der Erdoberfläche einen oft sehr
+verschlungenen Umweg, der die Fließstrecke verlängert, aber dem Wasser nur die am
+leichtesten überwindbaren Hindernisse entgegenstellt.
+Ein Lichtstrahl durchdringt einen Gegenstand nicht unbedingt geradlinig, sondern wird durch
+uneinheitliche Dichte des Gegenstands vom kürzesten zum am leichtesten zu
+durchdringenden und daher schnellsten Weg abgedrängt. Der Transport von einem Ort A zu
+einem Ort B ist nicht auf gerader Strecke am kostengünstigsten, wenn zwischen den beiden
+Orten ein steiles Gebirge liegt. Auch die gegeneinander gerichteten Kräfte der
+Vereinheitlichung und der Differenzierung haben ihre Entsprechung in der Physik. Die
+Bewegung der Sterne, Planeten und Monde wird durch die Urknalltheorie in Verbindung mit
+dem Newtonschen Gravitationsgesetz erklärt
+        <xref ref-type="bibr" rid="ref11">(Jordan 1955)</xref>
+        . Die Urexplosion schleudert die
+durch sie entstandene Materie vom Ursprung des Weltalls aus in alle Richtungen (Kraft der
+Differenzierung), durch die Schwerkraft bzw. unterschiedliche Anziehungskraft der
+verschieden großen Teile der Materie werden nach Isaac Newton die kleineren
+Himmelskörper aufgesogen oder in eine (annähernde) Kreisbahn um die größeren gezwungen
+(Kraft der Vereinheitlichung). Der gegenwärtige Zustand des Universums ist das Resultat des
+Ausgleichs dieser beiden Kräfte. Das Newtonsche Gravitationsgesetz ist zwar seit Einsteins
+Relativitätstheorie überholt (Einstein 1922), gilt aber nach wie vor als ausreichende Nährung.
+In der Biologie sind die Kräfte der Vereinheitlichung und der Differenzierung wichtige
+Elemente der Evolution der Lebewesen. Die Malthussche Bevölkerungslehre – nach der die
+wegen des geometrischen Wachstums der Bevölkerung und des nur arithmetischen
+Wachstums der Nahrungsmittelmenge bei fehlendem vorbeugenden Verhalten der Menschen
+resultierende Überpopulation durch selektive Vernichtung menschlichen Lebens (Hunger,
+Krankheit, Krieg) ausgeglichen wird (Malthus 1798) – lieferte die Anregung zur Darwinschen
+Selektionstheorie (Darwin 1859).
+      </p>
+      <p>
+        Die einzelnen Lebewesen derselben Art sind meist sehr verschieden. Aus dieser zum großen
+Teil durch Vererbung übertragenen Unterschiedlichkeit folgt in Verbindung mit der ständigen
+Überproduktion an Nachwuchs, dass bei dem in dieser Situation unvermeidbaren Kampf ums
+Dasein als züchterische Macht jederzeit diejenigen Lebewesen als überlebende Sieger
+hervorgehen, die den jeweils gegebenen Lebensbedingungen am besten angepasst sind. Auf
+diese Weise führt die natürliche Zuchtwahl (selection) zur Konzentration der Fortpflanzung
+auf bestimmte ausgewählte Lebewesen (Kraft der Vereinheitlichung). Die Selektionstheorie
+wurde später durch die Mutationstheorie ergänzt
+        <xref ref-type="bibr" rid="ref40">(de Vries 1901)</xref>
+        . Danach treten in den Genen
+spontane und ungerichtete zufällige – d.h. auf keine erkennbaren Außenreize zurückführbare
+– Veränderungen (Mutationen) auf (Kraft der Differenzierung). „Die Selektion fördert aus
+diesem blinden Angebot neuen Evolutionsstoffes das am besten Angepasste und merzt das
+weniger Konkurrenzstarke aus“
+        <xref ref-type="bibr" rid="ref38">(Stresemann 1951, S. 275)</xref>
+        . Das Wirken von
+Vereinheitlichung und Differenzierung zeigt sich sehr anschaulich bei biologischen
+Populationsuntersuchungen. So wurde bei Bestandszählungen in einem bestimmten Gebiet
+festgestellt, dass dort 74 Vogelarten mit insgesamt 19436 Vögeln vorkommen (Gerß 2000).
+Die Ranghäufigkeitsverteilung – mit den auf der horizontalen Achse von Rang 1 (häufigste
+Art) bis Rang 74 (seltenste Art) angeordneten Arten und ihren auf der vertikalen Achse
+angegebenen Bestandszahlen – zeigt die erwartete charakteristische Hyperbelform; d.h. neben
+wenigen sehr häufigen gibt es viele nur vereinzelt auftretende Arten (Abb. 1). Das Ausmaß
+der Wölbung der die beobachteten Häufigkeiten (hier nur sehr unvollkommen)
+approximierenden Kurve zum Nullpunkt des Koordinatensystems im Vergleich zur Wölbung
+der Gleichgewichtsverteilung drückt aus, dass die Kraft der Differenzierung über die Kraft der
+Vereinheitlichung dominiert.
+Das Artenspektrum ist verhältnismäßig groß; dabei gibt es oft nach ihren Rangnummern
+aufeinander folgende Arten mit jeweils gleicher oder annähernd gleicher Häufigkeit. Die
+Avifauna entspricht damit nicht dem natürlichen Gleichgewichtszustand.
+      </p>
+      <p>In der Linguistik – Zipfs eigenem Forschungsgebiet – treten alle Elemente seines Gesetzes
+besonders deutlich in Erscheinung. Die Entstehung und Fortentwicklung der Sprache war in
+der Frühzeit des homo sapiens (oder bereits seiner Vorfahren) mit außerordentlich großem
+geistigen Input verbunden; dasselbe gilt für das Sprechenlernen eines Kleinkindes. Daher ist
+es nahe liegend, der Sprachbildung das Prinzip der geringsten Anstrengung zugrunde zu
+legen.</p>
+      <p>Aus der Sicht des Sprechers fällt die geringste Anstrengung (des Sich-Ausdrückens) dann an,
+wenn er mit so wenigen Worten wie möglich – im Extremfall mit einem einzigen Wort – die
+gesamte Kommunikation bestreiten kann. Der Interessenlage des Sprechers entspricht also
+das Wirken der Kraft der Vereinheitlichung. Dagegen trifft den Hörer dann die geringste
+Anstrengung (des Verstehens), wenn jede denkbare Bedeutung mit einem eigenen Wort
+belegt ist. Der Hörer ist damit am Wirken der Kraft der Differenzierung interessiert. Da jeder
+Mensch in gleichem Maß Sprecher und Hörer ist, haben die beiden Kräfte gleiches Gewicht,
+so dass es zu einem stabilen Ausgleich zwischen der Vereinheitlichung und der
+Differenzierung kommt. Die Ranghäufigkeitsverteilungen real existierender Sprachen – mit
+den auf der horizontalen Achse von Rang 1 (häufigstes Wort) an bis zum seltensten Wort
+angeordneten Wörtern und der auf der vertikalen Achse vermerkten Häufigkeit ihres
+Vorkommens – sind daher nahezu perfekte Gleichgewichtsverteilungen. Wie bei der
+Sprachbildung sind auch bei anderen von Menschen angestrebten Zielen widersprüchliche
+Kräfte wirksam, die einen Kompromiss notwendig machen. Da das Universalgenie, das auf
+allen Wissensgebieten Höchstleistungen schafft, als Bildungsziel bei der Vielfalt der
+Wissensgebiete heute nicht mehr erreichbar ist (vielleicht auch früher nicht erreicht wurde),
+muss sich der Bildungsbeflissene entscheiden, ob er zur Spezialisierung mit gründlichen
+Kenntnissen auf einem Gebiet und höchstens Grundwissen auf anderen Gebieten strebt, also
+der Kraft der Vereinheitlichung folgt, oder ob er die Generalisierung mit solidem Wissen über
+alle Gebiete ohne vertiefte Kenntnisse auf einem bestimmten Gebiet bevorzugt, sich also von
+der Kraft der Differenzierung leiten lässt. Diese Entscheidungssituation liefert den Anlass zu
+einer – in leicht variierenden Formulierungen überlieferten – verbalen Karikatur
+mathematischer Grenzwertbetrachtungen. Danach heißt Spezialisierung, immer mehr über
+immer weniger zu wissen, bis man schließlich alles über nichts weiß. Generalisierung heißt,
+über immer mehr immer weniger zu wissen bis man schließlich über alles nichts weiß. Dieser
+ironische Aphorismus verdeutlicht, dass mathematische Modelle weit über das Ziel
+hinausschießen können, die Realität abzubilden. Wichtiger ist hier aber, dass das realisierbare
+Optimum offensichtlich zwischen den Extremen liegt, also im Bereich des Ausgleichs der
+beiden Kräfte der Vereinheitlichung und der Differenzierung.</p>
+      <p>Mit der Übertragung des Verhaltensmusters einzelner Menschen auf die Beziehungen
+zwischen Gruppen von Menschen oder von Menschen geschaffenen Institutionen
+(Unternehmen, Siedlungen, Staaten) erhält das Zipfsche Gesetz
+gesellschaftswissenschafliche Relevanz.</p>
+      <p>Ein Grundtatbestand der Volkswirtschaftslehre ist das sog. ökonomische Prinzip, das in der
+Literatur etwa wie folgt definiert wird: „Bei dem ökonomischen Prinzip handelt es sich ... um
+ein Vergleichen zwischen Mittelaufwand und Ergebnis, wobei ausgesagt wird, dass der
+Mensch bemüht ist, mit möglichst geringem Aufwand einen möglichst großes Maß an Erfolg
+zu erzielen, oder ... dass er einen angestrebten Erfolg mit einem möglichst geringen
+Mittelaufwand erreichen möchte.
+Und darum spricht man auch vom Optimierungsprinzip oder auch dem Prinzip des kleinsten
+Mittels “(Lütge 1959, S. 922). Die erste Hälfte des ersten zitierten Satzes, nach der
+gleichzeitig der Aufwand minimiert und der Erfolg maximiert werden soll, ist ein Beispiel für
+die mögliche Schwäche verbaler Formulierungen. Die mathematische Formulierung würde
+sofort aufdecken, dass eine derartige doppelte Optimierung ausgeschlossen ist. Die zweite
+Hälfte des ersten und der zweite zitierte Satz zeigen dagegen deutlich, dass es sich hier um
+das Prinzip der geringsten Anstrengung handelt. Allerdings wird statt der
+Aufwandsminimierung meistens die Nutzenmaximierung als allgemeines Prinzip des
+wirtschaftlichen Verhaltens angesehen. Mit Beginn des industriellen Hochkapitalismus im
+19.Jahrhundert wurde die Nutzenmaximierung auf „das Gewinnstreben des Einzelnen als die
+nicht zu hemmende Grundkraft des Wirtschaftsprozesses“ (Beutin 1959, S. 1413) verengt.
+Die Kräfte der Vereinheitlichung und der Differenzierung wirken sich in der Wirtschaft zum
+Beispiel in der Branchenstruktur des Einzelhandels aus. Den unterschiedlichen Bedürfnissen
+der Kunden entsprechend gibt es neben Kaufhäusern mit sämtlichen Konsumgütern unter
+einem Dach Spezialgeschäfte mit jeweils einem oder wenigen nahe verwandten Produkten.
+Hier lässt sich die in der Statistik fundamentale Unterscheidung zwischen der Streuung
+innerhalb und der Streuung zwischen den betrachteten Einheiten (Fisher 1925) demonstrieren.
+Die Homogenität bzw. geringe Streuung der Produkte innerhalb der Spezialgeschäfte ist das
+Ergebnis der Kraft der Vereinheitlichung, die Heterogenität bzw. große Streuung der
+Produktpalette innerhalb der Kaufhäuser folgt aus der Kraft der Differenzierung. Dagegen
+unterscheiden sich die Produktpaletten der Kaufhäuser kaum voneinander, die Streuung
+zwischen den Kaufhäusern ist also sehr gering (Kraft der Vereinheitlichung). Das Angebot
+der Spezialgeschäfte ist sehr verschieden, die Streuung zwischen ihnen also sehr groß (Kraft
+der Differenzierung). Eine gesunde Branchenstruktur ist das Ergebnis des Ausgleichs der
+beiden Kräfte. Auch die Zusammensetzung eines Wirtschaftsbereichs aus großen und kleinen
+Unternehmen lässt sich auf die Kräfte der Vereinheitlichung und der Differenzierung
+zurückführen.</p>
+      <p>Zum Aufbau bestimmter Industrien und allgemein zur Produktivitätssteigerung durch
+Serienfertigung war die Bildung von Großunternehmen zweckmäßig (Kraft der
+Vereinheitlichung). Handwerkliche und sonstige kleinere Unternehmen erwiesen sich
+dagegen oft als flexibler und stabiler (Kraft der Differenzierung), wenn auf wirtschaftliche
+Wechsellagen reagiert werden musste. Die Größe eines Unternehmens kann an verschiedenen
+Merkmalen gemessen werden, zum Beispiel an der Beschäftigtenzahl, dem Umsatz und der
+Wertschöpfung. Die Ranggrößenverteilung eines Wirtschaftsbereichs – mit den vom größten
+(Rang 1) bis zum kleinsten geordneten Unternehmen auf der horizontalen und der
+Unternehmensgröße auf der vertikalen Achse – stellt die Streuung der Unternehmensgröße
+dar. Eine sehr gute Annäherung an die Gleichgewichtsverteilung ergibt sich insbesondere
+dann, wenn statt der Unternehmen als rechtliche Einheiten deren Betriebe als lokale Einheiten
+betrachtet werden (Abb.2). Dieses Ergebnis zeigte sich bei der Untersuchung von 1829 im
+Regierungsbezirk Köln liegenden Betrieben des Verarbeitenden Gewerbes nach ihrem im Jahr
+2003 erzielten Umsatz. Die zugrunde liegenden Berechnungen erfolgten nach
+unveröffentlichten Einzelangaben je Betrieb aus der Sozialproduktsberechnung des
+Landesamtes für Datenverarbeitung und Statistik Nordrhein-Westfalen (zur Methode der
+Sozialproduktsberechnung siehe Gerß 1984). Beim Vergleich der Abbildungen 1 und 2 ist zu
+beachten, dass in Abb.1 die vollständige Verteilung, in Abb.2 dagegen nur ein vergrößerter
+Ausschnitt dargestellt ist.
+Bei vollständiger Darstellung der Ranggrößenverteilung der 1829 Betriebe wäre die
+Abweichung der Regressionskurve von der Gleichgewichtsverteilung nicht mehr sichtbar.
+In einem Bundesstaat steht der Zentralstaat (in Deutschland Bund, in USA union) in
+Konkurrenz zu den Gliedstaaten (in Deutschland Länder, in USA states). Beide Seiten haben
+das Interesse, ihre Zuständigkeiten zu erhalten oder auszuweiten. Der Zentralstaat setzt auf
+die Kraft der Vereinheitlichung, die Gliedstaaten auf die Kraft der Differenzierung. Der
+Interessenkonflikt hat in den USA zum Bürgerkrieg geführt. In Deutschland drückt sich die
+Wirksamkeit der beiden gegensätzlichen Kräfte in dem mühsamen Prozess der
+Föderalismusreform aus. Die deutsche Geschichte liefert reichlich Material über den
+ständigen Machtkampf zwischen dem Zentralstaat und den Gliedstaaten. Im Kaiserreich
+standen den Ländern ausgeprägte Rechts- und Souveränitätsvorbehalte zu, so dass die Kraft
+der Differenzierung dominierte.</p>
+      <p>
+        Die Weimarer Republik brachte dem Reich auf Kosten der Länder eine erhebliche Stärkung,
+die im nationalsozialistischen Staat so weit gesteigert wurde, dass nur noch die Kraft der
+Vereinheitlichung Geltung hatte. Die Erfahrungen aus der Kaiserzeit und der Zeit zwischen
+den beiden Weltkriegen haben Anlass zu der Feststellung gegeben, dass der Zentralstaat im
+Lauf der Zeit immer mehr Aufgaben an sich zieht, es also eine „Anziehungskraft des größeren
+Etats“ gibt
+        <xref ref-type="bibr" rid="ref28">(Popitz 1926)</xref>
+        . Um dieser ohne Gegenmaßnahmen unvermeidbaren
+Zentralisierungstendenz entgegenzuwirken, stellt das Grundgesetz der Bundesrepublik
+Deutschland wieder das föderative Prinzip in den Vordergrund und legt die Rechte und
+Pflichten des Bundes und der Länder umfassend und sehr detailliert verbindlich fest. Die
+dauerhafte Existenz eines Bundesstaates ist nur gewährleistet, wenn die Kräfte der
+Vereinheitlichung und der Differenzierung in einem ausgewogenen Verhältnis zueinander
+stehen.
+      </p>
+      <p>Außerhalb der Linguistik hat das Zipfsche Gesetz am häufigsten zur Darstellung und Analyse
+der Verteilung der Bevölkerung eines Landes auf Siedlungen verschiedener Größe
+Anwendung gefunden. Die Menschen treffen ihre Entscheidung zur Ansiedlung nach zwei
+Zielrichtungen. Wer ein großes Angebot an Arbeitsplätzen, Waren und Dienstleistungen
+präferiert, siedelt sich – entsprechende Mobilität vorausgesetzt – in der Großstadt an. Wem
+Ruhe, landschaftlicher Freiraum und saubere Luft wichtiger sind, der bevorzugt als Wohnsitz
+eine kleine ländliche Gemeinde. Bei den Großstadtmenschen steht die Kraft der
+Vereinheitlichung im Vordergrund, bei der ländlichen Bevölkerung die Kraft der
+Differenzierung. Da stets beide Zielrichtungen – wenn auch nicht immer mit gleicher
+Intensität – verfolgt werden, gibt es eine Mischung von großen und kleinen Siedlungen. Das
+Ausmaß der Bevölkerungsagglomeration bzw. der regionalen Streuung der Bevölkerung
+hängt vor allem von der Bevölkerungsdichte, dem Industrialisierungsgrad und den
+Verkehrsmitteln ab. Das Zusammenwirken der Kräfte der Vereinheitlichung und der
+Differenzierung ermöglicht, dass die vielfältige – materielle und immaterielle, entgeltliche
+und unentgeltliche – Bedürfnisbefriedigung zu den niedrigsten Gesamtkosten
+(Produktionsund Transportkosten aller Güter sowie Fahrkosten aller Erwerbstätigen und Konsumenten
+zusammen) erfolgt und auf diese Weise dem Prinzip der geringsten Anstrengung genügt. Die
+Ranggrößenverteilung ergibt sich hier durch Anordnung der Siedlungen von der größten
+(Rang 1) bis zur kleinsten auf der horizontalen Achse und ihrer Einwohnerzahlen auf der
+vertikalen Achse.</p>
+      <p>Derartige demo-/geographische Ranggrößenverteilungen sind das Thema des Hauptkapitels 3.
+2.3. Mathematische Begründung und Algorithmus
+Zur mathematischen Herleitung des Gesetzes von Zipf bzw. einer Ranggrößenverteilung als
+stationäre Grenzverteilung findet sich in der Literatur eine Vielzahl verschiedener Ansätze.
+Carroll (1982) gibt einen Überblick über die bis dahin erschienenen Arbeiten, von denen die
+meisten allerdings wesentliche Schwächen aufweisen. In der vorliegenden Arbeit werden
+plausible Ansätze zur Herleitung des Gesetzes wiedergegeben, die auf den Arbeiten von
+Gabaix (1999), Harrison (1985) und Cordoba (2004) beruhen.</p>
+      <p>Gabaix (1999) baut seine Herleitung auf dem grundlegenden Gesetz von Gibrat auf. Man geht
+hier davon aus, dass sich alle Städte einer Region gemäß stochastischer Wachstumsprozesse
+entwickeln. Nach dem Gesetz von Gibrat (1931) sind die Wachstumsprozesse aller Städte
+insbesondere dadurch gekennzeichnet, dass sie eine gemeinsame mittlere Wachstumsrate
+sowie eine identische Varianz aufweisen. Unter diesen Bedingungen lässt sich mit Hilfe von
+Resultaten aus der Arbeit Harrison (1985) eine Ranggrößenverteilung als Grenzverteilung der
+Bevölkerungszahlen aller Städte herleiten.</p>
+      <p>In einem alternativen Ansatz zur Motivation des Zipf-Gesetzes geht Gabaix (1999) davon aus,
+dass die Bevölkerungszahlen bereits irgendeine noch nicht spezifizierte stationäre
+Grenzverteilung angenommen haben. Fragt man dann, welche Verteilung für diesen
+stationären Zustand in Frage kommt, so ergibt sich mit Hilfe relativ einfacher Argumente die
+Zipf-Verteilung als möglicher Kandidat dieser Grenzverteilung.</p>
+      <p>Ein dritter wichtiger Ansatz wird in Cordoba (2004) vorgestellt, in dem die Argumentation
+ähnlich wie in obigem zweiten Ansatz in gewissem Sinn in rückwärtiger Richtung geführt
+wird. Cordoba geht davon aus, dass die Bevölkerungszahlen eine stationäre Grenzverteilung
+aufweisen, die allerdings nicht wie oben unspezifiziert gelassen, sondern als
+Ranggrößenverteilung vorausgesetzt wird. Unter dieser Bedingung wird im Rückschluss der
+Frage nachgegangen, welchem Gesetz die Wachstumsprozesse der beobachteten Städte
+unterliegen müssen, um eben diese Grenzverteilung zu erzeugen. Es ergibt sich ein so
+genanntes verallgemeinertes Gesetz von Gibrat. Alle Städte müssen notwendigerweise
+gemeinsame mittlere Wachstumsraten aufweisen. Die Varianzen der Wachstumsraten sind
+allerdings nicht identisch, sondern unterscheiden sich je nach der Größe der Stadt. Bezeichnet
+b die Bevölkerungszahl einer Stadt und λ den Koeffizienten der stationären
+Ranggrößenverteilung, so gilt für die Variabilitäten der Wachstumsraten σ2(b) ~ bλ-1.
+Im Falle einer Grenzverteilung mit λ&lt;1 weisen größere Städte eine geringere Variabilität in
+ihren Wachstumsraten auf als kleinere Städte, bei λ&gt;1 gilt ein umgekehrter Zusammenhang.
+Der Fall λ=1 (Gesetz von Zipf) entspricht einem Wachstumsprozess mit σ2(b) = konst., in
+dem die Variabilität der Wachstumsrate einer Stadt unabhängig von deren Größe ist.
+In den folgenden Abschnitten 2.3.1 und 2.3.2 werden die Ansätze von Gabaix (1999) bzw.
+Harrison (1985) zur Herleitung bzw. Motivation der Ranggrößenverteilung als stationäre
+Grenzverteilung wiedergegeben. Anschließend wird in 2.3.3 ein Verfahren zur empirischen
+Schätzung des Koeffizienten λ einer Ranggrößenverteilung vorgestellt, um den Verlauf
+beobachteter Anwendungsdaten wiederzugeben.
+2.3.1 Motivation des Gesetzes von Zipf
+Bezeichne</p>
+      <p>B die Bevölkerungszahl einer Stadt und</p>
+      <p>R den Rang einer Stadt bzgl. ihrer Größenordnung innerhalb einer bestimmten Region.
+Dann besagt das Gesetz von Zipf, dass der Zusammenhang zwischen der Bevölkerungszahl
+und dem Rang einer Stadt lautet:</p>
+      <p>R · Bλ = konst.</p>
+      <p>mit λ = 1
+d.h.</p>
+      <p>R = konst. · B-λ = konst. · B-1
+Wie man leicht sieht, lässt sich der Rang einer Stadt mit Bevölkerungszahl b gleichwertig
+darstellen als Anzahl aller Städte der Region, die mindestens b Einwohner haben. Formal
+schreibt sich dieser Zusammenhang</p>
+      <p>R(b) = P(B≥b) ,
+wenn man auf der rechten Seite der Gleichung anstelle der absoluten Anzahl der Städte
+äquivalent die relative Häufigkeit bzw. Wahrscheinlichkeit betrachtet. Auf diese Weise lässt
+sich das Gesetz von Zipf umformen zu
+P(B≥b) = R(b) = konst. · b-λ = konst. · b-1 .</p>
+      <p>Zur Motivation des Gesetzes von Zipf bezeichne nun</p>
+      <p>Dt die normierte Größe einer Stadt zur Zeit t, d.h. den Bevölkerungsanteil ihrer</p>
+      <p>Einwohner an der Gesamtpopulation und</p>
+      <p>N die Anzahl der Städte in einer Region.</p>
+      <p>Jede Stadt einer Region folge einem Wachstumsprozess</p>
+      <p>Dt+1 = γ · Dt
+mit einer zufälligen Wachstumsrate γ. Nach dem Gesetz von Gibrat geht man davon aus, dass
+die Wachstumsraten aller Städte stochastisch unabhängige Zufallsvariablen darstellen, deren
+Verteilung identisch und damit insbesondere unabhängig von der Größe einer Stadt ist.
+Formal gilt für die Wachstumsraten γ aller Städte die gemeinsame Wahrscheinlichkeitsdichte
+f(γ). Weiterhin fordert man für den Erwartungswert aller Wachstumsraten E[γ]=1. Auf diese
+Weise bleibt die normierte Größe jeder Stadt im Mittel konstant und der entsprechende
+Bevölkerungsanteil weist nicht etwa eine systematisch ansteigende oder abfallende Tendenz
+im Laufe der Zeit auf.</p>
+      <p>Bezeichne nun</p>
+      <p>Gt(d) := P(Dt≥d) .
+Dann gilt</p>
+      <p>Gt+1(d)</p>
+      <p>P(Dt+1≥d)
+=
+=
+=
+=
+=
+=
+=
+=</p>
+      <p>E[Z] ,
+wobei Z eine binäre Zufallsvariable darstellt</p>
+      <p> 1 falls Dt+1 ≥ d
+mit Z = 
+ 0 sonst
+⇔ γ ⋅ Dt ≥ d ⇔</p>
+      <p>Dt ≥ d γ</p>
+      <sec id="sec-2-1">
+        <title>Eγ[ E(Z|γ) ] , siehe unten</title>
+        <p> 
+Eγ P Dt ≥
+ 
+d
+γ
+  d 
+Eγ Gt  γ 
+</p>
+        <p>
+γ </p>
+        <p></p>
+        <p>In der dritten Zeile wird dabei der folgende Zusammenhang für zwei Zufallsvariablen U und
+V mit beliebiger gemeinsamer Dichte f(u,v) verwendet:</p>
+        <p>E(U)
+∫∫ u · f(u,v) du dv
+∫∫ u·f(u|v) du · f(v) dv = ∫ E(U|v) · f(v) dv = EV[E(U|V)] .</p>
+        <p>G(d) = P(D≥d) = k · d-1 =
+2.3.2 Herleitung einer Ranggrößenverteilung als Grenzverteilung eines Gibrat'schen
+Wachstumsprozesses
+Zur Herleitung einer Ranggrößenverteilung als Grenzverteilung eines Gibrat'schen
+Wachstumsprozesses sollen zunächst einige grundlegende Definitionen und Lemmata
+eingeführt werden.</p>
+        <p>Definition 1: Wiener Prozess (Standard Brown'sche Bewegung)
+[Xt] sei ein stochastischer Prozess, d.h. eine Folge von Zufallsvariablen mit zeitlichem Index
+t. Dann bezeichnet man den Prozess [Xt] als Wiener Prozess oder Standard Brown'sche
+Bewegung, falls er normalverteilte Prozessvariablen mit stationären und stochastisch
+unabhängigen Zuwächsen hat, d.h.
+(a) Xt ist eine normalverteilte Zufallsvariable mit Erwartungswert 0 und Varianz t (Xt~</p>
+        <p>N(0,t)),
+(b) die Zuwächse Xt1-Xt0,…, Xtn-Xt(n-1) sind für alle n≥1 und alle 0≤t0&lt;…&lt;tn&lt;∞ stochastisch
+unabhängig und
+(c) die Verteilung eines Zuwachses Xt-Xs hängt nur von der Zeitdifferenz t-s und nicht von
+den absoluten Zeitpunkten t und s ab.</p>
+        <p>Definition 2: Brown'sche Bewegung
+Ein stochastischer Prozess [Yt] wird als (μ,σ)-Brown'sche Bewegung bezeichnet,
+falls gilt: Yt = Y0+ μ·t + σ·Xt ,
+wobei [Xt] einen Wiener Prozess darstellt und Y0 stochastisch unabhängig von Xt ist.
+Definition 3: Regulierte Brown'sche Bewegung
+Ein stochastischer Prozess [Zt] starte mit einem Ausgangswert Z0=0. Dann stellt der Prozess
+[Zt] eine regulierte Brown'sche Bewegung mit unterem Reflektionspunkt 0 dar, falls er gemäß</p>
+        <p>Zt = Yt - 0i≤nsf≤t Ys
+aus der (μ,σ)-Brown'schen Bewegung [Yt] hervorgeht.</p>
+        <p>Zur Veranschaulichung des Prozesses [Zt] stelle man sich zunächst eine Realisation des
+YProzesses vor. Der Prozess [Zt] startet im Punkt 0. Im folgenden nimmt er Werte an, die
+jeweils den positiven Zuwächsen des Y-Prozesses bezogen auf seinen bisherigen
+Minimalwert entsprechen. Sinkt der Y-Prozess zu irgendeinem bestimmten Zeitpunkt t unter
+seinen bisherigen Minimalwert, so beträgt der entsprechende Wert des Z-Prozesses Zt = Yt –
+inf0≤s≤tYs = Yt-Yt = 0. Damit kann der Z-Prozess niemals negative Werte annehmen. Die
+Prozessrealisation wird in ihrem zeitlichen Verlauf an der Stelle 0 „reflektiert“.
+Lemma 4:
+Der stochastische Prozess [Zt] stelle eine regulierte Brown'sche Bewegung gemäß Definition</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>3 dar. Dann gilt für die Verteilung der Zufallsvariablen Zt (t≥0):</title>
+        <p>P(Zt≥z) = Φ  z - μ t   - z - μ t </p>
+        <p> σ ⋅ t1/ 2  – e2⋅μ z/σ 2 · Φ  σ ⋅ t1/ 2  .
+Φ(·) bezeichnet dabei die Verteilungsfunktion der Standard-Normalverteilung.
+Beweis: siehe Harrison (1985, Kapitel 1).
+Korollar 5: Stationäre Grenzverteilung einer regulierten Brown'schen Bewegung
+Der stochastische Prozess [Zt] stelle eine regulierte Brown'sche Bewegung gemäß Definition
+3 dar. Dann nimmt der Prozess [Zt] im Falle μ&lt;0 eine stationäre Grenzverteilung an und es
+gilt für t→∞</p>
+        <p>P(Zt≤z) → 1 – e2⋅μ z /σ 2 .</p>
+        <p>Im Falle μ≥0 nimmt der Prozess [Zt] keine stationäre Grenzverteilung an und es gilt für alle
+zєR: P(Zt≤z)→0 für t→∞.</p>
+        <p>Beweis: Nach Lemma 4 gilt für t→∞:</p>
+        <p> z - μ t   - z- μ t 
+(a) im Fall μ&lt;0: P(Zt≤z) = Φ  σ ⋅ t1/ 2  – e2⋅μ z /σ 2 · Φ  σ ⋅ t1/ 2  → 1 – e2⋅μ z /σ 2
+14243 1442443</p>
+        <p>→ 1 → 1
+ z - μ t   - z- μ t 
+(c) im Fall μ=0: P(Zt≤z) = Φ  σ ⋅ t1/ 2  – e2⋅μ z /σ 2 · Φ  σ ⋅ t1/ 2  → 0
+14243 1442443</p>
+        <p>→ 0.5 → 0.5
+Das obige Korollar 5 liefert nun das wesentliche Resultat, um zu zeigen, dass der
+Wachstumsprozess der Städte einer Region unter bestimmten Bedingungen gegen eine
+Ranggrößenverteilung konvergiert.</p>
+        <p>Man betrachtet dazu den Prozess [Dt] der normierten Größe einer Stadt im zeitlichen Verlauf
+und geht davon aus, dass dieser Prozess eine regulierte Brown'sche Bewegung mit unterem
+Reflektionspunkt dmin darstellt. Wie sich zeigt, erweist sich die Existenz eines derartigen
+unteren Reflektionspunktes im Wachstumsprozess einer Stadt als erforderliche Annahme,
+damit der Prozess für t→∞ gegen eine Ranggrößenverteilung konvergiert. Man unterstellt
+damit die Existenz eines gewissen regulatorischen Mechanismus im Wachstumsprozess einer
+Stadt. Es wird verhindert, dass ihre normierte Größe Dt im Laufe der Zeit jemals unterhalb
+eine Schranke dmin fällt und die Stadt möglicherweise letztendlich sogar vollständig ausstirbt.</p>
+        <p>Eine weitere obligatorische Annahme in der folgenden Herleitung einer stationären
+Grenzverteilung stellt die Tatsache dar, dass die mittlere Tendenz μ im Wachstumsprozess der
+beobachteten Städte negativ ist (μ&lt;0). Im Mittel über alle Städte gilt also, dass die (normierte)
+Größe im Laufe der Zeit tendenziell eher abnimmt als anwächst. Diese Annahme lässt sich in
+praktischen Situationen etwa dadurch motivieren, dass in einer beobachteten Region im Laufe
+der Zeit immer mehr neue Städte gegründet werden. Der Bevölkerungsanteil der bestehenden
+Städte nimmt dann möglicherweise mit dem Anstieg der Gesamtpopulation systematisch ab.</p>
+        <p>Eine zweite mögliche Erklärung tendenziell abnehmender Städtegrößen könnte darin
+bestehen, dass das Gesetz einer Ranggrößenverteilung in seiner strengen Form hauptsächlich
+für die größeren Städte einer Region gilt. Hier zeigen sich gerade in heutiger Zeit häufig
+abnehmende Bevölkerungszahlen, die durch Abwanderung ins Umland entstehen.</p>
+        <p>Im Zusammenhang mit dem oben erwähnten unteren Reflektionspunkt dmin im
+Wachstumsprozess einer Stadt lässt sich eine dritte mögliche Erklärung für die negative</p>
+      </sec>
+      <sec id="sec-2-3">
+        <title>Tendenz μ&lt;0 angeben.</title>
+        <p>Die negative Tendenz kann möglicherweise dadurch zustande kommen, dass der
+Reflektionspunkt dmin nicht fest ist, sondern im Laufe der Zeit anwächst. Auf diese Weise
+reduziert sich der Abstand der Städtegröße Dt in Bezug zum unteren Reflektionspunkt
+systematisch, was offenbar einem negativen Trend der Stadtentwicklung gleichkommt. Bei
+diesem Argument ist insbesondere zu berücksichtigen, dass nicht absolute, sondern relative
+Städtegrößen betrachtet werden. Die Existenz eines konstanten unteren Reflektionspunktes
+dmin entspricht damit der Tatsache, dass der Wert dmin proportional zu den absoluten
+Städtegrößen anwächst. So ist ein Anstieg im unteren Reflektionspunkt und damit ein
+negativer Trend in den normierten Städtegrößen dadurch zu erklären, dass der untere
+Reflektionspunkt schneller anwächst als die Städtegrößen.</p>
+        <p>Konkret gelte nun für den Prozess der logarithmierten normierten Städtegrößen [ln(Dt)], dass
+er eine regulierte Brown'sche Bewegung mit unterem Reflektionspunkt ln(dmin) und
+zeitlichem Drift μ&lt;0 darstellt. Dann stellt der transformierte Prozess [ln(Dt)-ln(dmin)] eine
+regulierte Brown'sche Bewegung mit unterem Reflektionspunkt 0 (ebenfalls mit μ&lt;0) dar und
+unter Anwendung von Korollar 5 ergibt sich die Grenzverteilung
+- 1 e2⋅μ (lnd - lndmin )/σ 2 fü→r t∞
+.</p>
+        <p>Daraus folgt für die Gegenwahrscheinlichkeit dieses Ausdrucks
+1P(4ln 4Dt 4-l4nd4mi2n4ln4d-44ln 4dm3in→)</p>
+        <p>≤
+= P(ln Dt ≤lnd ) = P(Dt ≤d )
+P(Dt&gt;d)</p>
+        <p>1 – P(Dt≤d)
+→ e</p>
+        <p>2⋅μ (lnd - lndmin )/σ 2 für t → ∞
+=
+=
+ d 2⋅μ /σ 2
+ 
+ dmin 
+ d 
+ 
+ dmin 
+konst.</p>
+        <p>.
+∞
+∫
+dmin
+E(D) =</p>
+        <p>d · f(d) dd .</p>
+        <p>Damit gilt für die Grenzverteilung des Wachstumsprozesses</p>
+        <p>k
+ d 
+P(Dt&gt;d) →   ~ dk für t→∞ ,</p>
+        <p> dmin 
+was einer Ranggrößenverteilung mit dem Exponenten λ=-k entspricht.</p>
+        <p>Gabaix (1999) führt in seiner Arbeit im Folgenden aus, wie sich diese allgemeine
+Ranggrößenverteilung (mit Parameter λ=-k) insbesondere in das Gesetz von Zipf überführen
+lässt. Seine Begründung für die Tatsache k≈1 weist zwar eine gewisse Unzulänglichkeit auf,
+soll hier der Vollständigkeit halber aber dennoch angegeben werden.</p>
+        <p>Die Größe der Konstanten k ergibt sich, wenn man für die mittlere (normierte) Größe einer
+Stadt schreibt
+Die Wahrscheinlichkeitsdichte f(d) lautet hier
+f(d) =</p>
+        <p>⋅ d k- 1 .
+k
+k
+dmin
+Dies sieht man, wenn man schreibt</p>
+        <p>P(D&gt;d)</p>
+        <p>∫ f(s) ds
+Damit gilt für die mittlere Größe einer Stadt</p>
+        <p>∞
+∞
+d
+∞
+∫
+d
+1
+k
+dmin
+k
+k
+dmin</p>
+        <p>⋅ sk- 1 ds
+ k 1 
+- k ⋅ ⋅ sk 
+ dmin k</p>
+        <p>∞
+ d</p>
+        <p> d 
+=   .</p>
+        <p> dmin </p>
+        <p>k
+E(D) =
+⋅ d k , wegen k =</p>
+        <p>&lt; 0
+2μ
+σ 2
+dmin
+∞
+dmin
+ - k
+∫ d · f(d) dd
+∫ d ·
+- k</p>
+        <p>k
+dmin
+=
+=
+=
+=  k ⋅
+ dmin k +1
+1
+1
+⋅</p>
+        <p>k
+k +1 dmin
+k
+k
+k + 1
+⋅ dmin
+· dk-1 dd</p>
+        <p>
+⋅ d k+1 </p>
+        <p>∞
+ dmin
+⋅ d mk+in1
+⇔ k · E(D) + E(D) = k · dmin
+⇔ k =</p>
+        <p>- E(D)
+E(D) - dmin
+=
+11
+dmin
+E(D)</p>
+        <p>.
+Anhang: Abbildungen und tabellarische Übersichten
+Abb.1: Ranghäufigkeitsverteilung von 74 im Gebiet der Gemeinde Heiligenhaus beobachteten</p>
+        <p>Vogelarten mit insgesamt 19 436 Vögeln
+Abb.2: Zentraler Bereich der Ranggrößenverteilung von 1829 im Regierungsbezirk Köln
+liegenden Betrieben des Verarbeitenden Gewerbes nach ihrem im Jahr 2003 erzielten
+Umsatz
+Abb.3: Ranggrößenverteilung der 396 Gemeinden des Landes Nordrhein-Westfalen nach
+ihrer Einwohnerzahl am 31.12.2003
+Abb.4: Einwohnerzahlen des Landes Nordrhein-Westfalen und Zipf-Exponenten der</p>
+        <p>Ranggrößenverteilungen der Gemeinden am Ende der Jahre 1975 bis 2003
+Abb.5: Ranggrößenverteilungen der Gemeinden der Bundesländer (ohne Stadtstaaten) nach
+ihrer Einwohnerzahl am 31.12.2003
+Abb.6: Ranggrößenverteilung der 984 (alter Gebietsstand) bzw. 396 (neuer Gebietsstand)
+Gemeinden des Landes Nordrhein-Westfalen nach ihrer Einwohnerzahl an der
+Jahreswende 1974/1975
+Abb.7: Ranggrößenverteilung der 8503 (früheres Bundesgebiet einschließlich Berlin-West)
+bzw. 16 115 (Gesamtdeutschland) Gemeinden der Bundesrepublik Deutschland nach
+ihrer Einwohnerzahl am 31.12.1990
+Abb.8: Ranggrößenverteilung der 292 kommunalen Einzugsbereiche des Landes
+Nordrhein</p>
+        <p>Westfalen nach ihrer Einwohnerzahl am 30.06.2002
+Übersicht 1: Vier gleichwertige Darstellungsvarianten der Ranggrößenverteilung
+Übersicht 2: Experimente zur Lokalisierung von Gleichgewichtsverteilungen
+I Eliminierung der kleinen Gemeinden nach verschiedenen Abschneidegrenzen
+II Klumpung von Gemeinden zu Einzugsbereichen nach verschiedenen Kompaktheitsgraden
+V
+n
+e
+t
+r
+a
+l
+e
+g
+o
+4
+7
+n
+o
+v
+g
+n
+u
+l
+i
+e
+t
+r
+e
+v
+s
+it
+e
+k
+g
+i
+f
+u
+ä
+h
+g
+n
+a
+R
+1
+.
+b
+b
+A
+R
+g
+n
+u
+l
+i
+e
+t
+r
+e
+v
+s
+t
+h
+ic )</p>
+        <p>g
+w n
+e u
+g r
+h ie
+ic z
+le n</p>
+        <p>e
+G r</p>
+        <p>e
+r f
+e if
+d D
+n r
+o e
+v d
+v ft
+a a
+k r
+n K
+o r
+k e
+t d
+h
+c z
+i n
+e a
+w in
+e m
+rv o
+u D
+k (
+s
+n
+o
+i
+s
+s
+e
+r
+g
+e
+R
+e
+i
+D
+1
+7
+1
+6
+m
+r
+1 o
+5 n
+f
+u
+a
+n
+e
+s
+h
+c
+e
+1 h
+4 ic
+31 ind
+s</p>
+        <p>A
+1
+2 ie</p>
+        <p>D
+1
+1
+1
+1
+0
+8
+1
+1
+0
+2
+1
+1
+0
+6
+1
+O
+R
+U
+E
+l.
+l
+i
+M
+R</p>
+        <p>r
+le te
+b e
+a t
+ir ) h
+a c
+(V leW bao
+e b e
+ibe ira (b
+tr a
+e V W
+B ( n
+re O vo
+d R tr
+e</p>
+        <p>e
+n U h G
+r E c
+:sungnaheeRmm illit:.zsnaeUMm ilttrrxzaeaemmW tttrceeheeW λλ on=wRWxam ii,(rsep27120=m ittr(sλceoeh1he=
+c s ä a it λ
+A h h b k .
+iltrzonea litrkcaeA sceg=xa t:keneob i:neunF itm zbw
+o e m u in</p>
+        <p>H V w P L
+R 0</p>
+        <p>0
+r
+e 0
+d 7
+0
+0
+0
+6
+0
+0
+0
+5
+0
+0
+0
+4
+0
+0
+0
+3
+0
+0
+0
+2
+0
+0
+0
+1
+e a
+g s
+e
+i
+l m
+n U
+l
+ö n
+K lte
+irk i</p>
+        <p>e
+z rz
+e e
+sb 3
+g 0
+n 0
+u 2
+r r
+ie h
+g a
+e J
+R m</p>
+        <p>i
+m
+i
+s
+e
+d
+n
+e
+b
+e
+i
+r
+t
+e
+V
+B
+n
+e
+d
+g
+n
+u
+l
+i
+e
+t
+r
+e
+v
+n
+e
+ß
+ö
+r
+g
+g
+n
+a
+h
+c
+i
+e
+r
+e
+B
+r
+e
+l
+a
+r
+t
+n
+e
+Z
+2
+.
+b
+b
+A
+)
+e
+i
+n
+i
+) L
+ie e
+in n
+L n</p>
+        <p>ü
+e d
+k ,
+ic g
+d n
+, lu
+e i
+rv tre
+u e
+k v
+s s
+n t
+o h
+i c
+s i
+s w
+re e
+g g
+e ch
+R i
+e
+l
+g
+n
+u
+l
+i
+e
+t
+r
+e
+v
+s
+t
+h
+c
+i
+w
+e
+g
+h
+c
+i
+e
+l
+G
+r
+e
+d
+it
+m
+g
+i
+d
+n
+ä
+t
+s
+l
+l
+o
+v
+t
+s
+a
+f
+h
+c
+i
+s
+t
+k
+c
+e
+d
+e
+v
+r
+u
+k
+s
+n
+o
+i
+s
+s
+e
+r
+g
+e
+R
+e
+i
+D
+0
+4
+t
+r
+0
+e
+3
+i
+m
+r
+o
+n
+e
+g
+n
+ä
+L
+e
+h
+c
+i
+e
+l0
+2
+g
+f
+u
+a
+d
+n
+i
+s
+n
+e
+s
+h
+c
+A
+e
+0
+i
+1
+D
+0
+t
+r
+e
+i
+m
+r
+o
+n
+e
+g
+n
+ä
+L
+d
+n
+i
+s
+n
+e
+s
+h
+c
+A
+e
+i
+D
+N
+s
+e
+d
+n
+a
+L
+s
+e
+d
+n
+e
+d
+n
+i
+e
+m
+e
+G
+6
+9
+3
+r
+e
+d
+g
+n
+u
+l
+i
+e
+t
+r
+e
+v
+n
+e
+ß
+ö
+r
+g
+g
+n
+a
+R</p>
+        <p>m a 5
+:se itrh rn : itrha lha trem oebb 5699
+chA goLa em ) e g rz ) tz (
+s o</p>
+        <p>a W
+= g
+m R e B ä B t o n
+lea re nu ln chA rLe hno ln csh no re Le ttee
+.b3 itrzon litrcüh rangR ilrabea litrkae litrcüh irnEw ilrabea ge=xa v W
+bA oH aN de (V eV aN de (V bm
+n
+e
+hm tre
+it e
+r</p>
+        <p>R
+n
+l
+1
+λ e ,
+- sch e ng
+xam iir ch ilu
+b p ,e its tre
+ln em da re e</p>
+        <p>( r o v
+= 8 e e ts
+B 01 sgn )e t( ich )e</p>
+        <p>h
+n 4</p>
+        <p>i
+t:ke lirch cah :n ilton ,1= isse ieLn λ= hge ieL</p>
+        <p>o i 1 w n
+un taü eob iine kun itλ reg ikc .zw lice nün</p>
+        <p>P N b L F m R d b G d
+-E e
+f r
+p h
+iZ Ja
+d r
+n e
+u d
+) e
+(B nd
+n E
+e
+l
+a m
+f a
+t
+s )
+e (λ
+-nW ned
+i
+rhe ien
+rd m
+o e
+N G
+s r
+e e
+d d
+n n
+a e
+L g
+s n
+de ilu</p>
+        <p>e
+len tre
+h v
+a n
+rz e
+ne röß
+h g
+o g
+w n
+in a
+E R
+r
+e
+d
+4
+.
+b
+b
+A
+l.) 19
+l
+i
+M
+(
+B
+λ</p>
+        <p>λ
+5
+3
+,
+1
+4
+,
+1
+3
+,
+1
+5
+2
+,
+1
+0
+0
+0
+2
+5
+9
+9
+1
+0
+9
+9
+1
+5
+8
+9
+1
+0
+8
+9
+1
+5
+7
+9
+1
+r
+e
+d
+n
+ä
+l
+s
+e
+d
+n
+u
+B
+r
+e
+d
+n
+e
+d
+n
+i
+e
+m
+e
+G
+r
+e
+d
+n
+e
+g
+n
+u
+l
+i
+e
+t
+r
+e
+v
+n
+e
+d
+n
+a
+l
+h
+c
+s
+t
+u
+e
+D
+Y P
+B R</p>
+        <p>HT</p>
+        <p>I H TS
+W N S
+B</p>
+        <p>V</p>
+        <p>M</p>
+        <p>E N
+W H S
+N
+L
+S</p>
+        <p>B
+B
+t
+r
+e
+i
+m
+r
+o
+n
+e
+g
+n
+ä
+L
+e
+h
+c
+i
+e
+l
+g
+f
+u
+a
+n
+e
+d
+n
+i
+e
+n
+r
+e
+.5bbR lit:rcszaehenooA iilttrrrcsehLogahüum rrrgnuennaedeRGmmm lli)renbaaR li:trcskeheaeA iilttrrrcsheLgoaüuhm ilrrzohneahnEw lli)renbaaB ilttrrsczxehäegaae=mmxam iiiiir(rcssspehenengeeonRm-1llilt-kλnnnobnun=Bxam liilt-scshegeno=SwHH iIrscsdehaeen=N iltfrr-sodhenaeen=NWW sseen=EH illf-zhenadna=PPR tt-rradenübeeg=BmWW ryena=BY lraandaL=S rrandebnug=BB lrr-ckeebnugopo=VVMmm cshaen=SN lt-cshaennha=TAS irünhgne=TH
+A H aN de (V V aN de (V b L F S N N H R B B S B M S S T
+:
+B )</p>
+        <p>n
+n e
+o d
+v a
+t r
+r e
+e g
+W s R
+n
+e
+nd 75
+ie /4
+m 7
+e 9
+G 1
+) e
+d d
+n n
+a e
+t
+s w
+s s
+t e
+ie r
+be Jah
+G r
+r e
+e d
+(neu lan</p>
+        <p>h
+6 a
+9 z
+3 r
+. e
+zw hn
+b o
+) w
+d in
+n E
+ta r
+s e
+s r
+t
+e ih
+i
+b h
+e c
+G na
+r
+e n
+lt le
+a a
+( f</p>
+        <p>t
+4 s
+8 e
+9</p>
+        <p>W
+red i-n</p>
+        <p>e
+g h
+n r
+lu rd
+i
+e o
+tr N
+e s
+v e
+n d
+e n
+ß a
+rö L
+g s
+g e
+n d
+a
+R
+6
+.
+b
+b
+A
+lt
+a
+lt
+a
+u
+e
+n</p>
+        <p>)
+) 5
+2 1
+9 0
+7 5
+5 9
+2 9
+8 =
+= d
+d n
+t
+r
+e
+i
+m
+r
+o
+n
+e
+g
+n
+ä
+L
+e
+h
+c
+i
+e
+l
+g
+f
+u
+a
+t
+n
+h
+c
+1 i
+=
+λ d
+n
+i
+it s
+m n
+) e
+n s
+ie ch
+in A
+L e</p>
+        <p>i
+)
+B
+n
+l
+e
+m l
+e b</p>
+        <p>a
+G ir</p>
+        <p>a
+u
+e
+n
+R
+n
+l
+n
+e
+d
+n
+i
+e
+chA goLa</p>
+        <p>an tsa e
+rredne l(haV B ittsseb itsebe ii)nen )d (nndün D
+ungnamm irzhnoenw trvoneW lteneaGm ueennGm R i(ckdeLne itt)ssande ittssanebe litrungeee
+redR redE lrea trzu trzu -1lλn rgeda rebG reuG itsvch
+- s te e w
+x on l(a (n e
+am is g
+ln re 42 357 i</p>
+        <p>h
+b s c</p>
+        <p>6 3 le
+m e e
+s s i
+u u x W W
+m m a r r</p>
+        <p>h m te te
+: itra tre teh teh
+e g tz c c
+cshA rLeo h b b
+ä a a
+c o o
+s e e</p>
+        <p>= eg ,12 ,1 G
+le r
+a e
+ton lich lae ilch ge (b (b
+irz trü itrk trü =xa
+o a e a m
+H N V N b</p>
+        <p>B R e
+n e = = h
+l h λ .λ c</p>
+        <p>s
+i:en itknno iirscp itm zbw itroee
+in u m h
+L F E T
+)
+d
+n
+a
+l
+h
+c
+s
+t
+u
+e
+d
+t
+m
+a 0
+s 9
+e 9
+(G .1</p>
+        <p>2
+5 1
+1 .
+1 1
+6 3
+1
+. m
+zw la
+b ha
+) z
+tse re</p>
+        <p>n
+W h
+- o
+in w
+l
+r in
+e</p>
+        <p>E
+B r</p>
+        <p>e
+ch rh
+i i
+l
+ß h
+ie c
+l
+ch na
+s d
+in n</p>
+        <p>a
+e l
+t h
+ie c
+b ts
+e u
+g e
+s
+e D
+nd lik
+u b
+B u</p>
+        <p>p
+s e
+e r
+r s
+e e
+h d
+ü n
+r
+f u
+(</p>
+        <p>B
+3 r
+0 e
+5 d
+8
+r n
+de nde
+gn ie
+lu m
+i e
+e
+tr G
+e
+v
+n
+e
+ß
+ö
+r
+g
+g
+n
+a
+R
+7
+.
+b
+b
+A
+r
+e
+h
+ü
+r
+f
+t</p>
+        <p>t
+m m
+a a
+s s
+e e
+g g
+r
+e
+h
+ü
+r
+f
+t
+r
+e
+i
+m
+r
+o
+n
+e
+g
+n
+ä
+L
+e
+h
+c
+i
+e
+l
+g
+f
+u
+a
+d
+n
+i
+s
+n
+e
+s
+h
+c
+A
+e
+i
+D
+m
+H N R (V V N (V b
+n
+e
+r d
+e in
+d e
+s m
+u e
+m G m r te r =
+:cshe itragoh rrdne ) :e itragh ) ttrzem ttcehe isegb ttcehe lanhd
+A L e R csh Lo B ä a e a c</p>
+        <p>h b d b ts
+le r m ln A re ln c o n o u</p>
+        <p>s e u e e
+a e
+itrzon litrcüh ngnum ilrabe iltrkae litrcüh ilrabe ge=xa (b B (b d
+o a a a e a a
+l
+h
+a B
+z
+r n
+e o s t
+n v re m
+h t
+o
+) n
+te )d e
+i g
+b n n
+ge la liu
+inw reW frehü )996 seaG )95 R en sde tsch tree
+rsedE liream ftrrüe 7512 ftrrüe 6343 -1l-λn rsdaeg snueB tuedam itvsch 1
+u xa W = W 3 xam ison rhe se gew λ=
+b s rü (G ch it
+ln re f( 2 ile m</p>
+        <p>g 8 3
+= e ) 1 9 G )</p>
+        <p>B R n 4 1 e ne
+: linon icshe iiLne ,12= ,λ1= itsche iiLne
+ine tkn irp kce itλ .zw roe nn
+in u Em i(d m b hT (üd</p>
+        <p>L F
+2
+0
+0
+2
+.
+6
+.
+0
+3
+w
+n
+i
+N
+s
+e
+d
+n
+a
+L
+s
+e
+d
+e
+h
+c
+i
+e
+r
+e
+b
+s
+g
+u
+z
+n
+i
+E
+n
+e
+l
+a
+n
+u
+m
+m
+o
+k
+2
+9
+2
+r
+e
+d
+ß
+ö
+r
+g
+g
+n
+a
+R
+8
+.
+b
+b
+A
+: thm in</p>
+        <p>E
+se ir
+h a n
+A L na R csheA rLog )nB
+c go le )
+m a =
+th rm tr
+i
+r
+: a
+m
+h
+e e it
+t r
+z W a
+tä r g</p>
+        <p>e o
+h t L
+e l sc te
+le r u ln i
+itrzonaoH iltrcüheaN rkdoemm ilr(abaeV iltrkeaeV iltrcühaN ilr(abeaV geb=xam (coabebh t:keunP litrcüheaN ii:nLen itkuonnF itλ1=m iikceLnd .λz1b=w iLndennü
+n
+r
+e
+m
+m
+u
+n
+g e
+n h
+a ic
+R re
+r e
+e b
+d s
+s g
+u u
+z
+l
+h
+a B
+z
+r n
+e o
+n v
+h t
+o r</p>
+        <p>e )
+w
+n
+i</p>
+        <p>W 80
+E r 8 ln e
+red lea 02 re -1 R</p>
+        <p>d
+m 9
+s i
+u x 1</p>
+        <p>W
+e
+t
+r
+e
+n
+e
+,
+g
+, n
+e lu
+d i
+a te
+r r
+e e
+g v
+s s
+n t
+o h
+i c
+s i
+s w
+e e
+R rg g
+h
+c
+i
+e
+l
+λ e</p>
+        <p>h
+- c</p>
+        <p>s
+xa i
+r
+e
+h
+c
+bm ip s
+i
+t
+ln em re</p>
+        <p>( o
+= 8 e</p>
+        <p>G
+B 56 ) t(h )e
+ln ,1 ie
+e
+d
+a
+r
+e
+g
+s 2
+n 0
+io 0
+s .2
+s 2
+e 1
+r .
+g 1
+e 3
+R
+he am ien
+cs ne iL
+i
+ir d e
+p in s
+m e sa</p>
+        <p>l
+E m b
+: e ,
+h G )1
+c
+ilt 6 1
+h 9 0
+c 3 ,4
+i
+r e 1
+h i
+c d =
+aN frü (λ
+t
+r
+e
+i
+m
+r
+o
+n
+e
+g
+n
+ä
+L
+d
+n
+i
+s
+n
+e
+s
+h
+c
+A
+e
+i
+D</p>
+        <sec id="sec-2-3-1">
+          <title>Variante I</title>
+        </sec>
+        <sec id="sec-2-3-2">
+          <title>Variante II</title>
+        </sec>
+        <sec id="sec-2-3-3">
+          <title>Variante III</title>
+          <p>Übersicht 1: Vier gleichwertige Darstellungsvarianten der Ranggrößenverteilung</p>
+        </sec>
+        <sec id="sec-2-3-4">
+          <title>Vorgaben: Exponentielle Gewichtung der Variablen B</title>
+        </sec>
+        <sec id="sec-2-3-5">
+          <title>B ist Funktion von R (B auf vertikaler Achse, R auf horizontaler Achse)</title>
+          <p>R Bx = bmax x
+ln R + x ln B = x ln bmax</p>
+          <p>ln B = ln bmax – x-1 ln R → ln B = ln bmax – l -1 ln R
+x = l (Der Exponent der Hyperbel ist der Quotient aus der Kraft der</p>
+          <p>Differenzierung im Zähler und der Kraft der Vereinheitlichung im Nenner)</p>
+          <p>Die Gerade verläuft von links oben (größte Städte) nach rechts unten (kleinste Gemeinden)</p>
+        </sec>
+        <sec id="sec-2-3-6">
+          <title>Vorgaben: Exponentielle Gewichtung der Variablen B</title>
+        </sec>
+        <sec id="sec-2-3-7">
+          <title>R ist Funktion von B (R auf vertikaler Achse, B auf horizontaler Achse) Hyperpel: Gerade:</title>
+          <p>ln R + x ln B = x ln bmax</p>
+        </sec>
+        <sec id="sec-2-3-8">
+          <title>Mit Variante I vergleichbare Darstellung:</title>
+          <p>ln R = x ln bmax – x ln B
+ln B = ln bmax – x-1 ln R → ln B = ln bmax – l -1 ln R</p>
+          <p>Die Gerade verläuft von rechts unten (größte Städte) nach links oben (kleinste Gemeinden)</p>
+        </sec>
+        <sec id="sec-2-3-9">
+          <title>Vorgaben: Exponentielle Gewichtung der Variablen R</title>
+        </sec>
+        <sec id="sec-2-3-10">
+          <title>B ist Funktion von R (B auf vertikaler Achse, R auf horizontaler Achse) Hyperpel: Gerade:</title>
+          <p>Rx B = bmax
+x ln R + ln B = ln bmax
+ln B = ln bmax – x ln R</p>
+        </sec>
+        <sec id="sec-2-3-11">
+          <title>Mit Variante I vergleichbare Darstellung:</title>
+          <p>⎛ 1 ⎞⎟ -1 ln R → ln B = ln bmax – l -1 ln R
+ln B = ln bmax –⎜</p>
+          <p>⎝ x ⎠
+1
+x
+= l bzw. x = 1 (Der Exponent der Hyperbel ist der Quotient aus der Kraft
+l
+der Vereinheitlichung im Zähler und der Kraft der
+Differenzierung im Nenner)
+Die Gerade verläuft von links oben (größte Städte) nach rechts unten (kleinste Gemeinden)</p>
+        </sec>
+        <sec id="sec-2-3-12">
+          <title>Fortsetzung Übersicht 1</title>
+        </sec>
+        <sec id="sec-2-3-13">
+          <title>Variante IV</title>
+        </sec>
+        <sec id="sec-2-3-14">
+          <title>Vorgaben: Exponentielle Gewichtung der Variablen R</title>
+        </sec>
+        <sec id="sec-2-3-15">
+          <title>R ist Funktion von B (R auf vertikaler Achse, B auf horizontaler Achse) Hyperpel:</title>
+          <p>Mit Variante I vergleichbare Darstellung:
+ln B = ln bmax – x ln R</p>
+          <p>⎛ 1 ⎞⎟ -1 ln R → ln B = ln bmax – l -1 ln R
+ln B = ln bmax –⎜</p>
+          <p>⎝ x ⎠
+1
+x
+der Vereinheitlichung im Zähler und der Kraft der
+Differenzierung im Nenner)</p>
+          <p>Die Gerade verläuft von rechts unten (größte Städte) nach links oben (kleinste Gemeinden)</p>
+        </sec>
+        <sec id="sec-2-3-16">
+          <title>Symbole R x ln</title>
+          <p>l
+B</p>
+          <p>= Variable Einwohnerzahl
+bmax = Geschätzte Einwohnerzahl der größten Stadt</p>
+          <p>(eigentlich Schnittpunkt der Regressionsgeraden mit der Achse der Variablen B)
+= Variable Rangnummer
+= Exponent der Hyperbel
+= Natürlicher Logarithmus
+= Zipf-Exponent (Kraft der Differenzierung dividiert durch Kraft der Vereinheitlichung)
+Übersicht 2: Experimente zur Lokalisierung von Gleichgewichtsverteilungen
+I Eliminierung der kleinen Gemeinden nach verschiedenen Abschneidegrenzen
+Wert des Zipf-Exponenten (λ) für Deutschland (Zahlenfolge links unten)
+und Sachsen (Zahlenfolge rechts oben) am 31.12.2003 bei Einbeziehung
+nur der Gemeinden mit .....</p>
+          <p>..... Einwohnerzahlen von mindestens .....
+1 Mill. 100.000 50.000 39.000 19.000 10.000 8.800
+..... Rangnummern</p>
+          <p>3 1,0729 2,2703
+1 bis .....</p>
+          <p>1,2653
+1,1388
+1,2637
+1,0005</p>
+          <p>0,9651
+6
+10
+27
+71
+82
+85
+191
+516
+525
+1.573
+7.550
+12.628
+37,9%
+39,0%
+40,3%
+43,2%
+48,8%
+52,6%</p>
+          <p>Die dem Gleichgewicht (λ = 1) nächstliegenden Werte sind fett gedruckt.</p>
+          <p>II Klumpung von Gemeinden zu Einzugsbereichen nach verschiedenen Kompaktheitsgraden
+Anteil der</p>
+          <p>25,5% 1,3075
+Gemeindeklumpen 31,0%
+an der Bevölkerung 36,8%
+des Landes
+1,2227
+1,1568
+0,9947
+1,2779
+1,0000
+1,0408
+1,2424
+1,0403
+1,2172
+Wert des Zipf-Exponenten (λ) für Nordrhein-Westfalen am 30.6.2002 bei
+Bildung von Einzugsbereichen aus durch mindestens ..... %
+Berufsauspendleranteile verbundenen Gemeinden
+50%
+40%
+30%
+28%
+26%
+24%
+22%
+20%
+15%
+1,1538
+1,1460
+1,1384
+1,1102
+1,0463
+1,0247</p>
+          <p>Bitte beachten Sie:
+Ab No. 1/1999 sind alle Beiträge im Internet abrufbar unter
+http://soziologie.uni-duisburg.de/dbsf.htm
+Bisher sind in der Reihe „Duisburger Beiträge“ erschienen:
+No. 1/1988
+No. 2/1988
+No. 3/1988
+No. 4/1988
+No. 5/1988
+No. 1/1989
+No. 2/1989
+No. 3/1989
+No. 4/1989
+No. 5/1989</p>
+          <p>Zum Anspruch einer evolutionsbiologischen Fundierung der Moral.</p>
+          <p>Fritz Rudolph
+Moralische Institutionen und die Ordnung des Handelns in der Gesellschaft.
+Die "utilitaristische" Theorietradition und die Durkheimsche Herausforderung.
+Hans J. Hummell
+Selbstreferentielle Technologiepolitik. Theoretische und thematische
+Grundlagen der Wirtschaftsbezogenen F &amp; T - Politik.</p>
+          <p>Dieter Urban
+Berufseinmündung, Berufssituation und soziale Lage Duisburger
+Diplom-Sozialwissenschaftler/innen.</p>
+          <p>Erste Ergebnisse einer empirischen Erhebung.</p>
+          <p>Dieter W. Emmerling
+Negative Dialektik - oder: Das "andere Genus des Denkens".</p>
+          <p>Helga Gripp-Hagelstange
+Entscheidungsprozesse im Studium: Weiterstudieren oder Aufgeben?
+Christoph Rülcker, Adelheid Berger, Dieter Emmerling
+Lokale Handlungsebene und Jugendarbeitslosigkeit.</p>
+          <p>Ein Forschungsbeitrag zur wohlfahrtsstaatlichen
+Dezentralisierungsdebatte. Ergebniszusammenfassung.</p>
+          <p>Jürgen Krüger, Manfred Pojana, Roland Richter
+Binäre LOGIT-Analyse: ein statistisches Verfahren zur Bestimmung
+der Abhängigkeitsstruktur qualitativer Variablen.</p>
+          <p>Dieter Urban
+Niklas Luhmann - oder: Was ist ein "differenztheoretischer" Ansatz?
+Helga Gripp-Hagelstange
+Die Rationalität irrationalen Handelns. Kollektive Formen politischer
+Partizipation als Ergebnis individueller Entscheidungsprozesse.</p>
+          <p>Eine empirische Analyse.</p>
+          <p>Dieter Urban
+No. 1/1990
+No. 2/1990
+No. 3/1990
+No. 4/1990
+No. 5/1990
+No. 1/1991
+No. 2/1991
+No. 3/1991
+No. 4/1991
+No. 5/1991
+No. 1/1992
+Adorno und Derrida - oder: Der Versuch einer "Dekonstruktion"
+der Metaphysik.</p>
+          <p>Helga Gripp-Hagelstange
+"Arbeit statt Sozialhilfe" –
+Empirische Evaluation eines Beschäftigungsprogramms für
+arbeitslose Sozialhilfeempfänger.</p>
+          <p>Thomas Bruns und Irene Pawellek
+Jugendarbeitslosigkeit und lokale Legitimationsprobleme.</p>
+          <p>Jürgen Krüger
+Zu System und Problematik legal-bürokratischer Herrschaft
+in der klassischen Organisationstheorie.</p>
+          <p>Wolfgang Holler
+Die kognitive Struktur von Umweltbewußtsein.</p>
+          <p>Ein kausalanalytischer Modelltest.</p>
+          <p>Dieter Urban
+Zeitgemäßes Campaigning in der Bundesrepublik Deutschland:
+Empirische und evaluative Hinweise zum Swing-Index, einem neuen
+Instrument des "micro targeting".</p>
+          <p>Sigurd Matz
+Stichworte zur Zukunft des Wohlfahrtsstaates.</p>
+          <p>Jürgen Krüger
+Kokain: Zur gesellschaftlichen Karriere einer Droge.</p>
+          <p>Thomas Schweer und Hermann Strasser
+Der &gt;reale Sozialismus&lt; und sein Niedergang basieren auf dem Marx'schen
+&gt;Ausbeutungs&lt;-Irrtum. Sozialstaatlicher Volkskapitalismus statt Abschaffung
+des Privateigentums an Produktionsmitteln.</p>
+          <p>Dieter Holtmann
+The Distribution of Income in Modern Japan: An Examination
+of the Structural Determinants of Relative Equality.</p>
+          <p>Harold R. Kerbo
+Diplomabschlüsse im integrierten Studiengang Sozialwissenschaften
+an der Universität-GH-Duisburg.</p>
+          <p>Eine empirische Analyse der erfolgreich absolvierten Diplomprüfungen
+im Zeitraum 1977 – 1990.</p>
+          <p>Holger Meinken
+No. 2/1992
+No. 3/1992
+No. 4/1992
+No. 5/1992
+No. 1/1993
+No. 2/1993
+No. 3/1993
+No. 4/1993
+No. 5/1993
+No. 6/1993
+No. 7/1993
+No. 1/1994
+Narzißmus, soziale Einbindung und Suizid. Eine vergleichende Analyse des
+Suizidgeschehens in Kempten (Allgäu) und seines ländlichen Umfelds im
+Lichte soziologischer und psychologischer Theorie.</p>
+          <p>Heidi Hlawatschek
+Die parlamentarische Willensbildung in portugiesischen Gemeinden.
+Wolfgang Holler, Marcelino Passos
+Techniken der Attributdatenanalyse.</p>
+          <p>Uwe Engel
+Karrieremuster in der Kommunalpolitik. Eine empirische Untersuchung
+am Beispiel von Dinslaken und Duisburg.</p>
+          <p>Andreas Humpert
+Zur relativen Bedeutung eines Klassenkonzepts bei der Erklärung von
+Einkommens-und Bewußtseinsunterschieden in zehn entwickelten
+Industriegesellschaften.</p>
+          <p>Tomas Hagelstange, Brigitte Hamm, Dieter Holtmann
+Prozesse der Entvertikalisierung in der japanischen Gesellschaft.</p>
+          <p>Brigitte Hamm
+Organisation und Motivation (I)
+Wolfgang Holler
+Japanese Corporations in Germany:
+Corporate Strucuture and Employee Relations (A Summary Report).
+Harold R. Kerbo, Elke Wittenhagen, Keiko Nakao
+Organisation und Motivation (II)
+Wolfgang Holler
+No. 2/1994
+No. 3/1994
+No. 4/1994
+No. 5/1994
+No. 6/1994
+No. 1/1995
+No. 2/1995
+No. 1/1996
+No. 2/1996
+No. 3/1996
+No. 4/1996
+Kulturelle Nebensächlichkeiten und private Geselligkeit:
+Zu institutionellen Formen einer beliebten Koalition Vorüberlegungen
+zu einem theoretischen Orientierungsrahmen für die Deskription
+und Analyse privater Öffentlichkeit.</p>
+          <p>Christoph Rülcker, Günter Winter, Mitarbeit: Gerd Bloch
+Kollektives Handeln und Ambiguität. Die Regulierung atypischer
+Beschäftigungsverhältnisse in Frankreich und Deutschland.</p>
+          <p>Ingo Bode, Hanns-Georg Brose, Stephan Voswinkel
+Einführung in Windows 3.1; Einführung in Word für Windows 2.0.</p>
+          <p>Thomas Bruns, Günter Winter
+Einführung in SPSS für Windows.</p>
+          <p>Peter Höllmer, Günter Winter
+Schnäppchenmärkte. Zu einer schattenwirtschaftlichen Besonderheit.
+Christoph Rülcker; Günter Winter
+Zur Distinguierung des sinnlichen Geschmacks: Von der Lust
+zur Krise der Gourmets.</p>
+          <p>Andrea Dederichs
+Studienfach als Differenzierungsmerkmal.</p>
+          <p>Ein empirischer Beitrag zur Analyse studentischer Lebenswelten.</p>
+          <p>Josef Köster
+Arbeitslosigkeit und Sucht: Eine qualitative Studie zu Suchtkarrieren
+von Arbeitslosen. Forschungsgruppe Langzeitarbeitslosigkeit:
+Thomas Schweer (inhaltlich verantwortlich), Hermann Strasser, Gabriele
+Klein, Thomas Bongartz, Klaus Gröhnke
+Soziale Netzwerke bei Langzeitarbeitslosen.</p>
+          <p>Forschungsgruppe Langzeitarbeitslosigkeit:
+Klaus Gröhnke (inhaltlich verantwortlich), Hermann Strasser,
+Thomas Bongartz, Gabriele Klein, Thomas Schweer
+Am Fordismus vorbei: Bauwirtschaft und Gastgewerbe in Deutschland
+und Frankreich.</p>
+          <p>Stefan Lücking, Stephan Voswinkel
+No. 5/1996
+No. 1/1997
+No. 2/1997
+No. 3/1997
+No. 4/1997
+No. 5/1997
+No. 1/1998
+No. 2/1998
+No. 1/1999
+No. 2/1999
+No. 3/1999
+Generationensolidarität oder Altenmacht – Was trägt (künftig)
+den Generationenvertrag?
+Zur politischen Soziologie der staatlichen Alterssicherung.</p>
+          <p>Jürgen Krüger
+"Pumps, leider zu klein...": Eine empirische Studie über den privaten
+Gebrauchtwarenhandel via Offertenblatt.</p>
+          <p>Birgit Kunde, Christoph Rülcker, Ansgar Schulz-Kleyenstüber,
+Uwe Zander
+Leistungen und Leistungspotentiale älterer Menschen, Bilanz und Perspektiven
+des intergenerationalen Lastenausgleichs in Familie und sozialem Netz.
+(Tagungsband)
+Dieter Grunow, Sylvia Herkel, Hans J. Hummell (Hrsg.)
+Merkmalsraumbildung und Differenzierung von mehrstelligen Variablen.
+Günter Winter
+Determinanten der Studiendauer:
+Differenzen zwischen Studierenden verschiedener Fachbereiche?
+Ein Zwei-Gruppen-Test.</p>
+          <p>Josef Köster, Uwe Matzat
+Die Arbeitsplatzsuchstrategien von Arbeitslosen.</p>
+          <p>Forschungsprojekt Langzeitarbeitslosigkeit:
+Klaus Gröhnke, Hermann Strasser
+Arbeitszeitverkürzung, Entgelt und Beschäftigung.</p>
+          <p>Gerhard Bosch
+“Marxloh”. Ansichten über einen Duisburger Stadtteil.</p>
+          <p>Thomas Rommelspacher, Christoph Rülcker,
+Ansgar Schulz-Kleyenstüber, Uwe Zander
+Marktphilosophien in der Beschäftigungskrise . Zu den
+Wirksamkeitsund Wirtschaftlichkeitsannahmen im Ersten und Zweiten Arbeitsmarkt.
+Achim Trube
+Der große Zapfenstreich.</p>
+          <p>Eine soziologische Analyse eines umstrittenen Rituals.</p>
+          <p>Ulrich Steuten
+Sozialwissenschaftliches Praktikum in der amtlichen Statistik.</p>
+          <p>Fallbeispiel: Ergebnisse politischer Wahlen und Strukturmerkmale
+der nordrhein-westfälischen Gemeinden.</p>
+          <p>Wolfgang Gerß
+No. 4/1999
+No. 5/1999
+No. 1/2000
+No. 1/2002
+No. 2/2002
+No. 3/2002
+No. 4/2002
+No. 5/2002
+No. 1/2003
+No. 2/2003
+No. 3/2003
+Arbeiten für gute Zwecke.</p>
+          <p>Organisation und Beschäftigung im Dritten Sektor.</p>
+          <p>Ingo Bode, Achim Graf
+Bedingungen und Möglichkeiten kreativen und innovativen Handelns: Die
+wechselseitige Strukturierung von Subjekten und Organisationen.</p>
+          <p>Ideenskizze und Bestandsaufnahme.</p>
+          <p>Ursula Holtgrewe
+Rationalisierung im Dienstleistungssektor – Strategien und Probleme:
+Ein Literaturbericht.</p>
+          <p>Bernd Bienzeisler
+Arbeitsmarkt und soziales Kapital: Eine komprimierte Darstellung
+theoretischer Grundlagen und empirischer Befunde.</p>
+          <p>Peter Runia
+Kurzstudie zu einer Todesfallstatistik über Kinder und Jugendliche
+in Münster/Westf.:
+Eine Erhebung zu Todesfällen für den Zeitraum 1991-1998.</p>
+          <p>Jürgen Guggenmos, Sigurd Matz
+Transformationspfade intermediärer Wohlfahrtsproduktion:
+Die Entwicklung der Caritas im deutsch-französischen Vergleich.</p>
+          <p>Ingo Bode
+Vom Payer zum Player – Oder: Krankenkassen im Wandel.</p>
+          <p>Der Fall der AOK und ein vergleichender Exkurs nach Frankreich.</p>
+          <p>Ingo Bode
+Methoden und Konzepte wissensintensiver Dienstleistungsarbeit.</p>
+          <p>Arbeitsberichte eines Hauptseminars.</p>
+          <p>Karen Shire, Bernd Bienzeisler
+Unsichere Beschäftigung – unsichere Integration?
+Auswirkungen destandardisierter Beschäftigung auf die Einbindung
+in Familie und soziale Netzwerke.</p>
+          <p>Martin Diewald, Michael Eberle
+Erwerbsbiographien von Männern und die sozialen Beziehungen
+zu Verwandten und Freunden.</p>
+          <p>Martin Diewald
+Die Verbreitung des Crackkonsums in Nordrhein-Westfalen aus
+der Sicht von Rauschgiftfahndern: Eine explorative Studie.</p>
+          <p>Thomas Schweer
+No. 4/2003
+No. 5/2003
+No. 1/2004
+No. 2/2004
+No. 3/2004
+No. 4/2004
+No. 5/2004
+No. 6/2004
+No. 7/2004
+No. 8/2004
+No. 1/2005
+No. 2/2005
+Der Zwang zur Toleranz oder
+Die gesellschaftliche Bedeutung der Political Correctness.</p>
+          <p>Roelf Bleeker-Dohmen
+Die Regulierung der Zeitarbeit in Deutschland –
+Vom Sonderfall zur Normalbranche.</p>
+          <p>Katrin Vitols
+Russlanddeutsche und die Polizei in Duisburg:
+Zum Vertrauen russlanddeutscher Spätaussiedler in die Polizei.</p>
+          <p>Steffen Zdun
+Polizisten und Asylbewerber in Duisburg.</p>
+          <p>Marion Lillig
+Nutzung von Daten der historischen Statistik in Lehrforschungsprojekten.
+Wolfgang Gerß
+Klassen, Schichten, Lagen und die Deutung sozialer Ungleichheit.</p>
+          <p>Zum weberianischen Aufbruch in der Ungleichheitsforschung.</p>
+          <p>Gerd Nollmann
+Mit der Kultur gegen die Kultur.</p>
+          <p>Chancen und Grenzen des Kulturbegriffs bei Niklas Luhmann.</p>
+          <p>Christian Colli
+Wohnungslosigkeit.</p>
+          <p>Ein verdrängtes Phänomen am Rand der Gesellschaft.</p>
+          <p>Henning van den Brink
+Der Beitrag der Analyse der Regulierung der Zeitarbeit
+zur Steuerung des deutschen Arbeitsmarktes.</p>
+          <p>Katrin Vitols
+Wann ist ein Steuersystem gerecht?
+Einstellungen zu allgemeinen Prinzipien der Besteuerung und zur
+Gerechtigkeit der eigenen Steuerlast.</p>
+          <p>Stefan Liebig und Steffen Mau
+Von der Lebensführung zur Selbstinszenierung.</p>
+          <p>Soziologische Überlegungen zur Diffusion der Ehre
+in der Gegenwartsgesellschaft.</p>
+          <p>Ulrich Steuten
+No. 3/2005</p>
+          <p>Der Leistungswert als kausale Verhaltensbegründung.</p>
+          <p>Ergebnisse einer Umfrage zur sozialstrukturellen Geltung
+des Leistungswerts in Bildung und Beruf.</p>
+          <p>Gerd Nollmann
+Untersuchungen zu demographischen Gleichgewichtsverteilungen
+nach dem Zipfschen Gesetz.</p>
+          <p>Wolfgang und Joachim Gerß</p>
+        </sec>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <given-names>Wolfgang</given-names>
+            <surname>Gerß</surname>
+          </string-name>
+          (
+          <year>2000</year>
+          )
+          <article-title>: Statistische Auswertung einer zehnjährigen Punkt-StoppVogelzählung im niederbergischen Hügelland. Charadrius 36 Heft 2</article-title>
+          ,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          49-
+          <fpage>56</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <given-names>Robert</given-names>
+            <surname>Gibrat</surname>
+          </string-name>
+          (
+          <year>1931</year>
+          ):
+          <article-title>Les inégalités économiques</article-title>
+          . Paris.
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Ernest P. Goodrich</surname>
+          </string-name>
+          (
+          <year>1926</year>
+          ) :
+          <article-title>The statistical relationship between population and the city plan</article-title>
+          .
+          <source>American Journal of Sociology</source>
+          , Vol.
+          <volume>20</volume>
+          , S.
+          <fpage>123</fpage>
+          -
+          <lpage>128</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <given-names>Volker</given-names>
+            <surname>Hannemann</surname>
+          </string-name>
+          (
+          <year>1992</year>
+          )
+          <article-title>:Ergebnisse, Nutzen, Qualität und Organisation von Volkszählungen in den alten Bundesländern</article-title>
+          . In: Forum der Bundesstatistik, Band 21, S.
+          <fpage>67</fpage>
+          -
+          <lpage>82</lpage>
+          , Stuttgart.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Michael Harrison</surname>
+          </string-name>
+          (
+          <year>1985</year>
+          ):
+          <article-title>Brownian motion and stochastic flow systems</article-title>
+          . New York.
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <given-names>Jeroen</given-names>
+            <surname>Hinloopen und Charles van Marrewijk</surname>
+          </string-name>
+          (
+          <year>2004</year>
+          ):
+          <article-title>Locating economic concentration</article-title>
+          . Tinbergen Institute Discussion Paper. Internet.
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Robert</surname>
+            <given-names>T.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Holt</surname>
+          </string-name>
+          , Brian L. Job und Lawrence Markus (
+          <year>1978</year>
+          )
+          <article-title>: Catastrophe theory and the study of war</article-title>
+          .
+          <source>Journal of Conflict</source>
+          Resolution 22, S.
+          <fpage>171</fpage>
+          -
+          <lpage>208</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Yannis M. Ioannides und Henry G. Overman</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          ):
+          <article-title>Zipf`s law for cities - An empirical examination</article-title>
+          .
+          <source>Regional Science and Urban Economics</source>
+          , Vol.
+          <volume>33</volume>
+          , S.
+          <fpage>127</fpage>
+          -
+          <lpage>137</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Robert</surname>
+            <given-names>I. Jennrich</given-names>
+          </string-name>
+          (
+          <year>1978</year>
+          )
+          <article-title>: siehe Ralston</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Brian L. Job</surname>
+          </string-name>
+          (
+          <year>1978</year>
+          )
+          <article-title>: siehe Holt</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <given-names>Pascual</given-names>
+            <surname>Jordan</surname>
+          </string-name>
+          (
+          <year>1955</year>
+          ):
+          <article-title>Schwerkraft und Weltall - Grundlagen der theoretischen Kosmologie</article-title>
+          . Braunschweig.
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Valentin M. Kalinin</surname>
+          </string-name>
+          (
+          <year>1973</year>
+          )
+          <article-title>: siehe Alexejew</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <given-names>Thorbjörn</given-names>
+            <surname>Knudsen</surname>
+          </string-name>
+          (
+          <year>2001</year>
+          ):
+          <article-title>Zipf`´s law for cities and beyo nd - The case of Denmark</article-title>
+          .
+          <source>American Journal of Economics and Sociology</source>
+          , Vol.
+          <volume>60</volume>
+          No.1,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          123 -
+          <fpage>146</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <given-names>Wentian</given-names>
+            <surname>Li</surname>
+          </string-name>
+          (
+          <year>1999</year>
+          ):
+          <article-title>Zipf´s law. North shore LIJ research institute</article-title>
+          , Rockefeller University. Internet.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Alfred J. Lotka</surname>
+          </string-name>
+          (
+          <year>1925</year>
+          ):
+          <article-title>The elements of physical biology</article-title>
+          . Baltimore.
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <given-names>Friedrich</given-names>
+            <surname>Lütge</surname>
+          </string-name>
+          (
+          <year>1959</year>
+          ):
+          <article-title>Ausgangstatsachen der Volkswirtschaftslehre</article-title>
+          . In:
+          <article-title>Handbuch der Wirtschaftswissenschaften (Hg. Karl Hax und Theodor Wessels)</article-title>
+          , Köln/Opladen, Band II S.
+          <volume>903</volume>
+          -
+          <fpage>935</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Anne E. Magurran</surname>
+          </string-name>
+          (
+          <year>1988</year>
+          ):
+          <article-title>Ecological diversity and its measurement</article-title>
+          . London.
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <given-names>Thomas</given-names>
+            <surname>Robert Malthus</surname>
+          </string-name>
+          (
+          <volume>1778</volume>
+          ):
+          <article-title>An essay on the principle of population as it affects the future improvement of society</article-title>
+          . London.
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <given-names>Benoit</given-names>
+            <surname>Mandelbrot</surname>
+          </string-name>
+          (
+          <year>1953</year>
+          ):
+          <article-title>An information theory of the statistical structure of languages</article-title>
+          .
+          <source>In: Communication Theory (Hg. W.Jackson)</source>
+          , New York, S.
+          <fpage>486</fpage>
+          -
+          <lpage>502</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <given-names>Lawrence</given-names>
+            <surname>Markus</surname>
+          </string-name>
+          (
+          <year>1978</year>
+          )
+          <article-title>: siehe Holt</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <surname>Charles van Marrewijk</surname>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>: siehe Brakman</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <surname>Charles van Marrewijk</surname>
+          </string-name>
+          (
+          <year>2004</year>
+          )
+          <article-title>: siehe Hinloopen</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <given-names>Karl</given-names>
+            <surname>Marx</surname>
+          </string-name>
+          (
+          <year>1867</year>
+          /
+          <year>1885</year>
+          / 1894):
+          <article-title>Das Kapital - Kritik der politischen Ökonomie; Bände I,II,III</article-title>
+          . Hamburg.
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>Henry G. Overman</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          )
+          <article-title>: siehe Ioannides</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <given-names>Vilfredo</given-names>
+            <surname>Pareto</surname>
+          </string-name>
+          (
+          <year>1896</year>
+          /
+          <year>1897</year>
+          ):
+          <article-title>Cours d´économie politique professé à l</article-title>
+          ´université de Lausanne;
+          <article-title>Bände 1 und 2</article-title>
+          . Lausanne.
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <given-names>Johann</given-names>
+            <surname>Pfanzagl</surname>
+          </string-name>
+          (
+          <year>1963</year>
+          ):
+          <article-title>Über die Parallelität von Zeitreihen</article-title>
+          . Metrika 6,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          100-
+          <fpage>113</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <string-name>
+            <surname>Rajmond G. Piotrowski</surname>
+          </string-name>
+          (
+          <year>1973</year>
+          )
+          <article-title>: siehe Alexejew</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <string-name>
+            <given-names>Johannes</given-names>
+            <surname>Popitz</surname>
+          </string-name>
+          (
+          <year>1926</year>
+          )
+          <article-title>: Finanzausgleich</article-title>
+          . In: Handwörterbuch der Staatswissenschaften, vierte Auflage, dritter Band, Jena, S.
+          <fpage>1016</fpage>
+          -
+          <lpage>1042</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <surname>Mary L. Ralston und Robert</surname>
+            <given-names>I. Jennrich</given-names>
+          </string-name>
+          (
+          <year>1978</year>
+          )
+          <article-title>: DUD, a derivative- free algorithm for nonlinear least squares</article-title>
+          .
+          <source>Technometrics 20, S.7-14.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <string-name>
+            <given-names>Anatol</given-names>
+            <surname>Rapoport</surname>
+          </string-name>
+          (
+          <year>1980</year>
+          )
+          <article-title>: Mathematische Methoden in den Sozialwissenschaften</article-title>
+          . Würzburg/Wien.
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          <string-name>
+            <surname>Cambell B. Read</surname>
+          </string-name>
+          (
+          <year>1988</year>
+          ):
+          <article-title>Zipf´s law</article-title>
+          . In: S. Kotz,
+          <string-name>
+            <given-names>N.L.</given-names>
+            <surname>Johnson</surname>
+          </string-name>
+          , C.B.
+          <string-name>
+            <surname>Read</surname>
+          </string-name>
+          (Hg),
+          <source>Encyclopedia of Statistical Sciences, New York.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <string-name>
+            <given-names>Marco</given-names>
+            <surname>Scharmer</surname>
+          </string-name>
+          (
+          <year>2001</year>
+          ):
+          <article-title>Ergebnisse der Pendlerrechnung Nordrhein-Westfalen 1998</article-title>
+          .
+          <article-title>Statistische Analysen und Studien NRW 4/2001</article-title>
+          , S.
+          <fpage>27</fpage>
+          -
+          <lpage>44</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          <string-name>
+            <given-names>Narushige</given-names>
+            <surname>Shiode und Michael Batty</surname>
+          </string-name>
+          (
+          <year>2000</year>
+          ):
+          <article-title>Power law distributions in real and virtual worlds</article-title>
+          .
+          <source>INET 2000 Proceedings, The Internet Society Conference</source>
+          , Yokohama,
+          <fpage>18</fpage>
+          -
+          <issue>21</issue>
+          <year>July 2000</year>
+          . Internet.
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          <string-name>
+            <given-names>Herbert</given-names>
+            <surname>Alexander Simon</surname>
+          </string-name>
+          (
+          <year>1955</year>
+          ):
+          <article-title>On a class of skew distribution functions</article-title>
+          . Biometrika 42, S. S.
+          <volume>426</volume>
+          -
+          <fpage>439</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          <string-name>
+            <given-names>Kwok</given-names>
+            <surname>Tong Soo</surname>
+          </string-name>
+          (
+          <year>2002</year>
+          ):
+          <article-title>Zipf´s law for cities - A cross country investigation</article-title>
+          .
+          <source>Mimeo</source>
+          , London School of Economics. Internet.
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          <string-name>
+            <surname>John Quincy Stewart</surname>
+          </string-name>
+          (
+          <year>1947</year>
+          )
+          <article-title>: Empirical mathematical rules concerning the distribution and equilibrium of population</article-title>
+          .
+          <source>The Geographical Review</source>
+          , Vol.
+          <volume>37</volume>
+          , S.
+          <fpage>461</fpage>
+          -
+          <lpage>485</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          <string-name>
+            <surname>John Quincy Stewart</surname>
+          </string-name>
+          (
+          <year>1948</year>
+          ):
+          <article-title>Demographic gravitation - Evidence and applications</article-title>
+          .
+          <source>Sociometry</source>
+          , Vol.
+          <volume>11</volume>
+          Nr.
+          <article-title>1 und 2</article-title>
+          , S.
+          <fpage>31</fpage>
+          -
+          <lpage>58</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          <string-name>
+            <given-names>Erwin</given-names>
+            <surname>Stresemann</surname>
+          </string-name>
+          (
+          <year>1951</year>
+          )
+          <article-title>: Die Entwicklung der Ornithologie</article-title>
+          . Berlin.
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          <string-name>
+            <given-names>Friedrich</given-names>
+            <surname>Vogel</surname>
+          </string-name>
+          (
+          <year>1995</year>
+          ):
+          <article-title>Beschreibende und schließende Statistik, 8</article-title>
+          . Auflage. München/Wien.
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          <string-name>
+            <surname>Hugo de Vries</surname>
+          </string-name>
+          (
+          <year>1901</year>
+          ,
+          <year>1903</year>
+          ):
+          <article-title>Die Mutationstheorie - Versuche und Beobachtungen über die Entstehung von Arten im Pflanzenreich</article-title>
+          . Leipzig.
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          <string-name>
+            <given-names>Edgar</given-names>
+            <surname>Wedel</surname>
+          </string-name>
+          (
+          <year>1987</year>
+          )
+          <article-title>: siehe Bretz</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          <string-name>
+            <given-names>Edgar</given-names>
+            <surname>Wedel</surname>
+          </string-name>
+          (
+          <year>1988</year>
+          )
+          <article-title>: siehe Würzberger</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          <string-name>
+            <given-names>Rolf</given-names>
+            <surname>Wiegert</surname>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>: Einführung in die Diskussion um einen Zensus 2001 in Deutschland</article-title>
+          .Sonderheft 33 zum Allgemeinen Statistischen Archiv, S.
+          <fpage>9</fpage>
+          -
+          <lpage>14</lpage>
+          . Göttingen.
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          <string-name>
+            <given-names>Paul</given-names>
+            <surname>Würzberger und Edgar Wedel</surname>
+          </string-name>
+          (
+          <year>1988</year>
+          )
+          <article-title>: Erste Ergebnisse der Volkszählung 1987</article-title>
+          .
+          <source>Wirtschaft und Statistik</source>
+          <volume>12</volume>
+          /
+          <year>1988</year>
+          , S.
+          <fpage>829</fpage>
+          -
+          <lpage>836</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          <string-name>
+            <given-names>Erik</given-names>
+            <surname>Christopher Zeeman</surname>
+          </string-name>
+          (
+          <year>1976</year>
+          )
+          <article-title>: Catastrophe theory</article-title>
+          .
+          <source>Scientific</source>
+          American 234, S.
+          <fpage>65</fpage>
+          -
+          <lpage>83</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          <string-name>
+            <given-names>George</given-names>
+            <surname>Kingsley Zipf</surname>
+          </string-name>
+          (
+          <year>1940</year>
+          ):
+          <article-title>The generalized harmonic series as a fundamental principle of social organization</article-title>
+          .
+          <source>Psychological Record</source>
+          , Vol.
+          <volume>4</volume>
+          ,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          <year>43</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          <string-name>
+            <given-names>George</given-names>
+            <surname>Kingsley Zipf</surname>
+          </string-name>
+          (
+          <year>1941</year>
+          ):
+          <article-title>National unity and disunity - The nation as a bio-social organism</article-title>
+          . Bloomington/Ind.
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          <string-name>
+            <given-names>George</given-names>
+            <surname>Kingsley Zipf</surname>
+          </string-name>
+          (
+          <year>1942</year>
+          ):
+          <article-title>The unity of nature, least-action, and natural social science</article-title>
+          .
+          <source>Sociometry</source>
+          Vol.
+          <volume>5</volume>
+          ,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          48-
+          <fpage>62</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>
+          <string-name>
+            <given-names>George</given-names>
+            <surname>Kingsley Zipf</surname>
+          </string-name>
+          (
+          <year>1947</year>
+          ):
+          <article-title>The hypothesis of the ´Minimum Equation´as a unifying social principle, with attempted synthesis</article-title>
+          .
+          <source>American Sociological Review</source>
+          , Vol.
+          <volume>12</volume>
+          , S.
+          <fpage>627</fpage>
+          -
+          <lpage>650</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <mixed-citation>
+          <string-name>
+            <given-names>George</given-names>
+            <surname>Kingsley Zipf</surname>
+          </string-name>
+          (
+          <year>1949</year>
+          ):
+          <article-title>Human behavior and the principle of least efforts - An introduction to human ecology</article-title>
+          . Cambridge/Mass. [Faksimile New York 1972].
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,1779 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Frenzel, Hansjörg; Nau, Anke; Schimpl-Neimanns, Bernhard</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="urn">nbn:de:0168-ssoar-262360</article-id>
+      <title-group>
+        <article-title>Volks- und Berufszählung (10% Stichprobe) : Dokumentation und Datenaufbereitung</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Lechert</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Yvonne</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Lüttinger</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Veröffentlichungsversion / Published Version</string-name>
+        </contrib>
+      </contrib-group>
+      <pub-date>
+        <year>1995</year>
+      </pub-date>
+      <volume>1</volume>
+      <fpage>30</fpage>
+      <lpage>71</lpage>
+      <abstract>
+        <p>Forschungsbericht / research report Zur Verfügung gestellt in Kooperation mit / provided in cooperation with: GESIS - Leibniz-Institut für Sozialwissenschaften</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/6/26236.images/img_1_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/6/26236.images/img_1_2.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/6/26236.images/img_1_3.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/6/26236.images/img_1_4.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>Nutzungsbedingungen:
+Dieser Text wird unter einer Deposit-Lizenz (Keine
+Weiterverbreitung - keine Bearbeitung) zur Verfügung gestellt.
+Gewährt wird ein nicht exklusives, nicht übertragbares,
+persönliches und beschränktes Recht auf Nutzung dieses
+Dokuments. Dieses Dokument ist ausschließlich für
+den persönlichen, nicht-kommerziellen Gebrauch bestimmt.
+Auf sämtlichen Kopien dieses Dokuments müssen alle
+Urheberrechtshinweise und sonstigen Hinweise auf gesetzlichen
+Schutz beibehalten werden. Sie dürfen dieses Dokument
+nicht in irgendeiner Weise abändern, noch dürfen Sie
+dieses Dokument für öffentliche oder kommerzielle Zwecke
+vervielfältigen, öffentlich ausstellen, aufführen, vertreiben oder
+anderweitig nutzen.</p>
+      <p>Mit der Verwendung dieses Dokuments erkennen Sie die
+Nutzungsbedingungen an.</p>
+      <p>Terms of use:
+This document is made available under Deposit Licence (No
+Redistribution - no modifications). We grant a non-exclusive,
+nontransferable, individual and limited right to using this document.
+This document is solely intended for your personal,
+noncommercial use. All of the copies of this documents must retain
+all copyright information and other information regarding legal
+protection. You are not allowed to alter this document in any
+way, to copy it for public or commercial purposes, to exhibit the
+document in public, to perform, distribute or otherwise use the
+document in public.</p>
+      <p>By using this particular document, you accept the above-stated
+conditions of use.</p>
+      <p>ZUMA-Methodenbericht 2006/11
+Volks- und Berufszählung (10% Stichprobe)
+Dokumentation und Datenaufbereitung</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Yvonne Lechert &amp; Paul Lüttinger</title>
+    </sec>
+    <sec id="sec-3">
+      <title>August 2006</title>
+      <p>ISSN 1610-9953</p>
+    </sec>
+    <sec id="sec-4">
+      <title>ZUMA</title>
+    </sec>
+    <sec id="sec-5">
+      <title>Quadrat B2,1</title>
+      <p>Postfach 12 21 55
+68072 Mannheim
+Telefon: (0621) 1246 - 268
+Telefax: (0621) 1246 - 100</p>
+    </sec>
+    <sec id="sec-6">
+      <title>Email: luettinger@zuma-mannheim.de</title>
+      <p>Inhaltsverzeichnis
+1
+1.1
+1.2
+2
+2.1
+2.2
+2.3
+3</p>
+      <p>Dokumentation zur Volks- und Berufszählung 1970 (10% Stichprobe)
+Kurzbeschreibung der Volks- und Berufszählung 1970
+Plausibilitätsprüfung</p>
+      <sec id="sec-6-1">
+        <title>Datenaufbereitung</title>
+        <p>Überblick: Die einzelnen Schritte der Aufbereitung der 10-Prozent
+Stichprobe der Volks- und Berufszählung 1970
+Einlesen der bit-codierten Rohdaten, Erstellen eines SPSS-Systemfiles
+mit Variable-/Value Labels, vierstelliger Berufsvariablen (V43) und
+Formattransformationen
+Zusammenfügen der erstellten SPSS-Systemfiles für die Länder
+Baden-Würtemberg, Bayern, Nordrhein-Westfahlen und das Saarland
+und Erstellen einer Häufigkeitsauszählung am Beispiel Baden-Württemberg
+Anhang
+1
+1
+3
+4
+4
+5
+70
+71
+1 Dokumentation zur Volks- und Berufszählung 1970 (10% Stichprobe)
+Mitte der 1970ger Jahre wurden vom Projekt „Vergleichende Analysen der Sozialstruktur mit
+Massendaten (VASMA)“ der Universität Mannheim anonymisierte Daten der Volkszählung von 1970
+erworben. Es handelte sich dabei um eine 10-Prozent Stichprobe der VZ70, die für jedes Bundesland
+einzeln von den Statistischen Landesämtern zur Verfügung gestellt wurde, d.h. für jedes Bundesland
+lag ein eigenes Landesfile vor. Aus rechentechnischen Gründen zog das VASMA-Projekt aus diesen
+Länderdaten eine 10% Stichprobe der wohnberechtigten Bevölkerung, so dass letztlich eine 1%
+Stichprobe der VZ70 für Analysezwecke zur Verfügung stand (zur Ziehung der 1%-Stichprobe durch
+das VASMA-Projekt siehe: Bach, Walter 1979).
+1987 übernahm die Abteilung Mikrodaten bei ZUMA („German Microdata Lab“) sowohl die 1%
+Stichprobe des VASMA-Projektes als auch die 10% Originaldaten der einzelnen Bundesländer. Die
+1% Stichprobe der VZ70 wurde von der Abteilung Mikrodaten nochmals aufbereitet, um fehlende
+Haushalts- und Familiennummern zu ergänzen1 (zur Datenaufbereitung der 1% Stichprobe siehe:
+Schimpl-Neimanns, Bernhard/Frenzel, Hansjörg 1995). Die 10% Originaldaten der Bundesländer
+wurden jedoch bislang nicht genutzt.</p>
+        <p>Um auch die 10% Stichprobendaten für die Forschung nutzbar zu machen wurden die einzelnen
+Länderfiles aufbereitet. Im vorliegenden Bericht werden nach einer kurzen Beschreibung der
+Volksund Berufszählung 1970 und weiteren Informationen zur Prüfung der anonymisierten Daten die
+einzelnen Schritte der Datenaufbereitung der 10% Stichprobe beschrieben.</p>
+        <p>Da die Daten der VZ70 in den Statistischen Landesämtern und auch im Statistischen Bundesamt nicht
+mehr vorlagen, wurden die Originaldaten der 10% Stichprobe der Volkszählung 1970 dem
+Forschungsdatenzentrum der Statistischen Landesämter im Landesamt für Datenverarbeitung und</p>
+      </sec>
+    </sec>
+    <sec id="sec-7">
+      <title>Statistik Nordrhein-Westfalen zur Verfügung gestellt.</title>
+      <p>1.1 Kurzbeschreibung der Volks- und Berufszählung 1970
+Die Volks- und Berufszählung 1970 wurde in zwei Teilen durchgeführt: Als Vollerhebung, in der
+Merkmale erfragt wurden, die für regional und fachlich tief gegliederte Auswertungen nötig waren.
+Einer Stichprobe von 10% der Bevölkerung wurden zusätzlich Fragen gestellt, die weitergehende
+demographische, wirtschaftliche und soziale Strukturanalysen möglich machen. Die Ergänzungsfragen
+der 10% Stichprobe wurden teilweise allerdings nur an die deutsche Wohnbevölkerung gestellt.2
+1 Vom VASMA-Projekt wurden bei der Stichprobenziehung keine Haushaltsnummer vergeben und
+somit waren satzübergreifende, also haushalts- und familienbezogene Arbeiten kaum möglich.
+Angesichts der großen Bedeutung dieser Daten wurden die Haushalts- und Familiennummern
+nachträglich erstellt.
+2 „Da bei der Beantwortung der im Repräsentativteil zusätzlich gestellten Fragen durch Ausländer mit
+besonderen Schwierigkeiten zu rechnen war, wurden in die fremdsprachigen Erhebungspapiere
+Informationen zur 10-Prozent Stichprobe der Volks- und Berufszählung 1970:</p>
+    </sec>
+    <sec id="sec-8">
+      <title>Erhebungseinheiten:</title>
+    </sec>
+    <sec id="sec-9">
+      <title>Pers./Haush.:</title>
+    </sec>
+    <sec id="sec-10">
+      <title>Bevölkerung am Familienwohnsitz:</title>
+    </sec>
+    <sec id="sec-11">
+      <title>Erhebungsverfahren:</title>
+    </sec>
+    <sec id="sec-12">
+      <title>Aufbereitungseinheit:</title>
+    </sec>
+    <sec id="sec-13">
+      <title>Auswahlverfahren:</title>
+    </sec>
+    <sec id="sec-14">
+      <title>Auswahleinheiten:</title>
+    </sec>
+    <sec id="sec-15">
+      <title>Schichtungsmerkmale:</title>
+    </sec>
+    <sec id="sec-16">
+      <title>Auswahlsatz:</title>
+    </sec>
+    <sec id="sec-17">
+      <title>Auswahltechnik:</title>
+    </sec>
+    <sec id="sec-18">
+      <title>Hochrechnungsverfahren:</title>
+    </sec>
+    <sec id="sec-19">
+      <title>Haushalt/Person. Zuordnung</title>
+    </sec>
+    <sec id="sec-20">
+      <title>Bevölkerung in Privathaushalten: Personen mit mehr als einem Haushalt werden in jedem dieser Haushalte gezählt.</title>
+    </sec>
+    <sec id="sec-21">
+      <title>Personen mit mehreren Haushalten werden dem Haushalt</title>
+      <p>zugeordnet, von dem aus sie ihrer Ausbildung oder Arbeit
+nachgehen. Personen, die weder einer Ausbildung noch einer
+Arbeit nachgehen, werden dem Haushalt zugeordnet, in dem
+sie sich die meiste Zeit aufhalten.</p>
+    </sec>
+    <sec id="sec-22">
+      <title>Standardisiertes Interview.</title>
+    </sec>
+    <sec id="sec-23">
+      <title>Person, Haushalt.</title>
+    </sec>
+    <sec id="sec-24">
+      <title>Einstufig geschichtete Klumpenstichprobe</title>
+      <p>Eindeutig abgegrenzte Flächen mit etwa 80-100 Haushalten
+(Klumpen Zählerlisten der Gebäude- und Wohnungszählung
+1968). Alle Personen bzw. Haushalte eines Zählbezirks
+wurden befragt. Sonderregelung für große Anstalten
+Berücksichtigung der nach 1968 fertig- gestellten Neubauten.</p>
+    </sec>
+    <sec id="sec-25">
+      <title>Berlin: Auswahlbezirke auf der Basis einer aktuellen</title>
+    </sec>
+    <sec id="sec-26">
+      <title>Gebäudevorerhebung.</title>
+    </sec>
+    <sec id="sec-27">
+      <title>Schichtung der Flächeneinheiten i.d.R. nach Anzahl der</title>
+    </sec>
+    <sec id="sec-28">
+      <title>Haushalte und regionalen Merkmalen (Regierungsbezirk,</title>
+    </sec>
+    <sec id="sec-29">
+      <title>Kreis, Gemeinde). Auswahlgrundlage: Gebäude- und</title>
+    </sec>
+    <sec id="sec-30">
+      <title>Wohnungszählung 1968, unter Berücksichtigung der</title>
+      <p>Neubautätigkeit. Berlin: Allgemeine Gebäudevorerhebung.
+10 Prozent (Saarland: Vollerhebung auch bei den</p>
+    </sec>
+    <sec id="sec-31">
+      <title>Ergänzungsfragen).</title>
+    </sec>
+    <sec id="sec-32">
+      <title>Systematische Zufallsauswahl.</title>
+      <p>Kreisweise Anpassung an ausgewählte Basiszahlen aus dem</p>
+    </sec>
+    <sec id="sec-33">
+      <title>Totalteil durch Doppeln und Streichen ganzer Haushalte.</title>
+      <p>Anpassungsklassen sind Haushaltsgröße für Bevölkerung in
+Privathaushalten und Erwerbsstatus der Anstaltsbevölkerung
+(7 Klassen), Geschlecht, Alter und Erwerbsstatus der</p>
+    </sec>
+    <sec id="sec-34">
+      <title>Bevölkerung (12 Klassen) (vgl. Statistisches Bundesamt</title>
+      <p>1978a: 150). Zum Stichprobenfehler siehe Statistisches</p>
+      <p>Bundesamt (1978b: 81f).
+lediglich die Fragen des Totalteils, ergänzt um die zusätzlichen Fragen nach der einzelnen
+Staatsangehörigkeit und der einzelnen Religionszugehörigkeit aufgenommen“ (Statistisches
+Bundesamt 1978a: 44).
+In den Variablenbezeichnungen wird durch die Angabe der Nummer (Fxx) auf die
+entsprechende Frage im Fragebogen hingewiesen. Klammern mit W1 bis W8 verweisen
+dagegen auf verschiedene Bevölkerungsgruppen. Folgende Bevölkerungsgruppen werden in
+der Volkszählung unterschieden:
+• W1 Wohnberechtigte Bevölkerung
+• W2 Wohnbevölkerung
+• W3 Nichtwohnbevölkerung
+• W4 Wohnberechtigte Bevölkerung mit Hauptwohnsitz in der Erhebungsgemeinde
+• W5 Wohnbevölkerung mit weiterer Wohnung
+• W6 Wohnbevölkerung ohne weitere Wohnung
+• W7 Bevölkerung in Privathaushalten und in Anstalten
+• W8 Bevölkerung am Familienwohnsitz
+Die Berufsvariable V43 ist siebenstellig, die Berufsbezeichnungen sind aber nur für die ersten
+vier Stellen vergeben. Für die Auszählung wurden deshalb die letzten drei Stellen wie folgt
+abgeschnitten:
+*Generieren einer vierstelligen Berufsvariablen (V43)
+compute v43_o=v43.
+compute v43=trunc (v43/1000).</p>
+      <p>Die generierten Länderfiles enthalten sowohl die siebenstellige Originalvariable (v43_o) ohne
+Merkmalsbezeichnung (Value-Labels), als auch die generierte vierstellige Berufsvariable mit</p>
+    </sec>
+    <sec id="sec-35">
+      <title>Merkmalsbezeichnungen (v43).</title>
+      <p>1.2 Plausibilitätsprüfung
+Da die von der Abteilung Mikrodaten (GML) übernommenen Rohdaten im Rahmen des
+VASMAProjekts eingehend geprüft wurden, haben wir uns bei der Prüfung der Länderfiles auf nur wenige
+Variablen konzentriert um sicher zu stellen, dass es zu keinen groben Abweichungen zwischen
+veröffentlichten und von uns replizierten Zahlen kommt. Es konnten keine gravierenden
+Abweichungen festgestellt werden. Die Plausibilitätsprüfung der Volks- und Berufszählung 1970
+erfolgte durch den Vergleich der aufbereiteten Länderfiles mit den vom Statistischen Bundesamt
+veröffentlichen Tabellen in folgender Fachserie: Statistisches Bundesamt (1972): Zusammengefasste
+Daten über Bevölkerung und Erwerbstätigkeit für Bund und Länder. Fachserie A: Bevölkerung und</p>
+    </sec>
+    <sec id="sec-36">
+      <title>Kultur. Volkszählung vom 27. Mai 1970, Heft 3. V5: V9: V86:</title>
+    </sec>
+    <sec id="sec-37">
+      <title>Familienstand</title>
+    </sec>
+    <sec id="sec-38">
+      <title>Deutscher (ja/nein)</title>
+    </sec>
+    <sec id="sec-39">
+      <title>Wohnbevölkerungsgruppe</title>
+      <p>Beteiligung am Erwerbsleben</p>
+    </sec>
+    <sec id="sec-40">
+      <title>2. Schritt</title>
+      <sec id="sec-40-1">
+        <title>Datenaufbereitung</title>
+        <p>In den folgenden Abschnitten werden die einzelnen Schritte der Datenaufbereitung beschrieben.</p>
+      </sec>
+    </sec>
+    <sec id="sec-41">
+      <title>1. Schritt</title>
+      <p>SPSS-Systemfiles für die einzelnen Bundesländer
+Einlesen der von VASMA übernommenen bit-codierten Rohdaten für die einzelnen Bundesländer
+mit SPSS.</p>
+      <p>Für die bevölkerungsreichen Länder Baden-Württemberg, Bayern und Nordrhein-Westfahlen
+lagen zwei bzw. drei separate Rohdatenfiles vor, diese wurden einzeln eingelesen. Im
+bevölkerungsschwachen Saarland wurde eine Vollerhebung anstelle eines Auswahlsatzes von 10%
+realisiert, sodass diese Daten wegen ihres Umfangs ebenfalls in zwei getrennten Rohdatenfiles
+vorlagen.</p>
+      <p>Erstellen einzelner SPSS-Systemfiles, die Variable-/Value Labels, eine vierstellige Berufsvariabel
+(V43) und Formattransformationen enthalten.</p>
+      <p>Erstellen länderspezifischer SPSS-Gesamt-Systemfiles durch Zusammenfügen (add-files) der
+separaten SPSS-Files der Bundesländer Baden-Württemberg, Bayern, Nordrhein-Westfahlen und</p>
+    </sec>
+    <sec id="sec-42">
+      <title>Saarland.</title>
+      <p>Prüfung der einzelnen Systemfiles
+Erste Prüfung der eingelesenen Daten anhand des Codebuchs mit Grundauszählung der 1%
+Stichprobe der Volks- und Berufszählung 1970 (Frenzel, Nau &amp; Schimpl-Neimans 1995).
+Plausibilitätsprüfung ausgewählter Variablen, durch die Replikation einiger vom Statistischen
+Bundesamt veröffentlichten Tabellen mit den eingelesenen Daten.</p>
+      <p>Kontrolle der Abweichungen zwischen den Fallzahlen in den Veröffentlichungen und den
+replizierten Fallzahlen.
+2.2</p>
+      <p>Einlesen der bit-codierten Rohdaten, Erstellen eines SPSS-Systemfiles
+mit Variable-/Value Labels, vierstelliger Berufsvariablen (V43) und</p>
+      <sec id="sec-42-1">
+        <title>Formattransformationen</title>
+        <p>* setup_10.sps
+set width 132 length none header off.</p>
+        <p>Setup fuer 10%-Stichprobe der VZ'70 - bit-codierte Daten
+title 'Einlesen der bit-codierten Daten + Erstellen SPSS-Systemfile' .
+* TEST Datenfile /data/work/d/vz_10/70/file.c.disk.Z .
+V43
+V44
+V45
+V46
+V47
+V48
+V49
+V50
+V51
+V52
+V53
+V54
+V55
+V56
+V57
+V58
+V59
+V60
+V61
+V62
+V63
+V64
+V65
+V66
+V67
+V68
+V69
+V70
+V71
+V72
+V73
+V74
+V75
+V76
+V77
+V78
+V79
+V80
+V81
+V82
+V83
+V84
+V85
+V86
+V87
+V88
+V89
+V90
+V91
+V92
+V93
+V94
+V95
+V96
+V97
+V98
+V99
+V100
+V101
+V102
+V103
+V104
+14:7- 17:2
+17:3- 17:6
+17:7- 17:8
+18:1- 18:3
+18:4- 18:6
+18:7- 20:4
+20:5- 20:6
+20:7- 23:2
+23:3- 23:4
+23:5- 23:8
+24:1- 25:2
+25:3- 25:3
+25:4- 25:4
+25:5- 25:5
+25:6- 25:6
+25:7- 26:2
+26:3- 27:1
+27:2- 27:8
+28:1- 28:7
+28:8- 29:1
+29:2- 29:2
+29:3- 30:1
+30:2- 30:8
+31:1- 31:7
+31:8- 32:6
+32:7- 33:5
+33:6- 34:4
+34:5- 35:3
+35:4- 36:2
+36:3- 37:1
+37:2- 37:8
+38:1- 38:7
+38:8- 39:6
+39:7- 39:7
+39:8- 40:3
+40:4- 40:7
+40:8- 41:1
+41:2- 41:3
+41:4- 41:5
+41:6- 41:7
+41:8- 42:6
+42:7- 44:4
+44:5- 44:7
+44:8- 45:1
+45:2- 45:5
+45:6- 45:8
+46:1- 46:2
+46:3- 46:8
+47:1- 47:7
+47:8- 48:4
+48:5- 48:8
+49:1- 50:6
+50:7- 51:4
+51:5- 51:8
+52:1- 52:4
+52:5- 53:1
+53:2- 53:3
+53:4- 53:8
+54:1- 54:5
+54:6- 55:3
+55:4- 56:1
+56:2- 56:6
+V105
+V106
+V107
+V108
+V109
+V110
+V111
+V112
+V113
+V114
+V115
+V116
+V117
+V118
+V119
+V120
+V121
+V122
+V123
+V124
+V125
+V126
+V127
+V128
+V129
+V130
+V131
+V132
+V133
+V134
+V135
+V136
+V137
+V138
+V139
+V140
+V141
+V142
+V143
+V144
+V145
+V146
+V147
+V148
+V149
+V150
+V151
+V152
+V153
+V154
+V155
+V156
+V157
+V158
+V159
+V160
+V161
+V162
+V163
+V164
+V165
+V166
+56:7- 57:3
+57:4- 57:8
+58:1- 58:7
+58:8- 59:3
+59:4- 59:8
+60:1- 60:5
+60:6- 61:2
+61:3- 61:7
+61:8- 62:4
+62:5- 63:1
+63:2- 63:6
+63:7- 64:3
+64:4- 64:8
+65:1- 65:7
+65:8- 66:6
+66:7- 67:3
+67:4- 67:8
+68:1- 68:5
+68:6- 69:4
+69:5- 70:1
+70:2- 70:6
+70:7- 71:1
+71:2- 71:6
+71:7- 72:3
+72:4- 72:8
+73:1- 73:5
+73:6- 74:2
+74:3- 74:7
+74:8- 75:4
+75:5- 76:1
+76:2- 76:6
+76:7- 77:3
+77:4- 77:8
+78:1- 78:5
+78:6- 79:4
+79:5- 79:6
+79:7- 80:5
+80:6- 80:8
+81:1- 81:3
+81:4- 81:7
+81:8- 82:6
+82:7- 83:2
+83:3- 84:4
+84:5- 85:1
+85:2- 85:6
+85:7- 86:3
+86:4- 86:8
+87:1- 87:8
+88:1- 88:7
+88:8- 89:1
+89:2- 89:5
+89:6- 89:7
+89:8- 90:2
+90:3- 90:6
+90:7- 91:1
+91:2- 91:5
+91:6- 92:4
+92:5- 92:8
+93:1- 93:4
+93:5- 93:8
+94:1- 94:8
+95:1- 95:7
+V167
+V168
+V169
+V170
+V171
+V172
+V173
+V174
+V175
+V176
+V177
+V178
+V179
+V180
+V181
+V182
+V183
+V184
+V185
+V186
+V187
+V188
+V189
+V190
+V191
+V192
+V193
+V194
+V195
+V196
+V197
+V198
+V199
+V200
+V201
+V202
+V203
+V204
+V205
+95:8- 96:1
+96:2- 96:4
+96:5- 96:6
+96:7- 97:1
+97:2- 97:4
+97:5- 97:8
+98:1- 98:4
+98:5- 99:3
+99:4-101:1
+101:2-101:5
+101:6-102:1
+102:2-102:5
+102:6-102:8
+103:1-103:3
+103:4-103:7
+103:8-104:6
+104:7-105:1
+105:2-105:5
+105:6-106:1
+106:2-106:5
+106:6-107:1
+107:2-107:4
+107:5-107:8
+108:1-108:4
+108:5-108:5
+108:6-111:1
+111:2-112:7
+112:8-113:6
+113:7-114:5
+114:6-115:4
+115:5-117:2
+117:3-118:1
+118:2-120:5
+120:6-123:8
+124:1-125:2
+125:3-126:4
+126:5-127:4
+127:5-129:2
+129:3-130:2
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+/*
+subtitle 'Variable und Value Labels, Formatangaben'.
+* ------------------------------------------------------------------ .
+* bei variable labels in Klammern (F=Fragebogen-Nummer) bzw .
+* (W=Zaehlgroesse/Bevoelkerungstyp) .
+* value labels bei v43 nur fuer die ersten vier stellen! .
+* ------------------------------------------------------------------ .
+variable labels</p>
+        <p>V1 'Geschlecht (F1)'
+/V2 'Geburtsdatum: Tag (F2)'
+/V3 'Geburtsdatum: Monat (F2)'
+/V4 'Geburtsdatum: Jahr (F2)'
+/V5 'Familienstand (F3)'
+/V6 'Stellung zum Haushaltsvorstand (F4)'
+/V7 'Religion (F5)'
+/V8 'Religion (F5)'
+/V9 'Deutscher? Ja/Nein (F6)'
+/V10 'Staatsangehoerigkeit (F6)'
+/V11 'Andere Wohnung? Nein/Ja (F7)'
+/V12 'Gang zur Arbeit? Nein/Ja (F7)'
+/V13 'Leben in Wohnung? Nein/Ja (F7)'
+/V14 'Behoerdlich gemeldet? (F7)'
+/V15
+/V16
+/V17
+/V18
+/V19
+/V20
+/V21
+/V22
+/V23
+/V24
+/V25
+/V26
+/V27
+/V28
+/V29
+/V30
+/V31
+/V32
+/V33
+/V34
+/V35
+/V36
+/V37
+/V38
+/V39
+/V40
+/V41
+/V42
+/V43
+/V44
+/V45
+/V46
+/V47
+/V48
+/V49
+/V50
+/V51
+/V52
+/V53
+/V54
+/V55
+/V56
+/V57
+/V58
+/V59
+/V60
+/V61
+/V62
+/V63
+/V64
+/V65
+/V66
+/V67
+/V68
+/V69
+/V70
+/V71
+/V72
+/V73
+/V74
+/V75
+/V76
+'Auslandswohnung? Nein/Ja (F7)'
+'Ueberw. Lebensunterhalt (F8)'
+'Gegenw. Schulbesuch (F9)'
+'Volksschule? Nein/Ja (F10)'
+'Berufsschule? Nein/Ja (F10)'
+'Mittlere Reife? Nein/Ja (F10)'
+'Abitur? Nein/Ja (F10)'
+'Berufsfachschule? Nein/Ja (F10)'
+'Ingenieurschule? Nein/Ja (F10)'
+'Hochschule? Nein/Ja (F10)'
+'Erwerbstaetig? Nein/Ja (F11)'
+'Landwirt? Nein/Ja (F11)'
+'Mithelf. im Fam.betrieb? Nein/Ja (F11)'
+'Arbeitslos/-suchend? Nein/Ja (F11)'
+'Nicht erwerbstaetig? Nein/Ja (F11)'
+'Hausfrau? Nein/Ja (F11)'
+'Berufssoldat? Nein/Ja (F11)'
+'Verkehrsmittel (F13)'
+'Zeitaufwand (F14)'
+'Geschaeftszweig (F5)'
+'Stellung im Beruf (F16)'
+'Weitere Taetigkeit (F18)'
+'Arbeitszeit (F17)'
+'Wohnsitz am 1.9.1939 (F19)'
+'Nach Kriegsende a. Sowjetzone zugezogen (F20)'
+'Vertriebenenausweis (F21)'
+'Fruehere Erwerbstaetigkeit (F22)'
+'Zeitp. Aufgabe fruehere Erwerbst. (F23)'
+'Beruf (F24)'
+'Amtsbezeichnung bei Beamten (F24a)'
+'Maschinenbedienung (F25)'
+'Monatliches Nettoeinkommen (F26)'
+'Leitende Stellung (F27)'
+'Bei Selbst: Anzahl Beschaeftigter (F28)'
+'Lohnempf.unter d. Beschaeftigten? (F29)'
+'Landw. genutzte Flaeche (F30)'
+'Praktische Berufsausbildung? (F31)'
+'Abschluss prakt. Berufsausbildung? (F31)'
+'Erlernter Beruf (F32)'
+'Abschluss Technikerschule? (F33)'
+'Abschluss Berufsfachschule? (F33)'
+'Abschluss Ingenieurschule? (F33)'
+'Abschluss Hochschule? (F33)'
+'Dauer ges.Techn+Hochschulbildung (F34)'
+'Hauptfachrichtung des Abschlusses (F35)'
+'Jahr des letzten Abschlusses (F36)'
+'Eheschliessungsjahr (F37)'
+'Fruehere Ehe? (F38)'
+'Kinderlos? (F39)'
+'Geburtsjahr des 1. Kindes (F39)'
+'Geburtsjahr des 2. Kindes (F39)'
+'Geburtsjahr des 3. Kindes (F39)'
+'Geburtsjahr des 4. Kindes (F39)'
+'Geburtsjahr des 5. Kindes (F39)'
+'Geburtsjahr des 6. Kindes (F39)'
+'Geburtsjahr des 7. Kindes (F39)'
+'Geburtsjahr des 8. Kindes (F39)'
+'Geburtsjahr des 9. Kindes (F39)'
+'Geburtsjahr des 10. Kindes (F39)'
+'Geburtsjahr des 11. Kindes (F39)'
+'Geburtsjahr des 12. Kindes (F39)'
+'Telefon? Nein/Ja'
+/V77
+/V78
+/V79
+/V80
+/V81
+/V82
+/V83
+/V84
+/V85
+/V86
+/V87
+/V88
+/V89
+/V90
+/V91
+/V92
+/V93
+/V94
+/V95
+/V96
+/V97
+/V98
+/V99
+/V100
+/V101
+/V102
+/V103
+/V104
+/V105
+/V106
+/V107
+/V108
+/V109
+/V110
+/V111
+/V112
+/V113
+/V114
+/V115
+/V116
+/V117
+/V118
+/V119
+/V120
+/V121
+/V122
+/V123
+/V124
+/V125
+/V126
+/V127
+/V128
+/V129
+/V130
+/V131
+/V132
+/V133
+/V134
+/V135
+/V136
+/V137
+/V138
+'Wohnsitzgemeinde: Land'
+'Gemeindegroessenklasse des Wohnortes (W2)'
+'Anstaltskennzeichen'
+'10%-Kennzeichen alle'
+'Anstaltskennzeichen'
+'10%-Kennzeichen'
+'Anstaltsart'
+'Zahl der Anstalten je Gemeinde'
+'Personentyp'
+'Wohnbevoelkerungs-Gruppen'
+'Bevoelk. in Priv.HH/Fam.Wohnsitz (W7,W8)'
+'Beteiligung am Erwerbsleben (W1)'
+'Landw. Bevoelkerung? (W2)'
+'Diff. Ernaehrer/Ernaehrte (W1)'
+'Alter (W1)'
+'Anzahl der led.Pers. u 18J. (W1)'
+'Anzahl der lebendgeborenen Kinder'
+'Sozio-oekonomische Gliederung'
+'Sozio-oekonomische Gliederung-Auslaender'
+'Nettoerwerbseinkommen erweitert'
+'Vertriebenengruppe'
+'Haushaltstyp (W7)'
+'Ein-/Mehrfamilienhaushalt'
+'Anzahl Familien im HH'
+'Haushaltsgroesse: Wohnber.Bevoelk. (W1)'
+'Haushaltsgroesse: Wohnbevoelkerung (W2)'
+'Haushaltsgroesse: Bev. in PrivatHH+Anstalten (W7)'
+'Anzahl Einkommensbezieher im HH'
+'Anzahl Eink.bez. im HH mit nur Dt.'
+'Anzahl Eink.bez. im HH mit Ausl.'
+'Max. Einkommen im HH mit nur Dt.'
+'Ueberw. Lebensunterh. der HH-Mitgl.'
+'Anzahl Erwerbspersonen im HH'
+'Anz. Mith. Fam.angeh./HH'
+'Anz. lediger Kinder im HH insgesamt'
+'Anz. lediger Kinder 18J. und mehr'
+'Anz. lediger Kinder unter 18J.'
+'Anz. lediger Kinder unter 15J.'
+'Anz. lediger Kinder unter 10J.'
+'Anz. lediger Kinder unter 6J.'
+'Anz. lediger Kinder unter 3J.'
+'Familientyp (W7) 1 Byte'
+'Familientyp (W7) 2 Byte'
+'Fam.groesse (W7)'
+'Anz Eink.bez.in Fam. nur Dt. (W8)'
+'Anz Eink.bez.in Fam. mit Ausl.'
+'Max Eink.in Fam. mit nur Deutschen'
+'Anz. Ernaehr. Kinder/Fam.'
+'Anz. Ernaehr. Kinder in Ausb./Fam.'
+'Religionszugehoerigkeit der Kinder'
+'Anzahl lediger Kinder in Familie'
+'Anz. led. Kinder in Fam. 21J.u.m.'
+'Anz. led. Kinder in Fam. 18-21J.'
+'Anz. led. Kinder in Fam. 15-18J.'
+'Anz. led. Kinder in Fam. 14-15J.'
+'Anz. led. Kinder in Fam. 10-14J.'
+'Anz. led. Kinder in Fam. 6-10J.'
+'Anz. led. Kinder in Fam. 4-6J.'
+'Anz. led. Kinder in Fam. 3-4J.'
+'Anz. led. Kinder in Fam. 2-3J.'
+'Anz. led. Kinder in Fam. 1-2J.'
+'Anz. led. Kinder in Fam. unter 1J.'
+/V139
+/V140
+/V141
+/V142
+/V143
+/V144
+/V145
+/V146
+/V147
+/V148
+/V149
+/V150
+/V151
+/V152
+/V153
+/V154
+/V155
+/V156
+/V157
+/V158
+/V159
+/V160
+/V161
+/V162
+/V163
+/V164
+/V165
+/V166
+/V167
+/V168
+/V169
+/V170
+/V171
+/V172
+/V173
+/V174
+/V175
+/V176
+/V177
+/V178
+/V179
+/V180
+/V181
+/V182
+/V183
+/V184
+/V185
+/V186
+/V187
+/V188
+/V189
+/V190
+/V191
+/V192
+/V193
+/V194
+/V195
+/V196
+/V197
+/V198
+/V199
+/V200
+'Alter juengstes Kind in Familie'
+'Geschl. des Ernaehrers (W1)'
+'Alter des Ernaehrers (W1)'
+'Beteiligung am Erwerbsleben des Ernaehreres'
+'Ueberwiegender Lebensunterhalt Ernaehrer'
+'Stellung im Beruf d. Ernaehrers (W1)'
+'Wirtschaftszweig d. Ernaehrers (W1)'
+'Einkommen des Ernaehrers'
+'Berufsgruppe des Ernaehrers'
+'Anz. Ernaehrte maennl. (W1)'
+'Anz. Ernaehrte weibl. (W1)'
+'Anz. Ernaehrte maennl. (W2)'
+'Anz. Ernaehrte weibl. (W2)'
+'Geburtsjahr des Ehepartners'
+'Alter des Ehepartners'
+'Ehepartner vor/nach Stichtag geboren'
+'Religion des Ehepartners'
+'Ehepartner schon vorher verheiratet?'
+'Beteil. am Erwerbsleben d. Ehepartners'
+'Einkommen des Ehepartners'
+'Ueberw. Lebensunterh. d.Ehepartners'
+'Stellung im Beruf des Ehepartners'
+'Geschaeftszweig des Ehepartners'
+'Schulabschluss des Ehepartners'
+'Schulbesuch des Ehepartners'
+'Vertriebenengruppe des Ehepartners'
+'Geburtsjahr des Familienvorstands (FV)'
+'Alter des FV'
+'Geschlecht des FV'
+'Familienstand des FV'
+'FV schon vorher verheiratet?'
+'Beteiligung am Erwerbsleben des FV'
+'Ueberw. Lebensunterhalt des FV'
+'Einkommen des FV'
+'Stellung im Beruf des FV'
+'Geschaeftszweig des FV'
+'Sozio-oekonomische Gliederung d. FV'
+'Schulbesuch des FV'
+'Schulabschluss des FV'
+'Vertriebenengruppe des FV'
+'Familienstand der Mutter'
+'Beteil. am Erwerbsleben der Mutter'
+'Stellung im Beruf der Mutter'
+'Geschaeftszweig der Mutter'
+'Ueberw.Lebensunterhalt der Mutter'
+'Schulbesuch der Mutter'
+'Schulabschluss der Mutter'
+'Hausnummer-Zusatz'
+'Prioritaetsmerkmal'
+'Belegart'
+'Hausnummer-Zusatz'
+'Prioritaetsmerkmal'
+'Belegart'
+'Korrekturnummer'
+'Buendelnummer'
+'Zaehlerlistennummer'
+'Anstaltslisten-Nr 1-Byte'
+'Anstaltslisten-Nr 2-Byte'
+'Zaehlbezirksnummer'
+'Haushaltsnummer'
+'Paginiernummer'
+'VZ-Kenn-Nummer'
+/V201
+/V202
+/V203
+/V204
+/V205
+'Wohnsitzgemeinde/Kreis'
+'Wohngemeinde/Gemeinde'
+'Zielgemeinde/Land'
+'Zielgemeinde/Gemeinde'
+'Auspendler ueber Landesgrenzen'.
+/V5
+/V6
+/V7
+99 '99 JAHRE'
+126 'Code unklar'
+/V143 0 'KEINE ANGABE'
+1 'ERWERBSTAETIGKEIT'
+2 'ARBEITSLOSENGELD/-HILFE'
+3 'RENTE, PENSION'
+5 'EIG. VERMOEGEN, VERMIETUNG, ZINSEN, ALTENTEIL'
+6 'SOZIALHILFE, SONST. UNTERSTUETZUNGEN'
+/V144 V173 V181
+0 'KEINE ANGABE'
+1 'ARBEITER'
+2 'GEWERBLICHER LEHRLING'
+3 'ANGESTELLTER'
+4 'KAUFM.,TECHN.,VERW. LEHRLING'
+5 'BEAMTER'
+6 'SELBSTAENDIGER'
+7 'MITHELF. FAM.ANGEH.'
+/V34 V145 V161 V174 V182
+0 'KEINE ANGABE'
+1 'LANDWIRTSCHAFT (OHNE GARTENBAU)'
+2 'FORSTWIRTSCHAFT'
+3 'GARTENBAU, GEW. GAERTNEREI U. TIERHALTUNG, -ZUCHT, -PFLEGE'
+4 'HOCHSEE-/KUESTENFISCHEREI'
+5 'BINNENFISCHEREI, FISCHZUCHT'
+6 'ENERGIEWIRTSCHAFT, WASSERVERSORGUNG'
+7 'KOHLENBERGBAU'
+8 'ERZBERGBAU'
+9 'GEWINNUNG VON ERDOEL, ERDGAS, BITUMINOESEN GESTEINEN'
+10 'KALI- STEINSALZBERGBAU, SALINEN, UEBRIG. BERGBAU'
+11 'CHEMISCHE INDUSTRIE (OHNE 12, INCL. KOHLENWASSERSTOFFINDUS.)'
+12 'HERSTELLUNG VON CHEMIEFASERN'
+13 'MINERALOELVERARBEITUNG'
+14 'KUNSTSTOFF-, GUMMI-, ASBESTVERARBEITUNG'
+15 'GEWINNUNG VON BAUMATERIAL; FEUERFESTE U. KERAMISCHE ERDEN'
+16 'SONST. GEWINNUNG + VERARBEITUNG VON STEINEN UND ERDEN'
+17 'FEINKERAMIK, HERST.+VERARB. VON GLAS'
+18 'EISEN- + NE-METALLERZEUGUNG (INCL. HALBWERKZEUGE)'
+19 'GIESSEREI'
+20 'ZIEHEREIEN UND KALTWALZWERKE'
+21 'STAHLVERFORMUNG, OBERFLAECHENVEREDLUNG, ... '
+22 'HOCHBAU, HERST. V. STAHL- + LEICHTMETALLBEHAELTERN'
+23 'WAGGON-, FELD- U. INDUSTRIEWAGENBEREICH'
+24 'MONTAGE + REPARATUR V. LUEFTUNGS- U.A. ANLAGEN'
+25 'MASCHINENBAU (OHNE 26)'
+26 'HERSTELL. V. BUEROMASCHINEN, EDV-GERAETEN U. -EINRICHTUNGEN'
+27 'HERSTELL. V. KRAFTWAGEN, KFZ-TEILEN U. -KAROSSERIEN'
+28 'HERSTELL. V. KRAFTRAEDERN, -MOTOREN, FAHRRAEDERN ...'
+29 'KFZ-REPARATUR, LACKIERUNG VON STRASSENFAHRZEUGEN'
+30 'SCHIFF-, LUFTFAHRZEUGBAU'
+31 'ELEKTROTECHNIK'
+32 'FEINMECHANIK UND OPTIK, HERSTELLUNG UND REPARATUR VON UHREN'
+33 'HERSTELL. V. EBM-WAREN (OHNE 34)'
+34 'HERSTELL. V. KRAFTRAD-/FAHRRADTEILEN, KFZ-/FAHRRADZUBEHOER'
+35 'HERSTELL. V. MUSIKINSTR., SPIEL-/SCHMUCKWAREN, SPORTGER.'
+36 'SAEGE-, HOLZBEARBEITUNGSWERKE, HOLZVERARBEITUNG'
+37 'PAPIERERZEUGUNG, -VERARBEITUNG'
+38 'DRUCKEREI + VERVIELFAELTIGUNG'
+39 'LEDERERZEUGUNG UND -VERARBEITUNG (OHNE 40,41)'
+40 'SERIENFERTIGUNG VON LEDERSCHUHEN (OHNE 41)'
+41 'HERSTELLUNG VON MASS-SCHUHEN U. REPARATUR VON SCHUHEN'
+42 'TEXTILGEWERBE'
+43 'BEKLEIDUNGSGEWERBE'
+44 'POLSTEREI, DEKORATEURGEWERBE'
+45 'NAHRUNGS- U. GENUSSMITTELGEWERBE (OHNE 46,47,48)'
+46 'FLEISCHEREI'
+47 'GETRAENKEHERSTELLUNG'
+48 'TABAKVERARBEITUNG'
+49 'BAUHAUPTGEWERBE (OHNE 50)'
+50 'ZIMMEREI UND DACHDECKEREI'
+51 'AUSBAU- UND BAUHILFSGEWERBE'
+52 'GROSSHANDEL M. WAREN VERSCH. ART, ROHSTOFFEN, HALBWAREN'
+53 'GROSSHANDEL MIT NAHRUNGS- UND GENUSSMITTELN'
+54 'GROSSH. M. BEKLEIDUNG,WAESCHE,AUSSTATTUNGS-/SPORTART.,SCHUHE'
+55 'GROSSH. M. EISEN-/ELEKTROTECH.-/SCHMUCK-/SPIEL-/AEHN. WAREN'
+56 'GROSSH. M. FAHRZEUGEN, MASCHINEN,TECHN.U.SPEZIALBEDARF'
+57 'GROSSHANDEL MIT PHARMAZEUTISCHEN (U.VERWANDT.) ERZEUGNISSEN'
+58 'GROSSHANDEL MIT PAPIER, PAPIERWAREN, DRUCKERZEUGNISSEN'
+59 'HANDELSVERMITTLUNG'
+60 'EINZELHANDEL MIT WAREN VERSCH. ART (OHNE GEMISCHTW.-HAND.)'
+61 'EINZELHANDEL MIT NAHRUNGS- UND GENUSSMITTELN'
+62 'EINZELHANDEL MIT BEKLEIDUNG,WAESCHE,AUSSTATTUNGS-/SPORTARTI.'
+63 'EINZELHANDEL MIT EISEN-/METALLWAREN,HAUSRAT,WOHNBEDARF'
+64 'EINZELHANDEL MIT PAPIERWAREN,DRUCKERZEUGNISSEN'
+65 'EINZELH. M. PHARMAZEUTISCHEN (U.VERWANDT.) ERZEUGNISSEN'
+66 'EINZELHANDEL SONSTIGE WAREN'
+67 'EISENBAHNEN'
+68 'DEUTSCHE BUNDESPOST'
+69 'STRASSENVERKEHR'
+70 'SCHIFFAHRT, WASSERSTRASSEN, HAEFEN'
+71 'LUFTFAHRT, FLUGPLAETZE'
+72 'UEBRIGES VERKEHRSGEWERBE'
+73 'KREDIT- U. SONSTIGE FINANZIERUNGSINSTITUTE'
+74 'VERSICHERUNGSGEWERBE'
+75 'GASTSTAETTEN- UND BEHERBERGUNGSGEWERBE'
+76 'WAESCHEREIEN,CHEM.REINIGUNG,FAERBEREI,HEISSMANGEL,BUEGELEI'
+77 'RAUM-/GEBAEUDEREINIGUNG,SCHORNSTEINFEGEREIGEWERBE'
+78 'FRISEUR- UND SONST. KOERPERPFLEGEGEWERBE'
+79 'WISSENSCHAFT, BILDUNG, ERZIEHUNG, SPORT'
+80 'KUNST, THEATER, FILM, RUNDFUNK, FERNSEHEN'
+81 'VERLAGSWESEN'
+82 'LITERATUR- UND PRESSEWESEN'
+83 'GESUNDHEITS- UND VETERINAERWESEN'
+84 'RECHTSBERATUNG, WIRTSCHAFTSBERATUNG, -PRUEFUNG'
+85 'ARCHITEKTUR- UND INGENIEURBUEROS,LABORATORIEN U.AE.INSTITUTE'
+86 'WIRTSCHAFTSWERBUNG (OHNE AUSSTELLUNGS-/MESSEWESEN)'
+87 'GRUNDSTUECKS- + WOHNUNGSWESEN, VERMOEGENSVERWALTUNG'
+88 'AUSSTELLUNGSWESEN,AUSKUNFTSBUEROS,WACHDIENSTE,VERPACKUNGSGEW'
+89 'SCHAUSTELLUNG, WETT-/LOTTERIEWESEN,SPIELBANKEN'
+90 'LEIHHAEUSER, VERSTEIGERUNGSGEWERBE, HYGIEN. U.AE. EINRICHT.'
+91 'VERMIETUNG BEWEGL. SACHEN (OHNE BUCH-/ZEITUNGS-/FILMVERLEIH)'
+92 'FOTOGRAFISCHES GEWERBE'
+93 'CHRISTL.KIRCHEN, ORDEN, RELIG.U.WELTANSCHAUL.VEREINIGUNGEN'
+94 'ORGAN. D. ERZIEHUNG,WISSENSCHAFT,KULTUR,SPORT-/JUGENDPFLEGE'
+95 'ORGANISATIONEN DES WIRTSCHAFTSLEBENS'
+96 'SONST.ORG.OHNE ERWERBSCHAR. (WOHLFAHRTSORG.,POL.PARTEIEN)'
+97 'PRIVATE HAUSHALTE'
+98 'GEBIETSKOERPERSCHAFTEN'
+99 'SOZIALVERSICHERUNG'
+100 'TRIFFT NICHT ZU (NICHT ERWERBSTAETIG)'
+/V96 V146 V158 V172
+0 'KEINE ANGABE'
+1 'UNTER 300 DM'
+2 ' 300 BIS UNTER 500 DM'
+3 ' 500 BIS UNTER 800 DM'
+876 'SPORTLEHRER'
+877 'SONSTIGE LEHRER'
+881 'VOLKSWIRTSCHAFTLER, SOZIALWISSENSCHAFTLER, STATISTIKER'
+882 'GEISTESWISSENSCHAFTLER'
+883 'NATURWISSENSCHAFTLER'
+891 'SEELSORGER'
+892 'ANGEH. GEISTL. ORDEN O.ANG. EINER BERUFSTAETIGKEIT'
+893 'SEELSORGE-, KULTHELFER'
+901 'FRISEURE'
+902 'SONSTIGE KOERPERPFLEGER'
+911 'GASTWIRTE, HOTELIERS, GASTSTAETTENKAUFLEUTE'
+912 'KELLNER, STEWARDS'
+913 'UEBRIGE GAESTEBETREUER'
+921 'HAUSWIRTSCHAFTSVERWALTER'
+922 'VERBRAUCHERBERATER'
+923 'HAUSWIRTSCHAFTLICHE BETREUER'
+931 'WAESCHER, PLAETTER'
+932 'TEXTILREINIGER, -FAERBER, CHEMIEREINIGER'
+933 'RAUM-, HAUSRATSREINIGER'
+934 'GLAS-, GEBAEUDEREINIGER'
+935 'STRASSENREINIGER, ABFALLBESEITIGER'
+936 'FAHRZEUGREINIGER, -PFLEGER'
+937 'MASCHINEN-, BEHAELTERREINIGER U. VERWANDTE BERUFE'
+971 'MITH. FAMILIENANG. AUSSERHALB DER LANDWIRTSCHAFT'
+981 'LEHRLINGE MIT NOCH NICHT FESTSTEHENDEM BERUF'
+982 'PRAKTIKANTEN MIT NOCH NICHT FESTSTEHENDEM BERUF'
+983 'ARBEITSKRAEFTE (ARB.SUCHEND) MIT NOCH NICHT FEST. BERUF'
+991 'ARBEITSKRAEFTE OHNE NAEHERE TAETIGKEITSANGABE'
+1000 'TRIFFT NICHT ZU, NICHTERWERBSTAETIG'
+/V148 V150
+0 '0 Personen'
+1 '1 Person'
+2 '2 Personen'
+3 '3 Personen'
+4 '4 Personen'
+5 '5 Personen'
+6 '6 Personen'
+7 '7 Personen'
+8 '8 Personen'
+9 '9 Personen'
+/V149 V151
+0 '0 Personen'
+1 '1 Person'
+2 '2 Personen'
+3 '3 Personen'
+4 '4 Personen'
+5 '5 Personen'
+6 '6 Personen'
+7 '7 Personen'
+8 '8 Personen'
+9 '9 Personen'
+10 '10 Personen'
+/V152 0 'KEINE ANGABE'
+1 'Code unklar'
+2 'Code unklar'
+3 'Code unklar'
+4 'Code unklar'
+5 'Code unklar'
+6 'Code unklar'
+7 'Code unklar'
+8 'Code unklar'
+9 'Code unklar'
+10 'Code unklar'
+11 'Code unklar'
+12 'Code unklar'
+13 'Code unklar'
+14 'Code unklar'
+15 'Code unklar'
+16 'Code unklar'
+17 'Code unklar'
+18 'Code unklar'
+19 'Code unklar'
+20 'Code unklar'
+21 'Code unklar'
+22 'Code unklar'
+23 'Code unklar'
+24 'Code unklar'
+25 'Code unklar'
+26 'Code unklar'
+27 'Code unklar'
+28 'Code unklar'
+29 'Code unklar'
+30 'Code unklar'
+31 'Code unklar'
+32 'Code unklar'
+33 'Code unklar'
+34 'Code unklar'
+35 'Code unklar'
+36 'Code unklar'
+37 'Code unklar'
+38 'Code unklar'
+39 'Code unklar'
+40 'Code unklar'
+41 'Code unklar'
+42 'Code unklar'
+43 'Code unklar'
+44 'Code unklar'
+45 'Code unklar'
+46 'Code unklar'
+47 'Code unklar'
+48 'Code unklar'
+49 'Code unklar'
+50 'Code unklar'
+51 'Code unklar'
+52 'Code unklar'
+53 'Code unklar'
+54 'Code unklar'
+55 'Code unklar'
+56 'Code unklar'
+57 'Code unklar'
+58 'Code unklar'
+59 'Code unklar'
+60 'Code unklar'
+61 'Code unklar'
+62 'Code unklar'
+63 'Code unklar'
+64 'Code unklar'
+65 'Code unklar'
+66 'Code unklar'
+67 'Code unklar'
+68 'Code unklar'
+69 'Code unklar'
+70 'Code unklar'
+71 'Code unklar'
+72 'Code unklar'
+73 'Code unklar'
+80 'Code unklar'
+81 'Code unklar'
+82 'Code unklar'
+83 'Code unklar'
+84 'Code unklar'
+85 'Code unklar'
+113 'Code unklar'
+114 'Code unklar'
+115 'Code unklar'
+116 'Code unklar'
+117 'Code unklar'
+118 'Code unklar'
+119 'Code unklar'
+120 'Code unklar'
+121 'Code unklar'
+128 'Code unklar'
+129 'Code unklar'
+130 'Code unklar'
+131 'Code unklar'
+132 'Code unklar'
+133 'Code unklar'
+134 'Code unklar'
+135 'Code unklar'
+136 'Code unklar'
+137 'Code unklar'
+144 'Code unklar'
+145 'Code unklar'
+146 'Code unklar'
+147 'Code unklar'
+148 'Code unklar'
+149 'Code unklar'
+150 'Code unklar'
+151 'Code unklar'
+152 'Code unklar'
+153 'Code unklar'
+178 'Code unklar'
+195 'Code unklar'
+197 'Code unklar'
+200 'Code unklar'
+240 'Code unklar'
+/V153 0 'KEINE ANGABE'
+10 '10 JAHRE'
+15 '15 JAHRE'
+16 '16 JAHRE'
+17 '17 JAHRE'
+18 '18 JAHRE'
+19 '19 JAHRE'
+20 '20 JAHRE'
+21 '21 JAHRE'
+22 '22 JAHRE'
+23 '23 JAHRE'
+24 '24 JAHRE'
+25 '25 JAHRE'
+26 '26 JAHRE'
+27 '27 JAHRE'
+28 '28 JAHRE'
+29 '29 JAHRE'
+30 '30 JAHRE'
+31 '31 JAHRE'
+32 '32 JAHRE'
+12 'Code unklar'
+13 'Code unklar'
+14 'Code unklar'
+15 'Code unklar'
+16 'Code unklar'
+17 'Code unklar'
+18 'Code unklar'
+19 'Code unklar'
+20 'Code unklar'
+21 'Code unklar'
+22 'Code unklar'
+23 'Code unklar'
+24 'Code unklar'
+25 'Code unklar'
+26 'Code unklar'
+27 'Code unklar'
+28 'Code unklar'
+29 'Code unklar'
+30 'Code unklar'
+31 'Code unklar'
+32 'Code unklar'
+33 'Code unklar'
+34 'Code unklar'
+35 'Code unklar'
+36 'Code unklar'
+37 'Code unklar'
+38 'Code unklar'
+39 'Code unklar'
+40 'Code unklar'
+41 'Code unklar'
+42 'Code unklar'
+43 'Code unklar'
+44 'Code unklar'
+45 'Code unklar'
+46 'Code unklar'
+47 'Code unklar'
+48 'Code unklar'
+49 'Code unklar'
+50 'Code unklar'
+51 'Code unklar'
+52 'Code unklar'
+53 'Code unklar'
+54 'Code unklar'
+55 'Code unklar'
+56 'Code unklar'
+57 'Code unklar'
+58 'Code unklar'
+59 'Code unklar'
+60 'Code unklar'
+61 'Code unklar'
+62 'Code unklar'
+63 'Code unklar'
+64 'Code unklar'
+65 'Code unklar'
+66 'Code unklar'
+67 'Code unklar'
+68 'Code unklar'
+69 'Code unklar'
+70 'Code unklar'
+71 'Code unklar'
+72 'Code unklar'
+73 'Code unklar'
+80 'Code unklar'
+81 'Code unklar'
+82 'Code unklar'
+83 'Code unklar'
+84 'Code unklar'
+113 'Code unklar'
+114 'Code unklar'
+115 'Code unklar'
+116 'Code unklar'
+117 'Code unklar'
+118 'Code unklar'
+119 'Code unklar'
+120 'Code unklar'
+121 'Code unklar'
+128 'Code unklar'
+129 'Code unklar'
+130 'Code unklar'
+131 'Code unklar'
+132 'Code unklar'
+133 'Code unklar'
+134 'Code unklar'
+135 'Code unklar'
+136 'Code unklar'
+137 'Code unklar'
+144 'Code unklar'
+145 'Code unklar'
+146 'Code unklar'
+147 'Code unklar'
+148 'Code unklar'
+149 'Code unklar'
+150 'Code unklar'
+151 'Code unklar'
+152 'Code unklar'
+153 'Code unklar'
+195 'Code unklar'
+230 'Code unklar'
+240 'Code unklar'
+/V166 0 'KEINE ANGABE'
+17 '17 JAHRE'
+18 '18 JAHRE'
+19 '19 JAHRE'
+20 '20 JAHRE'
+21 '21 JAHRE'
+22 '22 JAHRE'
+23 '23 JAHRE'
+24 '24 JAHRE'
+25 '25 JAHRE'
+26 '26 JAHRE'
+27 '27 JAHRE'
+28 '28 JAHRE'
+29 '29 JAHRE'
+30 '30 JAHRE'
+31 '31 JAHRE'
+32 '32 JAHRE'
+33 '33 JAHRE'
+34 '34 JAHRE'
+35 '35 JAHRE'
+36 '36 JAHRE'
+37 '37 JAHRE'
+38 '38 JAHRE'
+39 '39 JAHRE'
+40 '40 JAHRE'
+1 'MAENNLICH'
+2 'WEIBLICH'
+/V168 V179
+0 'KEINE ANGABE'
+1 'LEDIG'
+2 'VERHEIRATET'
+3 'VERWITWET'
+4 'GESCHIEDEN'
+/V94 V175</p>
+        <p>0 'KEINE ANGABE'
+1111 'SELBST. ARBEITG.I.D.LANDWIRTSCHAFT,MIT LANDW FLAECHE &lt;0.5 HA'
+1112 'SELBST. ARBEITGEBER IN DER LANDWIRTSCHAFT..., 0.5-2 HA'
+1113 'SELBST. ARBEITGEBER IN DER LANDWIRTSCHAFT..., 2-10 HA'
+1114 'SELBST. ARBEITGEBER IN DER LANDWIRTSCHAFT..., 10-30 HA'
+1115 'SELBST. ARBEITGEBER IN DER LANDWIRTSCHAFT..., 30&lt;= HA'
+1121 'SELBST. NICHTARBEITG. IN LANDW., NUR MITH.FAM.ANG., &lt;0.5 HA'
+1122 'SELBST. NICHTARBEITG. IN LANDW., NUR MITH.FAM.ANG., 0.5-2 HA'
+1123 'SELBST. NICHTARBEITG. IN LANDW., NUR MITH.FAM.ANG., 2-10 HA'
+1124 'SELBST. NICHTARBEITG. IN LANDW., NUR MITH.FAM.ANG., 10-30 HA'
+1125 'SELBST. NICHTARBEITG. IN LANDW., NUR MITH.FAM.ANG., 30&lt;= HA'
+1131 'SELBST. NICHTARBEITG. IN LANDW., ALLEINSCHAFFEND, &lt;0.5 HA'
+1132 'SELBST. NICHTARBEITG. IN LANDW., ALLEINSCHAFFEND, 0.5-2 HA'
+1133 'SELBST. NICHTARBEITG. IN LANDW., ALLEINSCHAFFEND, 2-10 HA'
+1134 'SELBST. NICHTARBEITG. IN LANDW., ALLEINSCHAFFEND, 10-30 HA'
+1135 'SELBST. NICHTARBEITG. IN LANDW., ALLEINSCHAFFEND, 30&lt;= HA'
+1141 'SELBST. LANDWIRT OHNE LANDW. FLAECHE, 2-9 BESCHAEFTIGTE'
+1142 'SELBST. LANDWIRT, OHNE LANDW. FLAECHE 10-49 BESCHAEFTIGTE'
+1143 'SELBST. LANDWIRT, OHNE LANDW. FLAECHE 50-99 BESCHAEFTIGTE'
+1151 'SELBST. LANDWIRT, NUR MITH. FAM.ANGEH., 2 BESCHAEFTIGTE'
+1152 'SELBST. LANDWIRT, NUR MITH. FAM.ANGEH., 3&lt;= BESCHAEFTIGTE'
+1161 'SELBST. NICHTARBEITG. I.D. LANDW. OHNE FL., ALLEINSCHAFFEND'
+1162 'SELBST. NICHTARBEITG. I.D. LANDW. OHNE FL., ALLEINSCHAFFEND'
+1211 'SELBST. A.D. LANDWIRT., 2-9 BESCHAEFTIGTE (OHNE 13XX,14XX)'
+1212 'SELBST. A.D. LANDWIRTSCHAFT, 10-49 BESCHAEFTIGTE (OHNE...)'
+1213 'SELBST. A.D. LANDWIRTSCHAFT, 50-99 BESCHAEFTIGTE (OHNE...)'
+1214 'SELBST. A.D. LANDWIRTSCHAFT, 100-499 BESCHAEFTIGTE (OHNE.)'
+1215 'SELBST. A.D. LANDWIRTSCHAFT, 500&lt;= BESCHAEFTIGTE (OHNE ..)'
+1231 'SELBST. A.D. LANDW., NUR MITH.FAM.ANGEH., 2 BE. (OHNE ...)'
+1232 'SELBST. A.D. LANDW., NUR MITH.FAM.ANGEH., 3&lt;= BESCH.(OHNE)'
+1241 'SELBST. A.D. LANDW., ALLEINSCHAFFEND (OHNE 13XX,14XX)'
+1311 'SELBST. HANDELSVERTR., ARBEITGEBER, 2-9 BESCHAEFTIGTE'
+1312 'SELBST. HANDELSVERTR., ARBEITGEBER, 10&lt;= BESCHAEFTIGTE'
+1321 'SELBST. HANDELSVERTR., NUR MITH. FAM.ANGEH., 2 BESCHAEFTIGTE'
+1322 'SELBST. HANDELSVERTR., NUR MITH.FAM.ANGEH., 3&lt;= BESCHAEFT.'
+1331 'SELBST. HANDELSVERTRETER, ALLEINSCHAFFEND'
+1411 'SELBST. AMBULANTE HAENDLER, 2-9 BESCHAEFTIGTE'
+1412 'SELBST. AMBULANTE HAENDLER, 10&lt;= BESCHAEFTIGTE'
+1421 'SELBST. AMBUL. HAENDLER, NUR MITH.FAM.ANG., 2 BESCHAEFT.'
+1422 'SELBST. AMBUL. HAENDLER, NUR MITH.FAM.ANG., 3&lt;= BESCHAEFT.'
+1431 'SELBST. AMBULANTE HAENDLER, ALLEINSCHAFFEND'
+2111 'SELBST. FREIE BERUFE, 2-9 BESCHAEFTIGTE'
+2112 'SELBST. FREIE BERUFE, 10&lt;= BESCHAEFTIGTE'
+2131 'SELBST. FREIE BERUFE, NUR MITH. FAM.ANGEH., 2 BESCHAEFTIGTE'
+2132 'SELBST. FREIE BERUFE, NUR MITH.FAM.ANGEH., 3&lt;= BESCHAEFTIGTE'
+2141 'SELBST. FREIE BERUFE, ALLEINSCHAFFEND'
+3111 'MITH. FAM.ANGEH. I.D. LANDW., MIT ABGESCHL. BERUFSAUSBILDUNG'
+3121 'MITH. FAM.ANGEH. I.D. LANDW., OHNE ABGESCHL. BERUFSAUSBILD.'
+3211 'MITH. FAM.ANGEH. A.D. LANDW., MIT ABGESCHL. BERUFSAUSBILDUNG'
+3221 'MITH. FAM.ANGEH. A.D. LANDW., OHNE ABGESCHL. BERUFSAUSBILD.'
+4111 'BEAMTE HOEHERER DIENST'
+4121 'BEAMTE GEHOBENER DIENST'
+4131 'BEAMTE MITTLERER DIENST'
+4141 'BEAMTE EINFACHER DIENST'
+4211 'LEITENDE, AUFSICHTSF. ANGESTELLTE, OBERE FUEHRUNGSEBENE'
+4221 'LEITENDE, AUFSICHTSF. ANGESTELLTE, MITTLERE FUEHRUNGSEBENE'
+4222 'INDUSTRIE-,WERKMEISTER IM ANGESTELLTENVERHAELTNIS'
+4231 'ANGEST.M.HOCHSCHULABSCHLUSS (OHNE LEITUNGS-/FUEHRUNGSAUFG.)'
+4241 'UEBRIGE ANGESTELLTE, BEDIENUNG VOLL-+HALBAUTOM. MASCHINEN'
+4242 'UEBRIGE ANGESTELLTE, BEDIENUNG SONSTIGER MASCHINEN'
+4243 'UEBRIGE ANGESTELLTE, KEINE MASCHINENBEDIENUNG'
+4311 'MEISTER, POLIERE, KOLONNENFUEHRER, VORARBEITER'
+4321 'GEL. ARBEITER O. AUFSICHTSF. STELLUNG, VOLL/HALBAUT. MASCH.'
+4322 'GEL. ARBEITER O. AUFSICHTSF. STELLUNG, BED. SONST. MASCH.'
+4323 'GEL. ARBEITER O. AUFSICHTSF. STELLUNG, OHNE MASCHINENBED.'
+4331 'UEBRIGE ARBEITER, BED. VOLL/HALBAUTOM. MASCHINEN'
+4332 'UEBRIGE ARBEITER, BED. SONSTIGER MASCHINEN'
+4333 'UEBRIGE ARBEITER, KEINE MASCHINENBEDIENUNG'
+4411 'KFM./TECHN. LEHRLINGE'
+4421 'GEW. LEHRLINGE'
+9999 'NICHTERWERBSTAETIGE'
+/V97 V164 V178
+0 'KEINE ANGABE'
+1 'VERTRIEBENE AUSWEIS A'
+2 'VERTRIEBENE AUSWEIS B'
+3 'VERTRIEBENE OHNE AUSWEIS'
+4 'VERTRIEBENE AUS DER SBZ OHNE AUSWEIS C'
+5 'VERTRIEBENE AUS DER SBZ MIT AUSWEIS C'
+6 'UEBRIGE DT. BEVOELKERUNG'
+7 'AUSLAENDER'
+* Generieren einer 4-stelligen Berufsvariablen (V43)
+compute v43_o=v43.
+compute v43=trunc (v43/1000).</p>
+        <p>v152 (F3.0)
+v157 (F1.0)
+v162 (F1.0)
+v167 (F1.0)
+v172 (F2.0)
+v177 (F1.0)
+v182 (F3.0)
+v187 (F2.0)
+v192 (F6.0)
+v197 (F4.0)
+v202 (F3.0)
+v153 (F3.0)
+v158 (F2.0)
+v163 (F1.0)
+v168 (F1.0)
+v173 (F1.0)
+v178 (F1.0)
+v183 (F1.0)
+v188 (F1.0)
+v193 (F4.0)
+v198 (F2.0)
+v203 (F3.0)
+v154 (F1.0)
+v159 (F1.0)
+v164 (F1.0)
+v169 (F1.0)
+v174 (F3.0)
+v179 (F1.0)
+v184 (F1.0)
+v189 (F2.0)
+v194 (F2.0)
+v199 (F4.0)
+v204 (F4.0)
+v155 (F1.0)
+v160 (F1.0)
+v165 (F3.0)
+v170 (F1.0)
+v175 (F4.0)
+v180 (F1.0)
+v185 (F1.0)
+v190 (F2.0)
+v195 (F2.0)
+v200 (F8.0)
+v205 (F1.0)
+*subtitle '------ Systemfile schreiben -----'.
+save /outfile 'badwbu10.sav'
+/map
+/compressed.
+2.3</p>
+        <p>Zusammenfügen der erstellten SPSS-Systemfiles für die Länder
+BadenWürtemberg, Bayern, Nordrhein-Westfahlen und das Saarland und
+Erstellen einer Häufigkeitsauszählung. Beispiel: Baden-Württemberg
+***************************************************************************
+* Baden-Wuerttemberg - Zusammenfuegen mehrer Files
+***************************************************************************
+add files file = 'bw1.sav'</p>
+        <p>/file 'bw2.sav'.
+display variables.</p>
+        <p>SAVE OUTFILE='bw_all.sav'</p>
+        <p>/COMPRESSED.
+get file = 'bw_all.sav'
+******* eingefügt aus sys.sps (VZ70 - 1% SP)
+SUBTITLE '------ HAEUFIGKEITSAUSZAEHLUNG -----'.
+* !!!!!!!!!!! EVTL /FORMAT=NOTABLE UND /STATISTICS /PERCENTILES</p>
+        <p>BEI VARIABLEN MIT SEHR VIELEN AUSPRAEGUNGEN.</p>
+        <sec id="sec-42-1-1">
+          <title>Anhang</title>
+          <p>Konzeption und Durchführung
+Informationen des Statistischen Bundesamtes über die Konzeption und Durchführung der
+Volks- und Berufszählung 1970 und Ergebnisse:
+Statistisches Bundesamt (1978a): Volkszählung vom 27. Mai 1970. Methodische und praktische Vorbereitung
+sowie Durchführung der Volkszählung 1970. Fachserie 1 Heft 25. Stuttgart/Mainz: Kohlhammer.
+Statistisches Bundesamt (1978b): Volkszählung vom 27. Mai 1970. Untersuchungen zur Methode und
+Genauigkeit der Volkszählung 1970. Fachserie 1 Heft 26. Stuttgart/Mainz: Kohlhammer.</p>
+          <p>Ergebnisse
+Statistisches Bundesamt (1972): Ausgewählte Strukturdaten für Bund und Länder. Fachserie A: Bevölkerung
+und Kultur. Volkszählung vom 27. Mai 1970, Heft 1.</p>
+          <p>Statistisches Bundesamt (1972): Zusammengefasste Daten über Bevölkerung und Erwerbstätigkeit für Bund und
+Länder. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 3.</p>
+          <p>Statistisches Bundesamt (1974): Bevölkerung und Bevölkerungsentwicklung nach Alter und Familienstand.
+Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 5.</p>
+          <p>Statistisches Bundesamt (1974): Bevölkerung und Haushalte. Fachserie A: Bevölkerung und Kultur.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-43">
+      <title>Volkszählung vom 27. Mai 1970, Heft 8.</title>
+      <p>Statistisches Bundesamt (1974): Bevölkerung und Familien. Fachserie A: Bevölkerung und Kultur.</p>
+    </sec>
+    <sec id="sec-44">
+      <title>Volkszählung vom 27. Mai 1970, Heft 9.</title>
+      <p>Statistisches Bundesamt (1974): Bevölkerung nach dem Ausbildungsstand, demographischen Merkmalen und
+Beteiligung am Erwerbsleben. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 13.</p>
+      <p>Informationen zur Ziehung der VASMA-Stichprobe
+Bach, Walter (1979): Ziehung einer Stichprobe aus den Mikrodaten der Berufszählung 1970. Mannheim:</p>
+    </sec>
+    <sec id="sec-45">
+      <title>VASMA-Arbeitspapier 9.</title>
+      <p>Bach, Walter/ Handl, Johann/Müller, Walter (1980): Volks- und Berufszählung 1970. Codebuch und</p>
+    </sec>
+    <sec id="sec-46">
+      <title>Grundauszählung. Mannheim.</title>
+      <p>Schimpl-Neimanns, Bernhard/Frenzel, Hansjörg (1995): 1-Prozent Stichprobe der Volks- und Berufszählung
+1970 – Datei mit Haushalts- und Familiennummern und revidierter Teilstichprobe für West-Berlin.
+Dokumentation der Datenaufbereitung. Mannheim: ZUMA-Technischer Bericht T95/06.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          2.1 Überblick: Die einzelnen Schritte der Aufbereitung der 10-Prozent Stichprobe der Volks- und
+          <source>Berufszählung</source>
+          <year>1970</year>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

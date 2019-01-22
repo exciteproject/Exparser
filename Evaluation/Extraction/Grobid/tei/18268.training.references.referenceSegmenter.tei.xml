@@ -1,0 +1,12 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_0"/>
+    </teiHeader>
+    <text xml:lang="en">
+        <listBibl>
+        <bibl>Courtin, Antoine de (1705), Die Höflichkeit der heutigen Welt. La civilité moderne, übers. von Menantes<lb/> (Pseud. von Christian Friedrich Hunold), Hamburg.<lb/> Hall, Edward (1966), The Hidden Dimension, Doubleday, Garden City, N.Y.<lb/> </bibl>
+<bibl>Kotosichin, Grigorij (1906/1676), O Rossii c carstvovanie Alekseja Michajlovica, Sankt-Petersburg<lb/> (=Slavistic Printings an Reprintings 126, hg. von S. H. van Schooneveld, Hague/Paris, 1969).</bibl>
+        </listBibl>
+    </text>
+</tei>
+

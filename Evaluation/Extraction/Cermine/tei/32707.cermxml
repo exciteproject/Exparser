@@ -1,0 +1,1777 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>Abschlussbericht des Projekts EIBE : EIBE 2 - Entwicklung und Integration eines betrieblichen Eingliederungsmanagements</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Eggerer</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Reiner</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Kaiser</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Harald</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Jastrow</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Birgit</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>SSG Sozialwissenschaften</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>USB Köln</string-name>
+        </contrib>
+      </contrib-group>
+      <abstract>
+        <p>Abschlussbericht / final report Zur Verfügung gestellt in Kooperation mit / provided in cooperation with: Eggerer, Reiner ; Kaiser, Harald ; Jastrow, Birgit ; Arbeitsgemeinschaft Deutscher Berufsförderungswerke e.V. Berufsförderungswerk Nürnberg gGmbH ; Institut für Qualitätssicherung in Prävention und Rehabilitation (IQPR) GmbH an der Deutschen Sporthochschule Köln ; Bundesministerium für Arbeit und Soziales (Ed.): Abschlussbericht des Projekts EIBE : EIBE 2 - Entwicklung und Integration eines betrieblichen Eingliederungsmanagements. Nürnberg, 2009 (Forschungsbericht / Bundesministerium für Arbeit und Soziales FB401).. http://nbn-resolving.de/ urn:nbn:de:0168-ssoar-327075</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/7/32707.images/img_1_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/7/32707.images/img_1_2.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/7/32707.images/img_1_3.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/7/32707.images/img_1_4.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>Nutzungsbedingungen:</title>
+      <p>Dieser Text wird unter einer Deposit-Lizenz (Keine
+Weiterverbreitung - keine Bearbeitung) zur Verfügung gestellt.
+Gewährt wird ein nicht exklusives, nicht übertragbares,
+persönliches und beschränktes Recht auf Nutzung dieses
+Dokuments. Dieses Dokument ist ausschließlich für
+den persönlichen, nicht-kommerziellen Gebrauch bestimmt.
+Auf sämtlichen Kopien dieses Dokuments müssen alle
+Urheberrechtshinweise und sonstigen Hinweise auf gesetzlichen
+Schutz beibehalten werden. Sie dürfen dieses Dokument
+nicht in irgendeiner Weise abändern, noch dürfen Sie
+dieses Dokument für öffentliche oder kommerzielle Zwecke
+vervielfältigen, öffentlich ausstellen, aufführen, vertreiben oder
+anderweitig nutzen.</p>
+      <p>Mit der Verwendung dieses Dokuments erkennen Sie die
+Nutzungsbedingungen an.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Terms of use:</title>
+      <p>This document is made available under Deposit Licence (No
+Redistribution - no modifications). We grant a non-exclusive,
+nontransferable, individual and limited right to using this document.</p>
+      <p>This document is solely intended for your personal,
+noncommercial use. All of the copies of this documents must retain
+all copyright information and other information regarding legal
+protection. You are not allowed to alter this document in any
+way, to copy it for public or commercial purposes, to exhibit the
+document in public, to perform, distribute or otherwise use the
+document in public.</p>
+      <p>By using this particular document, you accept the above-stated
+conditions of use.</p>
+      <p>EIBE 2 –
+Entwicklung und
+Integration eines
+betrieblichen
+Eingliederungsmanagements
+Abschlussbericht Weiterführung des
+Projekts EIBE 1
+des Projekts EIBE (Forschungsbericht 372)</p>
+      <p>Gefördert von
+www.eibe-projekt.de</p>
+      <sec id="sec-2-1">
+        <title>Impressum</title>
+        <sec id="sec-2-1-1">
+          <title>Projektleitung:</title>
+          <p>Reiner Eggerer – für die Arbeitsgemeinschaft</p>
+          <p>Deutscher Berufsförderungswerke
+Berufsförderungswerk Nürnberg gGmbH
+Schleswiger Straße 101
+90427 Nürnberg
+Telefon (0911) 938-7222
+Fax (0911) 938-7305
+reiner.eggerer@bfw-nuernberg.de
+www.bfw-nuernberg.de
+Harald Kaiser – iqpr, Institut für Qualitätssicherung
+in Prävention und Rehabilitation GmbH
+an der Deutschen Sporthochschule Köln</p>
+          <p>Geschäftsstelle München
+Birgit Jastrow – maßgeblich beteiligt bei der Durchführung des Projekts EIBE
+sowie bei der Erstellung dieses Abschlussberichts,
+verstorben am 23. 6. 2010
+Landshuter Allee 162a
+80637 München
+Telefon (089) 232 49 49 - 12
+Mobil 0173 531 8225
+Fax (089) 232 49 49-10
+kaiser@iqpr.de
+www.iqpr.de</p>
+        </sec>
+        <sec id="sec-2-1-2">
+          <title>Arbeitskreissprecherinnen:</title>
+          <p>Doris Lühder, Manuela Kersting, Erich Hörnlein</p>
+        </sec>
+        <sec id="sec-2-1-3">
+          <title>Projektmitarbeiter und -mitarbeiterinnen:</title>
+          <p>Anne Frohnweiler, Birgit Jastrow, Christoph Lechtenböhmer, Fernanda Frigeri,
+Peter Eckerstorfer, Kai Lamparter, Dr. Ulrich Faber</p>
+        </sec>
+        <sec id="sec-2-1-4">
+          <title>Externe Mitarbeiter:</title>
+          <p>Dr. Hendrik Faßmann unter Mitarbeit von Sebastian Limberger, Andreas Moczall,
+Martin Petermüller (Kapitel 10)
+Dr. Martin Emmert (Kapitel 11)</p>
+        </sec>
+        <sec id="sec-2-1-5">
+          <title>Beiratsvorsitz:</title>
+          <p>Frau Nikola Lafrenz, Bundesministerium für Arbeit und Soziales</p>
+        </sec>
+        <sec id="sec-2-1-6">
+          <title>Beirat:</title>
+          <p>Deutsche Rentenversicherung Bund, Bundesarbeitsgemeinschaft der
+Integrationsämter und Hauptfürsorgestellen, Bode Chemie, Deutsche Telekom,
+Deutsche Gesetzliche Unfallversicherung, Berufsgenossenschaft für Gesundheit
+und Wohlfahrtspflege, Deutscher Gewerkschaftsbund, Bundesagentur für Arbeit</p>
+        </sec>
+        <sec id="sec-2-1-7">
+          <title>Zitationshinweis:</title>
+          <p>Kaiser, H., Frohnweiler, A., Jastrow, B., Lamparter, K.: Abschlussbericht des Projekts
+EIBE – Entwicklung und Integration eines betrieblichen Eingliederungsmanagements
+Nürnberg/München/Köln im Juli 2009
+Layout: Ulrike Selders, Köln
+1</p>
+          <p>.1</p>
+          <p>Inhalt
+3.4.4</p>
+          <p>Vorwort
+Einleitung
+Das Projekt
+EIBE I und die Einführung des betrieblichen
+Eingliederungsmanagements in die Berufsförderungswerke
+Die Rolle der EIBE-Teams in den Berufsförderungswerken
+Interventionszeitpunkt im Rahmen des betrieblichen
+Eingliederungsmanagements
+Gesundheitspolitik als Unternehmensaufgabe
+Fortsetzung der Fallarbeit in den Berufsförderungswerken
+Transfer in kleine und mittlere Unternehmen
+Entwicklung von Kriterien für die Vergabe von Boni und Prämien
+nach § 84 Absatz 3 SGB IX und die Betrachtung von
+KostenNutzen Aspekten aus betrieblicher Sicht
+Weitere Aufgaben
+Anpassung der Projektstruktur
+Fachgruppe Produktentwicklung
+Fachgruppe Dienstleistung
+Fachgruppe Qualitätssicherung
+Die wissenschaftliche Begleitung
+Schwerpunkte der wissenschaftlichen Begleitung
+Forschungsansatz der wissenschaftlichen Begleitung
+Methoden der wissenschaftlichen Begleitung
+Erhebungen im Zuge der wissenschaftlichen Begleitung
+Bestandsaufnahme
+Halbstandardisierte Interviews
+Dokumentation zur Erfassung des Eingliederungsgeschehens
+und zur Fallarbeit
+Bewertung vorliegender Betriebsvereinbarungen zum betrieblichen
+Eingliederungsmanagement nach § 84 Absatz 2 SGB IX
+Ergebnissicherung und Dokumentation
+Datenschutz im Zuge der empirischen Erhebungen
+Prozessevaluation
+Das Projektteam
+Die Arbeit der Fachgruppen
+Fachgruppe Produktentwicklung
+Fallmanagerkonferenz
+Entwicklung und Überarbeitung neuer Praxishilfen</p>
+          <p>Datenschutzkonzept
+Integrierter betrieblicher Gesundheitsbericht
+Fachgruppe Qualitätssicherung
+Fachgruppe Dienstleistungen
+Schwerpunkte der regionalen Arbeitskreise
+Austausch und Diskussion über die Fallarbeit vor Ort
+Weitere Themen der Arbeitskreissitzungen
+Diskussionsschwerpunkte
+Rahmenbedingungen der Eingliederungsarbeit vor Ort
+Betriebliches Gesundheitsmanagement und Geschäftsfeldaktivitäten
+Betriebliches Eingliederungsmanagement und Case Management
+Erfolgsmessung des betrieblichen Eingliederungsmanagements
+Verfahrensabläufe im betrieblichen Eingliederungsmanagement
+Beratung mit Betriebsräten und Mitarbeitervertretungen
+Zufriedenheit mit dem Projektverlauf
+Kommunikation
+Unterstützung bei der praktischen Umsetzung
+Erhöhung der Kompetenzen
+Das betriebliche Eingliederungsmanagement in den
+Berufsförderungswerken
+Konzeption des betrieblichen Eingliederungsmanagements
+Methoden des betrieblichen Eingliederungsmanagements
+Definition der Arbeitsunfähigkeit von sechs Wochen
+Transparenz des Verfahrens
+Zustimmung der betroffenen Beschäftigten
+Erweiterter Zugang zum betrieblichen Eingliederungsmanagement
+Gewährleistung des Datenschutzes
+Stellenwert des Erstkontakts
+Das Fallmanagement
+Qualitätssicherung und Evaluation des betrieblichen
+Eingliederungsmanagements
+Stand der Umsetzung in den Berufsförderungswerken
+Hinderliche Faktoren im Rahmen der Implementierung und
+Durchführung des betrieblichen Eingliederungsmanagements
+Förderliche Faktoren im Rahmen der Implementierung und
+Durchführung des betrieblichen Eingliederungsmanagements
+Bedeutung einer Betriebsvereinbarung für eine erfolgreiche
+Implementierung
+6.4
+7
+7.1</p>
+          <p>Akzeptanz des betrieblichen Eingliederungsmanagements
+Betriebsvereinbarungen zum betrieblichen Eingliederungsmanagement
+Dr. Ulrich Faber
+Die Thematisierung von Betriebsvereinbarungen in EIBE I –
+einige Hintergründe
+Bewertung der abgeschlossenen Betriebsvereinbarungen – Einführung
+Herangezogene Daten und Informationen
+Inhaltliche Auswertungskriterien
+Einzelaspekte
+Präambel/Vereinbarungsziele
+Anwendungsbereich der Betriebsvereinbarungen
+Sachlicher Geltungsbereich
+Persönlicher Anwendungsbereich
+Struktur und Prozess des betrieblichen Eingliederungsmanagements
+Kernteam/erweitertes Team
+BEM-Koordinatorin bzw. BEM-Koordinator
+Ergebnis des betrieblichen Eingliederungsmanagements
+Organisation der internen Willensbildung innerhalb des BEM-Teams
+Persönlichkeits- und Datenschutz
+Verschwiegenheit der Akteurinnen und Akteure
+Regelung der Datenerhebung, -weitergabe und -verwendung
+Datensicherung
+Resümee/Ansatzpunkte zur Weiterentwicklung der
+Musterbetriebsvereinbarung
+Internetplattform „Juri Richter“
+Eingliederungsgeschehen und Fallarbeit in den Berufsförderungswerken
+Das Eingliederungsgeschehen in den Berufsförderungswerken
+Umfang des Eingliederungsgeschehens in den Berufsförderungswerken
+Eingliederungsgeschehen im Vergleich
+Fallarbeit in den Berufsförderungswerken
+Umfang der Stichproben
+Beschreibung der Stichprobe Dokumentation des
+Eingliederungsgeschehens
+Gründe für die Arbeitsunfähigkeit
+Häufigkeit der Arbeitsunfähigkeit
+Beschreibung der BEM-Fälle
+Problemlagen der BEM-Fälle
+Maßnahmen im Rahmen der betrieblichen Eingliederung
+83
+85
+87
+87
+88
+88
+90
+90</p>
+          <p>Status der BEM-Fälle
+Erwartungen an und Zufriedenheit mit der betrieblichen
+Eingliederung
+Gründe für die Nichtteilnahme an einem betrieblichen
+Eingliederungsmanagement
+Erwartungen an ein betriebliches Eingliederungsmanagement
+Ergebnisse der dokumentierten Eingliederungsgespräche
+Zufriedenheit mit dem betrieblichen Eingliederungsmanagement
+Akteurinnen und Akteure der betrieblichen Eingliederung
+Beteiligung interner Akteurinnen und Akteure an den einzelnen
+Prozessschritten im Rahmen der Einzelfallarbeit
+Beteiligung der internen Akteurinnen und Akteure an der Planung
+und Durchführung von Maßnahmen
+Qualität der Zusammenarbeit mit internen Akteurinnen und Akteuren
+Zusammenarbeit mit externen Kooperationspartnern
+Zusammenfassung
+Unternehmenspartnerschaften
+Umsetzung der gesetzlichen Vorgabe in Klein- und
+mittelständischen Unternehmen
+Entwicklung der Unternehmenspartnerschaften
+Zugang zu den Unternehmen
+Ergebnis der ersten Unternehmenskontakte und Schlussfolgerungen
+Workshops zum betrieblichen Eingliederungsmanagement
+Vorbereitung des Workshops
+Beschreibung der beteiligten Unternehmen
+Klinik St. Marienstift Magdeburg
+AL-KO Therm GmbH, Betriebsstätte Wittenberg
+Gedikom GmbH, Callcenter für Gesundheitsdienstleistungen,
+Bayreuth
+Auxilio Dienstleistungen GmbH, Köln
+Diakonie Michaelshoven, Fachbereich Integrationsdienste
+Caritasverband für das Bistum Magdeburg e.V.</p>
+          <p>Jung Zeelandia GmbH
+Seniorendienste der Diakonie Michaelshoven
+Kinder- und Jugendhilfezentrum Groß Börnecke
+Durchführung der Workshops
+Diskussionsschwerpunkte
+Definition und Erfassung relevanter Arbeitsunfähigkeitszeiten
+105
+135
+135
+135
+135
+137
+137
+138
+138
+140
+141
+143</p>
+          <p>Zusammenfassung der wichtigsten Erkenntnisse
+Zusammenfassung zentraler Ergebnisse
+Konzept und Inanspruchnahme des betrieblichen
+Eingliederungsmanagements
+Transfer in klein- und mittelständische Unternehmen
+Bonus und Prämiensystem zur Förderung des betrieblichen
+Eingliederungsmanagements
+Literatur</p>
+        </sec>
+      </sec>
+      <sec id="sec-2-2">
+        <title>Verzeichnisse</title>
+        <p>Abbildungsverzeichnis
+BA
+BAG
+BMAS
+BR
+EIBE
+ggf.</p>
+        <p>IfeS
+iqpr
+KEV
+LAG
+MAV
+ROI
+SGB
+z. B.
+o. ä.</p>
+      </sec>
+      <sec id="sec-2-3">
+        <title>Abkürzungsverzeichnis</title>
+        <p>ARGE BFW</p>
+        <p>Arbeitsgemeinschaft
+Deutscher
+Berufsförderungswerke
+Bundesagentur für Arbeit
+Bundesarbeitsgericht
+Bundesministerium für Arbeit
+und Soziales
+Betriebsrat
+Entwicklung und Integration
+eines betrieblichen
+Eingliederungsmanagements
+gegebenenfalls
+Institut für empirische
+Soziologie an der
+FriedrichAlexander-Universität
+Erlangen-Nürnberg
+Institut für Qualitätssicherung
+in Prävention und
+Rehabilitation GmbH an der
+Deutschen Sporthochschule
+Köln
+Kosteneinsparverhältnis
+Landesarbeitsgericht
+Mitarbeitervertretung
+return on investment
+Sozialgesetzbuch
+zum Beispiel
+oder ähnliches</p>
+        <p>Tabelle 31:
+Tabelle 32:
+Tabelle 33:
+Tabelle 34:
+Tabelle 35:
+Tabelle 36:
+Tabelle 37:
+Tabelle 38:
+Tabelle 39:
+Tabelle 40:
+Tabelle 41:
+Tabelle 42:
+Tabelle 43:
+Tabelle 44:
+Tabelle 45:
+Tabelle 46:
+Tabelle 47:
+Tabelle 48:
+Tabelle 49:
+Tabelle 50:
+Tabelle 51:
+Tabelle 52:
+Tabelle 53:
+Tabelle 54:
+Tabelle 55:
+Tabelle 56:
+Tabelle 57:
+Tabelle 58:
+Tabelle 59:
+Tabelle 60:
+Tabelle 61:
+Tabelle 62:</p>
+        <p>Beeinflussung der Ursachen der Arbeitsunfähigkeit
+Zufriedenheit mit Verlauf und Ergebnis des BEM
+Beteiligung interner Akteurinnen und Akteure an den
+Prozessschritten
+Beteiligung interner Akteurinnen und Akteure an Maßnahmen
+Bewertung der Zusammenarbeit mit internen Akteurinnen
+und Akteuren
+Quantitative und qualitative Zusammenarbeit mit externen
+Kooperationspartnern
+Kontaktierte Unternehmen nach Betriebsgröße
+Kontaktierte Unternehmen nach Branchen
+Gründe für die Nichteinführung
+Übersicht durchgeführter Workshops
+Betriebliche Infrastruktur Klinik St. Marienstift
+Personal Klinik St. Marienstift
+Aktivitäten zur Personalentwicklung und Mitarbeitergesundheit
+Klinik St. Marienstift
+Betriebliche Infrastruktur AL-KO Therm GmbH
+Personal AL-KO Therm GmbH
+Aktivitäten zur Personalentwicklung und Mitarbeitergesundheit
+AL-KO Therm GmbH
+Betriebliche Infrastruktur Gedikom GmbH
+Personal Gedikom GmbH
+Aktivitäten zur Personalentwicklung und Mitarbeitergesundheit
+Gedikom GmbH
+Betriebliche Infrastruktur Auxilio Dienstleistungen GmbH
+Personal Auxilio Dienstleistungen GmbH
+Aktivitäten zur Personalentwicklung und Mitarbeitergesundheit
+Auxilio Dienstleistungen GmbH
+Betriebliche Infrastruktur Integrationsdienste der Diakonie
+Michaelshoven
+Personal Integrationsdienste der Diakonie Michaelshoven
+Aktivitäten zur Personalentwicklung und Mitarbeitergesundheit
+Integrationsdienste der Diakonie Michaelshoven
+Betriebliche Infrastruktur Caritasverband für das Bistum
+Magdeburg e.V.</p>
+        <p>Personal Caritasverband für das Bistum Magdeburg e.V.
+Aktivitäten zur Personalentwicklung und Mitarbeitergesundheit
+Caritasverband für das Bistum Magdeburg e.V.</p>
+        <p>Betriebliche Infrastruktur Jung Zeelandia GmbH
+Personal Jung Zeelandia GmbH
+Aktivitäten zur Personalentwicklung und Mitarbeitergesundheit
+Jung Zeelandia GmbH
+Betriebliche Infrastruktur Seniorendienste der Diakonie</p>
+        <p>Michaelshoven
+Personal Kinder- und Jugendhilfezentrum Seniorendienste
+der Diakonie Michaelshoven
+Aktivitäten zur Personalentwicklung und Mitarbeitergesundheit
+Seniorendienste der Diakonie Michaelshoven
+Betriebliche Infrastruktur Kinder- und Jugendhilfezentrum
+Groß Börnecke
+Personal Kinder- und Jugendhilfezentrum Groß Börnecke
+Aktivitäten zur Personalentwicklung und Mitarbeitergesundheit
+Kinder- und Jugendhilfezentrum Groß Börnecke
+Festlegungen im Rahmen der Workshops
+Strategische Entscheidung
+Aktivitäten zur Entwicklung eines Geschäftsbereichs
+betriebliches Eingliederungsmanagement
+Übersicht über Versand und Rücklauf der Erhebungsunterlagen
+Förderung des betrieblichen Eingliederungsmanagements durch
+Prämien oder Boni durch die
+Rehabilitationsträger/Integrationsämter
+Im zweiten Projektabschnitt zur Förderung der Einführung
+des betrieblichen Eingliederungsmanagements beantragte
+und bewilligte Prämien
+Voraussetzungen für die Prämiengewährung
+Rentabilität betrieblicher Eingliederung
+Beschäftigtenstruktur des fiktiven Unternehmens
+Dauer der Prozessschritte (in Minuten)
+Ergebnis der Basisauswertung: BEM-Kosten (eigene Darstellung)
+Kosten für die Einmaldurchführung des betrieblichen
+Eingliederungsmanagements
+Ergebnis der Basisauswertung: BEM-Nutzen (eigene Darstellung)
+Univariate Sensitivitätsanalyse (KEV Basisergebnis 4,81)
+(eigene Darstellung)
+Ergebnis Szenarioanalysen (eigene Darstellung)
+Ergebnis Szenario betriebliches Eingliederungsmanagement
+über externen Dienstleister (eigene Darstellung)
+Bewertete Komponenten der Evaluation (eigene Darstellung)
+127
+134
+139</p>
+      </sec>
+      <sec id="sec-2-4">
+        <title>Vorwort</title>
+        <p>Bereits seit Mai 2004 hat die Deutsche Bundesregierung mit der
+Novellierung des Sozialgesetzbuches IX, speziell mit der Einführung des
+betrieblichen Eingliederungsmanagements nach §84 Abs. 2 dafür gesorgt, dass der
+Prävention und somit der Gesundheit aller Beschäftigten ein höherer
+Stellenwert zugemessen wird. Gesunde Beschäftigte sind entscheidender
+Auslöser für unternehmerischen Erfolg oder Misserfolg. Im Zuge des sich
+bereits abzeichnenden Fachkräftebedarfs in einer immer älter werdenden
+Erwerbsbevölkerung wird der Wertschätzung der Arbeitskräfte und der
+Wahrnehmung der Sozialverantwortung durch Unternehmerinnen und
+Unternehmer besondere Bedeutung zukommen.</p>
+        <p>Unternehmen – besonders kleine Betriebe – profitieren von einer schnellen
+Rückkehr Ihrer Beschäftigten. Das betriebliche Eingliederungsmanagement
+ist hier ein wichtiger Faktor zur nachhaltigen Profitabilität von Unternehmen
+geworden. Es hat sich – auch durch die Erfahrungen aus dem Projekt EIBE –
+zu einem festen Baustein betrieblicher Gesundheitspolitik in Deutschland
+entwickelt.</p>
+        <p>Nahezu vier Jahre lang wurde in den Unternehmen der Arbeitsgemeinschaft
+Deutscher Berufsförderungswerke gemeinsam mit dem Institut für
+Qualitätssicherung in Prävention und Rehabilitation GmbH zu dem Thema
+betriebliches Eingliederungsmanagement geforscht, entwickelt, gemanagt und in
+verschiedenen Arbeitsgruppen viele wertvolle Ergebnisse gewonnen. Viele
+Mitarbeiterinnen und Mitarbeiter konnten das betriebliche
+Eingliederungsmanagement als betroffene Personengruppe in der Praxis kennenlernen. Eine
+wichtige und für viele Betroffene erfolgreiche Maßnahme. Und das in einer
+Phase, die von einer Reduzierung der Belegschaftszahlen geprägt war. Für
+viele Unternehmen soll dies beispielhaft sein, wie Facharbeitermangel
+gemildert, der demografischen Entwicklung begegnet und Beschäftigungsfähigkeit
+und Mitarbeiterbindung gestärkt werden können.</p>
+        <p>Aktuell sind erneut wirtschaftliche Herausforderungen zu meistern,
+gleichwohl müssen Unternehmen heute dafür sorgen, dass sie den kommenden
+Aufschwung mit motivierten, qualifizierten und gesunden Beschäftigten
+bewältigen können. Eine Investition in die betriebliche Gesundheit macht
+sich nachdrücklich bezahlt. Anfängliche Skepsis wandelte sich in
+Überzeugung – betriebliche Eingliederung lohnt sich.</p>
+        <p>Im Rahmen dieses Projektes entstanden bundesweit gute Praxismodelle. Es
+hat sich wiederholt gezeigt, wie mit großem Einsatz und hoher Kompetenz
+Beschäftigte erfolgreich wieder eingegliedert und damit Arbeitsverhältnisse
+erhalten werden konnten. Menschen mit unterschiedlichen persönlichen
+Schicksalen, deren berufliche aber auch private Perspektive gefährdet war,
+konnten so in ihrer Biographie oft eine erfolgreiche Wendung erfahren.
+Ohne die vielfältige Unterstützung in diversen Entwicklungsgruppen, in der
+juristischen Kommission, in der wissenschaftlichen Begleitung, im
+Projektteam und im Beirat wäre der Erfolg des Projekts nicht möglich gewesen.
+Hier möchte ich herzlich meinen Dank aussprechen. Ein besonderer Dank
+gebührt den EIBE-Koordinatorinnen und -Koordinatoren. Genauso wie das
+Projektleitungsteam trafen sich diese in mehr als 30 Arbeitskreissitzungen,
+entwickelten und verbesserten den Prozess in der Praxis. Es war
+bemerkenswert, wie sich in vielen betriebsinternen Gesprächen in den jeweiligen
+Häusern ein gleichmäßiges positives Bild zum betrieblichen
+Eingliederungsmanagement abbildete. Ich ermutige alle, den eingeschlagenen Weg einer
+frühzeitigen und sozial engagierten Mitarbeiterorientierung beizubehalten.
+Einen besonderen Dank darf ich dem Bundesministerium für Arbeit und
+Soziales für die gute Zusammenarbeit und Unterstützung sowie auch allen
+weiteren Projektmitarbeiterinnen und -mitarbeitern aussprechen. EIBE bzw.
+das betriebliche Eingliederungsmanagement hat sich zum Chefthema
+entwickelt.</p>
+        <p>Zusammenfassend darf ich allen sagen:
+DANKE
+Harald Kaiser
+iqpr München</p>
+      </sec>
+      <sec id="sec-2-5">
+        <title>1 Einleitung</title>
+        <p>Seit Ende der 90er-Jahre haben viele Unternehmen und Verwaltungen ihre
+Bemühungen zum Erhalt und zur Förderung der Mitarbeitergesundheit
+verstärkt und zu einem integrativen Bestandteil eines modernen
+Personalmanagements gemacht. Unter dem Dach des betrieblichen
+Gesundheitsmanagements werden die Aktivitäten zum Arbeits- und Gesundheitsschutz
+und der betrieblichen Gesundheitsförderung gebündelt.</p>
+        <p>Mit der Novellierung des § 84 Absatz 2 SGB IX im Mai 2004 gehört nun auch
+das betriebliche Eingliederungsmanagement zu den Eckpfeilern eines
+ganzheitlichen Gesundheitsmanagements (siehe Abbildung 1).</p>
+        <p>Ausgehend von diesem Verständnis und den bereits vorliegenden Erfahrungen
+der Unternehmen der Arbeitsgemeinschaft Deutscher Berufsförderungswerke
+auf dem Gebiet der betrieblichen Gesundheitsförderung, empfiehlt es sich, ein
+abgestimmtes Konzept
+betrieblicher
+Gesundheitspolitik zu entwickeln. Eine OE Betriebliche
+betriebliche Gesundheits- Gesundheitspolitik
+berichterstattung, die auch
+die Einzelfallarbeit des
+betrieblichen
+Eingliederungsmanagements einbezieht,
+sollte in den
+Unternehmensleitlinien verankert und Arbeits- und
+entsprechend kommuniziert Gesundheitsschutz
+werden. Dadurch erhöhen
+sich die Glaubwürdigkeit
+Gefösrudnedrhuenigtsder Unternehmensleitungen
+und die Akzeptanz des
+betrieblichen
+Eingliederungsmanagements bei den Abbildung 1: Das Gesundheitshaus
+Beschäftigten.
+PE
+Das bundesweit angelegte Projekt EIBE hat die Aufgabe, Erkenntnisse in der
+betrieblichen Praxis zu gewinnen, diese in ein umfassendes Konzept
+einzuarbeiten und als praktische Hilfe für Unternehmen zur Verfügung zu stellen.
+Das Projekt EIBE gilt als praktisches Experimentierfeld in einem schwierigen
+wirtschaftlichen Umfeld, das gerade unter dem Einfluss von Stellenabbau viele
+inhaltliche und strategische Herausforderungen enthält.</p>
+        <p>Erfahrungen aus dem ersten Projektabschnitt (EIBE I) in der
+Eingliederungsarbeit machten die Bearbeitung komplementärer Themen notwendig, wie
+z. B. die Datenschutzproblematik, die in den Unternehmen in
+unterschiedlicher Ausprägung zum Tragen kam. Das vorrangig vom Institut für
+Qualitätssicherung in Prävention und Rehabilitation GmbH (iqpr) erarbeitete
+Datenschutzkonzept regelt in den Unternehmen der Arbeitsgemeinschaft
+Deutscher Berufsförderungswerke (ARGE BFW) heute den Ablauf, die
+Kommunikation, die Speicherung und Aufbewahrung von Daten sowie die
+Informationsweitergabe an die Unternehmensleitung.</p>
+        <p>Die bereits vorliegenden Ergebnisse sind im Forschungsbericht 372 des
+Bundesministeriums für Arbeit und Soziales (BMAS) im Einzelnen
+dokumentiert und umfassen einen Berichtsteil sowie die erarbeiteten
+Praxishilfen, ein Datenschutzkonzept und einen Entwurf für den Abschluss einer
+Betriebsvereinbarung zum betrieblichen Eingliederungsmanagement
+(Kaiser et al., 2008).</p>
+        <p>Seit Projektbeginn im April 2005 zeichnete sich ab, dass die anfängliche
+Skepsis für ein betriebliches Eingliederungsmanagement in den meisten
+teilnehmenden Unternehmen einer zunehmenden Akzeptanz gewichen ist. Dies
+machte sich sowohl bei den Unternehmensleitungen als auch bei den
+operativen Mitarbeiterinnen und Mitarbeitern im EIBE-Team und auch verstärkt bei
+den Beschäftigten und ihren Interessenvertretungen bemerkbar. Dazu haben
+so trivial erscheinende Routinen wie Information und Kommunikation,
+Transparenz, Vertrauensbildung – unter anderem durch die Regelung des
+Datenschutzes und/oder durch Abschluss von Vereinbarungen zwischen
+Arbeitgeberund Arbeitnehmervertretungen – einen entscheidenden Beitrag geleistet.
+Erkennbar wurde auch, dass allein durch die kontinuierliche Beschäftigung mit
+der Eingliederungsthematik ein deutlicher Zugewinn fachlicher Kompetenz bei
+allen Teammitgliedern zu verzeichnen war, der über die eigentlichen Aufgaben
+der Eingliederungsarbeit weit hinausgeht und sich in einem ganzheitlichen
+Gesundheitsmanagement integriert.</p>
+        <p>Aufgrund der in EIBE I praktizierten Eingliederungsarbeit und den daraus
+gewonnenen Erkenntnissen wurde weiterer Forschungsbedarf offenkundig.
+Einleitung</p>
+        <p>Das Projekt</p>
+      </sec>
+      <sec id="sec-2-6">
+        <title>2 Das Projekt</title>
+      </sec>
+      <sec id="sec-2-7">
+        <title>2.1 EIBE I und die Einführung des betrieblichen Eingliederungsmanagements in die Berufsförderungswerke</title>
+        <p>Das Projekt der ARGE BFW in Zusammenarbeit mit dem iqpr an der Deutschen
+Sporthochschule Köln ist in zwei Abschnitte unterteilt. Im Verlauf des ersten
+Projektabschnitts (EIBE I) in der Zeit von Mai 2005 bis März 2007 konnten
+die Konzepterstellung und der Prozess der Implementierung eines betrieblichen
+Eingliederungsmanagements in den Berufsförderungswerken weitgehend
+abgeschlossen werden. So hatten von 25 teilnehmenden Berufsförderungswerken
+21 ihre EIBE-Teams konstituiert, 14 Häuser mit der Eingliederungsarbeit
+begonnen, und in neun Unternehmen wurden Betriebsvereinbarungen zum
+betrieblichen Eingliederungsmanagement unterzeichnet.</p>
+        <p>Der Implementierungsprozess fand in einer Zeit statt, in der sich die
+Berufsförderungswerke erstmals in ihrer Geschichte mit Umstrukturierungen größeren
+Ausmaßes, Stellenabbau und betriebsbedingten Kündigungen konfrontiert
+sahen. In diesem Kontext erwies sich eine umfangreiche betriebliche
+Öffentlichkeitsarbeit zum Thema betriebliches Eingliederungsmanagement als
+außerordentlich hilfreich und notwendig. Gleiches galt für die Entwicklung von
+Standards zur Einhaltung des Datenschutzes.</p>
+        <p>Die betrieblichen Sozialpartner sahen sich aufgrund der veränderten
+wirtschaftlichen Situation vor neue Herausforderungen gestellt. Umso erfreulicher ist es,
+dass die Einführung des BEM eine breite Akzeptanz sowohl bei den
+Mitarbeitervertretungen bzw. den Betriebsräten als auch bei den Geschäftsführungen
+erfuhr.</p>
+        <p>Das Projekt</p>
+      </sec>
+      <sec id="sec-2-8">
+        <title>Die Rolle der EIBE-Teams in den</title>
+      </sec>
+      <sec id="sec-2-9">
+        <title>Berufsförderungswerken</title>
+      </sec>
+      <sec id="sec-2-10">
+        <title>2.1.1 Die Rolle der EIBE-Teams in den</title>
+      </sec>
+      <sec id="sec-2-11">
+        <title>Berufsförderungswerken</title>
+        <p>Das Selbstverständnis der EIBE-Teams in den Berufsförderungswerken
+konkretisierte sich dahingehend, dass ihnen während der Implementierungsphase
+eher übergeordnete Aufgaben zukamen, wie beispielsweise die
+Prozesssteuerung, Beratung, Erörterung datenschutzrelevanter Abläufe sowie
+Aktivitäten im Rahmen der Öffentlichkeitsarbeit. Es erwies sich als vorteilhaft, auch
+die Personalsachbearbeiterinnen und -sachbearbeiter, die verantwortlich für
+den Erstkontakt zu den betroffenen Beschäftigten sind, in die Arbeit dieser
+EIBE-Teams einzubeziehen.</p>
+        <p>Mit der Zunahme der Fallarbeit entwickelten sich neben den EIBE-Teams
+temporäre Teams entlang der Einzelfallbetreuung, die von der Fallmanagerin
+bzw. dem -manager koordiniert wurden und so dem betrieblichen
+Eingliederungsmanagement ein Gesicht verliehen.</p>
+      </sec>
+      <sec id="sec-2-12">
+        <title>2.1.2 Interventionszeitpunkt im Rahmen des betrieblichen Eingliederungsmanagements</title>
+        <p>Die aus EIBE I gewonnenen Erfahrungen im Rahmen der Fallarbeit machten
+deutlich, dass eine Arbeitsunfähigkeit von sechs Wochen nicht der alleinige
+Zugang für die Inanspruchnahme eines betrieblichen Eingliederungsmanagements
+sein sollte. Darüber hinaus sollte ein Augenmerk auf Beschäftigte gelegt werden,
+die der besonderen Fürsorgepflicht der Arbeitgeberin bzw. des Arbeitgebers
+bedürfen – unabhängig von Arbeitsunfähigkeitszeiten. Hierzu gehören
+schwerbehinderte und ihnen gleichgestellte Mitarbeiterinnen und Mitarbeiter sowie
+besonders belastete Beschäftigtengruppen. Konzeptionell wurde dieser
+Erkenntnis dadurch Rechnung getragen, dass den Beschäftigten die Möglichkeit
+eingeräumt wurde, auf eigenen Wunsch das betriebliche Eingliederungsmanagement
+in Anspruch zu nehmen, obwohl sie die Zugangskriterien nach § 84 SGB IV
+nicht erfüllten.</p>
+        <p>Die unmittelbaren Vorgesetzten spielten vor allem in der Umsetzung von
+Maßnahmen eine entscheidende Rolle. Sie vermittelten den entsprechenden
+Kolleginnen und Kollegen sowie den betroffenen Abteilungen, Teams oder
+Einheiten die festgelegten betrieblichen Umsetzungen und schafften die
+Rahmenbedingungen zur Sicherstellung der Maßnahmenumsetzung z. B. im
+Falle einer betrieblichen Umsetzung.
+Widerruf der Einwilligung
+8 Widerruf der Einwilligung in das betriebliche</p>
+        <p>Eingliederungsmanagement und/oder in die</p>
+        <p>Datenerhebung, -verarbeitung und -übermittlung
+Das betriebliche Eingliederungsmanagement ist praktisch, aber auch von
+Gesetzes wegen ohne Einwilligung der Betroffenen nicht durchführbar.</p>
+        <p>Grundsätzlich gilt, dass die Einwilligung jederzeit widerrufen werden kann.</p>
+        <p>Daher soll hier kurz auf die Konsequenzen eines Widerrufs eingegangen
+werden.</p>
+        <p>Zu unterscheiden ist zwischen dem Widerruf der Einwilligung in einzelne
+Datenerhebungen, -verarbeitungen und -übermittlungen, dem Widerruf der
+Einwilligung in das betriebliche Eingliederungsmanagement und dem Abbruch
+des betrieblichen Eingliederungsmanagements.</p>
+        <p>Sollte sich der Widerruf der Einwilligung auf einzelne Daten beschränken,
+beispielsweise auf einen einzelnen Arztbericht o. Ä., so sollten die
+entsprechenden Daten aus der BEM-Akte entfernt werden. Da nach dem
+vorliegenden Konzept nur wenige Daten in der Personalakte vermerkt werden, dürfte
+die Entfernung eines Personalakteneintrags noch nicht zur Debatte stehen.</p>
+        <p>Erstreckt sich der Widerruf auf so viele Daten, dass das betriebliche
+Eingliederungsmanagement nicht mehr fortgesetzt werden kann, so ist dies als
+Widerruf der Einwilligung in das betriebliche Eingliederungsmanagement zu
+behandeln.</p>
+        <p>Widerruft der bzw. die Betroffene seine bzw. ihre Einwilligung zu dem
+betrieblichen Eingliederungsmanagement, so sind die Inhalte der BEM-Akte
+umgehend zu vernichten oder an den Betroffenen bzw. die Betroffene
+herauszugeben. Aus der Personalakte sind nach hier vertretener Auffassung sämtliche
+Informationen außer der Tatsache des Angebots eines betrieblichen
+Eingliederungsmanagements und der Ablehnung durch den Betroffenen bzw. die
+Betroffene zu entfernen.</p>
+        <p>Der Abbruch des betrieblichen Eingliederungsmanagements unterscheidet
+sich von den vorgenannten Konstellationen dadurch, dass hier zwar die
+grundsätzliche Zustimmung des bzw. der Betroffenen zum betrieblichen
+Eingliederungsmanagement bestehen bleibt, jedoch über die Möglichkeit der
+Umsetzung einzelner Maßnahmen für das betriebliche
+Eingliederungsmanagement, notwendiger Datenübermittlung oder Prozessschritte (insgesamt oder
+hinsichtlich konkreter Einzelheiten) keine Einigung zwischen dem bzw. der
+Betroffenen und dem Arbeitgeber bzw. der Arbeitgeberin und/oder dem
+EIBE-Team erzielt werden kann. Hier ist dann entweder eine einvernehmliche
+Beendigung des betrieblichen Eingliederungsmanagements (D6) oder ein
+einseitiger Abbruch denkbar. Nach Meinung des iqpr bleibt es dann bei den
+in den vorhergehenden Kapiteln beschriebenen Einträgen in die BEM- und
+Personalakte.</p>
+        <p>Manual Teil C</p>
+        <p>Betriebsvereinbarung „Betriebliches
+Eingliederungsmanagement“
+(§ 84 Abs. 2</p>
+        <p>SGB IX)
+Betriebsvereinbarung
+„Betriebliches
+Eingliederungsmanagement“
+(§ 84 Abs. 2 SGB IX)
+1
+2
+3
+4
+5
+5.1
+5.1.1
+5.1.2
+5.1.3
+5.1.4
+5.1.5
+5.2
+5.2.1
+5.2.2
+5.2.3
+5.2.4
+5.2.5
+5.3
+6
+6.1
+6.2
+6.3
+6.3.1
+6.3.2
+6.3.2.1
+6.3.2.2</p>
+        <p>Streng vertrauliche Daten, die dem Schutz des §203 StGB
+unterfallen und für das betriebliche Eingliederungsmanagement
+nicht von Bedeutung sind (z. B. i.d.R. finanzielle Verhältnisse und
+Angaben aus der Intimsphäre)
+Streng vertrauliche Daten, soweit sie erforderlich sind
+(z. B. Prognosen, Diagnosen und Informationen, die hierauf
+schließen lassen)
+Daten, die für die Durchführung erforderlich sind, ohne Daten
+nach 6.3.2.1 und 6.3.2.2
+Rein sachbezogene Eckdaten des BEM-Prozesses und der
+Maßnahmen, die die Mitwirkung der Arbeitgeberin bzw. des
+Arbeitgebers erfordern
+Unzulässigkeit weiterer Datenverwendung
+Datensicherheit
+Durchführung des betrieblichen Eingliederungsmanagements
+Einleitung und Entscheidung der bzw. des Beschäftigten über die
+Durchführung eines betrieblichen Eingliederungsmanagements
+Einleitung des betrieblichen Eingliederungsmanagements
+durch Arbeitgeberin bzw. Arbeitgeber
+Einleitung des betrieblichen Eingliederungsmanagements
+durch Arbeitnehmerin bzw. Arbeitnehmer
+Informationsgespräch
+Rechte und Pflichten der EIBE-Koordinatorin bzw.
+des -Koordinators
+Tätigkeit des EIBE-Teams
+1.1</p>
+        <p>Präambel
+1 Präambel1
+gemeinsam das Ziel, dass
+Geschäftsführung, Schwerbehindertenvertretung und Betriebsrat verfolgen
+chronische Krankheiten und Behinderungen bei Arbeitnehmerinnen
+und Arbeitnehmern möglichst vermieden werden,
+Arbeitsunfähigkeit überwunden bzw. erneuter Arbeitsunfähigkeit
+vorgebeugt wird und
+der Arbeitsplatz von Krankheit oder Behinderung betroffener
+Arbeitnehmerinnen und Arbeitnehmer möglichst erhalten bleibt und verhindert
+wird, dass sie aus dem Erwerbsleben ausscheiden.</p>
+        <p>Deshalb wird im Unternehmen ein betriebliches Eingliederungsmanagement
+(BEM) eingeführt.
+2 Geltungsbereich
+Diese Betriebsvereinbarung gilt für alle Arbeitnehmerinnen und Arbeitnehmer
+i.S. von § 5 BetrVG des Betriebes XYZ.2
+3 Ziele der Rahmenvereinbarung
+Das Ziel dieser Betriebsvereinbarung ist die betriebliche Umsetzung des § 84
+Abs. 2 SGB IX.
+4 Grundsätze des BEM</p>
+        <p>Keine BEM-Aktivitäten ohne Zustimmung der bzw. des Beschäftigten.</p>
+        <p>Ob und inwiefern der Arbeitsplatz unter Berücksichtigung des
+betrieblichen Kontextes Auswirkungen auf die Arbeitsunfähigkeit der bzw. des
+Betroffenen hat, und die Einleitung eines BEM sinnvoll bzw.
+erforderlich ist, muss geklärt werden.</p>
+        <p>Probleme mit Arbeitsfeld, Arbeitsinhalt, Arbeitsumgebung,
+Vorgesetztenbeziehung oder sonstige Fragen der Arbeitszufriedenheit und deren
+Zusammenhang mit auftretenden Beschwerden sind mit der bzw. dem
+Beschäftigten und je nach Bedarf und Zustimmung der bzw. des
+Beschäftigten unter Konsultation des Betriebs-, des Hausarztes oder
+anderer behandelnder Ärzte zu erörtern.
+2 Da die Pflicht des § 84 Abs. 2 SGB IX nach zutreffender Auffassung auch bezüglich leitender Angestellter
+gilt, kann die Aufnahme einer Art „Selbstverpflichtung“ des Arbeitgebers zum Angebot eines BEM auf
+leitende Angestellte erwogen werden. Grundsätzlich können aber in einer Betriebsvereinbarung keine
+verbindlichen Regelungen für leitende Angestellte getroffen werden, da sie betriebsverfassungsrechtlich keine
+Arbeitnehmer sind (vgl. § 5 BetrVG). Im Übrigen ist es nicht ratsam, bestimmte Beschäftigtengruppen
+ausdrücklich aus dem Anwendungsbereich der Betriebsvereinbarung auszuschließen, da dann die Gefahr
+besteht, dass der Anwendungsbereich entgegen den Vorgaben des § 84 Abs. 2 SGB IX verengt wird. So ist
+z.B. anerkannt, dass auch Aushilfskräfte in den persönlichen Anwendungsbereich des § 84 Abs. 2 SGB IX
+fallen (vgl. dazu Dau/Düwell/Haines, SGB IX, 2. Aufl. 2009, § 84, Rn. 55).</p>
+        <p>Wird das BEM nicht im Wege einer Betriebsvereinbarung, sondern durch eine Richtlinie geregelt, entfallen
+solche Unterscheidungen.</p>
+        <p>Das EIBE-Team</p>
+        <p>Schnittstellen mit dem Arbeits- und Gesundheitsschutz sind besonders
+zu beachten.</p>
+        <p>Unter Konsultation der beteiligten betrieblichen Stellen ist gemeinsam
+mit der bzw. dem Beschäftigten zu klären, ob die Schwierigkeiten durch
+Maßnahmen innerhalb des Betriebes (Arbeitsplatz, Arbeitsumfeld, in
+der Arbeitsorganisation, Arbeitszeit), durch externe Hilfen (Beratung,
+Leistungen zur Teilhabe etc.) oder durch verhaltensorientierte Schritte
+überwunden werden können.
+5 Das EIBE-Team
+Ein- und Durchführung des BEM obliegt dem EIBE-Team. Das EIBE-Team hat
+dabei die unter Ziffer 4 genannten „Grundsätze des BEM“ und die
+nachfolgenden konkretisierenden Regelungen zu beachten.</p>
+        <p>Das EIBE-Team setzt sich zusammen aus einem Kernteam, das, vorbehaltlich
+der Zustimmung der betroffenen Person (vgl. auch Abschnitt 7), bei gleich
+bleibender Besetzung während der Durchführung eines BEM an allen
+Maßnahmen beteiligt ist, und weiteren Akteurinnen und Akteuren, die
+bedarfsweise hinzugezogen werden können (erweitertes EIBE-Team).
+5.1 Zusammensetzung des EIBE-Kernteams
+5.1.1 Beauftragte bzw. Beauftragter der</p>
+        <p>Arbeitgeberin bzw. des Arbeitgebers /</p>
+        <p>EIBE-Koordination
+Die Arbeitgeberin bzw. der Arbeitgeber entsendet eine Beauftragte bzw. einen
+Beauftragten sowie eine Stellvertretung für den Fall der Verhinderung in das
+EIBE-Kernteam.</p>
+        <p>Die bzw. der Beauftragte der Arbeitgeberin bzw. des Arbeitgebers übernimmt
+die Aufgabe der EIBE-Koordinatorin bzw. des -Koordinators. Ihre bzw. seine
+Aufgabe besteht darin, die Teamarbeit des EIBE Teams zu organisieren, das
+Einzelfallmanagement organisatorisch abzusichern und zu unterstützen sowie
+für die Erfüllung der Aufgaben aus Abschnitt 6.1 zu sorgen.3
+Die
+EIBEKoordinatorin bzw. der -Koordinator und die Stellvertretung werden von der
+Arbeitgeberin bzw. dem Arbeitgeber bestellt. Personen und Aufgaben werden
+der Belegschaft bekannt gegeben.4
+3 Da der Arbeitgeber nach § 84 Abs. 2 SGB IX verpflichtet ist, ein betriebliches Eingliederungsmanagement
+durchzuführen, liegt es nahe, der Arbeitgebervertretung im BEM-Team die Aufgabe zur Organisation zu
+übertragen. Zwingend ist dies allerdings nicht, so dass auch andere Regelungsvarianten denkbar sind
+(z. B. Koordination durch einen ausgebildeten Disability-Manager“, der im BEM-Team als „Fallmanager“
+primär mit der Abwicklung der konkreten Fallarbeit betraut ist). Entscheidend ist, dass Organisation des
+BEM hineichend geklärt wird. Sofern die bzw. der Beauftragte der Arbeitgeberseite nicht mit der Aufgabe
+der Organisation des betrieblichen Eingliederungsmanagements betraut wird, sollte dies in der Bezeichnung
+klar werden und die betreffende Person dann als Beauftragte bzw. Beauftragter der Arbeitgeberin bzw. des
+Arbeitgebers bezeichnet werden. Den „Koordinatorentitel“ sollte die Person tragen, deren Aufgabe die</p>
+        <p>Organisation ist.
+4 Sofern die Funktion als Beauftragte bzw. Beauftragter des Arbeitgebers nicht mit der Übertragung der</p>
+        <p>Funktion als EIBE-Koordinator verbunden ist (siehe vorstehende Fußnote), sollte erwogen werden, dass
+über die Person des EIBE-Koordinators einvernehmlich zwischen den Betriebsparteien und der
+Schwerbehindertenvertretung entschieden wird. Dies erscheint schon deswegen zielführend, weil die Aufgabe der
+Koordination nicht davon abhängt, die spezifische Arbeitgeberperspektive im BEM Prozess zu repräsentieren.
+Die EIBE-Koordinatorin bzw. der -Koordinator hat über die ihr bzw. ihm im
+Rahmen der Tätigkeit für das betriebliche Eingliederungsmanagement zur
+Kenntnis gelangenden Daten Geheimhaltung zu bewahren, insbesondere
+gegenüber der Arbeitgeberin bzw. dem Arbeitgeber und der Personalabteilung.</p>
+        <p>Die Geheimhaltung gehört zu den arbeitsvertraglichen Pflichten der bzw. des
+EIBE-Koordinatorin bzw. Koordinators. Die Arbeitgeberin bzw. der Arbeitgeber
+darf nicht verlangen, gegen diese Geheimhaltungspflichten zu verstoßen.5
+5.1.2 Fallmanagerin bzw. -manager 5
+Die Fallmanagerin bzw. der -manager klärt die entsprechenden Beschäftigten
+über Ziel und Ablauf des betrieblichen Eingliederungsmanagements auf,
+berät sie zu infrage kommenden Maßnahmen und nimmt ggf. Kontakt zu
+internen und externen Stellen auf. Sie bzw. er hat sich, sofern nicht bereits
+zuvor geschehen, vor der erstmaligen Übernahme der Funktion als
+Fallmanagerin bzw. -manager an die Datenschutzbeauftragte bzw. den
+Datenschutzbeauftragten zu wenden, um sich über die für sie bzw. ihn wichtigen
+Datenschutzbestimmungen, die Voraussetzungen der Schweigepflichtentbindung
+und Einzelheiten zu informieren und zu deren Einhaltung zu verpflichten.</p>
+        <p>Die Fallmanagerin bzw. der -manager dokumentiert alle Phasen des
+betrieblichen Eingliederungsmanagements und stellt die Dokumentation der bzw.
+dem Beschäftigten auf Wunsch in Kopie zur Verfügung. Sie bzw. er darf die
+Dokumentation nur gemäß Abschnitt 6 und nur mit schriftlicher Einwilligung
+der bzw. des Beschäftigten an andere Personen weiterleiten.</p>
+        <p>Die Funktion des Fallmanagers wird von einer in Fragen der
+Wiedereingliederung fachkundigen Persönlichkeit ausgeübt.6
+5.1.3 Mitglied des Betriebsrats
+Als Arbeitnehmervertretung entsendet der Betriebsrat ein Betriebsratsmitglied
+sowie eine Stellvertretung für den Fall der Verhinderung in das
+EIBE-Kernteam (im Folgenden: Betriebsrat).
+5 Sofern im Betrieb geeignete Personen verfügbar sind, sollte die Koordination vorzugsweise durch interne</p>
+        <p>Persönlichkeiten erfolgen, da diese in der Regel besser mit den betrieblichen Gegebenheiten vertraut sein
+werden. Die Koordination – wie auch das konkrete Fallmanagement – können aber grundsätzlich auch
+durch betriebsfremde Personen erfolgen. Letzteres dürfte z. B. bei kleinen Betrieben zu erwägen sein. Wie
+auch bei der internen Koordination hat die externe Koordinatorin bzw. der externe Koordinator zur
+Absicherung der Persönlichkeitsrechte der Betroffenen („Datenschutz“) gegenüber der Arbeitgeberin bzw.
+dem Arbeitgeber eine gesonderte Verschwiegenheitsvereinbarung zu unterzeichnen. Da in der
+Betriebsvereinbarung konkrete Regelungen über die Umsetzung der Pflichten aus § 84 Abs. 2 SGB IX zu treffen
+sind und nicht die allgemeine Rechtslage abzubilden ist (dazu eindringlich BAG v. 18.08.2009 – 1 ABR
+45/08, ist davon abzuraten, die Entscheidung über die interne oder die externe Variante in der
+Betriebsvereinbarung offenzuhalten. Mindestens sind aber in der Betriebsvereinbarung konkret die Tatbestände
+festzulegen, bei denen die Koordination intern bzw. extern erfolgen soll. Selbstverständlich kann durch</p>
+        <p>Abänderung der Betriebsvereinbarung diese Grundentscheidung revidiert werden.
+6 Der Fallmanager ist in § 84 Abs. 2 SGB IX nicht ausdrücklich vorgesehen. Die Federführung des
+betrieblichen Eingliederungsmanagements im Einzelfall durch einen Fallmanager ist dessen ungeachtet aber ratsam,
+um zielführend und koordiniert die Möglichkeiten der Wiedereingliederung auszuloten und auszunutzen.</p>
+        <p>Sofern es an betrieblichen Möglichkeiten fehlt, kann auch die Hinzuziehung betriebsfremder Fallmanager
+erwogen werden. Die für den eigenen Betrieb passende Variante ist in der Betriebsvereinbarung zu fixieren.</p>
+        <p>Insoweit bildet dieses Muster eine von mehreren Regelungsmöglichkeiten ab. Da der Erfolg des
+betrieblichen Eingliederungsmanagements auch eine Vertrauensfrage ist, ist es hilfreich die Möglichkeit vorzusehen,
+dass auf Wunsch der betroffenen Person auch andere Akteure des EIBE-Teams mit dem
+(Einzel)fallmanagement betraut werden können.
+5.1.4 Schwerbehindertenvertretung
+Wenn die bzw. der Betroffene schwerbehindert oder gleichgestellt ist, gehört
+ein Mitglied der Schwerbehindertenvertretung und eine Stellvertretung für
+den Fall der Verhinderung als Vertreterin der Gruppe der schwerbehinderten
+Arbeitnehmerinnen und Arbeitnehmer des Betriebes zum EIBE-Kernteam.7
+Wenn die bzw. der Betroffene es ausdrücklich wünscht, wird die
+Schwerbehindertenvertretung nicht am EIBE-Kernteam beteiligt. Sie gehört dann
+zum erweiterten EIBE-Team.
+5.1.5 Betriebsärztin bzw. -arzt
+Die Betriebsärztin bzw. der Betriebsarzt nach §§ 2 ff.
+Arbeitssicherheitsgesetz ist als neutrale Sachverständigenstelle zur Klärung
+arbeitsmedizinischer Fragestellungen am EIBE-Kernteam zu beteiligen.8
+Wenn die bzw. der Beschäftigte es ausdrücklich wünscht, wird die
+betriebsinterne Betriebsärztin bzw. der betriebsinterne Betriebsarzt nicht am
+EIBEKernteam beteiligt. Sie bzw. er gehört dann nach Maßgabe von Abschnitt
+Ziffer 5.2 dem erweiterten EIBE-Team an.
+5.2 Erweitertes EIBE-Team
+Mitglieder des erweiterten EIBE-Teams werden je nach Bedarf und nur mit
+Zustimmung der bzw. des Beschäftigten hinzugezogen.
+5.2.1 Schwerbehindertenvertretung
+Ist die bzw. der Beschäftigte nicht schwerbehindert oder gleichgestellt, gehört
+die Schwerbehindertenvertretung zum erweiterten Team.9
+5.2.2 Fachkraft für Arbeitssicherheit
+Die Fachkraft für Arbeitssicherheit wird insbesondere für die Beurteilung
+arbeitssicherheitstechnischer Fragestellungen hinzugezogen.
+5.2.3 Betriebliche Sozialberatung
+Die betriebliche Sozialberatung kann hinzugezogen werden, wenn soziale
+Probleme erörtert werden sollen; die betriebliche Suchtberatung, wenn
+Anhaltspunkte dafür bestehen, dass hinter den Arbeitsunfähigkeitszeiten
+eine Suchtproblematik steht.
+7 Es bietet sich aufgrund der in der Regel vorliegenden Kompetenz der Schwerbehindertenvertretung in</p>
+        <p>Fragen der Auswirkungen von Krankheit auf den Arbeitsplatz und in Fragen der Rehabilitation an, diese
+auch bei nicht schwerbehinderten Beschäftigten, vorbehaltlich eines anders lautenden Wunsches der bzw.</p>
+        <p>des Beschäftigten, dem BEM-Kernteam zuzuordnen.
+8 Die Einbindung der Betriebsärztin bzw. des Betriebsarztes ist nicht zwingend. Die Einbindung wird zwecks</p>
+        <p>Mobilisierung arbeitsmedizinischer Expertise häufig sinnvoll sein und kann durch eine Betriebsvereinbarung
+vereinbart werden.
+9 Die Einbindung der Schwerbehindertenvertretung bei nicht schwerbehinderten oder gleichgestellten</p>
+        <p>Beschäftigten ist nicht zwingend. Die Einbindung kann aufgrund der Exptertise häufig sinnvoll sein und
+kann durch eine Betriebsvereinbarung vereinbart werden.</p>
+        <p>Grundlagen für das Betriebliche
+Eingliederungsmanagement
+5.2.4 Unmittelbare Vorgesetzte bzw. unmittelbarer</p>
+        <p>Vorgesetzter der Betrof fenen
+Zur Beurteilung von Eingliederungsmöglichkeiten am bisherigen Arbeitsplatz
+und dessen unmittelbarer Umgebung ist ggf. die Einschätzung der
+unmittelbaren Vorgesetzten bzw. des unmittelbaren Vorgesetzten einzuholen.
+5.2.5 Sonstige Akteurinnen und Akteure
+Sonstige interne und externe Akteurinnen und Akteure, deren Fachwissen für
+die Aufgaben des betrieblichen Eingliederungsmanagements erforderlich ist,
+werden je nach Bedarf zu den Beratungen des EIBE-Teams hinzugezogen.
+5.3 Datenschutzbeauftragte bzw. -beauftragter
+Die Datenschutzbeauftragte bzw. der Datenschutzbeauftragte unterweist die
+Mitglieder des EIBE-Teams über die bei der Durchführung des betrieblichen
+Eingliederungsmanagements zu beachtenden Modalitäten zur Gewährleistung
+des Datenschutzes. Sie bzw. er ist zu konsultieren, wenn Unsicherheiten
+bezüglich der zu erhebenden, weiterzuleitenden und zu erörternden Daten bestehen.</p>
+        <p>Sie bzw. er hat im Rahmen der Evaluierung nach Abschnitten 9 Ziffer 5; und
+10.4 die Umsetzung dieser Betriebsvereinbarung datenschutzrechtlich zu
+überprüfen und ggf. Änderungs- oder Verbesserungsvorschläge zu machen.
+6 Grundlagen für das betriebliche</p>
+        <p>Eingliederungsmanagement
+6.1 Betriebliches Eingliederungsmanagement in der</p>
+        <p>Unternehmenskultur
+Arbeits- und Gesundheitsschutz, betriebliches Eingliederungsmanagement
+und Gesundheitsförderung als Bestandteile des Gesundheitsmanagements
+sind Bestandteil des Unternehmensleitbildes.</p>
+        <p>Es werden folgende Maßnahmen ergriffen, um das BEM nachhaltig in die
+Unternehmenskultur zu integrieren:
+a) Alle Beschäftigten werden zeitnah, spätestens innerhalb von 3 Monaten
+nach Abschluss dieser Betriebsvereinbarung, über den Inhalt dieser
+Betriebsvereinbarung sowie danach jährlich über Sinn und Ausgestaltung
+des betrieblichen Eingliederungsmanagements im Unternehmen, die
+Mitverantwortung jedes Einzelnen für Gesundheit, Krankheit und Rückkehr
+auf den Arbeitsplatz sowie Schulungsangebote der Krankenkassen,
+Integrationsämter, Rentenversicherungen und Berufsgenossenschaften zu
+diesen Themen im Rahmen der regelmäßigen</p>
+        <p>Arbeitsschutzunterweisungen (§ 12 ArbSchG)10 informiert.
+b) Alle Führungskräfte, denen Personalverantwortung übertragen worden ist,
+und die Mitglieder des EIBE-Teams erhalten nach Abschluss dieser
+Betriebsvereinbarung eine eintägige Schulung zum betrieblichen</p>
+        <p>Eingliederungsmanagement. Danach nehmen sie
+10 Um Zweifel (und betriebliche Konflikte!) über den Rahmen der Information zu beseitigen, sollte dieser in
+der Betriebsvereinbarung eindeutig geregelt werden. Neben der in der Vereinbarung exemplarisch
+genannten Unterweisung gibt es hierfür auch viele andere Möglichkeiten, wie z. B. Betriebs- oder
+Abteilungsversammlungen, Dienstbesprechungen oder geeignete Informationsblätter.
+Überwachung der Fehlzeiten
+b) mindestens einmal pro Jahr an einer betrieblichen
+Informationsveranstaltung über die rechtlichen Regelungen und neuesten Entwicklungen auf
+dem Gebiet des betrieblichen Eingliederungsmanagements teil.
+c) Alle Akteurinnen und Akteure des betrieblichen Eingliederungsmanagements
+inkl. der Personalsachbearbeiterinnen und -sachbearbeiter erhalten darüber
+hinaus eine spezielle eintägige In-house Schulung zum Umgang mit
+vertraulichen Daten durch die Datenschutzbeauftragte bzw. den
+Datenschutzbeauftragten.11
+6.2 Überwachung der Fehlzeiten
+Die Personalabteilung hat darüber zu wachen, ob Beschäftigte in den
+letzten zwölf Monaten (nicht: Kalenderjahr) ununterbrochen oder insgesamt
+sechs Wochen arbeitsunfähig erkrankt waren. Hiervon ist auszugehen,
+sobald bei einer Arbeitnehmerin bzw. einem Arbeitnehmer innerhalb der
+zurückliegenden 12 Monate mehr als 42 Tage Arbeitsunfähigkeit angefallen
+sind, unabhängig davon, ob es sich um Arbeitstage oder arbeitsfreie Tage
+(Sonn- und Feiertage, freie Tage aufgrund einer flexiblen Arbeitszeitregelung
+oder Teilzeitarbeit) handelt.12
+In einem solchen Fall ist ein betriebliches Eingliederungsmanagement gemäß
+Abschnitt 7.1 einzuleiten.
+6.3 Grundsätze des Datenschutzes
+6.3.1 Allgemeines
+Die Mitglieder des EIBE-Teams haben bezüglich der ihnen im Rahmen ihrer
+Aufgabe bekannt werdenden Sachverhalte besondere Verschwiegenheit zu
+wahren und die Vorschriften des Datenschutzes besonders sorgfältig zu
+berücksichtigen. Ungeachtet sonstiger gesetzlicher Schweigeverpflichtungen
+gehört diese besondere Verschwiegenheit der betrieblichen Mitglieder des
+EIBE-Teams zu ihren arbeitsvertraglichen Pflichten.</p>
+        <p>Alle Mitglieder des EIBE-Teams müssen (beim erweiterten EIBE-Team bei
+erstmaliger Teilnahme am betrieblichen Eingliederungsmanagement) gegenüber
+der Arbeitgeberin bzw. dem Arbeitgeber eine schriftliche
+Verschwiegenheitsvereinbarung bezüglich der ihnen im Rahmen des betrieblichen
+Eingliederungsmanagements zur Kenntnis gelangten personenbezogenen Daten der
+Betroffenen unterzeichnen. Die Arbeitgeberin bzw. der Arbeitgeber darf von ihnen
+nicht verlangen, diese Daten über das im Abschnitt 6.3 definierte Maß
+hinaus zu verarbeiten, insbesondere sie weiterzugeben oder sonst i. S. des § 3
+Abs. 5 Bundesdatenschutzgesetz (BDSG) zu nutzen.
+Die Verarbeitung, insbesondere Weitergabe und das Nutzen jedweder
+personenbezogener Daten, die im Rahmen des betrieblichen
+Eingliederungsmanagements gewonnen werden, ist – auch zwischen Kernteam und erweitertem
+Team – nur mit schriftlicher Einwilligung der bzw. des Beschäftigten zulässig.</p>
+        <p>Vor der Einwilligung ist die betroffene Person nach Maßgabe des § 4a BDSG
+insbesondere über Art und Umfang der zu verarbeitenden, insbesondere
+weiterzugebenden und zu nutzenden Daten sowie Sinn und Zweck der
+Datenverarbeitung und Datennutzung zu informieren. Weitere Beschränkungen
+ergeben sich aus 6.3.2.</p>
+        <p>Daten, die unter Verletzung dieser Beschränkungen anderen als den für die
+Kenntnisnahme vorgesehenen Personen (insbesondere: der Arbeitgeberin
+bzw. dem Arbeitgeber) zur Kenntnis gelangen, dürfen von diesen nicht
+verwertet oder sonst wie verwendet werden.13
+Unbeschadet sonstiger zivil- und strafrechtlicher Konsequenzen prüft die
+Arbeitgeberin bzw. der Arbeitgeber im Falle von Verstößen gegen die Pflicht
+zur Verschwiegenheit und Vertraulichkeit alle in Betracht kommenden
+arbeitsrechtlichen Konsequenzen in Abstimmung mit dem Betriebsrat.</p>
+        <p>Zwecks Erfüllung des gesetzlichen Auftrags zur Überwachung der Durchführung
+des betrieblichen Eingliederungsmanagements (§ 84 Abs. 2 Satz 6 und 7 SGB IX)
+erhalten der Betriebsrat und die Schwerbehindertenvertretung, ungeachtet
+der sonstigen Vorschriften in diesem Abschnitt, im Vorfeld des Erstkontaktes
+mit den betroffenen Beschäftigten die Information, dass bei dieser Person
+sechs Wochen Arbeitsunfähigkeit i. S. von § 84 Abs. 2 SGB IX festgestellt
+wurde und das betriebliche Eingliederungsmanagement eingeleitet wurde.14
+6.3.2 Unterschiedliche Vertraulichkeit von Daten
+Im Rahmen des BEM wird je nach Grad der Vertraulichkeit mit
+personenbezogenen Daten unterschiedlich umgegangen. Zu unterscheiden sind:
+6.3.2.1 Streng vertrauliche Daten, die dem Schutz
+des § 203 StGB unterfallen und für das BEM nicht
+von Bedeutung sind (z. B. in der Regel finanzielle
+Verhältnisse und Angaben aus der Intimsphäre)
+Die Beurteilung, ob solche Daten für das betriebliche
+Eingliederungsmanagement von Bedeutung sind, obliegt der Ärztin bzw. dem Arzt (oder sonstigem
+Geheimnisträger nach § 203 StGB) in Abstimmung mit der bzw. dem
+betroffenen Beschäftigten.</p>
+        <p>Eine Schweigepflichtentbindung, die sich auf solche Daten bezieht, darf nicht
+eingeholt werden. Daten dieser Vertraulichkeitsstufe, die jemand anderem
+als der behandelnden Ärztin bzw. dem behandelnden Arzt oder der bzw.
+dem betroffenen Beschäftigten zur Kenntnis gelangen, dürfen nicht
+verwendet oder gar weitergegeben werden.
+10
+13 Für den Fall der Weitergabe personenbezogener Daten an betriebsfremde Dritte, sollte dies vertraglich</p>
+        <p>auch für diese geregelt werden, sofern ein Vertragsverhältnis mit dem „Dritten“ besteht.
+14 Diese Problematik ist teilweise umstritten. Namentlich für den Bereich des öffentlichen Dienstes sehen
+einige Verwaltungsgerichte die Datenweitergabe als Verstoß gegen das Datenschutzrecht an (z. B. VGH
+Bayern v. 30.4.2009 – 17 P 08.3389; einschränkend OVG Berlin-Brandenburg, v. 20.11.2008 – 60 PV 9.07
+= PersR 2009, 170ff.). Nach Ansicht des iqpr sind diese datenschutzrechtlichen Einwände unbegründet,
+denn § 84 Abs. 2 Satz 6 und 7 SGB IX bietet die gesetzliche Grundlage für eine solche Datenweitergabe.</p>
+        <p>Anders könnten Betriebsrat und Schwerbehindertenvertretung ihren Auftrag zur Überwachung der
+Durchführung des betrieblichen Eingliederungsmanagements auch nicht erfüllen. Dazu auch ausführlich
+und zutreffend Dau/Düwell/Haines, SGB IX, 2. Aufl. 2009, § 84, Rn.49
+Streng vertrauliche Daten
+6.3.2.2 Streng vertrauliche Daten, soweit sie
+erforderlich sind (z. B. Prognosen15, Diagnosen und
+Informationen, die hierauf schließen lassen)
+Die Beurteilung, ob streng vertrauliche Daten für das betriebliche
+Eingliederungsmanagement erforderlich sind, obliegt der Ärztin bzw. dem Arzt (oder
+sonstigem Geheimnisträger nach § 203 StGB) und der Fallmanagerin bzw.
+dem Fallmanager, soweit sie bzw. er bereits über diese Informationen verfügt.</p>
+        <p>Sie bzw. er beurteilt grundsätzlich auf Grundlage des im Austausch mit dem
+EIBE-Kernteam zutage tretenden Informationsbedarfs und unter Abstimmung
+mit der bzw. dem betroffenen Beschäftigten. Die Gründe der Beurteilung,
+insbes. Zweck und der Umfang einer etwaigen Entbindung von der
+Schweigepflicht sind schriftlich festzuhalten und mit der betroffenen Person zuvor zu
+erörtern.</p>
+        <p>Nach entsprechender unter 7.1.3 näher geregelter Schweigepflichtentbindung,
+der eine, schriftlich zu bestätigende Aufklärung und eine Rücksprache mit
+dem Arzt vorausgehen muss, können solche Daten ausnahmsweise
+weitergegeben werden an:
+die Fallmanagerin bzw. den -manager (vgl. 5.1.2)
+die Betriebsärztin bzw. den Betriebsarzt, sofern er dem EIBE-Kernteam
+zugehören soll
+den Betriebsrat
+die Schwerbehindertenvertretung
+Die EIBE-Koordinatorin bzw. der -Koordinator, sofern sie bzw. er nicht mit
+der Fallmanagerin bzw. dem -manager identisch ist, darf in keinem Fall
+streng vertrauliche Daten der in diesem Abschnitt beschriebenen Art erhalten.</p>
+        <p>Daten dieser Vertraulichkeitsstufe dürfen nur an die o. g. Personen
+weitergeleitet und von keiner dieser Personen an eine andere Person oder Stelle
+weitergeleitet oder in sonstiger Weise genutzt werden.
+6.3.2.3 Daten, die für die Durchführung erforderlich
+sind, ohne Daten nach 6.3.2.1 und 6.3.2.2
+Hierzu gehören:
+die momentane Leistungsfähigkeit der bzw. des Beschäftigten bezogen
+auf den konkreten bisherigen Arbeitsplatz,
+die ärztlichen Beurteilungen bezüglich der Durchführbarkeit konkreter</p>
+        <p>Maßnahmenvorschläge seitens des EIBE-Kernteams.</p>
+        <p>Die Beurteilung, ob Daten zu dieser Vertraulichkeitsstufe gehören, nimmt
+die behandelnde Ärztin bzw. der behandelnde Arzt und/oder
+die Betriebsärztin bzw. der Betriebsarzt – sofern diese bzw. dieser
+aufgrund entsprechender Schweigepflichtentbindung umfängliche Kenntnis
+von Gesundheitsdaten der bzw. des Beschäftigten hat – oder
+sonstige Personen, die über entsprechende Informationen verfügen,
+15 Unter Prognosen sind sämtliche medizinischen Angaben zum zukünftigen Krankheitsverlauf und zu den
+zukünftig erwarteten Auswirkungen einer Krankheit auf die Arbeitsfähigkeit zu verstehen, die über die in den
+AU-Bescheinigungen enthaltenen Informationen hinausgehen.</p>
+        <p>Rein sachbezogene Eckdaten des BEM-Prozesses und
+der Maßnahmen
+vor. Die Beurteilung erfolgt vor einer etwaigen Datenweitergabe / Antwort
+auf konkrete Maßnahmenvorschläge in Abstimmung mit der bzw. dem
+Beschäftigten.</p>
+        <p>Nach entsprechender Schweigepflichtentbindung durch die Beschäftigte bzw.
+den Beschäftigten, der eine entsprechende Aufklärung vorausgehen muss,
+können solche Daten weitergegeben werden an:
+das BEM Kernteam
+das erweiterte EIBE-Team
+ggf. externe Akteurinnen und Akteure, die bei der Planung und
+Durchführung von Maßnahmen mit Zustimmung der bzw. des Beschäftigten
+beteiligt werden (z. B. Rehaträger, Integrationsamt,
+Integrationsfachdienst etc.)
+Keinesfalls dürfen über den konkreten Umfang der Schweigepflichtentbindung
+hinausgehende Details einer ärztlichen Stellungnahme zu konkreten
+Maßnahmenvorschlägen oder sonstige über Daten nach 6.3.2.4 hinausgehende
+Informationen dieser Vertraulichkeitsstufe an Personen außerhalb des
+EIBETeams und der hinzugezogenen externen Akteurinnen und Akteure,
+insbesondere nicht an die Arbeitgeberin bzw. den Arbeitgeber, weitergeleitet werden.
+6.3.2.4 Rein sachbezogene Eckdaten des
+BEM-Prozesses und der Maßnahmen, die die Mitwirkung
+der Arbeitgeberin bzw. des Arbeitgebers erfordern
+Hierzu gehören folgende Informationen:
+dass und wann ein betriebliches Eingliederungsmanagement
+stattgefunden hat,
+welche Akteurinnen und Akteure am betrieblichen
+Eingliederungsmanagement teilgenommen haben und
+die empfohlenen Maßnahmen, soweit eine Mitwirkung der Arbeitgeberin
+bzw. des Arbeitgebers bzw. der Personalabteilung erforderlich ist
+Diese Daten dürfen nach entsprechender schriftlicher Einwilligung der bzw.
+des Beschäftigten im Rahmen des erweiterten EIBE-Teams erörtert und auch
+an die Arbeitgeberin bzw. den Arbeitgeber weitergegeben werden.
+6.3.3 Unzulässigkeit weiterer Datenverwendung
+Sollten im Rahmen des betrieblichen Eingliederungsmanagements Daten
+nach 6.3.2.1 bis 6.3.2.3 der Arbeitgeberin bzw. dem Arbeitgeber bekannt
+werden, so ist eine spätere Verwendung dieser Daten zu anderen Zwecken als
+denen des betrieblichen Eingliederungsmanagements unzulässig.</p>
+        <p>Durchführung des betrieblichen
+Eingliederungsmanagements
+6.3.4 Datensicherheit
+Gesundheitsdaten und die Dokumentation der über Daten nach 6.3.2.4
+hinausgehenden Einzelheiten des BEM müssen in voneinander und von der
+Personalakte getrennten Akten aufbewahrt werden.</p>
+        <p>Diese werden wie Personalakten in entsprechenden Schränken
+(Sicherungssysteme) aufbewahrt.16 Zugang zu den Daten hat während laufender
+BEMVerfahren nur die Fallmanagerin bzw. der -manager (vgl. Abschnitt 5.1.2), der
+bzw. dem jeweils entsprechend sichere Aufbewahrungsmittel zur Verfügung
+gestellt werden. Zuständig für die Archivierung und die Erteilung von
+Zugangsberechtigungen im Einzelfall ist die bzw. der Datenschutzbeauftragte.
+7 Durchführung des betrieblichen</p>
+        <p>Eingliederungsmanagements
+Das betriebliche Eingliederungsmanagement teilt sich auf in folgende Phasen,
+die jeweils nur mit Zustimmung der bzw. des Beschäftigten durchgeführt
+werden. Die bzw. der Beschäftigte kann grundsätzlich auch bestimmen,
+welche Akteurinnen und Akteure in den jeweiligen Phasen am betrieblichen
+Eingliederungsmanagement mitwirken. Wird die Zustimmung zur Mitwirkung
+einer oder mehrerer der im Weiteren als notwendig mitwirkende Akteurinnen
+und Akteure bezeichneten Personen verweigert, entscheidet das
+EIBE-Kernteam mehrheitlich, ob das BEM fortgeführt werden kann oder insgesamt
+infrage gestellt und deswegen zu beenden ist.</p>
+        <p>Phasen:</p>
+        <p>Einleitung und Entscheidung der bzw. des Beschäftigten über die
+Durchführung eines betrieblichen Eingliederungsmanagements
+Situationsanalyse
+Planung von Maßnahmen
+Entscheidung über die Durchführung von Maßnahmen
+– Eingliederungsvereinbarung –
+Umsetzung der Maßnahmen
+Analyse der Wirksamkeit
+Vor jeder Phase hat die Fallmanagerin bzw. der -manager die Beschäftigte
+bzw. den Beschäftigten zu befragen, ob und in welchem Umfang sie bzw. er
+mit der vom Gesetz grundsätzlich vorgesehenen Hinzuziehung des
+EIBEKernteams und ggf. anderen betrieblichen und betriebsexternen Akteurinnen
+und Akteuren einverstanden ist, und darüber aufzuklären, welche Akteurinnen
+und Akteure zwingend hinzuzuziehen und welche Daten weiterzugeben sind,
+damit die Phase überhaupt durchgeführt werden kann.</p>
+        <p>In jeder Phase ist zu prüfen, ob die Unterstützung zusätzlicher betrieblicher
+oder betriebsexterner Akteurinnen und Akteure (z. B. der
+Rehabilitationsträger) zweckdienlich ist. Diese sind ggf. nach Zustimmung der bzw. des
+Beschäftigten hinzuzuziehen.
+16 Sofern die Aktenverwaltung elektronisch erfolgen soll, sind entsprechende technische und
+organisatorische Sicherungsmaßnahmen zum Schutz der elektronischen Daten zu treffen vgl. auch § 9 BDSG sowie
+die Anlage zu § 9 Abs. 1 Satz 1 BDSG. Hierzu sind der Datenschutzbeauftragte oder andere fachkundige
+Personen hinzuziehen.</p>
+        <p>Einleitung und Entscheidung der bzw. des
+Beschäftigten
+Kommt das EIBE-Kernteam mehrheitlich zur der Überzeugung, dass die
+Arbeitsunfähigkeit nicht durch Maßnahmen der medizinischen Rehabilitation,
+Leistungen zur Teilhabe am Arbeitsleben oder sonstige Maßnahmen am Arbeitsplatz
+oder im Betrieb (z. B. Umsetzung) behoben oder künftiger Arbeitsunfähigkeit
+vorgebeugt werden kann, so wird das betriebliche Eingliederungsmanagement
+möglichst einvernehmlich beendet und ein entsprechender Vermerk zur
+Personalakte gereicht.17 Wird das BEM-Verfahren gegen den Willen der bzw.
+des Beschäftigten beendet, hat die Fallmanagerin bzw. der Fallmanager auf
+das Recht der betroffenen Person, Erklärungen zur Personalakte zu geben
+(§ 83 Abs. 2 BetrVG), hinzuweisen.
+7.1 Einleitung und Entscheidung der bzw. des</p>
+        <p>Beschäftigten über die Durchführung
+7.1.1 Einleitung des betrieblichen</p>
+        <p>Eingliederungsmanagements durch</p>
+        <p>Arbeitgeberin bzw. Arbeitgeber
+Stellt die Personalabteilung fest, dass eine Arbeitnehmerin bzw. ein
+Arbeitnehmer innerhalb der letzten zwölf Monate insgesamt mehr als sechs Wochen
+arbeitsunfähig erkrankt war (vgl. Abschnitt 6.2), so nimmt sie schriftlich
+Kontakt mit ihr bzw. ihm auf und bietet ein Informationsgespräch zum BEM
+an. 18
+7.1.2 Einleitung des betrieblichen</p>
+        <p>Eingliederungsmanagements durch</p>
+        <p>Arbeitnehmerin bzw. Arbeitnehmer
+Eine Arbeitnehmerin bzw. ein Arbeitnehmer kann auch jederzeit unabhängig
+von der Sechs-Wochen-Frist des § 84 Abs. 2 SGB IX für sich ein BEM anregen,
+wenn sie bzw. er dies für erforderlich hält. Er kann sich dafür an jedes Mitglied
+des EIBE-Teams wenden, der dann die anderen Mitglieder des EIBE-Kernteams
+unter Wahrung des Datenschutzes informiert. Die bzw. der Beschäftigte kann
+auch eine sonstige Person seines Vertrauens, z. B. eine behandelnde Ärztin
+bzw. einen behandelnden Arzt, beauftragen, Kontakt mit dem EIBE-Team
+aufzunehmen. In einem solchen Fall entscheidet das EIBE-Kernteam
+mehrheitlich darüber, ob ein betriebliches Eingliederungsmanagement bereits vor
+Erreichen der Sechs-Wochen-Frist des § 84 Abs. 2 SGB IX eingeleitet werden
+soll.
+7.1.3 Informationsgespräch
+In dem Informationsgespräch wird die bzw. der Beschäftigte durch die
+Fallmanagerin bzw. den -manager im EIBE-Team und ggf. ergänzend durch die
+EIBE-Koordinatorin bzw. den -Koordinator über das betriebliche
+Eingliederungsmanagement, die damit verbundenen Ziele und die verschiedenen
+Möglichkeiten des weiteren Vorgehens informiert.</p>
+        <p>In diesem Gespräch wird die bzw. der Beschäftigte aufgeklärt und informiert
+über die Daten, die die Fallmanagerin bzw. der -manager bisher
+erhalten hat;
+über die verschiedenen Schritte des betrieblichen
+Eingliederungsmanagements und darüber, dass jeder Schritt nur mit ihrer bzw. seiner
+ausdrücklichen Zustimmung erfolgt;
+über die Art der voraussichtlich im jeweiligen Schritt zu
+besprechenden Daten und welchen Akteurinnen und Akteuren sie zugänglich
+gemacht werden;
+darüber, in welchem Umfang die Beteiligung des EIBE-Teams in den
+jeweiligen Stufen des betrieblichen Eingliederungsmanagements ihrer
+bzw. seiner Zustimmung unterliegt;
+darüber, welche sonstige Stellen insbesondere Ärztinnen und Ärzte
+evtl. in das Verfahren einzubinden sind;
+über die Möglichkeit der bzw. des Beschäftigten, zunächst Arztgespräche
+zu führen und seine Zustimmung zum betrieblichen
+Eingliederungsmanagement vom Ergebnis dieser Gespräche abhängig zu machen;
+über das weitere Vorgehen, wenn sie bzw. er kein betriebliches
+Eingliederungsmanagement wünscht, insbesondere darüber, dass
+keine unmittelbaren arbeitsrechtlichen Konsequenzen drohen;
+über die Möglichkeit und möglichen Nachteile einer
+Schweigepflichtentbindung behandelnder Ärztinnen und Ärzte sowie die Grenzen einer
+solchen Schweigepflichtentbindung (vgl. 6.3.2).</p>
+        <p>Sofern aus dem Informationsgespräch keine Vereinbarung zur
+Durchführung eines betrieblichen Eingliederungsmanagements folgt, ist ggf.
+zum Ende des Informationsgesprächs, nach Ablauf einer Bedenkzeit,
+ein Folgegespräch zu vereinbaren, in dem die weitere Verfahrensweise
+geklärt wird.</p>
+        <p>Voraussetzungen einer Schweigepflichtentbindung
+Im Informationsgespräch muss der Betroffene aufgeklärt werden, dass
+insbesondere geklärt werden muss, ob, zu welchem Zeitpunkt und in welchem
+Umfang es ggf. notwendig ist, die behandelnden Ärztinnen und Ärzte
+gegenüber der Betriebsärztin bzw. dem -arzt, sofern sie bzw. er dem
+EIBE-Kernteam angehört und/oder der Fallmanagerin bzw. dem -manager von der
+Schweigepflicht bezüglich Informationen über Daten nach 6.3.2.2 bis 6.3.2.3
+zu entbinden.</p>
+        <p>Eine Schweigepflichtentbindung kann zu jedem Zeitpunkt des betrieblichen
+Eingliederungsmanagements, jedoch erst nach Ermittlung der Anforderungen
+und Arbeitsbedingungen des jeweiligen Arbeitsplatzes, unter Maßgabe des
+Abschnitts 6.3 erteilt werden.</p>
+        <p>Die Entbindung von der Schweigepflicht kann nur freiwillig erfolgen.</p>
+        <p>Die bzw. der Beschäftigte hat das Recht, eine Schweigepflichtentbindung
+jederzeit zu widerrufen. Sämtliche aufgrund der Schweigepflichtentbindung
+gewonnenen Daten dürfen dann nicht mehr verwendet werden. Wenn die
+bzw. der Beschäftigte von diesem Recht mehrfach Gebrauch macht, prüft
+das EIBE-Kernteam, ob das betriebliche Eingliederungsmanagement
+ungeachtet dessen sinnvoll durchgeführt werden kann und entscheidet
+mehrheitlich über eine Fortsetzung des BEM-Verfahrens.</p>
+        <p>Die Schweigepflichtentbindung darf nur nach entsprechender Rücksprache
+der bzw. des Beschäftigten mit der jeweiligen Ärztin bzw. dem jeweiligen
+Arzt eingeholt werden.</p>
+        <p>Die Verwendung von Daten, die aufgrund einer unwirksamen
+Schweigepflichtentbindung gewonnen wurden, ist unzulässig.</p>
+        <p>Vorgehen, wenn ein betriebliches Eingliederungsmanagement nicht
+gewünscht wird
+Erklärt sich die bzw. der Beschäftigte nach dem Informationsgespräch und
+ggf. nach einem Folgegespräch nicht mit einem betrieblichen
+Eingliederungsmanagement einverstanden, reicht das EIBE-Kernteam eine Mitteilung zur
+Personalakte, dass mit der betreffenden Person ein Informations- und ggf.
+ein Folgegespräch geführt wurde, aber ihrem Willen entsprechend keine
+weiteren Maßnahmen diesbezüglich unternommen werden sollen.</p>
+        <p>Die bzw. der betroffene Beschäftigte ist über diese Mitteilung schriftlich zu
+informieren. Sie bzw. er ist dabei auf sein Recht hinzuweisen, zur Sache
+eine eigene Erklärung zur Personalakte zu reichen (§ 83 Abs. 2 BetrVG).</p>
+        <p>Sofern die bzw. der Beschäftigte das Angebot des betrieblichen
+Eingliederungsmanagements nicht annimmt, darf dies nicht zu ihren bzw. seinen
+Lasten gewertet werden. Insbesondere ist es nicht zulässig, hieraus
+unmittelbare arbeitsrechtliche Konsequenzen abzuleiten. 19 20
+19 Es ist noch ungeklärt, wie die Gerichte im Falle einer krankheitsbedingten Kündigung den Umstand mit
+einfließen lassen werden, dass ein betriebliches Eingliederungsmanagement angeboten, aber seitens der
+bzw. des Beschäftigten nicht erwünscht war. Unseres Erachtens (!) hat dies lediglich zur Folge, dass die
+bzw. der Beschäftigte die soziale Rechtfertigung der krankheitsbedingten Kündigung mit dem Einwand, es
+habe kein betriebliches Eingliederungsmanagement stattgefunden, nicht mehr angreifen kann. Andere
+Einwände sind unserer Meinung nach deswegen aber nicht grundsätzlich ausgeschlossen. Es ist jedoch zu
+erwarten, dass dieser Umstand zulasten der bzw. des Beschäftigten in der Interessenabwägung
+(ultimaratio-Prinzip: krankheitsbedingte Kündigung darf nur letztes Mittel sein, Maßnahmen zum Erhalt des
+Beschäftigungsverhältnisses müssen unmöglich oder unzumutbar sein) berücksichtigt werden wird.</p>
+        <p>Dagegen wiederum lässt sich anführen, dass dann eine Zustimmung schon aus Angst vor einer
+krankheitsbedingten Kündigung erteilt werden würde, was den Sinn und Zweck des § 84 Abs. 2 SGB IX
+(Betroffene bzw. Betroffener als „Herr des Verfahrens“) ad absurdum führen würde. Die Verweigerung der
+Teilnahme am betrieblichen Eingliederungsmanagement wird also wahrscheinlich kein „K.O.- Kriterium“ für
+eine Klage gegen eine eventuelle krankheitsbedingte Kündigung sein, aber die Anforderungen an das,
+was der Unternehmensleitung vor Ausspruch einer Kündigung an beschäftigungserhaltenden Maßnahmen
+über das Angebot eines betrieblichen Eingliederungsmanagements hinaus noch zumutbar ist, mit
+Sicherheit verringern. Eine Regelung in einer Betriebsvereinbarung, die diese Wirkungen der Ablehnung eines
+betrieblichen Eingliederungsmanagements ausschließt, ist durchaus denkbar, geht aber über die
+gesetzliche Lage hinaus. Daher haben wir davon in unserer Empfehlung abgesehen und nur die unmittelbaren
+arbeitsrechtlichen Konsequenzen (Abmahnung o. Ä.) ausgeschlossen.
+20 Z. T. wurde besonderer Wert auf eine möglichst objektive Sachverhaltsdarstellung im Falle der Ablehnung
+eines betrieblichen Eingliederungsmanagements gelegt. Die hier gewählte Verfahrensweise sollte dies
+sicherstellen. Denkbar wäre zusätzlich, dass arbeitgeberseitig ebenfalls eine Erklärung zu den Umständen
+des BEM-Angebots zu den Akten gereicht wird.
+7.2 Analyse
+Das betriebliche Eingliederungsmanagement wird auf der Grundlage von
+Berichten der Fachkraft für Arbeitssicherheit und der bzw. des Betriebsarztes
+über die Arbeitsbedingungen am Arbeitsplatz mit der Analyse der
+vorhandenen Probleme (vgl. Gesprächsleitfäden) weitergeführt. Dazu bedarf es der
+schriftlichen Einwilligung der bzw. des Beschäftigten, dass Daten nach
+6.3.2.2 bis 6.3.2.4 an die Akteurinnen und Akteure, die nach ihrer bzw.
+seiner Zustimmung an der Analysephase teilnehmen dürfen, weitergeleitet bzw.
+von diesen erörtert werden können. Die bzw. der Beschäftigte entscheidet
+darüber hinaus gemäß dem Abschnitt 6.3 über die Verwendung ihrer bzw.
+seiner Daten.</p>
+        <p>Notwendig zu beteiligende Akteurinnen und Akteure:</p>
+        <p>Fallmanagerin bzw. -manager
+EIBE-Koordinatorin bzw. -Koordinator als Beauftragte bzw. Beauftragter
+der Arbeitgeberin bzw. des Arbeitgebers, soweit keine Daten nach
+6.3.2.2 behandelt werden
+Betriebsrat und Betriebsärztin bzw. Betriebsarzt sowie die Fachkraft für
+Arbeitssicherheit sind zwingend zu informieren, sofern
+arbeitsschutzrechtliche Probleme offenbar werden.
+7.3 Planung
+Wenn sich in der Analysephase ein Handlungsbedarf ergeben hat, klären in
+dieser Phase die bzw. der betroffene Beschäftigte und das EIBE-Kernteam in
+Abstimmung mit den behandelnden Ärztinnen und Ärzten, welche Maßnahmen
+zur Behebung des Handlungsbedarfs in Betracht kommen.
+Über das Kernteam hinaus werden mit Zustimmung der bzw. des
+Beschäftigten unter Beachtung des Abschnitts 6.3 andere betriebliche Akteurinnen
+und Akteure in die Planung eingebunden, soweit deren Funktion und / oder
+Sachkenntnis hilfreich sein können.</p>
+        <p>Stellt sich heraus, dass die Unterstützung eines Rehabilitationsträgers, der
+gemeinsamen Servicestelle der Rehabilitationsträger, des Integrationsamtes
+oder des Integrationsfachdienstes möglich ist, so sind diese unter
+Beachtung des Abschnitts 6.3 möglichst frühzeitig mit Zustimmung mit der bzw.
+dem Beschäftigten hinzuzuziehen. Insbesondere die in den gemeinsamen
+Empfehlungen der Rehabilitationsträger festgelegten Pflichten und
+Kooperationsangebote sollen genutzt werden.</p>
+        <p>Auch Verhaltensänderungen der bzw. des betroffenen Beschäftigten können
+unter Beachtung des Persönlichkeitsrechts und der Privatsphäre erörtert
+werden.</p>
+        <p>Entscheidung</p>
+        <p>Die Fallmanagerin bzw. der Fallmanager dokumentiert zum Abschluss der
+Planungsphase alle erörterten Maßnahmen nebst ihren Vor- und Nachteilen.</p>
+        <p>Notwendig zu beteiligende Akteure:</p>
+        <p>Fallmanagerin bzw. -manager
+EIBE-Koordinatorin bzw. -Koordinator
+Betriebsrat
+Externe Akteurinnen und Akteure, sofern geplante Maßnahmen von
+deren Unterstützung abhängen
+7.4 Entscheidung
+In dieser Phase des betrieblichen Eingliederungsmanagements ist unter
+Zugrundelegung der erörterten und von der Fallmanagerin bzw. vom
+Fallmanager dokumentierten Maßnahmen (Abschnitt 7.3) über konkrete
+Maßnahmen zur Eingliederung der bzw. des betroffenen Beschäftigten zu
+entscheiden. Das EIBE-Kernteam wirkt zu diesem Zwecke auf eine
+Eingliederungsvereinbarung zwischen dem Arbeitgeber bzw. einem mit
+entsprechender Handlungsvollmacht ausgestatteten Vertreter des Arbeitgebers
+(vorzugsweise der bzw. des Arbeitgeberbeauftragten des BEM-Teams) und
+der bzw. dem Beschäftigten bezüglich der zu treffenden betrieblichen
+Maßnahmen hin.</p>
+        <p>Wenn feststeht, welche Maßnahme getroffen werden sollen, sind ggf. über
+das BEM-Kernteam hinaus auch andere, von der Maßnahme unmittelbar
+berührte betriebliche Akteurinnen und Akteure (z. B. bisherige oder neue
+unmittelbare Vorgesetzte, Betriebsrat, Fachkraft für Arbeitssicherheit) zu
+beteiligen. In der Eingliederungsvereinbarung sind klare Verantwortlichkeiten
+und Fristen für die Umsetzung der Maßnahmen festzulegen.
+Außerbetriebliche Akteurinnen und Akteure, die die Maßnahmen durchführen sollen, sind
+ggf. hinzuzuziehen. Die eventuell erforderliche Beantragung von Leistungen
+betriebsexterner Akteurinnen und Akteure erfolgt durch die Fallmanagerin
+bzw. den -manager mit Unterstützung des EIBE-Teams und mit Zustimmung
+der betroffenen Person und des Arbeitgebers.</p>
+        <p>Kommt eine Eingliederungsvereinbarung nicht zustande, ist eine Erklärung
+in die Personalakte aufzunehmen, dass das betriebliche
+Eingliederungsmanagement ohne Festlegung konkreter Eingliederungsmaßnahmen beendet
+worden ist. Besteht Einigkeit mit der bzw. dem betroffenen Beschäftigten,
+dass Maßnahmen nicht in Betracht kommen, ist zusätzlich zu vermerken,
+dass das betriebliche Eingliederungsmanagement einvernehmlich ohne
+Maßnahmen beendet worden ist.</p>
+        <p>Die bzw. der betroffene Beschäftigte erhält eine Kopie der vorstehenden
+Beendigungsmitteilung. Zusätzlich ist ihr bzw. ihm eine Kopie der im Rahmen
+der Planungsphase erörterten und vom Fallmanager dokumentierten
+Maßnahmen (vgl. Abschnitt 7.3) auszuhändigen.
+7.5 Umsetzungen der Maßnahmen
+Die Umsetzung erfolgt gemäß der Eingliederungsvereinbarung mit den dort
+festgelegten Zuständigkeiten und Umsetzungsfristen.
+7.6 Maßnahmenkontrolle
+Die Wirksamkeit der in der Eingliederungsvereinbarung vorgesehenen
+Maßnahmen wird vom EIBE-Kernteam im ersten Jahr nach Beginn der
+Maßnahme alle vier Monate, danach drei Jahre lang jährlich überprüft.
+8 Rechte und Pflichten der EIBE-Koordinatorin bzw.</p>
+        <p>des -Koordinators
+1. Die EIBE-Koordinatorin bzw. der -Koordinator leitet das EIBE-Team. Sie
+bzw. er organisiert die Teambesprechungen und übernimmt alle ihr bzw.
+ihm in den anderen Regelungen dieser Betriebsvereinbarung
+zugewiesenen Aufgaben. Bei den Fallbesprechungen stimmt sie bzw. er sich mit
+der bzw. dem jeweiligen Fallmanagerin bzw. -manager ab, sofern sie
+bzw. er nicht selbst diese Rolle übernimmt. Sensible Daten nach 6.3.2.1
+und 6.3.2.2 dürfen ihr bzw. ihm dabei nicht zur Kenntnis gelangen.
+2. Die EIBE-Koordinatorin bzw. der -Koordinator verschafft sich mit
+Unterstützung der Arbeitgeberin bzw. des Arbeitgebers die für die Aufgabe
+erforderliche Sachkenntnis und hält sich auf dem aktuellen Stand über
+die das BEM betreffenden gesetzlichen Vorschriften. Hierzu wird die
+EIBE-Koordinatorin bzw. der -koordinator monatlich XY Stunden bezahlt
+von der sonstigen Arbeitsleistung freigestellt, sofern er bzw. sie dem</p>
+        <p>Betrieb angehört.
+9 Tätigkeit des EIBE-Teams
+Über die übrigen in dieser Betriebsvereinbarung bestimmten Regelungen
+hinaus gelten für das EIBE-Team folgende Regelungen:
+1. Die durch die Tätigkeit des EIBE-Teams entstehenden Kosten trägt die</p>
+        <p>Arbeitgeberin bzw. der Arbeitgeber. Sie stellt im erforderlichen Umfang
+Räume, sachliche Mittel, Informations- und Kommunikationstechnik für
+Sitzungen, Sprechstunden und die laufende Geschäftsführung zur
+Verfügung. Die betriebsangehörigen Mitglieder des EIBE-Teams sind für ihre
+Tätigkeit im Rahmen des betrieblichen Eingliederungsmanagements unter
+Fortzahlung ihrer Vergütung von der sonstigen Arbeitsleistung freigestellt.</p>
+        <p>Jedes betriebsangehörige Mitglied des EIBE-Kernteams hat
+kalenderjährlich Anspruch auf Teilnahme an einer mindestens eintägigen Fortbildung
+zu Fragen des Eingliederungsmanagements. Der Arbeitgeber trägt die
+Kosten dieser Qualifizierung und stellt die EIBE-Kernteammitglieder zu
+diesem Zweck unter Fortzahlung der Vergütung frei.21
+21 Sofern betriebsexterne Akteure als Fallmanagerin bzw. Fallmanager, Koordinatorinnen bzw. Koordinatoren
+oder Betriebsärztinnen und Betriebsärzte agieren, sollte in der Betriebsvereinbarung geregelt werden,
+dass diese vertraglich zu verpflichten sind, sich auf dem Stand der gesetzlichen Regelungen und
+praktischen Möglichkeiten zu halten.
+2. Das Team hat für alle Bereiche des betrieblichen
+Eingliederungsmanagements klare Verantwortlichkeiten festzulegen. Dies gilt insbesondere für die</p>
+        <p>Koordination mit externen Akteurinnen und Akteuren.
+3. Das Team trifft sich in regelmäßigen Abständen und bedarfsweise zu</p>
+        <p>Fallbesprechungen.
+4. Entscheidungen des BEM-Teams werden durch Beschlüsse getroffen.</p>
+        <p>Dabei haben die Mitglieder des EIBE-Teams Konsens anzustreben. Kann
+ein Konsens nicht hergestellt werden, ist ein Beschluss gefasst, wenn für
+ihn die Mehrheit der Mitglieder des BEM-Kernteams stimmt.22
+5. Die EIBE-Koordinatorin bzw. der -Koordinator erstattet der
+Geschäftsführung jährlich einen Bericht über die Tätigkeiten im Rahmen des
+betrieblichen Eingliederungsmanagements. In diesem Bericht stellt sie
+bzw. er die Anzahl der BEM-Fälle, der Informationsgespräche, der
+Ablehnungen eines betrieblichen Eingliederungsmanagements und der
+Fälle, in denen Eingliederungsmaßnahmen vereinbart wurden,
+zusammen. Soweit aufgrund der Fallzahl eine Anonymisierung (vgl. § 3 Abs. 6
+BDSG) möglich ist, sind in dem Bericht außerdem auch Angaben über
+den Ablauf der Fälle, die Art der Probleme und Maßnahmen sowie zur</p>
+        <p>Bewertung der Maßnahmenumsetzung zu machen.
+6. Das EIBE-Kernteam überprüft jährlich die Wirksamkeit des betrieblichen</p>
+        <p>Eingliederungsmanagements.</p>
+        <p>Dabei werden beispielsweise berücksichtigt:
+die eingesetzten personellen und finanziellen Ressourcen,
+Akzeptanz bei den Beschäftigten
+die Anzahl und Wirksamkeit der durchgeführten Maßnahmen,
+die von externen Akteurinnen und Akteuren erreichte Unterstützung
+(z. B. Fördermittel, Prämien, Boni)</p>
+        <p>Einsparungen, z. B. aufgrund nicht benötigter Neueinstellungen etc.</p>
+        <p>Verbesserungsmöglichkeiten werden laufend gesucht und ggf. sowohl in der
+Teamorganisation als auch durch die jährliche Überprüfung dieser
+Vereinbarung nach Abschnitt 10.3 nach Abstimmung mit dem Arbeitgeber umgesetzt.
+22 Zur Klarstellung: Die Eingliederungsvereinbarung wird zwischen dem Arbeitgeber und der bzw. dem
+betroffenen Beschäftigten geschlossen. Die Abstimmungsregel der Ziffer 4 für das EIBE-Team findet
+demgemäß hier keine Anwendung.
+10 Schlussbestimmungen
+10.1 Konfliktmanagement
+Soweit es bei der Auslegung der Regelungen zu Meinungsverschiedenheiten
+zwischen der bzw. dem Beschäftigten und der für die Durchführung
+bestimmten Person kommt, suchen die EIBE-Koordinatorin bzw. der -Koordinator als
+Arbeitgebervertretung und der Betriebsrat sowie ggf. die
+Schwerbehindertenvertretung kooperativ nach Lösungen.</p>
+        <p>Sollte es zwischen den Parteien dieser Vereinbarung zu
+Meinungsverschiedenheiten bei der Auslegung der Vereinbarung kommen, kann das
+Integrationsamt um Vermittlung ersucht werden.</p>
+        <p>Von den vorstehenden Regelungen werden ggf. bestehende individual- und
+kollektivrechtliche Möglichkeiten gerichtlichen Rechtsschutzes nicht berührt.
+10.2 Einführung der Vereinbarung
+Die Einführung erfolgt zum ____ 20____
+10.3 Geltungsdauer
+Diese Betriebsvereinbarung kann mit einer Frist von drei Monaten, jedoch
+erstmals zum _______ gekündigt werden.23
+10.4 Überprüfung der Vereinbarung
+Geschäftsführung, Betriebsrat und Schwerbehindertenvertretung überprüfen
+einmal jährlich die Vereinbarung auf ihre Wirksamkeit und
+Verbesserungsfähigkeit.
+10.5 Salvatorische Klausel</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          9.5.
+          <issue>1</issue>
+          .2 Organisation des Fallmanagements
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          9.5.
+          <issue>1</issue>
+          .3 Grenzen des betrieblichen Eingliederungsmanagements
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>9.6 Ergebnisse des Workshops</mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>9.6.1 Das Fallmanagement</mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>9.6.2 Betriebsvereinbarung</mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>9.6.3 Steuerung des betrieblichen Eingliederungsmanagements</mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>9.6.4 Bewertung der Workshops</mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <article-title>9.7 Einschätzung der beteiligten Unternehmen zum betrieblichen Eingliederungsmanagement und zu den durchgeführten Workshops</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>9.7.1 Motivation zum betrieblichen Eingliederungsmanagement</mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>9.7.2 Motivation zur Inanspruchnahme des Workshops</mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <article-title>9.7.3 Bewertung des Workshops und Umsetzung der Ergebnisse</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>9.8 Marketingstrategien und Geschäftsfeldaktivitäten der Berufsförderungswerke</mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>9.8.1 Marketingstrategie</mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>9.8.2 Öffentlichkeitsarbeit</mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>9.8.3 Strategische Entscheidung</mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>9.8.4 Zusammenfassung</mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          10 Möglichkeiten der Entwicklung,
+          <article-title>Implementierung und Prolongierung eines Bonus- und Prämiensystems zur Förderung von betrieblichem Eingliederungsmanagement nach § 84 Absatz 3 SGB IX Dr</article-title>
+          . Hendrik Faßmann
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          10.
+          <article-title>1 Ergebnisse einer schriftlichen Befragung von Rehabilitationsträgern und Integrationsämtern</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <article-title>11 Betriebswirtschaftliche Betrachtung des betrieblichen Eingliederungsmanagements Dr</article-title>
+          . Martin Emmert
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          11.
+          <article-title>1 Evaluation des betrieblichen Eingliederungsmanagements</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>11.1.1 Evaluationsform und Vorgehensweise</mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          11.1.2
+          <string-name>
+            <given-names>Beispielhafte</given-names>
+            <surname>Vorgehensweise „Kosten</surname>
+          </string-name>
+          BEM-Einmaldurchführung“
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>11.1.3 Das Berechnungstool</mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          11.
+          <article-title>2 Durchführung der Evaluation und Ergebnisse</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          11.
+          <article-title>2.1 Getroffene Annahmen für die Evaluation</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>11.2.2 Ergebnisse der Evaluation</mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          11.2.
+          <issue>2</issue>
+          .1 Basisergebnis
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          11.2.
+          <issue>2</issue>
+          .2 Sensitivitätsanalyse
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <source>11.2.2.2</source>
+          .1 Univariate Analyse
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <source>11.2.2.2</source>
+          .2 Multivariate Analyse
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>11.2.3 Limitationen der Evaluation</mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <article-title>1 Eine Präambel, die normalerweise keine klaren Verhaltenspflichten (Gebote oder Verbote) enthält, ist nicht</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          <article-title>11 Umfang und Rahmen der Schulung sollten in der Betriebsvereinbarung klar geregelt werden, um Konflikte „im Nachgang“ zur Betriebsvereinbarung zu vermeiden. Denkbar ist auch ein anderer äußerer Rahmen der Schulung (z. B. Inhouse Seminar eines externen Dienstleisters) und die Festlegung eines anderen Schulungsumfanges</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          <article-title>12 Der vorgeschlagene Berechnungsmodus orientiert sich an § 5 Abs. 4 der „Richtlinien des Gemeinsamen Bundesausschusses über die Beurteilung der Arbeitsunfähigkeit und die Maßnahme der stufenweisen Wiedereingliederung“ (sog. AU-Richtlinien)</article-title>
+          .
+          <article-title>Es sind aber auch andere Berechnungsmodelle denkbar</article-title>
+          ,
+          <source>da § 84 Abs</source>
+          .
+          <article-title>2 SGB IX insoweit keine abschließende Regelung trifft (z. B. anhand von „Arbeitswochen“). Wichtig ist dabei, dass die Besonderheiten flexibler Arbeitsformen oder der Teilzeitarbeit berücksichtigt werden, um ungerechtfertigte Ungleichbehandlungen verschiedener Beschäftigtengruppen zu vermeiden</article-title>
+          .
+          <source>Zur konkreten Berechnung der Sechs-Wochen-Frist des § 84 Abs</source>
+          .
+          <article-title>2 SGB IX vgl</article-title>
+          .
+          <source>auch Diskussionsforum B Nr</source>
+          .
+          <volume>10</volume>
+          /2005 unter www.iqpr.de.
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          <article-title>17 Vorschläge für die Gestaltung der Dokumentation in Personal- und gesonderter BEM-Akte finden sich in dem vom iqpr im Rahmen des Projekts EIBE entwickelten Datenschutzkonzept</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          <article-title>18 Je nach betrieblicher Situation kann es angezeigt sein, schon die erste Kontaktaufnahme nicht durch die Personalabteilung, sondern durch ein Mitglied des EIBE-Kernteams durchführen zu lassen. Dann sollte anstelle des letzten Satzes im vorhergehenden Abschnitt folgende Regelung getroffen werden: „Bei Auftreten eines solchen Falles hat die Personalabteilung Name, Anschrift und Telefonnummer der bzw. des Betroffenen an ein Mitglied des EIBE-Kernteams weiterzugeben. Dieses leitet das betriebliche Eingliederungsmanagement mit einer schriftlichen Einladung zu einem Informationsgespräch ein.“ Diese Verarbeitung und Weitergabe personenbezogener Daten entspricht der Zweckbestimmung des Arbeitsverhältnisses (Verpflichtung aus § 84 Abs. 2 SGB IX) und ist daher nach § 32 Abs. 1 BDSG n</article-title>
+          .
+          <source>F. (§ 28 Abs. 1 Satz 1 Nr</source>
+          .
+          <article-title>1 BDSG a</article-title>
+          .F.) erlaubt.
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

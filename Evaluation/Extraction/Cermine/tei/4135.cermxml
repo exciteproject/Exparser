@@ -1,0 +1,1010 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Was man mit kommunalen Datenbeständen anfangen kann : das Projekt
+HEGISS-Planungsdaten. Sozialwissenschaften und Berufspraxis</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="urn">nbn:de:0168-ssoar-41359</article-id>
+      <title-group>
+        <article-title>Was man mit kommunalen Datenbeständen anfangen kann : das Projekt HEGISS- Planungsdaten</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Herbermann</string-name>
+          <email>herbermann@ginko.de</email>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Petran</string-name>
+          <email>petran@inbas.com</email>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Wolfgang</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Veröffentlichungsversion / Published Version</string-name>
+        </contrib>
+      </contrib-group>
+      <pub-date>
+        <year>1993</year>
+      </pub-date>
+      <volume>27</volume>
+      <issue>3</issue>
+      <fpage>323</fpage>
+      <lpage>336</lpage>
+      <abstract>
+        <p>Zur Verfügung gestellt in Kooperation mit / provided in cooperation with: GESIS - Leibniz-Institut für Sozialwissenschaften</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/8/4135.images/img_1_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/8/4135.images/img_1_2.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/8/4135.images/img_1_3.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/8/4135.images/img_1_4.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>Nutzungsbedingungen:
+Dieser Text wird unter einer Deposit-Lizenz (Keine
+Weiterverbreitung - keine Bearbeitung) zur Verfügung gestellt.
+Gewährt wird ein nicht exklusives, nicht übertragbares,
+persönliches und beschränktes Recht auf Nutzung dieses
+Dokuments. Dieses Dokument ist ausschließlich für
+den persönlichen, nicht-kommerziellen Gebrauch bestimmt.
+Auf sämtlichen Kopien dieses Dokuments müssen alle
+Urheberrechtshinweise und sonstigen Hinweise auf gesetzlichen
+Schutz beibehalten werden. Sie dürfen dieses Dokument
+nicht in irgendeiner Weise abändern, noch dürfen Sie
+dieses Dokument für öffentliche oder kommerzielle Zwecke
+vervielfältigen, öffentlich ausstellen, aufführen, vertreiben oder
+anderweitig nutzen.</p>
+      <p>Mit der Verwendung dieses Dokuments erkennen Sie die
+Nutzungsbedingungen an.</p>
+      <p>Terms of use:
+This document is made available under Deposit Licence (No
+Redistribution - no modifications). We grant a non-exclusive,
+nontransferable, individual and limited right to using this document.
+This document is solely intended for your personal,
+noncommercial use. All of the copies of this documents must retain
+all copyright information and other information regarding legal
+protection. You are not allowed to alter this document in any
+way, to copy it for public or commercial purposes, to exhibit the
+document in public, to perform, distribute or otherwise use the
+document in public.</p>
+      <p>By using this particular document, you accept the above-stated
+conditions of use.
+D a s P r o j e k t H E G I S S - P l a n u n g s d a t e n</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Marc Herbermann / Wolfgang Petran</title>
+      <p>1</p>
+      <sec id="sec-2-1">
+        <title>Einleitung</title>
+        <p>Kommunale Sozialberichterstattung und Armutsberichte haben als Folge
+ökonomischer Umbrüche seit Ende der 1980er Jahre an Bedeutung zugenommen. Zahlreiche
+Kommunen und Landkreise legen mehr oder wenig regelmäßig Sozialberichte vor.
+Sie beschreiben damit Politikfelder, Risikogruppen und Risikofaktoren und erarbeiten
+eine Handlungsgrundlage für Politiker und Planer gegen Verarmung und die Bildung
+sozialer Brennpunkte.</p>
+        <p>
+          Sozialplanung und die Beratung bei Modernisierungsprojekten der
+Kommunalverwaltung
+          <xref ref-type="bibr" rid="ref17">(Stöbe-Blossey 2003, S. 29f)</xref>
+          stellen Arbeitsfelder für
+Sozialwissenschaftler dar, die von theoretischer und politisch-praktischer Bedeutung sind. Seit den
+1990er Jahren findet die Planung einzelner Bereiche (Senioren-, Jugend- und
+Behindertenhilfe u. a.) zunehmend im Rahmen von Konzepten zu Neuen
+Steuerungsmodellen und zur Qualitätssicherung statt und muss die Anforderungen dieser relativ neuen
+Politikmodelle aufgreifen
+          <xref ref-type="bibr" rid="ref16">(Stegmann 1999, S. 312)</xref>
+          .
+        </p>
+        <p>
+          Im Folgenden geht es um die (Sozial-)Planungsvorbereitung, in der die
+erforderlichen Informationen zusammengetragen werden. Dies ist eine keineswegs
+unproblematische Aufgabe. Der zweite Frankfurter Sozialbericht beschreibt das Problem
+folgendermaßen: „Angestrebt ist eine weitestgehende Kompatibilität der erhobenen
+Daten, Statistiken und Materialien. Die verschiedenen Daten und Statistiken aus der
+Verwaltung und anderen Institutionen sind oft wegen unterschiedlicher räumlicher
+und zeitlicher Erhebungsraster nicht immer direkt zusammenführbar und somit auch
+nicht vergleichbar“
+          <xref ref-type="bibr" rid="ref5">(Frankfurter Sozialbericht 2000, S. III)</xref>
+          .
+        </p>
+        <p>
+          Veröffentlichungen, insbesondere empirische Untersuchungen, auf die wir uns
+hätten beziehen können, sind noch selten. Hinweisen wollen wir hier lediglich auf das
+von Thomas Rauschenbach geleitete Forschungsprojekt zur „Evaluation der amtlichen
+Jugendhilfestatistik“, das jedoch ungleich größer angelegt als unser Vorhaben war.
+          <xref ref-type="bibr" rid="ref10">(Rauschenbach/Schilling 1997)</xref>
+          .
+        </p>
+        <p>Wir stellen ein Projekt der Stadt Offenbach vor, dessen Ziel es war,
+planungsrelevante Datenmaterialien zu erfassen und zu beschreiben, sowie eine Datenbank
+aufzubauen.</p>
+        <p>Sozialwissenschaften und Berufspraxis (SuB) · 27. Jg. · 2004 · Heft 3 · S. 323-336</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>Ziel und Aufgaben von „HEGISS-Planungsdaten“</title>
+        <p>
+          Das hier vorzustellende Projekt ist ein Teilprojekt des Programms „Hessische
+Gemeinschaftsinitiative Soziale Stadt“ (HEGISS), an dem sich die Stadt Offenbach seit
+2000 beteiligt. Durch dieses von Bund und Ländern initiierte Programm werden
+Maßnahmen zur nachhaltigen Stadterneuerung gefördert. Stadtteile mit besonderem
+Entwicklungsbedarf sollen durch gezielte Förderung von außen und durch Kooperation
+der Gemeinden mit örtlichen Akteuren so stabilisiert werden, dass sie sich wieder zu
+lebensfähigen Stadtteilen mit positiver Zukunftsperspektive entwickeln
+          <xref ref-type="bibr" rid="ref11">(Renner/Walther 2000, S. 332)</xref>
+          .
+        </p>
+        <p>Die Stadt Offenbach setzt das HEGISS-Programm in einer Region der Innenstadt
+um. Diese Region ist gekennzeichnet durch eine im Vergleich mit anderen Stadtteilen
+überdurchschnittlich hohe Anzahl von Arbeitslosen und Sozialhilfeempfängern sowie
+durch eine Konzentration von Ausländern.</p>
+        <p>Zielsetzung des Projekts „HEGISS-Planungsdaten“ war es, vorhandene
+Datenbestände kommunaler Ämter und anderer Institutionen auf ihre Verwendbarkeit für
+Planungszwecke zu prüfen, den Zugriff auf Planungsdaten über eine Datenbank zu
+ermöglichen und einen Infrastrukturatlas anzulegen.</p>
+        <p>Im Einzelnen beinhaltete unser Projekt folgende Aufgaben:
+Vorhandene Datenbestände1 kommunaler Ämter und anderer Institutionen
+(Arbeitsamt Offenbach, Industrie- und Handelskammer, Katasteramt,
+Polizeipräsidium Südosthessen und Staatliches Schulamt) waren zu beschreiben und zu
+bewerten nach den Kriterien: „Aktualität“, „Raumbezug“ und „technischer Status“.
+Außerdem sollten wir klären, ob Datenbestände für eine kleinräumige
+Auswertung verfügbar sind bzw. verfügbar gemacht werden können.</p>
+        <p>Der Datenfluss sollte „sichtbar“ gemacht werden, indem wir aufzeigten, ob der
+jeweilige Datenbestand von einem kommunalen Amt selber generiert, oder ob er
+von einem anderen Amt oder einer anderen Institution zugeliefert wird, und ob er
+an andere Ämter oder Institutionen (z. B. Hessisches Statistisches Landesamt,
+Ministerien des Landes Hessen u. a.) weitergeleitet wird.</p>
+        <p>Eine Datenbank sollte aufgebaut werden, die die Datenbestände mit
+Beschreibung, Bewertung und einem Schlagwortregister enthält. Die Datenbank ist so
+konzipiert, dass sie im städtischen Intranet den Nutzern gemäß definierten
+Zugangsrechten zur Verfügung stehen kann.</p>
+        <p>Der Abschlussbericht sollte Empfehlungen enthalten, um einen Grundstandard
+der Qualität und eine zeitbezogene Vergleichbarkeit der Daten zu ermöglichen.
+Wir verstehen unter einem „Datenbestand“ die nach sachlichen, räumlichen und zeitlichen
+Kriterien geordnete Gesamtheit von Daten oder Informationen zu einem bestimmten
+Gegenstand; so machen z. B. alle Daten zu Personen, die Wohngeld beziehen, den
+Datenbestand „Wohngeldempfänger“ aus. Die Bezeichnung „Daten“ wird allgemein verwendet für
+meist numerische oder alphanumerische Angaben über verschiedene Begriffe und
+Sachverhalte, vgl. Handbuch 1986, S. 527.
+Weiterhin sollten Vorschläge für die zukünftig notwendige Erhebung, Pflege und
+Bearbeitung vorhandener Daten gemacht werden.
+3</p>
+      </sec>
+      <sec id="sec-2-3">
+        <title>Vorgehensweise</title>
+        <p>Das Projekt begann im November 2000. Zu Beginn wurde eine Steuerungsgruppe
+eingerichtet, die sich aus dem Projektleiter von HEGISS und Vertretern des
+Jugendund Sozialamtes zusammensetzte. Die Steuerungsgruppe übernahm
+Monitoringfunktionen und traf Entscheidungen bzgl. des Projektablaufs.</p>
+        <p>Zunächst entwickelten wir einen Interviewleitfaden für die Gesprächsführung mit
+den jeweiligen Amtsleitern. Der Interviewleitfaden enthielt allgemeine Fragen zum
+Datenbestand (Zweck der Datenbestände, Zusammenhang der Datenauswertung –
+beispielsweise im Rahmen der Entwicklungsplanung eines Sachgebiets –,
+Rechtsgrundlagen der Datenerhebung), Fragen zur Datenerfassung und zum Datenaustausch,
+zur räumlichen Aggregationsebene, zur Aktualität und zum technischen Status. Wir
+entschieden uns für einen Gesprächsleitfaden und nicht für einen standardisierten
+Fragebogen, da wir an den Einzelfällen der Ämter und ihrer Datenbestände
+interessiert waren und den Gesprächspartnern Gelegenheit geben wollten, auch bisher
+unberücksichtigte Themen anzusprechen. Ergänzend zum Leitfaden dienten drei
+Formblätter dazu, den Datenfluss sichtbar zu machen.</p>
+        <p>Insgesamt führten wir Gespräche mit Vertretern von 25 kommunalen Ämtern,
+zumeist deren Amtsleitern, und mit Mitarbeitern von fünf anderen – bereits erwähnten
+– Institutionen.
+4
+4.1</p>
+      </sec>
+      <sec id="sec-2-4">
+        <title>Ausgewählte Ergebnisse</title>
+        <sec id="sec-2-4-1">
+          <title>Datenträger und EDV-Programme kommunaler Ämter</title>
+          <p>Für die Frage, ob kommunale Ämter anonymisierte Datenbestände zu Planungs- und
+Forschungszwecken an ein anderes Amt weitergeben können, ist es von erheblicher
+praktischer Bedeutung, ob Datenbestände in digitalisierter Form oder auf Papier und
+in Akten vor liegen. Mit Fragen zum „technischen Status“ von Datenbeständen
+erfassten wir auch die Datenträger von Datenbeständen. Digitalisierte Datenbestände
+können potenziell für Planungszwecke leichter ausgewertet und in eine Datenbank
+eingegeben werden, bei Akten ist eine Auswertung arbeitsintensiv und dürfte damit kaum
+in Betracht kommen.</p>
+          <p>Von den 25 befragten Ämtern führen acht überwiegend Akten, darunter das
+Ausländer-, Standes- und Stadtgesundheitsamt sowie das Frauenbüro und das Staatliche
+Schulamt. Beim Standesamt schreibt das Personenstandsgesetz das Führen von
+Personenstands-, Heirats-, Familien-, Geburts- und Sterbebüchern in Aktenform vor. Bei
+diesen Ämtern fungiert ein Computer als Dokumentationshilfe für die laufende
+Fallbearbeitung und dient dem Schreiben und Drucken.</p>
+          <p>Bei einer zweiten Gruppe von Ämtern (14) liegen die Daten fast ausschließlich in
+digitalisierter Form vor, wie beim Bürgerbüro, dem Ordnungs-, Kassen- und
+Steueramt. Andere Ämter wie z. B. das Jugend- und Sozialamt arbeiten mit Akten und
+elektronischen Datenbeständen. Eine dritte Gruppe bilden das Bau- und Planungsamt,
+das Umwelt-, Vermessungs- und Katasteramt. Deren Datenbestände liegen sowohl in
+bestimmten Dateiformaten als auch in Karten und Akten vor, wobei der Trend bei der
+Herstellung von Karten eindeutig in Richtung Digitalisierung geht.</p>
+          <p>Die in den kommunalen Ämtern eingesetzten EDV-Programme zeichnen sich
+durch eine große Heterogenität aus. Dies betrifft zum einen die Anzahl der
+verwendeten Spezialprogramme2, zum andern die technischen Möglichkeiten der
+Datenbearbeitung und -verwaltung. Alle befragten Ämter setzen das Betriebssystem MS-Windows
+ab 3.11 und zumindest die MS-Office-Anwendungen WinWord und Excel ein. Dies
+ist die kleinste gemeinsame Grundlage der Softwareausstattung. Ansonsten setzt jedes
+Amt unterschiedliche Spezialprogramme ein.</p>
+          <p>Datenbanken sind eine Seltenheit. Nur drei der befragten Ämter arbeiten mit dem
+Datenbankprogramm MS Access; das für die Stadt Offenbach zuständige
+Polizeipräsidium dokumentiert Verkehrsunfälle ebenfalls mit MS Access.</p>
+          <p>Auf die Schwierigkeiten der Anonymisierung hatten wir bereits hingewiesen. Sie
+betreffen Datenbestände, die in MS Excel vorliegen und manuell vor einer
+Übermittlung anonymisiert werden müssen. Einige Ämter sind in der Lage, Datenbestände
+entweder mit Hilfe eines anderen Programms als des originären Spezialprogramms
+oder durch eine entsprechende Programmierung zu anonymisieren oder eine
+anonymisierte Auswertung bei dem Softwarehersteller kostenpflichtig in Auftrag zu geben.
+Sechs der befragten Ämter sind bei der Verwaltung und dem Export von
+Datenbeständen auf den Service der Kommunalen Informationsverarbeitung (KIV) – einem
+kommunalen Gebietsrechenzentrum – angewiesen; z. B. das Bürgerbüro, dessen
+Melderegister einen umfangreichen Datensatz enthält. Die KIV gibt auch die Struktur vor,
+wie ein Datensatz zur Weitergabe bzw. für einen Zugriff von Ämtern aussehen muss.
+4.2</p>
+        </sec>
+        <sec id="sec-2-4-2">
+          <title>Probleme bei der Datenerfassung</title>
+          <p>Schwierigkeiten der Anonymisierung von personenbezogenen Daten sind nicht die
+einzigen Probleme, die bei einer Übermittlung entstehen würden. Problembehaftet ist
+auch die Phase der Datenerfassung. So arbeiten nur zwei Ämter mit Programmen, bei
+denen die Eingabe des Straßennamens und der Hausnummer zwingend über ein im
+2</p>
+          <p>Zu den Spezialprogrammen zählen z. B. Prosoz/S (eingesetzt im Sozialamt), das vom
+Bürgerbüro verwendete Programm LAIF (Verwalten von Führerscheinangelegenheiten)
+oder das vom Kassen- und Steueramt benutzte AVVISO euro 21, das Rechnungen
+automatisiert und für Meldeangelegenheiten (Pass, Ausweise und sonstige Dokumente) zur
+Verfügung steht.
+EDV-Programm hinterlegtes Straßennamensverzeichnis erfolgt, die übrigen Ämter
+geben Straßenname und Hausnummer manuell ein. Ein solches Verzeichnis
+gewährleistet, dass Sachbearbeiter die Wohnadresse eines Kunden korrekt erfassen;
+Stichproben in den Ämtern haben gezeigt, dass dies nämlich nicht bei allen Straßennamen
+der Fall ist: Orthographiefehler und eine uneinheitliche Schreibweise (z. B. beim
+Setzen von Bindestrichen oder Leerzeichen) schleichen sich vor allem bei
+komplizierteren Straßennamen ein und werden – da sie für die Fallbearbeitung oder die
+Postzustellung unerheblich sind – nicht korrigiert. Eine Folge der fehlerhaften Erfassung der
+Wohnadresse ist, dass bei einer Auswertung falsche Fallzahlen ausgegeben werden.</p>
+          <p>Das kommunale Straßennamensverzeichnis ist zwar auch bei einigen anderen
+Ämtern im EDV-Programm hinterlegt, es besteht jedoch kein technischer Zwang, es
+auch zu verwenden, sondern die Sachbearbeiter geben die Wohnadresse häufig
+manuell ein, mit dem soeben beschriebenen Fehlerrisiko.</p>
+          <p>Ein weiteres Problem bei der Datenerfassung liegt in Voreinstellungen der
+Software; wird z. B. bei dem Merkmal „Nationalität“ die Voreinstellung „deutsch“
+angegeben, so bietet es sich aus arbeitsökonomischen Gründen an, diese zu übernehmen,
+was auch so praktiziert wird. Auch der Umgang von Sachbearbeitern mit Variablen ist
+nicht von einer kontinuierlichen Sorgsamkeit gekennzeichnet. Dies ist dann der Fall,
+wenn eine Leistung einer Variablen zugeordnet wird, sie eigentlich aber zu einer
+anderen gehört.</p>
+          <p>In einigen Ämtern stießen wir auf Klagen über die begrenzte Einsetzbarkeit von
+Programmen. Solche Programme sind zwar für eine spezielle Fallbearbeitung
+konzipiert, unterstützen die Mitarbeiter jedoch nicht mehr „zeitgemäß“ beim Schriftverkehr
+und erlauben keinen raschen Wechsel in ein Schreibprogramm.</p>
+          <p>Die hier aufgezeigten Probleme verweisen auf Konstruktionsschwächen von
+Software, die die Sachbearbeiter gemäß ihren Arbeitsbedürfnissen handhaben. Einmal
+an eine Software gewöhnt, entwickeln sie einen eigenen Habitus bei der
+Fallbearbeitung. Eine Änderung der Software müsste mit der Bereitschaft einhergehen,
+Arbeitsabläufe zu verändern, wozu auch eine Stärkung des „Datenbewusstseins“ gehören
+würde.
+4.3</p>
+        </sec>
+        <sec id="sec-2-4-3">
+          <title>Datenmaterial der kommunalen Ämter und anderer</title>
+        </sec>
+        <sec id="sec-2-4-4">
+          <title>Institutionen</title>
+          <p>Das in den Interviews erfragte Datenmaterial unterschieden wir nach „Datenbestand“,
+„Auftragsstatistik“ und „Bericht“. Insgesamt kamen wir auf 76 Datenbestände, 17
+Auftragsstatistiken und 9 Berichte.</p>
+          <p>Für jedes der insgesamt 102 Datenmaterialien verfassten wir eine
+Kurzbeschreibung, nannten das Amt bzw. die Institution, bei der das Material vorliegt und
+versahen es mit einem oder mehreren Schlagworten, die als Suchfunktion in der
+HEGISSDatenbank dienen. Außerdem nahmen wir eine Bewertung des Datenmaterials vor
+anhand der Kriterien „Aktualität“ und „Raumbezug“.
+Als Beispiel sei der Datenbestand „Wohnungsanmeldungen, -abmeldungen,
+-ummeldungen und Wohnsitzwechsel“ des Bürgerbüros genannt:</p>
+          <p>Beschreibung: Dieser Datenbestand enthält diejenigen Einwohner Offenbachs, die
+sich mit einem Wohnsitz in der Stadt Offenbach anmelden, abmelden und ummelden sowie
+ihren Wohnsitz wechseln. Anhand dieses Datenbestands lassen sich demografische
+Veränderungen der Wohnbevölkerung registrieren. Von Interesse ist hierbei die Frage, welche
+Bevölkerungsgruppen in die HEGISS-Region zu- oder aus ihr wegziehen und welche
+Merkmale sie aufweisen.</p>
+          <p>Die Daten werden mit dem Programm EWO neu erfasst, die Straßennamen werden
+mittels einer hinterlegten Straßennamensliste eingegeben; die Erfassung der Hausnummer
+erfolgt in einem eigenen Eingabefeld.</p>
+          <p>Bewertung: Der Datenbestand ist valide und sehr aktuell. Eine Auswertung durch die
+Kommunale Informationsverarbeitung ist möglich für die Ebenen: Haus, Schulbezirke,
+Statistische Bezirke, Straßenzüge, Baublock.</p>
+          <p>Bei der Kommentierung der Datenbestände haben wir – soweit uns dazu
+Aussagen vorlagen – versucht, den Gebrauchswert für Planungszwecke zu benennen oder
+ihre Brauchbarkeit als Indikatoren für soziale, wirtschaftliche und kulturelle
+Tatbestände in den Blick zu nehmen. Dabei konnten wir uns nicht auf ein bereits
+vorliegendes Indikatorensystem stützen, sondern wir gingen von der Datenebene aus und
+versuchten, auf induktivem Weg die potenzielle „Indikatorentauglichkeit“ der
+Datenbestände zu benennen. Denn in unserem Projekt ging es auch darum herauszufinden,
+welche in den Datenbeständen enthaltenen Informationen sich als Hinweise auf
+Probleme oder Belastungen in der HEGISS-Region interpretieren lassen. So sagt z. B. die
+Anzahl (und Größe) von Ausländervereinen etwas über den Organisationsgrad von
+Ausländern in einer Stadt oder Stadtregion aus. Die Verknüpfung der Leser- und
+Medienbestandsdaten einer Stadtbibliothek lässt Aussagen über das Ausleihverhalten
+von Bevölkerungsgruppen zu, was auf ein bestimmtes Bildungsinteresse in einer
+Region schließen lässt. Daten zu „Wohngeldempfängern“ und „Wohnungssuchenden“
+werden – häufig in Verbindung mit Daten zu dem Konstrukt „Sozialhilfebezug“ – in
+der kommunalen Sozialberichterstattung als Indikatoren zur Wohnungsversorgung
+und Wohnungsnot verwendet und dienen dazu, soziale Risikolagen bzw.
+Armutsentwicklung anzuzeigen (Barthelheimer 1997).
+4.4</p>
+        </sec>
+        <sec id="sec-2-4-5">
+          <title>Bewertung der Datenbestände</title>
+          <p>
+            Wie bereits erwähnt, versuchten wir die beschriebenen Datenmaterialien anhand der
+Kriterien „Aktualität“, Raumbezug“ und „technischer Status“ zu bewerten. Ergebnisse
+hinsichtlich des technischen Status von Datenbeständen haben wir bereits dargestellt.
+Im Folgenden erläutern wir die Kriterien „Aktualität“ und „Raumbezug“.
+4.4.1 Aktualität
+Dass Daten und Informationen für Planungszwecke aktuell sein sollen, ist eine trivial
+klingende Forderung. „Aktualität“ von Daten ist allerdings ein mehrdeutiger Begriff,
+der sich nicht immer mit einer einfachen Aussage („hohe/niedrige Aktualität“) bündig
+benennen lässt
+            <xref ref-type="bibr" rid="ref4">(Handbuch 1986, JC Rz. 51)</xref>
+            . In einem umgangssprachlichen
+Verständnis meint Aktualität „Zeitnähe“. „Zeitnähe“ steht jedoch eng mit dem
+Problemfeld, auf das sich die Daten beziehen, in Zusammenhang. So sind Arbeitslosenzahlen
+von vor zwei Monaten nicht mehr aktuell, wohingegen eine Aufstellung von
+Baulandreserven oder ein Grundwasserkataster von vor zwei Jahren durchaus aktuell sein
+können.
+          </p>
+          <p>Ein weiterer Aspekt von „Aktualität“ ist die Vollständigkeit. Sie hängt u. a. von
+dem Verfahren zur Datenerfassung ab, aber auch vom Turnus der Bearbeitung bzw.
+Aktualisierung. Der Aktualisierungsrhythmus ist seinerseits problemfeldbezogen:
+Geologische Daten veralten wesentlich langsamer als der Bestand von
+Wohngeldempfängern. Dementsprechend unterschiedlich sind die Zeitintervalle der Aktualisierung
+(jährlich, quartalsweise, monatlich, täglich, fortlaufend).</p>
+          <p>Da uns kein Datenbestand für eine Überprüfung zur Verfügung stand, bestand die
+einzige Möglichkeit darin, anhand von Selbsteinschätzungen durch die
+Interviewpartner Aussagen über die Aktualität machen zu können. Wir baten sie, auf einer Skala
+mit den Ausprägungen „sehr gering (1)“, „gering (2)“, „mittel (3)“, „hoch (4)“ und
+„sehr hoch (5)“ eine Bewertung der Aktualität von Datenbeständen vorzunehmen.</p>
+          <p>Ob die Selbsteinschätzung auch mit der Tendenz einherging, die Datenbestände
+mit einer höheren Aktualität als der tatsächlich vorhandenen einzustufen, konnten wir
+nicht überprüfen. Insgesamt halten wir die Neigung, die Aktualität von
+Datenbeständen „zu gut“ darzustellen, für sehr gering, da die Gesprächspartner offen
+Aktualitätsprobleme ihrer Datenbestände benannten.</p>
+          <p>Von den 76 beschriebenen Datenbeständen wurden 20 als „sehr aktuell“ bzgl.
+Zeitnähe und Vollständigkeit eingestuft, 36 als von hoher Aktualität, 9 waren von
+mittlerer und einer von geringer Aktualität; bei 10 Datenbeständen lagen uns keine
+Angaben zur Aktualität vor. Dies ist kein schlechtes Ergebnis, zumal die Aktualität
+der für Sozialplanung und Sozialberichte relevanten Datenbestände als hoch oder sehr
+hoch eingeschätzt wurde.
+4.4.2 Raumbezugsebene
+Eine Aufgabe des Projekts bestand darin herauszufinden, ob Datenbestände für eine
+kleinräumige Auswertung auf der Raumbezugsebene „Baublock“ zur Verfügung
+stehen oder verfügbar gemacht werden können. Diese Anforderung ergab sich daraus,
+dass das Projekt im Kontext der Sozialplanung beauftragt wurde und Sozialplaner aus
+fachlichen Gründen an einer kleinräumigen Betrachtungsweise interessiert sind.</p>
+          <p>Eine kleinräumige Gliederung eines Stadtgebietes setzt sich zusammen aus
+–</p>
+          <p>Straßen, identifiziert durch einen Straßennamen
+Adressen, in der Regel an den Straßenseiten, identifiziert durch Hausnummern
+und Hausnummernzusatz.</p>
+          <p>
+            Mehrere Straßenseitenabschnitte umschließen nun einen sogenannten Baublock.
+Solche Straßenseitenabschnitte nennt man Blockseiten. Eine Blockseite, die aus einem
+Straßenseitenabschnitt hervorgeht, ist in der Regel durch die Straße und die
+Hausnummern bestimmt, die in dem Abschnitt liegen; ein Block durch die Menge der ihn
+umschließenden Blockseiten. Eine nächst höhere Aggregationsstufe in Gebiete kann
+durch Zusammenfassung von Blöcken und Blockseiten zu Distrikten, Bezirken und
+anderen Gebietseinheiten (z. B. Stimm- oder Schulbezirke) getroffen werden
+            <xref ref-type="bibr" rid="ref9">(Krechel
+1999, S. 16)</xref>
+            . Mehrere Baublöcke ergeben dann das Bild eines engmaschigen Gitters,
+das über einer größeren Gebietsgliederungseinheit liegt.
+          </p>
+          <p>Wenn wir die Ämter und andere Institutionen danach befragten, ob Sachdaten
+mit Straßennamen und Hausnummern (in einem eigenen Eingabefeld) erfasst werden,
+dann zielte diese Frage darauf ab zu erfahren, ob eine Auswertung nach Blockseiten
+von Daten grundsätzlich möglich ist.</p>
+          <p>Dies ist bei 10 von 76 Datenbeständen der Fall. Dass eine blockseitenscharfe
+Auswertung nicht bei einer größeren Anzahl von Datenbeständen möglich ist, liegt –
+worauf wir bereits hingewiesen haben – bei personenbezogenen Daten an der
+unzureichenden Erfassung von Straßennamen und Hausnummern.</p>
+        </sec>
+      </sec>
+      <sec id="sec-2-5">
+        <title>Die HEGISS Datenbank</title>
+        <sec id="sec-2-5-1">
+          <title>Rahmenbedingungen einer Sozialdatenbank in Offenbach</title>
+          <p>Ein wesentlicher Bestandteil des Projektes „HEGISS-Planungsdaten“ war es, eine
+Datenbank als Vorstufe zu einer kommunalen Sozialdatenbank zu erstellen. Die
+Datenbank soll laufende und zukünftige Projekte zur Stadtentwicklung unterstützen und
+den Aufwand für eine Informationsbeschaffung verringern helfen. Sie berücksichtigte
+damit die Informationsbedürfnisse interessierter Bürger und kommunaler Fachleute.
+Eine Idee der Steuerungsgruppe bestand darin, mit der Datenbank eine Hilfe für
+mögliche Investoren zur Verfügung zu stellen.3 Am Ende der Datenbankentwicklung
+sollte ein leicht handhabbares Programm stehen, das Datenbestände miteinander
+verknüpft, und das in der Lage ist, rasch geeignete Beobachtungs- und
+Diagnoseinstrumente zur Verfügung zu stellen (Bartelheimer 1995, S. 356ff).</p>
+          <p>
+            Die Wirklichkeit in der kommunalen Sozialplanung und -politik ist jedoch im
+Allgemeinen noch weit von diesem Ziel entfernt. Zweifellos verfügen einige Städte –
+z. B. Frankfurt
+            <xref ref-type="bibr" rid="ref18">(Trutzel/Schulmeyer 1999)</xref>
+            , Hamm
+            <xref ref-type="bibr" rid="ref8">(Kraemer/Kaufung 2000)</xref>
+            oder
+3
+          </p>
+          <p>
+            Dies leuchtet ein bei der gegenwärtigen Krise der Innenstädte. Wulf
+            <xref ref-type="bibr" rid="ref13">Schmiese (2003)</xref>
+            ist der
+Auffassung, dass die Finanzkrise der Kommunen und die des Handels sich gegenseitig
+verstärkten. Im vergangenen Jahr hätten mehr Einzelhändler Insolvenz angemeldet als jemals
+zuvor: 108.000.
+Köln
+            <xref ref-type="bibr" rid="ref7">(Kassner 1999)</xref>
+            – mittlerweile über recht gute Konzepte der (raumbezogenen)
+Informationsverwaltung. Doch diese Konzepte sind uneinheitlich und auf andere
+Städte nur begrenzt übertragbar. Bis zu einem flächendeckenden und
+leistungsfähigem Informationssystem ist der Weg noch lang
+            <xref ref-type="bibr" rid="ref2 ref6">(Asendorpf 2002, Jeschkeit 2003)</xref>
+            .
+          </p>
+          <p>In Offenbach sind die Überlegungen hinsichtlich Transparenz,
+Informationspolitik und Bürgernähe schon recht weit fortgeschritten.4 Doch zeigte sich in den
+Vorgesprächen mit der Projektleitung von HEGISS, dass die Stadt die aktuellen
+Datenbestände in den kommunalen Ämtern nicht überblicken konnte und es nicht ausreichend
+bekannt war, welche Datenbestände für welche Planungstätigkeiten genutzt werden
+können. Zudem lassen sich einige kommunale Datenbestände nur mit Schwierigkeiten
+verknüpfen und diese liegen auch nur in einer schwer zugänglichen Form vor.
+Schließlich bestand keine – auf Offenbacher Verhältnisse abgestimmte –
+Softwarelösung, die sich für übergeordnete Zwecke der Sozialplanung, Dokumentation und
+Information einsetzen ließe. Deshalb war mit „HEGISS-Planungsdaten“ der Auftrag
+verbunden, eine Datenbank als Vorstufe zu einer kommunalen Sozialdatenbank zu
+entwickeln.
+5.2</p>
+        </sec>
+        <sec id="sec-2-5-2">
+          <title>Allgemeiner Aufbau</title>
+          <p>5.2.1 Inhalt der Datenbank und Beziehungen der Tabellen
+Die Datenbank beinhaltet Informationen zu Offenbacher Ämtern und anderen
+Institutionen. Sie zeigt deren Datenbestände, Ansprechpartner, Aufgaben, Rechtsgrundlagen
+etc. Da es sich um eine relationale Datenbank handelt, stehen in ihr mehrere Tabellen
+– meistens über Primärschlüssel – miteinander in Beziehung.
+5.2.2 Das Übersichtsfenster
+Beim Aufrufen des Programmes erscheint das Überblicksfenster („Hauptübersicht“).
+Es ist in vier Sektoren aufgeteilt:</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>Datensuche</title>
+      <p>Dieser Sektor erlaubt es dem Benutzer, gezielt nach bestimmten Datensätzen zu
+suchen. In einem Formular kann er entweder nach einem bestimmten Datenbestand,
+nach einer Institution oder nach einem Schlagwort suchen.</p>
+    </sec>
+    <sec id="sec-4">
+      <title>Datenmaterial zu...</title>
+      <p>Hier können in der Hauptübersicht die Datensätze verschiedener Bereiche
+(„Wirtschaft und Arbeit“, „Soziales/Gesundheit und Umwelt“, „Bau und Planung“,
+„Bildung und Kultur“) aufgerufen werden. Hinter diesen Bereichen verbirgt sich
+4</p>
+      <p>Zu denken ist hier an die regelmäßige Teilnahme verschiedener Ämter an
+Qualitätsmanagementverfahren oder an die Sozialreports, die seit 1994 regelmäßig erscheinen. In diese
+Richtung gehen auch die Bestrebungen des Bau- und Planungs- sowie des Umwelt- und
+Vermessungsamtes, die an der Entwicklung eines Geographischen Informationssystems
+(GIS) für Offenbach arbeiten.
+jeweils eine nach sachlichen Kriterien zusammengestellte Liste von Einrichtungen.
+Zum Bereich Wirtschaft zählen etwa das Amt für Arbeitsförderung und Statistik, das
+Amt für Wirtschaftsförderung und das Arbeitsamt.</p>
+    </sec>
+    <sec id="sec-5">
+      <title>Daten eingeben und bearbeiten</title>
+      <p>Im Sektor „Daten eingeben und bearbeiten“ kann der Nutzer unter der
+Schaltfläche „Alle Eingabeformulare/Änderungen“ in den folgenden Bereichen Eingaben und
+Änderungen vornehmen:
+–
+–
+–
+–
+–
+Ämter- / Organisationsbeschreibungen
+Ansprechpartner
+Datenmaterial Offenbach
+EDV-Spezialprogramme</p>
+      <p>Datenfluss.
+Überblick Datenmaterial und „Weitere Berichte“</p>
+      <p>Die zwölf Berichte informieren nicht über einzelne Datensätze, sondern sie geben
+überblicksweise Auskunft über alle Datensätze, soweit sie bei den Ämtern oder den
+anderen erfassten Institutionen vorhanden sind. Beispielsweise kann sich der Nutzer
+eine – nach Aktualitätsgrad geordnete – Liste von Datensätzen kommunaler
+Einrichtungen ausdrucken lassen. Wer genaueres darüber erfahren möchte, inwiefern sich das
+vorliegende Datenmaterial zur kleinräumigen Gebietsgliederung eignet, kann dies
+dem Bericht Raumgliederungsmöglichkeiten entnehmen.
+6</p>
+      <sec id="sec-5-1">
+        <title>Anregungen und Empfehlungen</title>
+        <p>6.1</p>
+        <sec id="sec-5-1-1">
+          <title>Hinweise zum Umgang mit kommunalen Daten</title>
+          <p>Im Abschlussbericht von HEGISS-Planungsdaten formulierten wir Empfehlungen,
+um einen Grundstandard der Qualität bzgl. Datenerhebung und Bearbeitung zu
+ermöglichen. Wir führen im Folgenden diejenigen Empfehlungen auf, die sich aus der
+bisherigen Darstellung ergeben.
+–
+–</p>
+          <p>Die Ämter der Eingriffs- und Leistungsverwaltung sollten durchgehend die
+Merkmale „Geschlecht“, Nationalität“ und „Alter“ erheben. Hintergrund ist, dass
+für die Population „Ausländer“ eine differenzierende Betrachtung nach
+Nationalität, Geschlecht und Altersklassen nur mit Schwierigkeiten durchzuführen ist.
+In den EDV-Programmen sollte die Erfassung bestimmter Merkmale, wie z. B.
+Straßennamen, durch hinterlegte Schlüsselverzeichnisse technisch erzwungen
+werden; Straßenname, Hausnummer und Hausnummerzusatz sollten in
+getrennten Eingabefeldern erfasst werden. Zusätzlich könnten Schlüssel zur Nationalität
+hinterlegt werden.</p>
+          <p>Die Qualität der Datenerfassung und -bearbeitung bei EDV-Systemen, die in der
+Kommunalverwaltung im Einsatz sind, steigt dann, wenn
+–
+–
+–
+–
+–
+–
+die Software sämtliche von der amtlichen Statistik geforderten Felder abbildet
+eine umfassende Dokumentation des Datensatzes vorliegt
+keine eng begrenzten Vorgaben bei der Dateneingabe benutzt werden können
+Plausibilitätskontrollen automatisch durchgeführt werden; stellt das Programm
+eine Inplausibilität fest, wird eine weitere Bearbeitung gesperrt
+die Datenerfassung so organisiert ist, dass sie möglichst weit in der Erledigung
+der alltäglichen Arbeitsabläufe integriert ist
+das Programm über Zahlenschlüssel für häufig wiederkehrende Datentypen
+verfügt
+6.2</p>
+        </sec>
+        <sec id="sec-5-1-2">
+          <title>Hinweise zur weiteren Datenbankentwicklung</title>
+          <p>Tatsächlich berücksichtigen kommunale Einrichtungen diese Empfehlungen bei der
+alltäglichen Datenerfassung und -verwaltung nur begrenzt. Auch die vorliegende
+Datenbank hilft, die Qualität der Datenerfassung zu verbessern. Denn sie
+dokumentiert die wichtigsten Merkmale des ganzen bestehenden kommunalen Datenmateriales,
+verweist auf weitere Entwicklungsmöglichkeiten und zeigt Schnittstellen zwischen
+verschiedenen Einrichtungen. Vorstellbar ist, dass andere Städte bereits ähnliche
+Lösungen entwickelt haben oder entwickeln werden.</p>
+          <p>
+            Grundsätzlich lässt sich die Datenbank in logischer und in
+verwaltungstechnischer Hinsicht weiterentwickeln. Logisch insofern, als es gilt, sinnvolle Beziehungen
+einzurichten: möglichst vollständige Tabellen und Freiheit von Redundanz.
+Vollständigkeit ist dabei nicht das wichtigste Kriterium. Denn entscheidender als eine
+vollständige, aber wenig beziehungsreiche Datenbank, ist, dass Informationen zu
+bestimmten Sachverhalten tatsächlich bestehen und dass somit die Möglichkeit gegeben
+ist, diese später in die Datenbank einzufügen. Es geht also darum, eine sinnvolle,
+flexible und erweiterbare Struktur zu entwerfen
+            <xref ref-type="bibr" rid="ref19">(Vossen 1999)</xref>
+            .5
+          </p>
+          <p>Mit verwaltungstechnischer Weiterentwicklung ist gemeint: das Ausrichten der
+Datenbank auf die bestehenden Programme und die fachlichen Gegebenheiten der
+späteren kommunalen Nutzer. Hier empfiehlt sich eine enge und zeitnahe
+Zusammenarbeit zwischen denjenigen, die die Datendokumentation vervollständigen, und
+Vertretern städtischer Einrichtungen: so etwa beim Benennen und Beschreiben der
+Datenbestände, sowie bei ihrer Zuordnung zu Rechtsgrundlagen und Aufgaben. Denn
+erste praktische Erfahrungen und inhaltliche Ideen können den weiteren logischen
+Entwicklungsbedarf genauer präzisieren.</p>
+          <p>Eine Weiterentwicklung der Datenbank könnte auch helfen, die
+Informationsflüsse zwischen den Organisationen in einer Stadt quantitativ zu bestimmen und genauer
+zu dokumentieren. Dies erfordert umfangreiche Vorarbeiten. Abbilden ließe sich
+durch eine Statistik, welche Daten (Datenbestände, Berichte, Statistiken)6 in welcher
+Menge von welchen Einrichtungen zu welchen anderen Einrichtungen fließen.
+7</p>
+        </sec>
+      </sec>
+      <sec id="sec-5-2">
+        <title>Schlussbemerkung</title>
+        <p>Wir möchten abschließend einige Erfahrungen zusammenfassen, aus denen wir für
+zukünftige Projekte gelernt haben.</p>
+        <p>Das Projekt stand von Anfang an in einem Spannungsfeld divergierender
+Interessen, die während der Treffen der Steuerungsgruppe zutage traten. Es ging dabei um
+den Charakter des Projekts und um die Ausgestaltung der HEGISS-Datenbank. Eine
+Seite betonte den allgemeinverständlichen Charakter des Projekts für interessierte
+Bürger und betrachtete Detailfragen der Datenerfassung und der raumbezogenen
+Datenauswertung eher als nachrangige Details. Dementsprechend sollte die
+Datenbank eine Informationsfunktion übernehmen mit einer rasch zu erkennenden Struktur
+und wenigen Suchfunktionen.</p>
+        <p>Demgegenüber waren andere Vertreter der Steuerungsgruppe an einer vertieften
+Erhebung und Auswertung der Interviews interessiert, so dass auch Fachleute in den
+Ämtern von den Ergebnissen profitieren können. Damit stiegen die Ansprüche an die
+Datenbank; diese sollte nicht nur ein Informations-, sondern auch ein
+Arbeitsinstrument werden, das die Ämter pflegen und ergänzen sollten. Den „Spagat“ zwischen
+populärem und expertenbezogenem Anspruch lösten wir dadurch, dass wir eine um
+technische „Details“ gekürzte Beschreibung der Datenmaterialien in Form einer
+Broschüre für den interessierten Bürger herausgaben und die Datenbank als zukünftiges
+Arbeitsinstrument weiterentwickelten.</p>
+        <p>Die Arbeit an der Datenbank stellte sich als „work in progress“ dar, was vor
+allem für die Entwicklung eine nervenaufreibende Angelegenheit war.7 Ihren Aufbau
+mit den grundlegenden Funktionen erarbeiteten wir (leider) nicht in einem Workshop,
+sondern Schritt für Schritt mit der Steuerungsgruppe. Wesentliche Fragen waren: Was
+soll in der Datenbank abgebildet werden? Wer genau soll sie nutzen? Nach was soll
+der Nutzer suchen können? Soll sie im städtischen Intranet zur Verfügung stehen? Bei
+einem fortgeschrittenen Entwicklungsstand wurde es jedoch immer schwieriger,
+Änderungswünsche zu berücksichtigen und so zu realisieren, dass beide
+Nutzergruppen – Experten und Laien – ihre Interessen verwirklicht sahen.</p>
+        <p>Im Rückblick war der Zeithorizont des Projekts nicht realistisch: Wir benötigten
+mehr als das Doppelte der ursprünglich vorgesehenen Zeit. Die Anzahl der geplanten
+Interviews überstieg die Anzahl der Interviews, die in dem engen, von der
+Steuerungsgruppe festgelegten Zeitrahmen, möglich waren. Um die ursprünglich anvisierte</p>
+        <p>Zur Einteilung von „Datenmaterial“ siehe Seite 5.</p>
+        <p>
+          In der schwierigen Abstimmung zwischen Vorstellungen, die sich eher widersprechen als
+ergänzen, mag auch ein Grund für das Ergebnis einer Kienbaum-Studie liegen, wonach
+„mehr als die Hälfte aller IT-Projekte der öffentlichen Hand fehlschlagen“
+          <xref ref-type="bibr" rid="ref15">(Sixtus 2003)</xref>
+          .
+Projektlaufzeit einhalten zu können, hätten sich die Interviews auf einige ausgewählte
+Ämter und Institutionen beschränken und hätte die Datenbank weniger komplex
+ausfallen müssen.
+        </p>
+        <p>Trotz allem: wir bereuen nichts. Wir denken, dass wir mir diesem Projekt ein
+Stück Neuland betreten und den Stoff besser kennengelernt haben, aus dem amtliche
+Statistiken und Sozialberichte gestrickt sind.</p>
+        <sec id="sec-5-2-1">
+          <title>Literatur</title>
+        </sec>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <article-title>Schulz/Sierig (2003) beschreiben, wie Open-Source-Datenbanken die Aufgabe der Datenverwaltung lösen</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Asendorpf</surname>
+          </string-name>
+          , Dirk,
+          <year>2002</year>
+          :
+          <article-title>Die vermessene Welt. In den Aktenschränken der Behörden lagern wertvolle geografische Daten, die sich in digitalen Karten miteinander verknüpfen ließen. Doch noch ist der Milliardenschatz nicht gehoben</article-title>
+          .
+          <source>In: Die Zeit (27.3</source>
+          .
+          <year>2002</year>
+          ),
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          <year>35</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Bartelheimer</surname>
+          </string-name>
+          , Peter,
+          <year>1997</year>
+          :
+          <article-title>Risiken für die soziale Stadt. Erster Frankfurter Sozialbericht</article-title>
+          .
+          <article-title>Erstellt im Auftrag des Sozialdezernats der Stadt Frankfurt am Main. Dissertationen, Diplomarbeiten, Dokumentationen (DDD) 40</article-title>
+          . Frankfurt:
+          <article-title>Eigenverlag des Deutschen Vereins für öffentliche und private Fürsorge</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Feldmann</surname>
+          </string-name>
+          , Ursula,
+          <year>1986</year>
+          :
+          <article-title>Handbuch der örtlichen Sozialplanung, hrsg. vom Deutschen Verein für öffentliche und private Fürsorge. Forschungsprojekt, finanziert durch das Bundesministerium für Jugend, Familie, Frauen und Gesundheit. Schriften des Vereins für öffentliche und private Fürsorge</article-title>
+          .
+          <source>Schrift</source>
+          <volume>265</volume>
+          . Stuttgart u.a.: Kohlhammer.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <given-names>Frankfurter</given-names>
+            <surname>Sozialbericht</surname>
+          </string-name>
+          .
+          <article-title>Risiken und Chancen des Frankfurter Arbeitsmarktes (Hrsg</article-title>
+          .),
+          <year>2000</year>
+          :
+          <article-title>Dezernent für Soziales und Jugend. Frankfurt (Reihe Soziales und Jugend</article-title>
+          , Bd.
+          <volume>20</volume>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Jeschkeit</surname>
+          </string-name>
+          , Susanne,
+          <year>2003</year>
+          : „
+          <article-title>Finanzierbare Lösungen gefragt</article-title>
+          .
+          <article-title>Ergebnisse einer bundesweiten Kommunalumfrage zum Thema GIS und Geoinformation“</article-title>
+          .
+          <source>In: GeoBit - Das Magazin für raumbezogene Informationstechnologie. Heft</source>
+          <volume>1</volume>
+          -2, S.
+          <fpage>21</fpage>
+          -
+          <lpage>23</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Kassner</surname>
+          </string-name>
+          , Uwe,
+          <year>1999</year>
+          : „
+          <article-title>Integriertes Informationssystem für die dezentrale Steuerung - Einführung: Informationsmanagement im Neuen Steuerungsmodell“</article-title>
+          . In: Stadtforschung und Statistik, Heft 2,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          38-
+          <fpage>49</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Kraemer</surname>
+          </string-name>
+          , Dieter; Kaufung, Harald,
+          <year>2000</year>
+          :
+          <article-title>Bürgerämter sind nur der Anfang</article-title>
+          . In: Verwaltungsrundschau. Heft 5,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          200-
+          <fpage>206</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Krechel</surname>
+          </string-name>
+          , Clemens,
+          <year>1999</year>
+          :
+          <article-title>Das numerische Bezugssystem der kleinräumigen Gliederung</article-title>
+          . In: Stadtforschung und Statistik, Heft 2,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          15-
+          <fpage>21</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Rauschenbach</surname>
+          </string-name>
+          , Thomas; Schilling, Matthias,
+          <year>1997</year>
+          :
+          <article-title>Die Kinder und Jugendhilfe und ihre Statistik. 2 Bde. Analysen, Befunde und Perspektiven</article-title>
+          . Neuwied: Luchterhand.
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Renner</surname>
+          </string-name>
+          , Mechthild; Walther,
+          <string-name>
+            <surname>Uwe-Jens</surname>
+          </string-name>
+          ,
+          <year>2000</year>
+          :
+          <article-title>Perspektiven einer sozialen Stadtentwicklung</article-title>
+          . In: Raumforschung und Raumentwicklung, Heft 4,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          326-
+          <fpage>336</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Schäfer</surname>
+          </string-name>
+          , Peter; Herrenbrück, Sabine,
+          <year>1997</year>
+          :
+          <article-title>Jugendhilfestatistik im Validitätstest. Exemplarische Prüfung der Erhebung stationärer Hilfen</article-title>
+          . In: Rauschenbach, Thomas; Schilling,
+          <string-name>
+            <surname>Matthias</surname>
+          </string-name>
+          (Hrsg.), S.
+          <fpage>493</fpage>
+          -
+          <lpage>510</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Schmiese</surname>
+          </string-name>
+          , Wulf,
+          <year>2003</year>
+          :
+          <article-title>Der Kampf gegen die Stadtkernfäule. Leere Schaufenster und Bauruinen - die Innenstädte verkommen. In der Not gründen Handel und die Politik Selbsthilfegruppen</article-title>
+          .
+          <source>In: Frankfurter Allgemeine Sonntagszeitung (3. August</source>
+          <year>2003</year>
+          ) 31,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          <year>4</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Schulz</surname>
+          </string-name>
+          , Hajo; Sierig, Peter,
+          <year>2003</year>
+          : Datendiener.
+          <article-title>Freie Datenbanken im Vergleich</article-title>
+          . In: c't Magazin für Computertechnik. Heft 5,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          142-
+          <fpage>147</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Sixtus</surname>
+          </string-name>
+          ,
+          <year>2003</year>
+          :
+          <article-title>Gemeinsam auf die Spitze treiben</article-title>
+          .
+          <source>In: Die Zeit</source>
+          (
+          <volume>22</volume>
+          .
+          <fpage>12</fpage>
+          .
+          <year>2003</year>
+          )
+          <article-title>1</article-title>
+          ,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          <year>33</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Stegmann</surname>
+          </string-name>
+          , Michael,
+          <year>1999</year>
+          :
+          <article-title>Kommunale Sozialplanung als Fachaufgabe</article-title>
+          . In: Sozialwissenschaften und Berufspraxis, Jg. 22, H. 4,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          303-
+          <fpage>321</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Stöbe-Blossey</surname>
+          </string-name>
+          , Sybille,
+          <year>2003</year>
+          :
+          <article-title>Verwaltungsreform und Sozialwissenschaft</article-title>
+          . In: Sozialwissenschaften und Berufspraxis, Jg. 26, H. 1,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          29-
+          <fpage>45</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Trutzel</surname>
+          </string-name>
+          , Klaus; Schulmeyer, Rudolf,
+          <year>1999</year>
+          :
+          <string-name>
+            <given-names>Raumbezogenes</given-names>
+            <surname>Informationsmanagement</surname>
+          </string-name>
+          .
+          <article-title>Die besondere Funktion des Raumbezugssystems der Statistik im Verhältnis zur Raumbezugsbasis des Vermessungswesens</article-title>
+          . In: Stadtforschung und Statistik, Heft 2,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          5-
+          <fpage>14</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Vossen</surname>
+          </string-name>
+          , Gottfried,
+          <year>1999</year>
+          : Datenmodelle,
+          <article-title>Datenbanksprachen und DatenbankmanagementSysteme. 3</article-title>
+          . vollst. überarbeitete Auflage. München: Oldenbourg.
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

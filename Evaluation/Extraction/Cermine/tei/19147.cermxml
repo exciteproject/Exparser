@@ -1,0 +1,1515 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>Auf verschlungenen Forschungspfaden: Erfahrungen mit der Sekundärnutzung qualitativer Interviewdaten in induktiven, deduktiven und Triangulationsverfahren</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Monique Janneck</string-name>
+        </contrib>
+      </contrib-group>
+      <pub-date>
+        <year>2008</year>
+      </pub-date>
+      <volume>33</volume>
+      <issue>3</issue>
+      <fpage>94</fpage>
+      <lpage>114</lpage>
+      <abstract>
+        <p>»Off the beaten research track: Secondary analysis of qualitative interview data in a-priori, post-hoc and triangulation designs«. This article describes three secondary analyses of qualitative interview data about social relationships in online communities, making use of a-priori (theory-driven) as well as post-hoc approaches (such as Grounded Theory) and also looking at the data from a variety of different research contexts and questions. Comparing the different approaches taken shows that both a-priori as well as post-hoc designs might successfully be applied in secondary analyses. Furthermore, loss of context when reusing data does not necessarily lead to a decrease in data quality and explanatory power. Secondary analyses might thus constitute a meaningful part of an overall qualitative research strategy, especially when combined with additional primary data.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>∗</p>
+    </sec>
+    <sec id="sec-2">
+      <title>1. Einleitung</title>
+      <p>In diesem Beitrag werden Erfahrungen mit der Sekundäranalyse qualitativer
+Interviewdaten aus drei verschiedenen Untersuchungen geschildert. Das
+Besondere dabei ist, dass allen drei Untersuchungen dasselbe Primärmaterial
+zugrunde liegt, das jedoch unterschiedlichen induktiven und deduktiven
+Auswertungsmethoden unterzogen und schließlich in einen ganz neuen
+Forschungskontext transferiert wurde. Hierdurch wird eine vergleichende Betrachtung
+verschiedener Vorgehensweisen und Rahmenbedingungen bei Sekundäranalysen
+möglich, ohne zusätzlich die Besonderheiten unterschiedlicher
+Ausgangsfragestellungen und -daten berücksichtigen zu müssen.</p>
+      <p>Der Beitrag gliedert sich wie folgt: In Abschnitt 2 wird zunächst zur
+Einordnung der Forschungskontext kurz vorgestellt. Daran schließt sich in
+Abschnitt 3 die Darstellung der drei durchgeführten Stufen von Sekundäranalysen:
+Von der induktiven Auswertung der Primärdaten samt ergänzender
+Datenerhebung im selben Forschungskontext (Stufe 1, Abschnitt 3.1) über eine sich daran
+anschließende zweite, deduktiv-theoriegeleitete Analyse (Stufe 2, Abschnitt
+3.2) bis zum Transfer der Primärdaten in einen gänzlich neuen
+Forschungskontext, wiederum in Triangulation mit weiterer Datenerhebung (Stufe 3,
+Abschnitt 3.3). In Abschnitt 4 werden die Erfahrungen aus den Untersuchungen
+diskutiert. Ein Fazit beschließt den Beitrag.</p>
+      <p>Zur Illustration werden in diesem Beitrag Zitate herangezogen, die einem
+Interview entstammen, das die Autorin dieses Beitrags (als Interviewpartnerin)
+im Rahmen einer Machbarkeitsstudie zu Sekundäranalysen geführt hat
+(MEDJEDOVIĆ in diesem Band) – mithin ein weiteres kleines Beispiel für die
+Wiederverwendung qualitativer Daten1.</p>
+    </sec>
+    <sec id="sec-3">
+      <title>2. Forschungskontext</title>
+      <p>
+        Die in diesem Beitrag beschriebenen Untersuchungen thematisieren die
+Entwicklungsdynamik sozialer Beziehungen in virtuellen Gemeinschaften
+        <xref ref-type="bibr" rid="ref13 ref17">(vgl.
+z.B. PREECE 2000)</xref>
+        sowie deren Technikaneignung, -nutzung und -bewertung.
+      </p>
+      <sec id="sec-3-1">
+        <title>In der Primärstudie wurde eine selbst organisierte virtuelle Lern- und Studien</title>
+        <p>gemeinschaft, hier Alpha genannt, untersucht2. Diese Online-Plattform wurde
+auf Initiative von Studierenden aufgebaut und von ihnen selbstständig
+betrieben.</p>
+        <p>Das System dient der Vernetzung der Studierenden ihres Studiengangs und
+ihrer gegenseitigen Unterstützung; Lehrende und Studierende anderer Fächer
+haben keinen Zugang. Als technische Basis dient ein Groupware-System, das
+ein „schwarzes Brett“, eine Terminverwaltung, Diskussionsforen, persönliche
+Homepages für die Mitglieder, die Möglichkeit zum Up- und Download von
+1 Die Interviewzitate sind durch Einrückung kenntlich gemacht.
+2 Die Beschreibung der Gemeinschaft bezieht sich auf den Stand zur Zeit der Datenerhebung.
+Dateien, gemeinsame Textbearbeitung und dergleichen mehr zur Verfügung
+stellt. Das System ist passwortgeschützt; der Zugang ist nur registrierten
+Mitgliedern möglich.</p>
+        <p>Die Plattform wird von einigen besonders aktiven Studierenden betreut, die
+sich neben der technischen Bereitstellung des Systems und der
+Nutzerverwaltung auch aktiv um die Zusammenstellung von Informationen zum
+Studiengang und deren Weitergabe kümmern.</p>
+        <p>
+          Zum Zeitpunkt der Untersuchung zählte die Gemeinschaft knapp 300
+Mitglieder, die etwa 40 verschiedenen Diskussionsforen nutzen, deren thematische
+Bandbreite von den Veranstaltungen des Grund- und Hauptstudiums über
+Dateiarchive zu Übungsaufgaben, Klausuren und Prüfungen bis hin zu „Tratsch“,
+„Flohmarkt“ und „Musik“ reichen.
+          <xref ref-type="bibr" rid="ref16">(vgl. PAPE, STRAUSS, RAUDZUS &amp;
+RICHARDT 2002)</xref>
+          .
+        </p>
+      </sec>
+    </sec>
+    <sec id="sec-4">
+      <title>3. Durchgeführte Sekundäranalysen</title>
+      <p>In den folgenden Abschnitten werden die drei Stufen der sekundäranalytischen
+Auswertungen dargestellt. Die Beschreibung der Stufen gliedert sich dabei
+jeweils in eine Schilderung der Ausgangssituation, des methodischen
+Vorgehens bei der Auswertung sowie eine sehr knappe Darstellung der erzielten
+Ergebnisse, um deren Art und Bandbreite zu verdeutlichen. Detaillierte
+Ergebnisse der Studien können den jeweils angegebenen Veröffentlichungen
+entnommen werden.</p>
+      <p>3.1 Stufe 1: Erste Sekundäranalyse qualitativer Interviewdaten mit
+ergänzender Datenerhebung</p>
+      <sec id="sec-4-1">
+        <title>3.1.1 Ausgangssituation</title>
+        <p>
+          Das ursprüngliche Datenmaterial entstammt einer Studienarbeit
+          <xref ref-type="bibr" rid="ref18">(RAUDZUS
+2001)</xref>
+          , in deren Rahmen Mitglieder der virtuellen Studierendengemeinschaft
+Alpha mittels halbstandardisierter Leitfaden-Interviews
+          <xref ref-type="bibr" rid="ref2">(vgl. FLICK 1998)</xref>
+          zu
+ihrer Nutzung und Bewertung des Systems sowie der Rolle und dem
+Stellenwert der Gemeinschaft im Studienalltag befragt wurden. Ziel der Arbeit war es,
+zu analysieren, inwiefern die virtuelle Studierendengemeinschaft einen
+Mehrwert im Studienalltag bietet sowie aus den Ergebnissen der Interviewstudie
+Empfehlungen für den Aufbau einer vergleichbaren virtuellen Gemeinschaft
+eines anderen Studiengangs abzuleiten.
+        </p>
+        <p>
+          Fünfzehn zufällig ausgewählte Mitglieder von Alpha wurden um eine
+Interviewteilnahme gebeten, von denen letztendlich vier befragt werden konnten.
+Aufgrund der Reichhaltigkeit der Interviews sowie der auftretenden
+theoretischen Sättigung
+          <xref ref-type="bibr" rid="ref3">(vgl. GLASER &amp; STRAUSS 1967)</xref>
+          wurde auf die Ansprache
+weiterer Interviewpartner verzichtet.
+        </p>
+        <p>Der Interviewleitfaden gliederte sich in drei inhaltliche Blöcke zur Nutzung
+des Systems (u. a. Häufigkeit, Nutzungsanlässe, Motivation), der
+Wahrnehmung der Gemeinschaft innerhalb der virtuellen Plattform (u. a. gemeinsame
+Ziele, Identifikation, Kommunikationsstrukturen) sowie des Designs der
+Plattform (u. a. Gebrauchstauglichkeit, Einfluss auf die Systemgestaltung), die
+jeweils durch 5-10 Teilfragen konkretisiert wurden. Der Leitfaden diente dem
+Interviewer als inhaltliche Stütze, die thematische Reihenfolge wurde je nach
+Interviewverlauf variiert. Insgesamt lagen zu allen Themenbereichen Aussagen
+aller Interviewpartner vor.</p>
+        <p>
+          Die Interviews wurden auf Tonband aufgenommen und im Wortlaut
+transkribiert. Die Primärauswertung erfolgte überwiegend deduktiv entlang der
+genannten Kategorien bzw. Interviewbereiche
+          <xref ref-type="bibr" rid="ref18">(RAUDZUS 2001)</xref>
+          .
+        </p>
+        <p>Die Idee zur Sekundäranalyse dieser Interviewdaten entstand im Rahmen
+des Forschungsprojekts WissPro3, das sich mit der Entwicklung von Software
+für computergestütztes kooperatives Lernen sowie mit
+Online-Lerngemeinschaften und selbst organisierten Lernformen befasste. Für diesen
+Forschungskontext stellte die virtuelle Studierendenplattform ein interessantes Fallbeispiel
+dar, da es sich bei Alpha um eine selbst organisierte Lerngemeinschaft in
+Reinform handelte: Wie oben bereits kurz erwähnt, wurde die Gemeinschaft in
+studentischer Eigeninitiative und gänzlich ohne Beteiligung von Lehrenden
+aufgebaut und betrieben. Für die Sekundäranalyse war gerade dieser Aspekt
+der Selbstorganisation interessant, der nicht im Fokus der Primäruntersuchung
+lag: Dort interessierte generell die mögliche Unterstützungsfunktion einer
+virtuellen Gemeinschaft im Studienalltag; die Organisationsform war dabei
+zweitrangig. Die Sekundäranalyse war somit durch die Erwartung begründet,
+über die Fragestellung der Primäruntersuchung hinaus (d.h., die Formulierung
+von Empfehlungen für den Aufbau weiterer virtueller Gemeinschaften)
+Erkenntnisse zur Struktur und Entwicklungsdynamik selbst organisierter
+virtualisierter Lerngemeinschaften aus den Daten gewinnen zu können – oder mit
+anderen Worten: Die Erwartung, dass links und rechts des vom ursprünglichen
+Autor eingeschlagenen Forschungsweges weitere interessante Daten
+„aufzusammeln“ sein könnten.</p>
+        <p>Über einen Mitarbeiter des Forschungsprojektes, der die Studienarbeit am
+Rande mitverfolgt hatte, wurde der Kontakt zum Autor der ursprünglichen
+Studie hergestellt, der sich bereit erklärte, die Interviewdaten in Form der
+Wortlauttranskripte für die Sekundäranalyse zur Verfügung zu stellen. Der
+Autor war in die Planung der zweiten Untersuchung sowie die Diskussion und
+anschließende Publikation der Ergebnisse einbezogen, wirkte jedoch an der
+erneuten Datenauswertung sowie der sich anschließenden weiteren
+Datenerhebung selbst nicht direkt mit.
+3 WissPro – Wissensprojekt „Informatiksysteme im Kontext“, gefördert im
+BMBF-Rahmenprogramm „Neue Medien in der Bildung“.</p>
+      </sec>
+      <sec id="sec-4-2">
+        <title>3.1.2 Induktive Analyse und ergänzende Datenerhebung</title>
+        <p>
+          Die Sekundäranalyse erfolgte durch drei Mitarbeiter des Forschungsprojekts
+WissPro. Um in der Tat die Daten „links und rechts des Forschungsweges“ zu
+sammeln – also die Auswertung möglichst unbeeinflusst von den Ergebnissen
+der ersten Untersuchung durchzuführen – wurde auf die deduktive Vorgabe
+eines Kategoriensystems verzichtet. Dieses wurde stattdessen induktiv in
+Anlehnung an den Grounded-Theory-Ansatz
+          <xref ref-type="bibr" rid="ref3">(GLASER &amp; STRAUSS 1967)</xref>
+          aus
+den Daten heraus entwickelt.
+        </p>
+        <p>
+          Bei diesem methodischen Verfahren werden die Rohdaten zunächst nach
+inhaltlicher Ähnlichkeit zu Einheiten zusammengefasst (concepts) und in einem
+weiteren Analyseschritt unter Oberbegriffen subsumiert (categories).
+Schließlich werden die Beziehungen (propositions) zwischen den einzelnen
+Kategorien herausgearbeitet und diese hierarchisch in Ober- und Unterkategorien
+gegliedert
+          <xref ref-type="bibr" rid="ref14">(vgl. PANDIT 1996)</xref>
+          .
+        </p>
+        <p>In den Ergebnissen der induktiven Sekundäranalyse finden sich – kaum
+überraschend – zentrale Ergebnisse der ursprünglichen Arbeit wieder. Wie
+erhofft, wurden jedoch einige Aspekte herausgearbeitet, die in der
+Primäruntersuchung nicht oder nur am Rande thematisiert wurden: Zum einen die Frage
+von Identität und Abgrenzung, die unter dem Blickwinkel der Theorie der
+sozialen Identität (s. Abschnitt 3.2) interpretiert wurde, zum anderen die
+Vermutung eines deutlichen Unterschieds in der Sichtweise passiverer und
+aktiverer Nutzer des Systems und eines sich daraus ergebenden Einfluss- und
+Hierarchiegefälles in der eigentlich selbst organisierten und egalitären
+Gemeinschaft.</p>
+        <p>Die induktive Sekundäranalyse erwies sich somit als genuin
+hypothesengenerierendes Verfahren, dessen Ergebnisse – v. a. die unerwartete Diskrepanz
+zwischen aktiveren und passiveren Nutzern – das Vorhaben einer zweiten
+Interviewserie, speziell mit aktiv involvierten Mitgliedern der Gemeinschaft,
+begründete. In der ursprünglichen Untersuchung hatte sich nur ein aktives
+Mitglied (ein Administrator) zufällig in der Stichprobe befunden, so dass eine
+weitere Datenerhebung notwendig war, um die Ergebnisse erhärten und
+vertiefen zu können.</p>
+        <p>
+          Für diese zweite Interviewserie wurde die Auswahl der Interviewpartner
+somit im Sinne eines theoretischen Samplings
+          <xref ref-type="bibr" rid="ref3">(GLASER &amp; STRAUSS 1967)</xref>
+          vorgenommen, indem systematisch vier weitere Personen befragt wurden, die
+eine aktive Rolle in der Gemeinschaft innehatten.
+        </p>
+        <p>Die Interviews wurden wiederum anhand eines Leitfadens moderiert, bei
+dessen Gestaltung die Fragestellungen der ersten Interviewserie aufgegriffen
+und um einige Fragenkomplexe ergänzt wurden, die speziell für die Zielgruppe
+bedeutsam waren (hinsichtlich der Geschichte/der Entstehung der
+Gemeinschaft, der technischen Plattform sowie der Administration und Moderation des
+Systems). Auch diese Interviews wurden auf Tonträger aufgezeichnet,
+anschließend wörtlich transkribiert und dabei anonymisiert.</p>
+        <p>Bei der Auswertung der Interviews der zweiten Serie wurde das
+sekundäranalytisch entwickelte Kategoriensystem zu Grunde gelegt und erweitert. Das
+endgültige Kategoriensystem wurde schließlich anhand aller Interviewdaten
+rücküberprüft. Während der Auswertung vermischten sich somit die Daten
+beider Interviewserien, so dass von einer Kombination von Sekundäranalyse
+(der Daten der ersten Interviewserie) und Primäranalyse (der Daten der
+zweiten Interviewserie) gesprochen werden kann. Die Daten erwiesen sich
+hinsichtlich der Interviewführung und des Detailgrades der Interviewaussagen als
+vergleichbar, so dass eine gemeinsame Auswertung problemlos möglich war.</p>
+      </sec>
+      <sec id="sec-4-3">
+        <title>3.1.3 Ergebnisse</title>
+        <p>
+          Auf die Ergebnisse bzw. das herausgearbeitete Kategoriensystem soll hier nicht
+detailliert eingegangen werden, dazu sei auf die entsprechende
+Ergebnispublikation verwiesen
+          <xref ref-type="bibr" rid="ref16">(PAPE et al. 2002)</xref>
+          . Hervorgehoben seien hier nur die oben
+bereits angesprochenen zentralen Aspekte, die über die Ergebnisse der
+Primäruntersuchung deutlich hinausgehen und die Entwicklungsdynamik in selbst
+organisierten Gemeinschaften betreffen:
+        </p>
+        <p>
+          Die vermuteten Unterschiede in den Sichtweisen aktiverer und passiverer
+Mitglieder konnten durch die zweite Interviewserie bestätigt werden. Aktive
+Mitglieder wachsen aufgrund ihrer Aktivität schnell in eine Art
+Administratoroder Moderatorfunktion hinein, die ihnen besondere Einfluss- und
+Gestaltungsmöglichkeiten in technischer und inhaltlicher Hinsicht ermöglicht (z.B.
+Strukturierung des Forums, Löschen von Beiträgen, Freischalten oder Sperren
+von Kennungen). Sie erlangen hierdurch eine exponierte Position innerhalb der
+eigentlich gleichberechtigten Gemeinschaft der Studierenden – es entsteht eine
+informelle Hierarchie, die von den übrigen Mitgliedern zwiespältig beurteilt
+wird: Einerseits ist ihnen die gemeinschaftstragende Funktion dieses
+Engagements bewusst, gleichzeitig fühlen sie sich teilweise ausgeschlossen und
+bevormundet. Der Umgang mit dieser Dynamik scheint ein zentrales
+Erfolgsbzw. Misserfolgskriterium für diese Art selbst organisierter Gemeinschaften zu
+sein, wie sich in späteren Untersuchungen bestätigen ließ
+          <xref ref-type="bibr" rid="ref6 ref7 ref8 ref9">(vgl. JANNECK,
+FINCK &amp; OBERQUELLE 2005, JANNECK &amp; FINCK 2006a, b)</xref>
+          .
+        </p>
+        <p>Ein zweiter Aspekt betrifft die Identifikation der Mitglieder mit der
+Gemeinschaft. Hier zeigte sich ein widersprüchliches Ergebnis: Zwar beklagten
+die Befragten durchgängig eine zu geringe Beteiligung innerhalb der
+OnlineGemeinschaft und ein geringes Zusammengehörigkeitsgefühl, gleichzeitig
+wurde das Vorhandensein der Plattform jedoch als Identität stiftendes Moment
+bewertet. Als Erklärung hierfür wurde die Theorie der Sozialen Identität
+herangezogen (s. Abschnitt 3.2), wonach sich soziale Gruppen auch über die
+Abgrenzung nach außen definieren.</p>
+        <p>Als Resultat des induktiven Vorgehens hatte sich somit der ursprüngliche
+Forschungsfokus verschoben: Statt der Untersuchung einer Lern- und
+Studiengemeinschaft als Fallbeispiel selbst organisierter Lernprozesse rückte die Frage
+von Gemeinschaftsbildung und Identität in virtuellen Gemeinschaften in das
+Blickfeld. Speziell die Ergebnisse zur Sozialen Identität stellten dabei einen
+unerwarteten Fund „jenseits des Forschungspfads“ dar. Ermuntert durch einen
+in diesem Forschungsbereich ausgewiesenen Kollegen, den die Ergebnisse
+interessierten, wurde einige Monate später eine zweite Sekundäranalyse mit
+dem Ziel einer vertieften Analyse dieser Phänomene durchgeführt, die im
+folgenden Abschnitt beschrieben wird.</p>
+        <p>3.2 Stufe 2: Zweite Sekundäranalyse qualitativer Interviewdaten</p>
+      </sec>
+      <sec id="sec-4-4">
+        <title>3.2.1 Ausgangssituation</title>
+        <p>
+          Wie oben beschrieben, war ein zentrales Ergebnis der in Abschnitt 3.1
+geschilderten Untersuchung die zwiespältige Bewertung der Gemeinschaft, die
+einerseits als wenig lebendig, andererseits als Identität stiftend beschrieben wurde.
+Dies wurde mit der Theorie der Sozialen Identität erklärt: Dieser (in der
+sozialpsychologischen Forschung weithin bekannten) Theorie zufolge macht die
+Zugehörigkeit zu (sozialen) Gruppen und Gemeinschaften einen bedeutsamen
+Teil des Selbstkonzeptes, der Identität eines Individuums aus
+          <xref ref-type="bibr" rid="ref20">(TAJFEL 1978)</xref>
+          .
+Da Menschen im allgemeinen ein positives Selbstkonzept anstreben, führt dies
+zu einer Bevorzugung ihrer jeweiligen Eigengruppe(n), denen eher positive
+Eigenschaften zugeschrieben werden, während Fremdgruppen im Vergleich
+dazu abgewertet und ggf. sogar diskriminiert werden.
+        </p>
+        <p>Ob sich ein Individuum als Mitglied einer bestimmten Gruppe ansieht, hängt
+stark von der Salienz, also der Sichtbarkeit, Hervorgehobenheit der jeweiligen
+sozialen Kategorien ab. Menschen nehmen sich demnach als Gruppe wahr,
+wenn die wahrgenommenen Übereinstimmungen zwischen den
+Gruppenmitgliedern groß und die Unterschiede zu anderen Individuen sichtbar sind.
+Ähnliche Einstellungen, Meinungen, Normen, gemeinsame Aufgaben und Ziele etc.
+stellen wichtige Bedingungen für die Ausbildung von sozialer Identität und
+Gruppenzusammenhalt dar.</p>
+        <p>Die Theorie der sozialen Identität wurde für Präsenzgruppen entwickelt; die
+Frage der Übertragbarkeit auf virtuelle Gemeinschaften war noch ungeklärt.
+Aus diesem Grund wurde eine zweite Sekundäranalyse des Interviewmaterials
+durchgeführt, um gezielt nach Belegen für die Wirksamkeit der Theorie der
+Sozialen Identität für virtuelle Gemeinschaften zu suchen.</p>
+        <p>
+          Die erneute Sekundäranalyse der Daten der ersten sowie zweiten
+Interviewserie wurde von zwei Mitarbeitern des Forschungsprojekts WissPro, die bereits
+an der ersten Sekundäranalyse beteiligt gewesen waren, einem neu hinzu
+gekommenen Mitarbeiter sowie einem bislang unbeteiligten externen Forscher,
+der als Sozialpsychologe über spezielle Expertenkenntnisse verfügte,
+durchgeführt. Dieser regte an, aufgrund der Ergebnisse zu den Beteiligungsstrukturen
+und der stark schwankenden Involviertheit der Nutzer die Fallstudie zusätzlich
+aus dem Blickwinkel einer Community of Practice
+          <xref ref-type="bibr" rid="ref10 ref22">(LAVE &amp; WENGER 1991,
+WENGER 1998)</xref>
+          zu betrachten.
+        </p>
+        <p>Diesem Ansatz zufolge findet Lernen stets in einer Gemeinschaft statt, in
+der bestimmte Fertigkeiten verlangt und vermittelt werden. Jedes Individuum
+ist Teil vieler solcher Communities of Practice: im Alltag, in der Schule, im
+Arbeitsleben. Gemeinsame Ziele, gemeinsam unternommene Vorhaben,
+gemeinsam genutzte Artefakte sowie ein gemeinsames Verständnis von Regeln
+sind zentrale Bestandteile einer solchen Gemeinschaft. Lernen wird als Prozess
+der Integration in eine Gemeinschaft begriffen, wobei das (neue) Mitglied
+langsam vom Rand in die Mitte der Gemeinschaft vorstoßen kann. Erfahrene
+Mitglieder übernehmen dabei die Rolle eines Begleiters, der beim Erwerb von
+Fähigkeiten unterstützend wirkt. LAVE &amp; WENGER (1991) bezeichnen diesen</p>
+      </sec>
+      <sec id="sec-4-5">
+        <title>Prozess als legitimate peripheral participation und cognitive apprenticeship.</title>
+      </sec>
+      <sec id="sec-4-6">
+        <title>3.2.2 Deduktive Analyse</title>
+        <p>Im Gegensatz zum induktiven Vorgehen der ersten Untersuchung war bei der
+zweiten Sekundäranalyse ein deduktives Auswertungsverfahren angemessenen,
+da zwei klaren Fragestellungen nachgegangen werden sollte: Gesucht wurden
+Belege für die Wirksamkeit der Mechanismen sozialer Identität in virtuellen
+Gemeinschaften sowie die Anwendbarkeit des
+Community-of-PracticeAnsatzes auf die Fallstudie der Studiengemeinschaft.</p>
+        <p>Als Rohmaterial für die Auswertung standen wiederum sämtliche
+Interviewtranskripte (der ersten und zweiten Interviewserie) zur Verfügung. Die
+Codierung erfolgte anhand von Leitfragen, die aus den theoretischen Ansätzen
+abgeleitet und an das Datenmaterial herangetragen wurden. In Tabelle 1 sind
+diese wiedergegeben.</p>
+        <p>Die Codierung erfolgte unabhängig voneinander durch drei Mitarbeiter und
+wurde anschließend auf Übereinstimmung geprüft sowie durch den externen
+Forscher als Experten auf Stimmigkeit mit der zugrunde liegenden Theorie
+geprüft.</p>
+        <p>Die Interviews beider Serien erwiesen sich als sehr reichhaltig in Bezug auf
+die o.g. Fragestellungen. Wiederum waren die Daten beider Interviewserien gut
+vergleichbar.
+Tabelle 1: Codier-Leitfragen zur Theorie der Sozialen Identität und</p>
+        <p>Communities of Practice
+Codier-Leitfragen zur Theorie der
+Sozialen Identität (SIT)
+- Ist Alpha-Mitgliedern ihre
+Gruppen</p>
+        <p>zugehörigkeit bewusst?
+- Wann/in welchen Situationen ist die</p>
+        <p>Gruppenzugehörigkeit salient?
+- Wie wird die
+Gruppenzugehörigkeit/Mitgliedschaft bewertet
+(positiv/negativ)? In welchen Situationen?
+- Wie wichtig ist die
+Zugehörig</p>
+        <p>keit/Mitgliedschaft?
+- Welche Gefühle sind mit der
+Zuge</p>
+        <p>hörigkeit/Mitgliedschaft verbunden?
+- Welche Aspekte der
+Zugehörigkeit/Mitgliedschaft sind emotional
+positiv besetzt?
+- Inklusion/Exklusion: In welchen</p>
+        <p>Situationen und mit welchen
+Verhaltensweisen interagieren
+AlphaMitglieder mit
+Fremdgruppenmitgliedern (Studierende andere
+Disziplinen, Dozenten etc.)? Wie grenzen
+sie sich ab?</p>
+        <p>Codier-Leitfragen zum Communities
+of Practice-Ansatz (CoP)
+- Lassen sich Anhaltspunkte für
+gemeinsame/geteilte Werte,
+Überzeugungen in der Gemeinschaft finden?</p>
+        <p>Gibt es „Spielregeln“?
+- Gibt es Hinweise auf
+kulturspezifische Verhaltensweisen und
+Interaktionsmuster?
+- Gibt es Subkulturen/-gruppen
+innerhalb von Alpha? Wie sind diese
+miteinander verbunden? Über welche</p>
+        <p>Personen?
+- Gibt es gemeinsame Erfahrungen der</p>
+        <p>Alpha-Mitglieder, erzählte
+Geschichten, geteilte Schicksale?
+- Welche Aushandlungsprozesse</p>
+        <p>finden in der Gemeinschaft statt?
+- Gibt es gruppenspezifische
+Werk</p>
+        <p>zeuge und Artefakte?
+- Welche Kooperationen gibt es unter</p>
+        <p>den Mitgliedern?
+- Welche Koordinationsmechanismen</p>
+        <p>gibt es?
+- Wie sehen
+Kommunikationsbeziehungen im Alpha-Netzwerk aus?
+Wer kommuniziert wie häufig mit
+wem? Lassen sich zentrale Personen
+identifizieren, bei denen alle
+Kommunikationsfäden zusammenlaufen?</p>
+      </sec>
+      <sec id="sec-4-7">
+        <title>3.2.3 Ergebnisse</title>
+        <p>Die Interviewdaten liefern empirische Belege dafür, dass die Annahmen zu
+Gruppenprozessen, die sich aus den dargestellten Theorien ableiten lassen,
+auch in virtuellen Gemeinschaften Gültigkeit haben. Während der
+Communities-of-Practice-Ansatz bereits häufiger in diesem Forschungsfeld
+herangezogen wurde, wird die Theorie der Sozialen Identität in diesem Zusammenhang
+noch wenig betrachtet.</p>
+        <p>
+          Knapp zusammengefasst, erzeugt – wie von der Theorie der Sozialen
+Identität vorhergesagt – das Vorhandensein einer zugangsbeschränkten technischen
+Plattform eine saliente Situation für Mitgliedschaft in der Alpha-Gemeinschaft:
+Die Studierenden werden sich in der Benutzung der Plattform ihrer
+Mitgliedschaft bewusst und identifizieren sich mit der Gemeinschaft. Allerdings wird
+diese Identifikation eher in der Abgrenzung nach außen wirksam, einhergehend
+mit der Abwertung von Fremdgruppen (wie Studierender anderer Fächer), als
+in einer lebendigen Gruppenkultur im Inneren der Gemeinschaft. Diese
+zeichnet sich durchaus, wie vom CoP-Ansatz beschrieben, durch gemeinsame Ziele,
+gegenseitige Unterstützung und einen gemeinsamen Verhaltenskodex im
+System aus. Beklagt werden jedoch eine allgemein sehr geringe Nutzerbeteiligung
+          <xref ref-type="bibr" rid="ref13 ref17">(vgl. NONNECKE &amp; PREECE 2000)</xref>
+          sowie die Aufsplitterung in Subgruppen.
+Eine detaillierte Darstellung der Ergebnisse findet sich in
+          <xref ref-type="bibr" rid="ref15">PAPE, REINECKE,
+ROHDE &amp; STRAUSS (2003</xref>
+          ) und
+          <xref ref-type="bibr" rid="ref19">ROHDE, REINECKE, PAPE &amp; JANNECK
+(2004</xref>
+          ).
+        </p>
+        <sec id="sec-4-7-1">
+          <title>3.3 Stufe 3: Übertragung auf weitere Forschungskontexte</title>
+        </sec>
+      </sec>
+      <sec id="sec-4-8">
+        <title>3.3.1 Ausgangssituation</title>
+        <p>Einige Zeit nach Abschluss der oben beschriebenen Untersuchungen wurde das
+Datenmaterial aus den beiden beschriebenen Interviewserien im Rahmen eines
+weiteren Forschungsprojektes (VIRKON4), das sich mit der technischen und
+organisatorischen Unterstützung von Freelancer-Netzwerken befasste,
+nochmals zur Analyse herangezogen. An diesem neuen Forschungsprojekt waren
+eine Mitarbeiterin des vorherigen WissPro-Projekts5, die auch an den ersten
+beiden Sekundäranalysen mitgearbeitet hatte, sowie ein Mitarbeiter ohne
+vorherigen Kontakt mit dem Datenmaterial beteiligt.</p>
+        <p>Die Idee zu dieser erneuten Sekundäranalyse entstand erst im Laufe des
+Projektes, als sich trotz des unterschiedlichen Forschungskontextes – auf der einen
+Seite lose studentische (Lern-) Gemeinschaften, auf der anderen Seite
+professionelle und wirtschaftlich orientierte Netzwerke von Freiberuflern mit z.T.
+langjähriger Berufserfahrung – einige Parallelen hinsichtlich der sozialen
+Strukturen zeigten, die mit der selbst organisierten Form der Gemeinschaften
+zusammenzuhängen schien.</p>
+        <p>
+          Im Projekt VIRKON hatten bereits – unabhängig von der später
+durchgeführten Sekundäranalyse – Datenerhebungen in Form von Gruppeninterviews
+und schriftlichen Befragungen stattgefunden. Zudem wurde der Prozess der
+Einführung einer neuen Software zur Kooperationsunterstützung in mehreren
+Freelancer-Netzwerken im Rahmen eines partizipativen
+Softwareentwicklungsprozesses kontinuierlich beobachtet und begleitet
+          <xref ref-type="bibr" rid="ref6 ref7 ref8">(vgl. JANNECK,
+FINCK &amp; OBENDORF 2006)</xref>
+          .
+        </p>
+        <p>Im Fokus der Untersuchung stand die Technologieaneignung, der Prozess,
+in dem Nutzer den Umgang mit neuer Technologie erlernen und diese
+schrittweise in ihren Arbeits- bzw. allgemein Nutzungskontext integrieren, womit
+sowohl Anpassungen der Technologie selber als auch (arbeits-)
+organisatorische Veränderungen einhergehen (können). Von zentraler Bedeutung dabei ist
+die Betreuung oder Moderation der Technikeinführung und -nutzung. Zudem
+interessierte die Frage, inwiefern die hier betrachteten selbst organisierten
+Gemeinschaften Ähnlichkeiten bzw. Unterschiede mit anderen in der Literatur
+beschriebenen virtuellen Organisationen und Gemeinschaften aufwiesen, um
+Rückschlüsse hinsichtlich der Übertragbarkeit der dort gewonnenen
+Erkenntnisse ziehen zu können.</p>
+      </sec>
+      <sec id="sec-4-9">
+        <title>3.3.2 Induktiv-deduktive Analyse</title>
+        <p>In die Analyse wurden die Daten beider Interviewserien (s. Abschnitt 3.1 und
+3.2) sowie die im Projekt VIRKON bereits erhobenen Daten aus drei
+Gruppeninterviews mit insgesamt 12 Teilnehmern einbezogen. Die
+Gruppendiskussionen waren dabei nicht primär aus methodischen, sondern eher aus
+pragmatischen Erwägungen durchgeführt worden, da es sich als schwierig erwiesen
+hatte, die sehr verteilten und beschäftigten Netzwerkmitglieder einzeln zu
+befragen. Die Interviews wurden daher am Rande eines Netzwerktreffens
+geführt. Die Daten aus Einzel- und Gruppeninterviews wurden jedoch als
+vergleichbar eingestuft, zumal in allen Fällen Wortlauttranskripte und somit die
+Daten in ähnlicher Granularität vorlagen. Wie bei Stufe 1 (Abschnitt 3.1)
+handelte es sich um eine Triangulation von Primär- und Sekundäranalyse, wobei
+im Unterschied zur ersten Untersuchung die zusätzliche Datenerhebung nicht
+als explizite Ergänzung der sekundär auszuwertenden Daten, sondern
+unabhängig davon stattgefunden hatte.</p>
+        <p>
+          Die Daten wurden im Sinne einer zusammenfassenden qualitativen
+Inhaltsanalyse
+          <xref ref-type="bibr" rid="ref12">(MAYRING 2003)</xref>
+          ausgewertet. Hierbei werden zunächst die
+einzelnen Analyseeinheiten (meist einzelne Sätze, in Ausnahmefällen mehrere
+zusammengehörige Sätze) auf eine einheitliche Sprachebene transformiert
+(Paraphrase). In einem nächsten Schritt werden die paraphrasierten Aussagen
+auf einem höheren Abstraktionsniveau verallgemeinert, um eine bessere
+Vergleichbarkeit der Interviews zu ermöglichen (Generalisierung). In einem
+dritten Schritt werden bedeutungsgleiche bzw. sich aufeinander beziehende
+Paraphrasen gestrichen und zu neuen Aussagen zusammengefasst (Reduktion).
+        </p>
+        <p>Es handelte sich dabei um eine Mischform induktiver und deduktiver
+Codierung, da zwar einige zentrale Konzepte aus der
+Technologieaneignungsforschung strukturierend an das Datenmaterial herangetragen wurden, bei der
+Auswertung jedoch zusätzliche Kategorien induktiv herausgearbeitet wurden.
+Im Gegensatz zur Vorgehensweise bei der Grounded Theory stand die
+induktive Erarbeitung eines Kategoriensystems jedoch nicht im Vordergrund.</p>
+      </sec>
+      <sec id="sec-4-10">
+        <title>3.3.3. Ergebnisse</title>
+        <p>Ein zentrales Ergebnis dieser erneuten Sekundäranalyse in Kombination mit
+den zusätzlichen Daten aus dem Kontext der Freelancer-Netzwerke ist die
+Ergänzung bestehender Typologien virtueller Gemeinschaften um den Typus
+der selbst-organisierten, eng gekoppelten Gemeinschaften, der
+kontextübergreifend zur Charakterisierung der untersuchten Gemeinschaften taugt. Dies ist
+von Bedeutung für die Verallgemeinerbarkeit dieser qualitativen und mit
+kleinen Stichproben erzielten Ergebnisse: Zeigen sich ganz ähnliche Phänomene in
+so unterschiedlichen Nutzungskontexten wie studentischen
+Lerngemeinschaften und professionellen Freiberufler-Netzwerken, ist dies ein Beleg für
+grundsätzliche Wirkmechanismen, wie sie bereits in Abschnitt 3.2 für die soziale
+Identitätsprozesse herausgearbeitet wurden.</p>
+        <p>
+          Zentrale Merkmale dieses Typs virtueller Gemeinschaften sind klare und
+wenig durchlässige Grenzen der Gemeinschaft, vertraute Interaktionsformen
+unter Verzicht auf Anonymität, die oft nicht nur online, sondern auch im
+Präsenzkontakt stattfinden, Kontinuität im Bestehen der Gemeinschaft und in der
+Mitgliedschaft sowie selbst organisierte Organisationsstrukturen mit wenig
+oder gar keinen formellen (wohl aber informellen) Hierarchien, die stark von
+Eigeninitiative und -Engagement der Beteiligten abhängen
+          <xref ref-type="bibr" rid="ref6 ref7 ref8">(vgl. JANNECK &amp;
+FINCK 2006a, b)</xref>
+          .
+        </p>
+        <p>
+          Gerade Letzteres – die stark informell und durch Eigenengagement
+geprägten Einflussmöglichkeiten und Entscheidungsstrategien – erwiesen sich als
+bedeutsam für den Verlauf und den Erfolg von
+Technologieaneignungsprozessen in solchen selbst organisierten Gemeinschaften: Stärker als in traditionellen
+Organisationen sind diese von den Initiativen und Aktivitäten einzelner
+Akteure abhängig, die nicht gemeinschaftlich geplant oder legitimiert wurden. Auch
+sind die Möglichkeiten begrenzt, die Techniknutzung durch extrinsische
+Faktoren wie Belohnungen oder Sanktionen zu fördern, so dass der Sinnhaftigkeit
+der bzw. Sinnstiftung durch die eingesetzte Technik besondere Bedeutung
+zukommt. In diesem Zusammenhang spielt wiederum die Förderung der
+sozialen Identität eine große Rolle: Die Fallstudien zeigen, dass Personen, die sich
+stark mit der Gemeinschaft identifizieren, in bedeutsamer Weise zu ihrer
+Entstehung und Entwicklung beitragen
+          <xref ref-type="bibr" rid="ref6 ref7 ref8 ref9">(vgl. JANNECK et al. 2005, JANNECK &amp;
+FINCK 2006a, b)</xref>
+          .
+        </p>
+        <p>Die Ursprungsdaten, die den hier beschriebenen Sekundäranalysen zugrunde
+liegen, haben einen langen Weg zurückgelegt: Sie wurden induktiven und</p>
+      </sec>
+    </sec>
+    <sec id="sec-5">
+      <title>4. Diskussion</title>
+      <p>deduktiven Analysen unterzogen, durch spezifisch erhobene weitere Daten
+ergänzt und schließlich in einen ganz neuen Forschungskontext transferiert.
+Insofern eignen sich diese Beispiele gut, um unterschiedliche Vorgehensweisen
+bei Sekundäranalysen zu vergleichen und zu bewerten und Chancen und
+Grenzen auszuloten. Die nachfolgende Diskussion orientiert sich dabei auch an den
+von Irena MEDJEDOVIĆ (in diesem Band) aufgezeigten Problemkreisen
+sekundäranalytischer Forschung.</p>
+      <p>4.1. Zu Beginn des Weges: Zur Herkunft und Verfügbarkeit der</p>
+      <p>Daten
+Sekundäranalysen setzen die Verfügbarkeit von Daten voraus, die einer
+entsprechenden Analyse unterzogen werden können. So banal dies klingt, so
+schwierig kann es in der Praxis sein: Forscher, die eine Sekundäranalyse in
+Erwägung ziehen, müssen Kenntnis von den potentiell zu analysierenden Daten
+erhalten, sie müssen die Datenqualität einschätzen können und schließlich das
+Einverständnis der Primärforscher und den Zugang zu den Daten erlangen.</p>
+      <p>Schon die Kenntnis entsprechender Erhebungen kann dabei eine kritische
+Hürde darstellen: Wie die oben geschilderten Beispiele zeigen, können nicht
+nur Daten aus demselben oder einem ähnlichen Forschungskontext fruchtbar
+sein, sondern auch solche, die einem ganz anderen Kontext oder einer anderen
+Wissenschaftsdisziplin entstammen, so dass zugehörige Veröffentlichungen
+den sekundär Forschenden nicht unbedingt zugänglich sind. Dies ist jedoch
+kein spezielles Problem von Sekundäranalysen, sondern tritt ebenso in
+interdisziplinär geprägten Forschungsfeldern auf, in denen die verschiedenen
+Disziplinen ebenfalls nicht immer wechselseitig von ihren Forschungsergebnissen
+Kenntnis nehmen.</p>
+      <p>In den hier dargestellten Untersuchungen waren diese Hürden niedrig, da
+stets ein persönlicher Kontakt mindestens eines Mitglieds der Forschergruppe
+zu dem/den Primärforscher/n bestand bzw. die Daten durch konsekutive
+Mitarbeit in verschiedenen Projekten quasi „tradiert“ wurden. Eventuelle Fragen,
+Bedenken oder Bedingungen hinsichtlich der Wiederverwendung der Daten
+konnten so im direkten Kontakt geklärt oder ausgehandelt werden.</p>
+      <p>Dass ein direkter Kontakt zu den Primärforschern wichtig und hilfreich ist,
+muss jedoch nicht als Vorbedingung gelten, sondern kann als Strategie nutzbar
+gemacht werden, indem der Einbezug des/der Primärforscher/s in den Prozess
+der Sekundäranalyse explizit mitgedacht und offen thematisiert wird, wie
+beispielsweise durch die Mitarbeit an daraus entstehenden Publikationen. So
+wurde beispielsweise vor der Veröffentlichung der in Stufe 3 erzielten Ergebnisse
+(siehe Abschnitt 3.3) mit den zentralen Beteiligten der vorangegangenen
+Untersuchung geklärt, inwiefern ihre Mitwirkung angemessen und gewünscht sei.
+Diese Personen steuerten in der Folge zudem wertvolles Feedback zum
+Vorgehen und zur Reflektion der Ergebnisse bei.</p>
+      <p>Durch einen solchen Einbezug werden nicht nur die von MEDJEDOVIĆ (in
+diesem Band) thematisierten Bedürfnisse nach einer gewissen Kontrolle der
+Fremdnutzung von Daten (insbesondere im Hinblick auf den Daten- und
+Persönlichkeitsschutz der Befragten) angesprochen, sondern auch etwaige
+Bedenken hinsichtlich wissenschaftlicher Konkurrenz: Die Wiederverwendung von
+Daten gerät dann nicht zum einseitigen Vorteil des sekundär Forschenden,
+sondern zu einem gegenseitigen Geben und Nehmen.</p>
+      <p>Im Hinblick auf die Herkunft der Daten sei zudem noch die Datenqualität
+angesprochen: Für die hier skizzierten Untersuchungen erwies es sich als
+unerlässlich, dass die Wortlauttranskripte der Interviews zur Verfügung standen,
+um die Reichhaltigkeit der Daten auch für andere als die Primärfragestellung
+ausschöpfen zu können, wie im folgenden Abschnitt auch hinsichtlich der
+Spezifität der Daten diskutiert wird.</p>
+      <p>4.2 Geradewegs zum Ziel oder auf verschlungenen Pfaden:</p>
+      <p>
+        Zur Spezifität der Daten
+Bedenken hinsichtlich des Nutzens von Sekundäranalysen betreffen
+insbesondere auch die Frage, inwiefern die im Rahmen einer spezifischen
+Forschungsfragestellung erhobenen Daten überhaupt zu einer anderen Fragestellung
+„passen“ und entsprechende Erkenntnisse liefern können
+        <xref ref-type="bibr" rid="ref21 ref4">(vgl. THORNE 1994,
+HEATON 2004)</xref>
+        . Im Folgenden sollen zwei Aspekte von Spezifität näher
+beleuchtet werden: Der des Forschungskontextes sowie die methodische Frage
+eines induktiven vs. deduktiven Vorgehens bei der Sekundäranalyse.
+      </p>
+      <sec id="sec-5-1">
+        <title>4.2.1 Forschungskontext</title>
+        <p>Die oben beschriebenen Untersuchungen liefern Beispiele für
+Sekundäranalysen sowohl in einem verwandten als auch in einem deutlich anderen
+Forschungskontext als den der Primäruntersuchung. In Stufe 1 (Abschnitt 3.1) war
+gerade die Nähe zum Primärforschungskontext Anlass und Motivation für die
+Durchführung einer Sekundäranalyse6:</p>
+        <p>Und insofern war das ein gutes Anwendungsbeispiel, eben dieses
+Selbstorganisierte [...], das war ein Kontext, der uns interessiert hat, und da haben wir
+eben angefangen, und haben uns gesagt: Mensch, diese Interviews liegen doch
+schon vor, kannst du dir nicht vorstellen, dass wir uns gemeinsam da noch mal
+dransetzen und die auf einer anderen Ebene, aus einem anderen Blickwinkel
+noch mal anschauen [...]. (Interviewzitat)</p>
+        <p>Hier kann von einer fast schon idealen Passung von Primär- und
+Sekundärkontext gesprochen werden, sowohl hinsichtlich der Zielgruppe (Studierende
+6 Die im Folgenden eingerückten Zitate entstammen einem Interview, das die Autorin dieses
+Beitrags (als Interviewpartnerin) im Rahmen einer Machbarkeitsstudie zu
+Sekundäranalysen geführt hat (zur Machbarkeitsstudie vgl. MEDJEDOVIĆ in diesem Band).
+bzw. Lerngemeinschaften) als auch im Hinblick auf die Fragestellung bzw. das
+verwendete Untersuchungsinstrument (Interviewleitfaden zu Charakteristika
+der Lerngemeinschaft), das für die anschließende ergänzende Datenerhebung
+(s. u.) sogar in Teilen und modifiziert wieder verwendet werden konnte.</p>
+        <p>Auch in Stufe 2 (siehe Abschnitt 3.2) waren primärer und sekundärer
+Forschungskontext gleich, wenn sich auch die Fragestellung deutlich veränderte (s.
+u.).</p>
+        <p>Anders stellte sich die Ausgangssituation vor Stufe 3 (siehe Abschnitt 3.3)
+dar. Das neu begonnene Forschungsprojekt hatte mit den vorherigen
+Untersuchungen nur noch die grundlegende Thematik der Techniknutzung in Gruppen
+gemein, Zielgruppe (Freiberufler vs. Studierende) und Nutzungskontext
+(professionelles Projektmanagement und berufliche Vernetzung vs. Lernen bzw.
+Studienorganisation) wichen jedoch deutlich voneinander ab.
+Dementsprechend war eine Sekundärnutzung der vorliegenden Daten ursprünglich gar
+nicht geplant, sondern ergab sich angesichts auffälliger Parallelen zwischen den
+beiden Nutzungskontexten, die im Laufe der Forschungsarbeit deutlich wurden.</p>
+        <p>Also eigentlich erst mal ein ganz anderer Kontext [...]. Und trotzdem [...] sind
+uns nach einer Weile ganz viele Parallelen aufgefallen. So dass wir jetzt im
+Grunde diese alte – in Anführungszeichen – „alte“ Fallstudie mal
+herangezogen haben [...]. Haben uns dann eben auch noch mal das alte
+Interviewmaterial ganz neu vorgenommen und wiederum nach ganz anderen Aspekten
+gesucht, die uns jetzt hier in dieser neuen Forschergruppe aufgefallen sind, dass
+das wichtige Knackpunkte sind für Erfolg, Misserfolg, für die
+Zusammenarbeit, für Konflikte und so weiter und so fort. Und das hätte ich vorher nie
+gedacht, dass uns das da noch mal nützlich sein könnte, weil erst mal die zwei
+Kontexte total unterschiedlich aussahen [...]. (Interviewzitat)</p>
+        <p>In beiden Fällen – Verankerung der Sekundäranalyse in einem verwandten
+als auch Transfer in ein neues Forschungsfeld – erwies sich die
+Sekundäranalyse als sehr fruchtbares und gewinnbringendes Vorgehen. Die Spezifität des
+Kontextes muss demnach kein grundsätzliches Hindernis für die
+Wiederverwendung von Daten sein.</p>
+      </sec>
+      <sec id="sec-5-2">
+        <title>4.2.2 Induktives vs. deduktives Vorgehen</title>
+        <p>
+          Auch unabhängig vom Forschungskontext bestehen offenbar Bedenken,
+inwieweit Daten, die für eine spezifische Fragestellung erhoben wurden,
+überhaupt zur Beantwortung (möglicherweise gänzlich) anderer Fragestellungen
+taugen. Dies wird insbesondere für deduktive Ansätze, bei denen bestehende
+Kategorien- und Begriffssysteme an die Daten herangetragen werden und für
+die daher üblicherweise bereits bei der Datenerhebung stärker strukturierende
+Verfahren genutzt werden, skeptisch gesehen
+          <xref ref-type="bibr" rid="ref21 ref5">(vgl. THORNE 1994, HINDS,
+VOGEL &amp; CLARK-STEFFEN 1997, MEDJEDOVIĆ in diesem Band)</xref>
+          .
+        </p>
+        <p>In den hier beschriebenen Untersuchungen wurden sowohl induktive als
+auch deduktive Auswertungen durchgeführt – anhand desselben
+Datenmaterials, was einen Vergleich der Vorgehensweisen besonders interessant macht.</p>
+        <p>In Stufe 1 wurde ein genuin induktives Verfahren in Anlehnung an den
+Grounded-Theory-Ansatz gewählt, bei dem ausgehend von einer offenen
+Fragestellung – Charakteristika selbst organisierter studentischer
+Lerngemeinschaften zu identifizieren – ein Kategoriensystem aus den Daten heraus
+generiert wurde.</p>
+        <p>Also da war unsere Fragestellung noch gar nicht wirklich klar umrissen,
+sondern es war wirklich eine Neugierde da, zu sagen: Oh, klasse, hier ist viel
+Datenmaterial [...], lass uns doch einfach mal gucken. Und dann ist es eben
+tatsächlich so gewesen, dass wir in der Beschäftigung mit dem Datenmaterial
+unabhängig voneinander, also drei Personen unabhängig voneinander, auf
+bestimmte Phänomene gestoßen sind, die wir aber ursprünglich gar nicht im
+Kopf hatten. [...]. Also das war tatsächlich so ein hypothesengenerierendes
+Verfahren, ganz, wirklich mal in der Reinform, zu sagen: Wir nehmen diese
+Daten und lassen sie auf uns wirken und schauen mal, was sie uns sagen. Und
+daran kristallisierte sich dann eigentlich erst unsere Forschungsfragestellung
+oder unsere Hypothese, Hypothesen heraus [...]. (Interviewzitat)</p>
+        <p>Grundlegende Ergebnisse der Primäruntersuchung wurden bei diesem
+Vorgehen bestätigt, darüber hinaus brachte die Sekundäranalyse jedoch eine ganze
+Reihe zusätzlicher Aspekte zum Vorschein, die nicht im Fokus der
+Primäranalyse gelegen hatten bzw. durch deren stärker vorstrukturierendes Raster
+gefallen waren. Diese bildeten die Basis für ergänzende Datenerhebungen (siehe
+Abschnitt 4.3) bzw. weitere, stärker deduktive Auswertungen (s. u.).</p>
+        <p>Auf den ersten Blick begünstigen Sekundäranalysen induktive Verfahren, da
+zu vermuten ist, dass Forscher mit einer offenen Fragestellung auch offener an
+das „fremde“ Material herantreten und somit eher gänzlich neue Aspekte
+identifizieren und die Reichhaltigkeit des Materials ausnutzen können als mit einem
+von vorneherein eingeschränkten Blickwinkel. Allerdings zeigen die Beispiele
+insbesondere aus Stufe 2 (in der klar theoriegeleitet nach entsprechenden
+empirischen Belegen gesucht wurde) und auch aus Stufe 3 (in der innerhalb eines
+strukturierenden Rahmens weitgehend offen codiert wurde), dass auch
+deduktive Vorgehensweisen bei der Sekundäranalyse Erfolg haben können. Die
+Abkoppelung von Datenerhebung und -auswertung wurde dabei weniger als
+Begrenzung, sondern vielmehr als Disziplinierung empfunden, die verhindern
+kann, dass die Datenerhebung von den Vorerwartungen der Forschenden zu
+stark beeinflusst wird:</p>
+        <p>Und für diese Art von Arbeit fand ich das sehr fruchtbar, [...] weil man dann
+tatsächlich gezwungen ist, sich das Datenmaterial so anzusehen, wie es denn
+nun da liegt, und nicht schon mit den eigenen Hypothesen die Fragen so
+gestellt hat, dass es letztlich in eine bestimmte Richtung geht. Das fand ich sehr
+spannend [...]. Drei Leute, die zwar den theoretischen Hintergrund im Kopf
+hatten, die wussten, wonach sie suchen, in dem Text, aber die eben nicht den
+Text vorher beeinflussen konnten oder die Entstehung des Textes beeinflussen
+konnten. Und auf die Art und Weise, würde ich fast sogar sagen, hatte das
+letztlich eine höhere Validität, als wenn wir die Interviews selbst geführt
+hätten. (Interviewzitat)</p>
+        <p>Wiederum lautet das Fazit: Die mögliche Spezifität der Daten bzw. der
+Primärfragestellung muss nicht grundsätzlich ein Hindernis für eine
+sekundäranalytische Auswertung sein, auch nicht bei einem stärker deduktiven Vorgehen.
+Im Gegenteil können Sekundäranalysen sogar methodische Vorteile im
+Hinblick auf den Einfluss des Versuchsleiters/Interviewers auf die Daten bieten.
+Dennoch ist selbstverständlich eine gewisse grundsätzliche inhaltliche
+Verbindung zwischen Primär- und Sekundärfragestellung (wie bei Stufe 3
+beschrieben) in den allermeisten Fällen wohl eine notwendige Voraussetzung für eine
+Erfolg versprechende Sekundäranalyse.</p>
+        <p>4.3 Links und rechts des Weges: Triangulation mit primärer</p>
+        <p>Datenerhebung
+Sekundär- und Primäranalysen schließen sich als Forschungsstrategien nicht
+aus und stehen auch nicht grundsätzlich in einem Konkurrenzverhältnis, wie
+die hier beschriebenen Beispiele zeigen: Sowohl in Stufe 1 als auch in Stufe 3
+wurden ergänzend eigene Datenerhebungen durchgeführt und in die Analyse
+der Sekundärdaten mit einbezogen. Dabei können zusätzliche Datenerhebungen
+sowohl im Vorfeld als auch im Anschluss an die Sekundäranalyse durchgeführt
+werden.</p>
+        <p>In Stufe 1 ergab sich die Sinnhaftigkeit einer weiteren Datenerhebung direkt
+aus den Ergebnissen der Sekundäranalyse, und auch die Auswahl der
+Interviewpartner wurde – im Sinne eines theoretischen Samplings – anhand der
+Ergebnisse vorgenommen:</p>
+        <p>Das war eben eine Idee, die sich erst in der Auswertung ergeben hatte. Wir
+hatten zunächst nicht vor, unbedingt noch mal selbst Interviews zu führen, das
+war am Anfang noch offen, wir wussten auch noch nicht, mit wem, wenn wir
+denn welche führen sollten. Aber aufgrund der Aussagen, die in den ersten
+Interviews drinsteckten, hatten wir eben vermutet, dass da so ein sozialer
+Sprengstoff bestand zwischen diesen Aktiven und den weniger aktiven
+Leuten, also das war zum Beispiel ein Aspekt, der in der ursprünglichen Analyse
+überhaupt nicht drinsteckte, und aufgrund dieser Hypothese haben wir dann
+eben ganz gezielt [Interviewpartner] ausgesucht. (Interviewzitat)</p>
+        <p>In Stufe 3 wiederum waren eigene Datenerhebungen unabhängig von der
+späteren Sekundäranalyse durchgeführt worden, welche durch augenfällige
+Parallelen zwischen den Primär- und Sekundärdaten erst begründet und initiiert
+wurde, woraufhin die Daten einer gemeinsamen Analyse unterzogen wurden.</p>
+        <p>In beiden Fällen erwies sich die zusätzliche Datenerhebung als sehr nützlich
+im Hinblick auf den Geltungsbereich sowie die inhaltliche Schärfe und Tiefe
+der Sekundäranalysen. Sie kann daher als Strategie dienen, mögliche
+Einschränkungen und Lücken der sekundär ausgewerteten Daten zu kompensieren
+bzw. die Ergebnisse zu erhärten.</p>
+        <p>Was ich jetzt in unserer derzeitigen Sekundärnutzung spannend finde, ist, dass
+es durch diese Unterschiedlichkeit der Fallstudien hilft, letztlich Typologien
+neu auszubilden. [...] Auf diese Ähnlichkeiten wären wir so nicht gekommen,
+wenn wir uns nicht diese zwei Kontexte angeschaut hätten und wenn wir nicht
+diese Daten vorher gekannt hätten. Also es war sehr viel zufallsbehaftet dabei,
+aber dennoch sind wir da zu einer ganz neuen, ja, Merkmalskategorisierung
+gekommen [...], wenn man mal davon abstrahiert, dann bleiben die und die
+grundsätzlichen Merkmale übrig, und gerade weil die so unterschiedlich sind,
+die Kontexte, kann ich dann auch von einer gewissen Verallgemeinerbarkeit
+ausgehen [...]. Wenn das in so unterschiedlichen Kontexten unter den und den
+Bedingungen auftritt, dann traue ich mich, zu sagen: Unter den und den
+Bedingungen ist generell das und das wahrscheinlich. Und das ist letztlich auch
+wieder eine gute Ausgangsposition, um zu sagen: Ich nehme mir noch mal
+eine ganz andere Fallstudie aus einem ganz anderen Bereich, und gucke dann,
+ob es da wiederum zutrifft oder inwiefern ich das noch verfeinern kann.
+(Interviewzitat)</p>
+        <p>In den hier beschriebenen Beispielen wurden ergänzend Daten desselben
+Typs (qualitative Interviewdaten) erhoben. Darüber hinaus wären Erfahrungen
+mit einer Triangulation unterschiedlichster (qualitativer und quantitativer)
+Daten interessant.</p>
+        <sec id="sec-5-2-1">
+          <title>4.4 Grundsätzliches</title>
+          <p>Angesichts des langen Wegs, den die Ursprungsdaten in den hier
+beschriebenen Untersuchungen über mehrere Jahre und verschiedene Forschungsprojekte
+hinweg genommen haben, mag man sich fragen, wie es mit der Aktualität der
+Ursprungsdaten bestellt ist und ob Sekundäranalysen nicht die Gefahr in sich
+bergen, einmal vorhandenes Datenmaterial immer und wieder „auszupressen“,
+anstatt neue, spezifische Daten zu erheben. Dass Letzteres in den hier
+geschilderten Untersuchungen nicht der Fall war, ist hoffentlich aus den
+Schilderungen hervorgegangen und wird auch dadurch entkräftet, dass durchaus eigene
+Daten zusätzlich erhoben und auch die Auswertungen in den verschiedenen
+Stufen jeweils neu konzipiert und mit entsprechendem Aufwand umgesetzt
+wurden. Auch ganz generell scheint unter Forschern bislang im Gegenteil die
+Skepsis gegenüber Sekundäranalysen bzw. die Favorisierung eigener
+Datenerhebung zu überwiegen (vgl. MEDJEDOVIĆ in diesem Band).</p>
+          <p>Die Aktualität der Daten sollte freilich im Rahmen jeder Sekundäranalyse
+thematisiert werden, wobei eine allgemeingültige Richtlinie oder die Angabe
+eines „Verfallsdatums“ sicherlich nicht möglich ist. Im vorliegenden
+Fallbeispiel, das die Nutzung von Informationstechnologie thematisiert, ist aufgrund
+der Schnelligkeit der technologischen Entwicklung und den damit
+einhergehenden Veränderungen im Nutzungsverhalten eher von einer kürzeren
+„Lebensdauer“ der Primärdaten auszugehen: Die in Stufe 3 durchgeführten
+Analysen fanden ca. 3½-4 Jahre nach der Ersterhebung statt und sind damit eher am
+Rande des Vertretbaren anzusiedeln – weitere Analysen desselben
+Datenmaterials wären vermutlich nicht mehr sinnvoll. Hegen die sekundär Forschenden
+Zweifel hinsichtlich der Aktualität des Datenmaterials, scheinen in jedem Fall
+ergänzende Datenerhebungen angebracht, um zu prüfen, inwiefern sich die
+ursprünglichen Ergebnisse bestätigen lassen – in diesem Fall können
+Sekundäranalysen zusätzlich wertvolle Ergebnisse hinsichtlich der Stabilität
+bestimmter Merkmale und Phänomene liefern.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-6">
+      <title>5. Fazit</title>
+      <p>In diesem Beitrag wurden Erfahrungen mit der Sekundäranalyse qualitativer
+Interviewdaten aus drei verschiedenen, aufeinander aufbauenden
+Untersuchungen virtueller Gemeinschaften und Netzwerke geschildert: An eine zu Beginn
+durchgeführte induktive Sekundäranalyse von offenen Interviews mit
+Mitgliedern einer virtuellen Studierendengemeinschaft, die im Rahmen einer
+Abschlussarbeit zu einer verwandten Fragestellung durchgeführt worden waren,
+schloss sich die eigene Datenerhebung in Form einer weiteren Interviewserie.
+In der zweiten Stufe wurden alle Interviewdaten (aus der ersten und zweiten
+Interviewserie) unter Beteiligung einer externen Forschergruppe und mit
+Hinblick auf eine differenzierte Fragestellung, die sich innerhalb des ersten
+Auswertungszyklus herausgeschält hatte, deduktiv-theoriegeleitet ausgewertet. In
+der dritten Stufe wurden diese Daten schließlich in einem neuen
+Forschungskontext, in dem nicht mehr Lerngemeinschaften, sondern virtuelle
+Unternehmen im Blickpunkt standen, wiederum unter Einbezug weiterer spezifisch
+erhobener Daten einem gemischt deduktiv-induktiven Auswertungsverfahren
+unterzogen.</p>
+      <p>
+        Die vergleichende Betrachtung dieser Untersuchungen zeigt, dass der oft
+befürchtete Kontextverlust bei der Sekundäranalyse qualitativer Daten
+        <xref ref-type="bibr" rid="ref11">(vgl.
+MAUTHNER, PARRY &amp; BACKETT-MILBURN 1998, VAN DEN BERG in
+diesem Band, MEDJEDOVIĆ in diesem Band)</xref>
+        nicht zwangsläufig zu einer
+verminderten Datenqualität und Aussagekraft führen muss. Auch können
+entgegen bisheriger Schilderungen in der Literatur
+        <xref ref-type="bibr" rid="ref5">(vgl. HINDS, VOGEL &amp;
+CLARK-STEFFEN 1997)</xref>
+        deduktive Auswertungsmethoden durchaus
+erfolgreich angewendet werden. Jedoch bestand in allen Untersuchungen eine
+thematische Grundüberschneidung zwischen Primär- und Sekundärkontext –
+Techniknutzung in virtualisierten Gemeinschaften – die womöglich als
+Voraussetzung für den Einsatz deduktiver Verfahren angesehen werden muss,
+wenngleich auch hier deutliche Unterschiede hinsichtlich der jeweiligen
+Fragestellungen bestanden.
+      </p>
+      <p>Sowohl für deduktive als auch für induktive Verfahren schätzten die
+beteiligten Forscher die zwangsweise Trennung von Datenerhebung und
+-auswertung bei der Sekundäranalyse als positiv hinsichtlich der Validität der
+Ergebnisse ein, da die auswertenden Forscher keine Möglichkeit haben, die
+Entstehung der Daten zu beeinflussen, weder durch eine (theoriekonforme)
+Strukturierung der Datenerhebung noch durch implizite Versuchsleitereffekte.
+(In diesem Zusammenhang wäre interessant zu untersuchen, inwiefern
+Forscher zu „fremdem“ Datenmaterial eine größere Distanz aufbauen als zu ihrem
+eigenen und wie sich dies auf die Auswertung auswirkt). Sekundäranalysen
+könnten damit gerade auch in Verbindung mit eigenen Datenerhebungen – was
+sich auch in den hier dargestellten Untersuchungen als sinnvolle
+Forschungsstrategie erwies – zur Validierung von Ergebnissen qualitativer Forschung
+beitragen.</p>
+      <p>Somit sei abschließend nochmals darauf hingewiesen, dass
+Sekundäranalysen keinesfalls als Ersatz primärer Datenerhebungen zu sehen sind oder in
+Konkurrenz zu diesen stehen. Wie die hier geschilderten Untersuchungen
+zeigen, können sie jedoch durchaus einen wichtigen Beitrag zu einer
+Gesamtstrategie qualitativer Forschung leisten. Weitere sekundäranalytische
+Untersuchungen sind notwendig, um zu zeigen, wie genau dieser Beitrag aussehen
+kann und unter welchen Rahmenbedingungen Sekundäranalysen insbesondere
+geeignet sind.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Corti</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Witzel</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Bishop</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          (
+          <year>2005</year>
+          ).
+          <article-title>Potenziale and Probleme der Sekundäranalyse. Eine Einführung in die FQS-Schwerpunktausgabe über die Sekundäranalyse qualitativer Daten / On the Potentials and Problems of Secondary Analysis. An Introduction to the FQS Special Issue on Secondary Analysis of Qualitative Data (deutsch/englisch)</article-title>
+          .
+          <source>Forum Qualitative Sozialforschung / Forum: Qualitative Social Research</source>
+          ,
+          <volume>6</volume>
+          (
+          <issue>1</issue>
+          ), Art.
+          <volume>49</volume>
+          , &lt;http://nbn-resolving.de/ urn:nbn:de:
+          <fpage>0114</fpage>
+          -
+          <lpage>fqs0501495</lpage>
+          &gt;.
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Flick</surname>
+            ,
+            <given-names>U.</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          ).
+          <article-title>Qualitative Forschung, 3</article-title>
+          . Auflage. Reinbek: Rowohlt.
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Glaser</surname>
+            ,
+            <given-names>B. G.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Strauss</surname>
+            ,
+            <given-names>A. L.</given-names>
+          </string-name>
+          (
+          <year>1967</year>
+          ).
+          <article-title>The discovery of grounded theory</article-title>
+          . Hawthorne, NY: Aldine.
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Heaton</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ).
+          <article-title>Reworking Qualitative Data</article-title>
+          . London: Sage.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Hinds</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Vogel</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Clark-Steffen</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          (
+          <year>1997</year>
+          ).
+          <article-title>The possibilities and pitfalls of doing a secondary analysis of a qualitative data set</article-title>
+          .
+          <source>Qualitative Health Research</source>
+          ,
+          <volume>7</volume>
+          ,
+          <fpage>408</fpage>
+          -
+          <lpage>424</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Janneck</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Finck</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2006a</year>
+          ).
+          <article-title>Appropriation and Mediation of Technology Use in Stable Self-Organised Online Communities</article-title>
+          . In P. Kommers,
+          <string-name>
+            <given-names>P.</given-names>
+            <surname>Isaias</surname>
+          </string-name>
+          &amp; A.
+          <string-name>
+            <surname>Goikoetxea</surname>
+          </string-name>
+          (Eds.),
+          <source>Web Based Communities 2006: Proceedings of the IADIS International Conference Web Based Communities</source>
+          <year>2006</year>
+          (pp.
+          <fpage>149</fpage>
+          -
+          <lpage>156</lpage>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Janneck</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Finck</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2006b</year>
+          ).
+          <article-title>Making The Community a Hospitable Place - Identity, Strong Bounds, and Self-Organization in Web-Based Communities</article-title>
+          .
+          <source>International Journal of Web Based Communities</source>
+          ,
+          <volume>2</volume>
+          (
+          <issue>4</issue>
+          ),
+          <fpage>458</fpage>
+          -
+          <lpage>473</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Janneck</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Finck</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Obendorf</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          ).
+          <article-title>Participatory Design: An Issue for Web-Based Community Development?</article-title>
+          ! In P. Kommers,
+          <string-name>
+            <given-names>P.</given-names>
+            <surname>Isaias</surname>
+          </string-name>
+          &amp; A.
+          <string-name>
+            <surname>Goikoetxea</surname>
+          </string-name>
+          (Eds.),
+          <source>Web Based Communities 2006: Proceedings of the IADIS International Conference Web Based Communities</source>
+          <year>2006</year>
+          (pp.
+          <fpage>274</fpage>
+          -
+          <lpage>277</lpage>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Janneck</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Finck</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Oberquelle</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          (
+          <year>2005</year>
+          ).
+          <article-title>Soziale Identität als Motor der Technologieaneignung in virtuellen Gemeinschaften. i-com 2/2005</article-title>
+          , Themenheft Communities,
+          <fpage>22</fpage>
+          -
+          <lpage>28</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Lave</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Wenger</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          (
+          <year>1991</year>
+          ).
+          <article-title>Situated learning - Legitimate peripheral participation</article-title>
+          . Cambridge, MA: University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Mauthner</surname>
+            ,
+            <given-names>N. S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Parry</surname>
+            ,
+            <given-names>O.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Backett-Milburn</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          ).
+          <article-title>The data are out there, or are they? Implications for archiving and revisiting qualitative data</article-title>
+          .
+          <source>Sociology</source>
+          ,
+          <volume>32</volume>
+          (
+          <issue>4</issue>
+          ),
+          <fpage>733</fpage>
+          -
+          <lpage>745</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Mayring</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>Qualitative Inhaltsanalyse: Grundlagen und Techniken, 8</article-title>
+          . Auflage. Weinheim: Beltz.
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Nonnecke</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Preece</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          ).
+          <article-title>Lurker demographics: Counting the silent</article-title>
+          .
+          <source>In Proceedings of the SIGCHI conference on Human factors in computing systems</source>
+          , The Hague, The Netherlands, New York: ACM Press (pp.
+          <fpage>73</fpage>
+          -
+          <lpage>80</lpage>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Pandit</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          ).
+          <article-title>The Creation of Theory: A Recent Application of the Grounded Theory Method</article-title>
+          .
+          <source>The Qualitative Report</source>
+          , vol.
+          <volume>2</volume>
+          , no. 4.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Pape</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Reinecke</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Rohde</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Strauss</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>E-Community-Building in WiInf-Central</article-title>
+          . In M. Pendergast,
+          <string-name>
+            <given-names>K.</given-names>
+            <surname>Schmidt</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>C.</given-names>
+            <surname>Simone</surname>
+          </string-name>
+          &amp; M. Tremaine (eds.): Group '
+          <fpage>03</fpage>
+          - Proceedings of the 2003
+          <source>International ACM SIGGROUP Conference on Supporting Group Work</source>
+          . New York: ACM Press (pp.
+          <fpage>11</fpage>
+          -
+          <lpage>20</lpage>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Pape</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Strauss</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Raudzus</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Richardt</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ).
+          <article-title>Merkmale hybrider Lernund Studiengemeinschaften - eine exemplarische Untersuchung des WiInfCentral</article-title>
+          . In M. Herczeg,
+          <string-name>
+            <given-names>W.</given-names>
+            <surname>Prinz</surname>
+          </string-name>
+          &amp; H.
+          <string-name>
+            <surname>Oberquelle</surname>
+          </string-name>
+          (Hrsg.):
+          <source>Mensch und Computer</source>
+          <year>2002</year>
+          , Stuttgart: Teubner (S.
+          <fpage>105</fpage>
+          -
+          <lpage>114</lpage>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Preece</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          ). Online Communities. Designing Usability,
+          <string-name>
+            <given-names>Supporting</given-names>
+            <surname>Sociability</surname>
+          </string-name>
+          . Chichester: John Wiley &amp; Sons.
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Raudzus</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ).
+          <article-title>Anwendung des Community-Systems zur lehrveranstaltungsunabhängigen Unterstützung von Studierenden am Fachbereich Informatik der Universität Hamburg</article-title>
+          . Universität Hamburg, Fachbereich Informatik, Studienarbeit.
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Rohde</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Reinecke</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Pape</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Janneck</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ).
+          <article-title>Community-Building with Web-Based Systems - Investigating a Hybrid Community of Students</article-title>
+          . Computer Supported Cooperative Work,
+          <volume>13</volume>
+          ,
+          <fpage>471</fpage>
+          -
+          <lpage>499</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>Tajfel</surname>
+          </string-name>
+          , H. (Ed.) (
+          <year>1978</year>
+          ).
+          <article-title>Differentiation between Social Groups: studies in the social psychology of intergroup relations</article-title>
+          . London: Academic Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <surname>Thorne</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>1994</year>
+          ).
+          <article-title>Secondary Analysis in Qualitative Research: Issues and Implications</article-title>
+          . In J. M.
+          <string-name>
+            <surname>Morse</surname>
+          </string-name>
+          (Hrsg.),
+          <source>Critical Issues in Qualitative Research Methods (S.263-279)</source>
+          . London: Sage.
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <surname>Wenger</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          ).
+          <source>Communities of Practice. Learning</source>
+          , Meaning, and Identity. Cambridge, MA: Cambridge University Press.
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

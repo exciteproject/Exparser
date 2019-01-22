@@ -1,0 +1,2122 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>Förderung Existenz sichernder Beschäftigung im Niedriglohnbereich : Schätzung von Angebots-, Verteilungs- und fiskalischen Effekten des SMWA- Vorschlags</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Veröffentlichungsversion / Published Version</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>SSG Sozialwissenschaften</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>USB Köln</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Blos</institution>
+          ,
+          <addr-line>Kerstin ; Feil, Michael ; Rudolph, Helmut ; Walwei, Ulrich ; Wiemers</addr-line>
+          ,
+          <institution>Jürgen ; Institut für Arbeitsmarktund</institution>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Blos</institution>
+          ,
+          <addr-line>Kerstin; Feil, Michael; Rudolph, Helmut; Walwei, Ulrich; Wiemers</addr-line>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2004</year>
+      </pub-date>
+      <fpage>37</fpage>
+      <lpage>78</lpage>
+      <abstract>
+        <p>Forschungsbericht / research report Zur Verfügung gestellt in Kooperation mit / provided in cooperation with: Berufsforschung der Bundesagentur für Arbeit (IAB) (Ed.): Förderung Existenz sichernder Beschäftigung im Niedriglohnbereich : Schätzung von Angebots-, Verteilungs- und fiskalischen Effekten des SMWA-Vorschlags. Nürnberg, 2007 (IAB Forschungsbericht : Ergebnisse aus der Projektarbeit des Instituts für Arbeitsmarkt- und Berufsforschung 07/2007).. http://nbn-resolving.de/urn:nbn:de:0168-ssoar-319249</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/3/31924.images/img_1_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/3/31924.images/img_1_2.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/3/31924.images/img_1_3.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/3/31924.images/img_1_4.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>Vorschlags
+Jürgen</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Nutzungsbedingungen:</title>
+      <p>Dieser Text wird unter einer Deposit-Lizenz (Keine
+Weiterverbreitung - keine Bearbeitung) zur Verfügung gestellt.
+Gewährt wird ein nicht exklusives, nicht übertragbares,
+persönliches und beschränktes Recht auf Nutzung dieses
+Dokuments. Dieses Dokument ist ausschließlich für
+den persönlichen, nicht-kommerziellen Gebrauch bestimmt.
+Auf sämtlichen Kopien dieses Dokuments müssen alle
+Urheberrechtshinweise und sonstigen Hinweise auf gesetzlichen
+Schutz beibehalten werden. Sie dürfen dieses Dokument
+nicht in irgendeiner Weise abändern, noch dürfen Sie
+dieses Dokument für öffentliche oder kommerzielle Zwecke
+vervielfältigen, öffentlich ausstellen, aufführen, vertreiben oder
+anderweitig nutzen.</p>
+      <p>Mit der Verwendung dieses Dokuments erkennen Sie die
+Nutzungsbedingungen an.</p>
+    </sec>
+    <sec id="sec-3">
+      <title>Terms of use:</title>
+      <p>This document is made available under Deposit Licence (No
+Redistribution - no modifications). We grant a non-exclusive,
+nontransferable, individual and limited right to using this document.</p>
+      <p>This document is solely intended for your personal,
+noncommercial use. All of the copies of this documents must retain
+all copyright information and other information regarding legal
+protection. You are not allowed to alter this document in any
+way, to copy it for public or commercial purposes, to exhibit the
+document in public, to perform, distribute or otherwise use the
+document in public.</p>
+      <p>By using this particular document, you accept the above-stated
+conditions of use.</p>
+      <p>Ergebnisse aus der Projektarbeit des Instituts für Arbeitsmarkt- und Berufsforschung
+Nr. 7/2007</p>
+      <p>Förderung Existenz sichernder
+Beschäftigung im Niedriglohnbereich
+Schätzung von Angebots-, Verteilungs- und
+ifskalischen Effekten des SMWA-Vorschlags
+Kerstin Blos, Michael Feil, Helmut Rudolph,</p>
+      <p>Ulrich Walwei, Jürgen Wiemers</p>
+      <sec id="sec-3-1">
+        <title>Förderung Existenz sichernder</title>
+      </sec>
+      <sec id="sec-3-2">
+        <title>Beschäftigung im</title>
+      </sec>
+      <sec id="sec-3-3">
+        <title>Niedriglohnbereich</title>
+        <p>Schätzung von Angebots-, Verteilungs- und
+fiskalischen Effekten des SMWA-Vorschlags</p>
+        <sec id="sec-3-3-1">
+          <title>Kerstin Blos, Michael Feil, Helmut Rudolph,</title>
+        </sec>
+        <sec id="sec-3-3-2">
+          <title>Ulrich Walwei, Jürgen Wiemers</title>
+          <p>Mit der Publikation von Forschungsberichten will das IAB der Fachöffentlichkeit Einblick in
+seine laufenden Arbeiten geben. Die Berichte sollen aber auch den Forscherinnen und Forschern
+einen unkomplizierten und raschen Zugang zum Markt verschaffen. Vor allem längere Zwischen- aber
+auch Endberichte aus der empirischen Projektarbeit bilden die Basis der Reihe, die den bisherigen
+„IAB-Werkstattbericht“ ablöst.
+Inhaltsverzeichnis
+Tabellenverzeichnis ......................................................................... 4
+Abbildungverzeichnis ....................................................................... 5
+Kurzfassung ................................................................................... 6
+1</p>
+          <p>Hintergrund ..............................................................................10
+4
+5</p>
+          <p>Zusammenfassung und Schlussfolgerungen ..................................56
+6 Anhang ....................................................................................63
+6.1 Modellparameter .............................................................................. 63
+6.2 Typische Haushalte und deren Bedarf .................................................. 64
+6.3 SV-Beiträge für Mini- und Midi-Jobs ..................................................... 65
+6.4 Schätzergebnisse für die Lohngleichungen............................................ 66
+6.5 Schätzergebnisse des Arbeitsangebotsmodells für die Haushaltstypen ...... 67
+6.6 Arbeitsangebotseffekte der Reformelemente – Szenario 1....................... 70
+Tabellenverzeichnis
+Tabelle 1: Haushalte mit Bezug von laufender Hilfe zum Lebensunterhalt ............................19
+Tabelle 2: Vergleich zwischen Simulationsmodellen und amtlichen Quellen .........................23
+Tabelle 3: Tatsächliche und simulierte SGB II-Ansprüche (Mittelwert in € je Monat) .............26
+Tabelle 4: Erwerbstätige in SGB II – Bedarfsgemeinschaften (in Tsd.)..................................26
+Tabelle 5: Bedarfsgemeinschaften mit Erwerbseinkommen (absolut, Zeilenprozent) ............34
+Tabelle 6: Fiskalische Effekte – Haushalte in Szenario 1 (Veränderung gegenüber Status
+Quo absolut in Tsd.) ...............................................................................................................37
+Tabelle 7: Fiskalische Effekte – Volumina in Szenario 1 (Veränderung von Jahressummen
+gegenüber Status Quo in Mio. €) ...........................................................................................37
+Tabelle 8: Fiskalische Effekte – Haushalte in Szenario 2 (Veränderung gegenüber Status
+Quo in Tsd.)............................................................................................................................38
+Tabelle 9: Fiskalische Effekte – Volumina in Szenario 2 (Veränderung von Jahressummen
+gegenüber Status Quo in Mio. €) ...........................................................................................38
+Tabelle 10: Verteilungseffekte für die Gesamtbevölkerung (Haushalte, Quintilsmittelwert
+in € je Monat, Äquivalenzeinkommen nach alter OECD-Skala) .............................................44
+Tabelle 11: Verteilungseffekte für die Gruppe der Transferempfänger (Haushalte,
+Quintilsmittelwert in € je Monat, Äquivalenzeinkommen nach alter OECD-Skala).................44
+Tabelle 12: Stichprobenzusammensetzung ...........................................................................46
+Tabelle 13: Verteilung der wöchentlichen Arbeitszeiten Gruppe 1 (Spaltenprozent) .............47
+Tabelle 14: Angebotselastizitäten bei vollkommen flexiblen Paarhaushalten ........................49
+Tabelle 15: Angebotselastizitäten bei Singlehaushalten ........................................................50
+Tabelle 16: Angebotselastizitäten bei teilweise flexiblen Paarhaushalten .............................50
+Tabelle 17: Arbeitsangebotseffekte – Szenario 1...................................................................51
+Tabelle 18: Arbeitsangebotseffekte – Szenario 2...................................................................55
+Tabelle 19: Modellparameter..................................................................................................63
+Tabelle 20: Typische Haushalte und Bedarf (€ je Monat) ......................................................64
+Tabelle 21: Schätzung der SV-Einnahmen aus Mini- und Midi-Jobs .....................................65
+Tabelle 22: Lohngleichungen, Heckman Selektionskorrektur, ML .........................................66
+Tabelle 23: Conditional Logit Schätzung für die Gruppe Alleinstehende Frauen...................67
+Tabelle 24: Conditional Logit Schätzung für die Gruppe Alleinstehende Männer ..................67
+Tabelle 25: Conditional Logit Schätzung für die Gruppe Teilflexible Paare ...........................68
+Tabelle 26: Conditional Logit Schätzung für die Gruppe Flexible Paare................................69
+Tabelle 27: Arbeitsangebotseffekte der Abschaffung von Mini- und Midi-Jobs......................70
+Tabelle 28: Abschaffung von Mini- und Midi-Jobs und veränderte Hinzuverdienstregelung..71
+Tabelle 29: Abschaffung von Mini- und Midi-Jobs, Hinzuverdienstregelung und Einführung
+des SV-Zuschusses ...............................................................................................................71
+Abbildungsverzeichnis
+Abbildung 1: Verteilung der Bruttoeinkommen abhängiger Vollzeitbeschäftigter...................21
+Abbildung 2: Verteilung der Anspruchshöhe SGB II ..............................................................25
+Abbildung 3: Netto- und Bruttoeinkommen für Alleinstehende...............................................28
+Abbildung 4: Bruttoeinkommen von Alleinstehenden mit SGB II-Anspruch ...........................30
+Abbildung 5: Netto- und Bruttoeinkommen für Alleinerziehende mit einem Kind...................31
+Abbildung 6: Nettoeinkommen für Paar ohne Kind ................................................................32
+Abbildung 7: Nettoeinkommen für Paar mit einem Kind.........................................................33
+Abbildung 8: Anteil der Bedarfsgemeinschaften nach Bruttoeinkommen ..............................35
+Abbildung 9: SV-Beiträge aus Mini- und Midi-Jobs ................................................................43
+Kurzfassung
+1. Im Dezember 2006 beauftragte das Bundesministerium für Arbeit und
+Soziales (BMAS) das Institut für Arbeitsmarkt- und Berufsforschung (IAB),
+durch Modellrechnungen Konzepte zur Neuordnung des
+Niedriglohnbereichs zu untersuchen. Ausgangspunkt für die Analysen ist das
+Gutachten „Vorrang für das reguläre Arbeitsverhältnis: Ein Konzept für Existenz
+sichernde Beschäftigung im Niedriglohnbereich“ von Peter Bofinger, Martin
+Dietz, Sascha Genders und Ulrich Walwei für das Sächsische Ministerium
+für Wirtschaft und Arbeit (SMWA).
+2. Der Vorschlag der Autorengruppe besteht aus drei Kernelementen: (1)
+Einer Senkung der Sozialversicherungsbeiträge für bedürftige
+Geringverdiener; (2) der Beseitigung der bevorzugten abgaben- und
+steuerrechtlichen Behandlung von Mini- und Midi-Jobs sowie (3) eingeschränkte
+Hinzuverdienstmöglichkeiten für Empfänger des ALG II.
+3. Die Simulationsrechnungen beruhen auf der Abbildung der gesetzlichen
+Regeln zu Transfers und Abgaben von 2007 für Haushalte des
+Sozioökonomischen Panels (SOEP) und der Einkommens- und
+Verbrauchsstichprobe 2003. Ermittelt wurden insbesondere die fiskalischen Kosten in der
+kurzen Frist (Einführungskosten) und Effekte auf das Arbeitsangebot.
+4. Die Ex-ante-Analysen zeigen zunächst, dass – wie von den Autoren
+erwartet – das Arbeitsangebot für Teilzeitbeschäftigung mit geringer
+Wochenstundenzahl abnimmt und sich in Richtung Vollzeitbeschäftigung
+bewegt. Der Angebotseffekt in Stunden ist zwar insgesamt positiv, hält sich
+aber – gemessen in Vollzeitäquivalenten – mit ca. 55.000 in Grenzen. Eine
+gesamtwirtschaftliche Zunahme des Arbeitsangebotes in Personen
+(Partizipationseffekt) ist nicht zu erwarten.
+5. Die Umsetzung des Vorschlags würde kurzfristig vermutlich nicht zu
+Mehrkosten für die öffentliche Hand führen. Zwar entstehen
+Mehrausgaben für den Sozialversicherungszuschuss und das erhöhte Kindergeld
+sowie das Wohngeld. Dem stehen aber Minderausgaben aufgrund
+eingeschränkter Hinzuverdienstmöglichkeiten, der Abschaffung des befristeten
+Zuschlags beim Übergang von ALG I in ALG II und dem befristeten
+Kinderzuschlag im SGB II gegenüber. Würden Mini- und Midi-Jobs voll
+steuerund abgabenpflichtig, könnte die Umsetzung des Vorschlags sogar
+Einsparungen für die öffentlichen Haushalte hervorrufen.
+6. Die Untersuchung der quantitativen Auswirkungen des Vorschlags auf
+das verfügbare Einkommen verschiedener Haushaltstypen illustriert, dass
+die so genannten Aufstocker im ALG II – ohne Verhaltensänderungen –
+lediglich mit einem vollen Zuschuss den Bezug der Grundsicherung
+beenden können. Ausgehend vom Status Quo schätzt das IAB, dass dies einem
+Fünftel der knapp eine Million Personen mit aufstockendem ALG II
+gelingen könnte. Dieses Ergebnis deckt sich weitgehend mit theoretischen
+Überlegungen, wonach es sich für viele ALG II-Bezieher kaum rechnet,
+eine Vollzeitbeschäftigung anzustreben. Detaillierte Analysen nach
+Haushaltstypen legen darüber hinaus nahe, einzelne Parameter des Vorschlags
+(z. B. hinsichtlich der Fördergrenzen oder auch der Förderhöhe) zu
+überdenken. So werden bei Alleinerziehenden aufgrund von
+Mehrbedarfszuschlägen im SGB II die finanziellen Anreize nur bedingt gestärkt.
+7. Bestimmte Elemente des Vorschlags verursachen Mitnahmeeffekte, da
+sie zu keinen Verhaltensänderungen führen. So können beispielsweise
+allein stehende Vollzeitbeschäftigte mit bereits langer Wochenarbeitszeit vor
+der Förderung ihr Arbeitsangebot durch die Zuschüsse gar nicht weiter
+ausdehnen. Liegt ihr monatlicher Bruttolohn im Förderbereich, erhalten sie
+auch ohne jede Ausweitung ihres Angebots einen Zuschuss. Ähnliches gilt
+für Familien mit mehreren Kindern, die bislang nicht bedürftig waren und
+aufgrund der neu eingeführten Zuschläge zusätzliche staatliche Leistungen
+erhalten. Das Arbeitsangebot könnte in diesen Fällen aufgrund von
+Mitnahmeeffekten längerfristig sogar zurückgehen.
+8. Die Kehrseite der Mitnahmeeffekte ist die Verbesserung der
+Einkommenssituation von erwerbstätigen Haushalten im Niedriglohnbereich. Der
+Sozialversicherungszuschuss und das erhöhte Kindergeld kompensieren
+zum Teil die Verminderung des verfügbaren Einkommens im Zuge der
+stärkeren Anrechnung eigenen Erwerbseinkommens im SGB II. Die
+Verteilungseffekte des Reformvorschlags sind bezogen auf die gesamte
+personelle Einkommensverteilung sehr gering. Innerhalb der Gruppe der „alten“
+und „neuen“ Transferempfänger gewinnen die Haushalte mit hohen
+Erwerbseinkommen, während Haushalte mit kleinen aufstockenden
+Einkünften erwartungsgemäß verlieren.
+9. Die neuen Transferleistungen können verdeckte Armut abbauen. Wenn
+die Administration des Sozialversicherungszuschusses und des erhöhten
+Kindergelds entsprechend ausgestaltet wird, könnte sich im Vergleich zu
+bereits bestehenden, jedoch nicht realisierten ALG-II-Ansprüchen, eine
+höhere Inanspruchnahme einstellen. Dieser zusätzliche Take-Up würde
+zwar die fiskalischen Entlastungswirkungen vermindern. Dafür würden
+erwerbstätige Haushalte, die heute an oder unterhalb der ALG-II-Grenze in
+versteckter Armut leben, besser gestellt. Dies ist vor allem dann zu
+erwarten, wenn die Zuschüsse im Rahmen der steuerlichen Veranlagung
+gewährt werden.
+10. Ein Ziel des Vorschlags war die Entlastung des Fallmanagements bei
+den Bedarfsträgern des SGB II. Möglichst vielen Menschen sollte bei
+niedrigen Löhnen der Weg zur Arge oder zur optierenden Kommune erspart
+bleiben. Der Vorschlag kann ausgehend von den Modellrechnungen als ein
+erster Schritt in diese Richtung gesehen werden. Kurzfristig könnten bei
+Umsetzung des Vorschlags mindestens 220.000 erwerbstätige
+Hilfebezieher und deren Angehörige aus dem ALG II ausscheiden. Langfristig kann
+sich diese Zahl durch Verhaltensänderungen erhöhen. Umgekehrt ist
+allerdings zu beachten, dass zusätzlicher administrativer Aufwand auf die
+Finanzämter zukäme. Dem gegenüber steht aber der Vorteil, dass sich die
+Bedarfsträger dadurch noch mehr auf das Fördern und Fordern der
+Problemgruppen konzentrieren können.
+11. Der vom BMAS weiter entwickelte Vorschlag des Autorenteams ist in
+seiner jetzigen Formulierung höchst komplex. Verschiedene
+Arbeitszeitgrenzen für den Sozialversicherungszuschuss einerseits und das erhöhte
+Kindergeld andererseits führen zu Sprungstellen der Förderung und
+verringern die Transparenz für alle Beteiligten. Dies würde sich dann weiter
+verschärfen, wenn der Vorschlag umgesetzt würde und die Mini- und
+MidiJobs – wie in einer der durchgerechneten Varianten – in ihrer jetzigen
+Form aufrechterhalten würden.
+12. Insgesamt liegt mit dem Vorschlag eine mögliche Alternative zur
+aktuell diskutierten Neugestaltung der Hinzuverdienstmöglichkeiten und der
+Neuordnung des Niedriglohnbereichs vor. Zusätzliche Kosten des
+Vorschlags für die öffentliche Hand sind nach den Rechnungen des IAB eher
+unwahrscheinlich. Die Angebotseffekte zeigen ein wachsendes Interesse
+an Existenz sichernder Beschäftigung. Angesichts ihres begrenzten
+Umfangs ist jedoch nicht zu erwarten, dass allein durch die Umsetzung des
+Vorschlags ein substanzieller Rückgang der Langzeitarbeitslosigkeit in
+Deutschland eintreten wird. Dies schließt natürlich nicht aus, dass die mit
+dem Vorschlag einher gehende Verbesserung der Anreizstrukturen im
+Niedriglohnbereich bei wachsender Dynamik der Arbeitskräftenachfrage zu
+weiter verbesserten Arbeitsmarktergebnissen beitragen könnte. Um dies
+zu erreichen, sind jedoch die Parameter des sich als „Blaupause“
+verstehenden Vorschlags noch einmal zu überprüfen.
+1 Hintergrund
+Ausgangspunkt für die nachfolgenden Analysen ist das Gutachten
+„Vorrang für das reguläre Arbeitsverhältnis: Ein Konzept für Existenz sichernde
+Beschäftigung im Niedriglohnbereich“ von Peter Bofinger, Martin Dietz,
+Sascha Genders und Ulrich Walwei für das Sächsische Ministerium für
+Wirtschaft und Arbeit (SMWA). Das Gutachten arbeitet heraus, dass der
+Arbeitsmarkt für den „harten Kern“ der Arbeitslosen zu wenig
+aufnahmefähig ist. Als eine wesentliche Ursache dafür wird das Fehlen adäquater
+Niedriglohnbeschäftigung benannt. Ein Ausbau des Niedriglohnsektors
+werde zunächst durch die in Deutschland vergleichsweise hohen
+Sozialabgaben beschränkt, die insbesondere Beschäftigung am unteren
+Ende der Lohnskala erschwerten und den aus Anreizgründen wichtigen
+Abstand zu den Transferleistungen verringerten. Das in Form von
+Subventionen bestehende Privileg zu Gunsten der Mini-Jobs sorge auf der
+Nachfrageseite dafür, dass einfache reguläre Arbeitsplätze zu wenig für
+die darauf angewiesenen wettbewerbsschwachen Arbeitnehmer zugänglich
+wären. Auch wenn die Arbeitsmarktreformen und insbesondere Hartz IV
+aus Sicht der Autoren in die richtige Richtung weisen, bestünden
+institutionelle Barrieren fort, die eine Wiedereingliederung von
+Arbeitslosen im Niedriglohnsegment erschweren. Dies gelte insbesondere
+für die Hinzuverdienstmöglichkeiten im Arbeitslosengeld II im
+Zusammenspiel mit den Mini- und Midi-Job-Regelungen. Da niedrige
+Einkommen weniger stark auf die Transferleistung angerechnet werden,
+ergebe sich ein starker Anreiz, im Transferbezug zu verweilen und das
+Einkommen durch Aufnahme eines kleinen Mini-Jobs aufzustocken. Die
+Hinzuverdienstmöglichkeiten im SGB II böten so die Möglichkeit, es sich
+mit einer Kombination aus Transfereinkommen und geringfügiger
+Beschäftigung einzurichten.</p>
+          <p>Auf der Basis ihrer Untersuchung entwickelt die Autorengruppe einen
+Vorschlag, der auf eine Verbesserung der Rahmenbedingungen am unteren
+Ende der Lohn- und Einkommensskala zielt. Möglichst viele Menschen
+sollen auch bei niedrigen Löhnen einer Existenz sichernden Beschäftigung auf
+dem Arbeitsmarkt nachgehen können. Möglichst wenige Personen sollen
+allein oder überwiegend auf den Bezug von Transferleistungen angewiesen
+sein. Erreicht werden soll dies durch einen Maßnahmenbündel mit drei
+Kernelementen:
+¾ Einer Senkung der Sozialversicherungsbeiträge für bedürftige
+Geringverdiener, die als negative Einkommensteuer ausgestaltet werden
+könnte.
+¾ Abbau aller Vergünstigungen zu Gunsten von Mini- und Midi-Jobs, um
+die Beschäftigungsförderung stärker auf bedürftige Haushalte und
+Personen zu konzentrieren. Mini- und Midi-Jobs wären somit in vollem
+Umfang sozialversicherungs- und steuerpflichtig.
+¾ Modifizierte Hinzuverdienstregelungen sollen Brücken in eine Existenz
+sichernde Beschäftigung schlagen. Niedrige Zusatzverdienste würden
+danach stärker als heute auf die Transferleistung angerechnet. Bei
+einem Hinzuverdienst verbleiben bis zu einem monatlichen Bruttolohn
+von 750 € von Singles bzw. 1300 € von Paarhaushalten lediglich 15 %
+beim Transferbezieher. Der bisher geltende Freibetrag für die ersten
+hundert hinzuverdienten Euro entfiele vollständig. Der nicht
+angerechnete Einkommensteil ist dem Vorschlag zufolge als
+Werbungskostenpauschale zu betrachten.</p>
+          <p>Im Dezember 2006 beauftragte das Bundesministerium für Arbeit und
+Soziales (BMAS) das IAB damit, den Vorschlag der Autorengruppe eingehend
+zu untersuchen. Dazu wurde von Seiten des Ministeriums eine
+Modellspezifikation des SMWA-Gutachtens und eine Variante entwickelt, die im
+folgenden Kapitel näher beschrieben werden.</p>
+          <p>Im Einzelnen sieht der Auftrag vor,
+ die quantitativen Auswirkungen des Vorschlags auf das verfügbare
+Einkommen verschiedener Haushaltstypen darzustellen,
+ die damit verbundenen fiskalischen Kosten in der kurzen Frist
+(Einführungskosten) zu beziffern,
+ die einhergehenden Verteilungswirkungen für die Haushalte abzubilden,
+ die Effekte auf das Arbeitsangebot zu schätzen.</p>
+          <p>Um die damit aufgeworfenen Fragen beantworten zu können, werden
+Simulationsrechnungen durchgeführt. Die angewandte Methodik wird im
+nächsten Abschnitt beschrieben.
+2 Grundlagen der Simulationen
+Gemeinsames Merkmal aller Simulationsrechnungen ist die Anwendung
+des deutschen Steuer- und Sozialrechts auf Haushalte bzw. Personen.
+Zum einen handelt es sich dabei um beispielhafte Berechnungen für
+Musterhaushalte (Abschnitt 3.1). Dazu werden bestimmte Annahmen über die
+Zusammensetzung des Haushaltes sowie Art und Umfang der in den
+Haushalt fließenden Einkommen und das Haushaltsvermögen getroffen.
+Für die Berechnung des ALG II-Anspruchs und des Wohngeldes sind
+zudem Angaben über eine fiktive Miete nötig.</p>
+          <p>Im zweiten Fall liegen den Berechnungen keine konstruierten Haushalte,
+sondern reale Haushalte aus einem der beiden von uns verwendeten
+Mikrodatensätze – der Einkommens- und Verbrauchsstichprobe (EVS) oder
+dem Sozioökonomischen PANEL (SOEP) – zugrunde. Diese
+Stichprobenhaushalte sind repräsentativ für die gesamte deutsche Wohnbevölkerung.
+Mittels geeigneter Hochrechnungsfaktoren kann somit von der Stichprobe
+auf die Grundgesamtheit geschlossen werden.</p>
+          <p>2.1 Methodik
+Die grundsätzliche Vorgehensweise zur Ermittlung der Auswirkungen des
+Vorschlags auf die fiskalischen Kosten, die personelle
+Einkommensverteilung und das Arbeitsangebot besteht im Vergleich einer Ausgangssituation
+vor der Reform und einem Zustand nach der Reform. Die
+Ausgangssituation wird auch als Basisszenario oder Benchmark bezeichnet, das
+Reformszenario auch als Counterfactual. Die Wirkungen der Reform werden durch
+Differenzenbildung zwischen der Basis und dem Counterfactual ermittelt.
+Fiskalische Wirkungen (vgl. 3.2) und Verteilungseffekte (vgl. 3.3) werden
+in einem ersten Schritt statisch analysiert. Verhaltensänderungen werden
+in diesen Untersuchungen per Annahme ausgeschlossen. Diese
+Vorgehensweise beruht auf der Fiktion, die Haushalte unmittelbar nach der
+Reform erneut beobachten zu können, zu einem Zeitpunkt, zu dem noch gar
+keine Veränderungen möglich waren, quasi am „Morgen danach“.1
+1 Für eine ausführliche Dokumentation der Methodik siehe Redmond, Sutherland und</p>
+          <p>
+            Wilson (1998).
+            <xref ref-type="bibr" rid="ref10">Jacobebbinghaus (2004)</xref>
+            diskutiert die Verwendung von
+Steuer-Transfer-Mikrosimulationsmodellen im Zusammenhang mit der Evaluation der Hartz-Gesetze.
+Bei der Simulation der Arbeitsangebotseffekte (vgl. 3.4) wird dagegen
+unterstellt, dass die Haushalte genug Zeit hatten, sich mit den neuen Regeln
+vertraut zu machen und ihre optimale Entscheidung getroffen haben.
+Logischerweise handelt es sich beim Reformszenario um eine
+kontrafaktische Situation. Sie kann daher nur geschätzt (prognostiziert) werden. Die
+Ausgangssituation ist dagegen prinzipiell direkt beobachtbar. In der Praxis
+muss jedoch auch zumeist das Benchmark modelliert werden, da zwischen
+dem Zeitpunkt der Erhebung der Daten und ihrer Verfügbarkeit ein
+zeitlicher Abstand besteht. Eine korrekte Abbildung des Benchmark setzt
+voraus, dass das beobachtete Verhalten und das dieses Verhalten
+bestimmende institutionelle Gefüge (hier: Steuern und Transfers) zeitlich
+zusammenfallen. Für unsere Fragestellung ist diese Voraussetzung nicht
+gegeben. Die verwendeten Daten
+            <xref ref-type="bibr" rid="ref1 ref15 ref2">(EVS 2003, SOEP-Wellen 2004 und 2005)</xref>
+            beschreiben nicht das Steuer-Transfer-System des Jahres 2007. Beide
+Datensätze stammen aus der Zeit vor der Einführung des SGB II. Als
+Referenz (Basis) für die Wirkungen des SMWA-Modells soll jedoch der
+Rechtsstand 2007 gelten.
+          </p>
+          <p>Für eine Ex-ante Simulationsstudie folgt daraus zunächst einmal, dass die
+beobachteten Einkommen und das beobachtete Erwerbsverhalten (in 2003
+bzw. 2004) nicht das Ergebnis Nutzen maximierender Wahlhandlungen
+unter dem heute geltenden Recht darstellen, sondern bestenfalls optimale
+Allokationen zum Zeitpunkt der Durchführung der Befragungen.2
+Andererseits können ökonometrische Schätzungen zur Identifikation von
+individuellem Verhalten nur auf Basis von beobachteten Daten und den zum
+Zeitpunkt der Erhebung gültigen Gesetzen und Institutionen erfolgen. Dieser
+Teil eines Simulationsmodells braucht demnach immer auch die
+historischen rechtlichen Regelungen.</p>
+          <p>Vor diesem Hintergrund haben wir uns für folgende Vorgehensweise
+entschieden: Die Arbeitsangebotseffekte des SMWA-Modells, definiert als
+prognostizierte Abweichung des Angebotsverhaltens vom Status Quo
+2007, wird durch den Vergleich von zwei geschätzten Zuständen ermittelt.
+2 Idealerweise würde man Daten aus 2007 verwenden, die aber nicht zur Verfügung
+stehen.
+Sowohl das Arbeitsangebot unter den aktuellen Rahmenbedingungen als
+auch das Arbeitsangebot im Counterfactual werden mittels Simulationen
+auf Basis des empirischen Arbeitsangebotsmodells (vgl. 3.4.2) bestimmt.
+Für die Simulation der fiskalischen Veränderungen und der
+Verteilungseffekte wird dagegen eine andere Vorgehensweise gewählt. Sie werden
+durch Anwendung des heutigen Steuer-Transfer-Rechts auf die
+Individualdaten der SOEP-Welle 2004 berechnet. Diese Vorgehensweise ignoriert
+Verhaltensänderungen, die im Zuge von Veränderungen des Steuer- oder
+Transferrechts zwischen den Jahren 2005 und 2007 erfolgten oder die auf
+weitere Faktoren zurückgehen. Sie hat jedoch den Vorteil, dass die
+Ergebnisse auf Basis der EVS und des SOEP besser vergleichbar sind.
+Die Alternative zur einfachen Verwendung von Originaldaten aus einer
+Vorperiode besteht darin, die Erwerbsbeteiligung im Ausgangsszenario zu
+schätzen. Die Stichprobenpopulation wird dabei einer Art dynamischen
+Fortschreibung durch Verhaltensanpassung unterzogen. Prinzipiell wäre
+uns dies mit Hilfe des empirischen Arbeitsangebotsmodells auf Basis des
+SOEP auch möglich. Eine entsprechende Schätzung ist jedoch keineswegs
+trivial und erfordert erheblichen zusätzlichen Aufwand. Zwar kann auf
+diese Weise der reine Arbeitsangebotseffekt der zu untersuchenden Reform
+bestimmt werden. Die fiskalischen Effekte hängen jedoch davon ab,
+inwieweit aus einem veränderten Arbeitsangebot eine höhere Beschäftigung
+resultiert. Die dabei auftretenden Lohneffekte ziehen ihrerseits fiskalische
+Veränderungen nach sich. Letztlich sind „echte“ fiskalische Effekte und
+Verteilungswirkungen nur dann abschätzbar, wenn die
+gesamtwirtschaftlichen Effekte, insbesondere die Lohnbildung und die tatsächlichen
+Beschäftigungseffekte, modelliert werden können.</p>
+          <p>2.2 Szenarien
+Das Ausgangsszenario ist durch den aktuellen Rechtsstand (1.1.2007)
+beschrieben.</p>
+          <p>
+            Die beiden Reformszenarien (Szenario 1 und Szenario 2) unterscheiden
+sich lediglich darin, dass im ersten Szenario die Kernelemente 1 bis 3 des
+Gutachtens für das Sächsische Ministerium für Wirtschaft und Arbeit
+(SMWA)
+            <xref ref-type="bibr" rid="ref7">(Bofinger et al. 2006: 87-102)</xref>
+            komplett umgesetzt werden. Im
+zweiten Szenario werden dagegen nur die Kernelemente 1 und 2
+umgesetzt. Die derzeit gültigen sozialversicherungsrechtlichen Regelungen
+bleiben bestehen, d. h. die Mini- und Midijobs werden nicht abgeschafft.
+Beiden Szenarien gemeinsam sind:
+          </p>
+          <p>Gestaltung der "Hinzuverdienstmöglichkeiten"
+im ALG II-Bezug (Kernelement 1)
+Der bisherige Freibetrag bei Erwerbstätigkeit (§ 30 SGB II) wird
+gestrichen. Für erwerbstätige ALG II-Bezieher werden die bisherigen
+Absetzbeträge für Werbungskosten, notwendige
+Versicherungsbeiträge und geförderte Altersvorsorgebeiträge (§ 11 Abs. 2 Nrn. 3 bis 5
+SGB II), die bisher ohne Nachweis auf pauschal 100 Euro angesetzt
+waren, durch eine Aufwandpauschale ersetzt: Bei jedem
+erwerbstätigen Hilfeempfänger bleiben als Mehraufwandsentschädigung 15 %
+vom Bruttoeinkommen, in Abweichung zum SMWA-Gutachten jedoch
+mindestens 30 € pro Monat (entspricht 15 % von 200 €)
+anrechnungsfrei.</p>
+          <p>Die obere Grenze für die Aufwandspauschale wird für Alleinstehende
+und Alleinerziehende auf 112,50 € (entspricht 15% von 750 €) und
+für Paarhaushalte auf 195 € (entspricht 15% von 1300 €) im Monat
+begrenzt.</p>
+          <p>Erstattung der Sozialversicherungsbeiträge im
+Niedriglohnbereich und „Erhöhtes Kindergeld“ (Kernelement 2)
+Sozialversicherungszuschuss (SV-Zuschuss)
+Die Arbeitnehmerbeiträge zur Sozialversicherung werden ganz oder
+teilweise in Form einer Einkommensteuergutschrift erstattet, jedoch
+nur dann, wenn das Arbeitsverhältnis einen bestimmten Umfang (in
+Arbeitsstunden) erreicht. Für Alleinstehende liegen die
+Schwellenwerte bei 15 (halber Zuschuss) und 30 Wochenstunden (voller
+Zuschuss). Alleinerziehende müssen dagegen nur 10 bzw. 20 Stunden
+je Woche arbeiten, um sich für die Steuergutschriften zu qualifizieren.
+Bei einem „halben Zuschuss“ reduzieren sich die Beitragssätze eines
+Arbeitnehmers auf die Hälfte.</p>
+          <p>Paare werden als Kombination von Alleinstehenden bzw.
+Alleinerziehenden/Alleinstehenden behandelt. D. h. bei einen kinderlosen Paar
+sind pro Partner 15/30 Wochenstunden für den halbierten/vollen
+Zuschuss erforderlich, bei einem Paar mit Kindern bei einem Partner
+mindestens 15/30 und dem anderen Partner mindestens 10/20
+Wochenstunden für den halbierten/vollen Zuschuss.
+In Abweichung zum SMWA-Gutachten, in dem auf das geltende
+Steuerrecht bei der Einkommensteuerveranlagung von Paaren Bezug
+genommen wird, werden "Paare" nach dem Recht des SGB II behandelt,
+d. h. als Paare gelten nicht dauernd getrennt lebende Ehegatten,
+Lebenspartner und in einer "Einstehensgemeinschaft" lebende Personen
+(§ 7 Abs. 3 Nr. 3 SGB II).</p>
+          <p>
+            Der SV-Zuschuss wird bis zu bestimmten Einkommensgrenzen für das
+"abgabenbefreite Grundeinkommen" gewährt, danach wird er in einer
+so genannten Gleitzone abgeschmolzen. Der volle SV-Zuschuss wird
+bei Alleinstehenden und Alleinerziehenden bis zur Höhe von 750 €
+und bei Paaren bis zu 1.300 € (Einkommen von zwei Beziehern
+werden zusammengezählt) gewährt.
+"Erhöhtes Kindergeld"
+Die Höhe des so genannten erhöhten Kindergelds
+            <xref ref-type="bibr" rid="ref7">(vgl. Bofinger et al.
+2006: 95 f.)</xref>
+            wird durch die Differenz des „normalen“ Kindergeldes
+(154 €) zum jeweiligen Bedarf der nicht erwerbsfähigen Kinder
+(Sozialgeld nach § 28 Abs. 1 Nr. 1 SGB II) bzw. der erwerbsfähigen Kinder
+unter 25 Jahren (Arbeitslosengeld II nach § 20 Abs. 2 Satz 2 SGB II)
+bestimmt. Der Zuschuss beträgt für Kinder bis zum vollendeten 14.
+Lebensjahr 53 € und für Kinder über 14 Jahren und unter 25 Jahren
+122 € monatlich. Die vollen Beträge werden bis zur jeweiligen
+Einkommensgrenze (1.300 € für Alleinerziehende und 2.000 € für Paare)
+bezahlt. Bei höheren eigenen Erwerbseinkommen wird das erhöhte
+Kindergeld linear abgeschmolzen. Die Gleitzone für das erhöhte
+Kindergeld beginnt jeweils im Anschluss an die Gleitzone des
+SVZuschusses. Die obere Grenze, ab der kein erhöhtes Kindergeld mehr
+bezahlt wird, ergibt sich, indem für jedes Kind 400 € zur unteren
+Grenze (1300 € für Alleinerziehende, 2000 € für Paare) addiert
+werden. Für eine Alleinerziehende mit einem Kind wird das erhöhte
+Kindergeld zwischen 1300 und 1700 € abgeschmolzen
+            <xref ref-type="bibr" rid="ref7">(siehe auch
+Tabelle 4.3 in Bofinger et al. 2006: 96)</xref>
+            .
+          </p>
+          <p>Auch für diesen Einkommenszuschuss gelten Schwellenwerte für die
+Mindestarbeitszeiten für die erwerbstätigen Mitglieder des jeweiligen
+Haushalts. Dabei wird nicht zwischen Alleinstehenden,
+Alleinerziehenden und Paaren unterschieden. Es gilt einheitlich die 15 h bzw. 30
+hGrenze. Aus Arbeitsverhältnissen mit mindestens 15 h entsteht ein
+Anspruch auf das halbe, für solche mit mindestens 30
+Wochenstunden auf das volle erhöhte Kindergeld.</p>
+          <p>
+            Der bisherige Kinderzuschlag (§ 6a BKGG) entfällt.
+Abgabenbelastung von Erwerbseinkommen
+im Niedriglohnbereich
+In Gegenüberstellung zum ursprünglichen Konzept und zur Ermittlung
+der "Einzeleffekte" (Arbeitsangebot, fiskalische Auswirkungen) des
+Kernelements 3 werden zwei Varianten der Gestaltung von
+Sozialversicherungsabgaben untersucht, die jeweils eine andere Bemessung
+für den SV-Zuschuss ergeben:
+Im Szenario 1, der „SMWA-Variante“
+            <xref ref-type="bibr" rid="ref7">(vgl. Bofinger et al. 2006,
+Kernelement 3, S. 99-102)</xref>
+            , wird die volle Sozialversicherungspflicht
+für alle Beschäftigungsverhältnisse ab dem ersten Euro eingeführt.
+Die bisherige Freigrenze (Minijob) und die heutige Gleitzone (Midijob)
+entfallen. In der Praxis müsste diese Maßnahme durch eine Reihe von
+Detailregelungen begleitet werden. Insbesondere wäre zu klären, wie
+die Sozialversicherungspflicht von Personen ausgestaltet sein soll, die
+eine abhängige Beschäftigung im Nebenerwerb ausüben und erst
+dadurch sozialversicherungspflichtig werden. Konkret geht es also
+darum, ob z. B. Beamte, Rentner oder Selbständige in vollem Umfang
+Sozialabgaben auf Arbeitseinkommen aus einem abhängigen
+Beschäftigungsverhältnis zu leisten hätten. Bofinger et al. (2006: 100)
+erkennen diesen zusätzlichen Regelungsbedarf, ohne jedoch für alle Fälle
+konkrete Lösungen vorzuschlagen. Nach ihren Vorstellungen sollten
+im Idealfall alle Einkommen aus abhängiger Beschäftigung
+gleichermaßen belastet werden. Aus diesem Grund, aber auch aufgrund des
+großen zusätzlichen Aufwandes, der mit Sonderreglungen für alle
+„Spezialfälle“ verbunden wäre, haben wir uns entschieden, alle
+Einkünfte aus nichtselbständiger Tätigkeit mit dem vollen Abgabensatz
+zu belasten. Diese Annahme hat zur Folge, dass die zusätzlichen
+Einnahmen in den Systemen den Sozialen Sicherung tendenziell
+überschätzt werden.
+          </p>
+          <p>Im Szenario 2 bleiben die bisherigen sozialversicherungsrechtlichen
+Regelungen bestehen. Die Bemessung der
+Steuergutschriften/Zuschüsse erfolgt ansonsten nach den oben beschriebenen
+Arbeitszeitund Einkommensregelungen.</p>
+          <p>Die konkrete Umsetzung dieser Vorgaben in den Simulationsmodellen ist
+im Anhang in Tabelle 19 dokumentiert.</p>
+          <p>Die EVS enthält ca. 53 Tsd. Haushalte mit detaillierten Angaben zu
+Einkommen und Vermögen. Sie wird z. B. auch für Berechnung der
+Regelsätze der Sozialhilfe im SGB XII herangezogen. Neben dem relativ großen
+Stichprobenumfang stellt die sehr detaillierte Erfragung verschiedener
+Einkommensarten innerhalb des Befragungsquartals einen Vorteil dar.
+Negativ zu bewerten ist hingegen die unscharfe Abgrenzung zeitlich
+aufeinanderfolgender Einkommen innerhalb des Befragungszeitraums. Fallen in
+einem Haushalt Einkommen innerhalb eines Quartals in weniger als drei
+Monaten an, wird bei der Bezugnahme auf Monatseinkommen der
+errechnete Monatswert systematisch unterschätzt. Zusätzlich basiert die als
+Quotenstichprobe angelegte EVS auf einer freiwilligen Teilnahme der
+Haushalte. Zusammen mit dem mit der Teilnahme verbundenem hohen
+Aufwand für den Befragten ist mit Selektionsverzerrungen und damit mit
+Einschränkungen bei der Repräsentativität zu rechnen.</p>
+          <p>
+            Dem zweiten Mikrosimulationsmodell sowie den
+Arbeitsangebotsschätzungen liegen die Daten des SOEP zugrunde. Für den Steuer-Transfer-Teil des
+Modells, in dem auf Basis beobachteter oder geschätzter
+Bruttostundenlöhne Nettoeinkommen in Abhängigkeit von der angebotenen Menge an
+Arbeitsstunden berechnet werden, werden Informationen zu den
+Einkommen von Personen bzw. Haushalten und zu aktuellen und vergangenen
+Erwerbsumfängen benötigt. Da in jeder Welle des SOEP über 80 % der
+Haushalte in den ersten vier Monaten eines Jahres befragt werden und
+weil Angaben zu den Vermögen der Haushalte nur retrospektiv vorliegen,
+werden die Nettohaushaltseinkommen auf Basis der retrospektiv erfragten
+Vorjahreswerte simuliert. Das aktuelle Jahr, für das vollständige
+Informationen vorliegen ist 2004. Schätzungen auf Basis neuerer Daten sind erst
+nach Veröffentlichung der Daten aus dem SOEP 2006 möglich.
+2.3.2 Repräsentativität der Daten
+Für die Interpretation der Simulationsergebnisse ist die Repräsentativität
+der verwendeten Datensätze hinsichtlich der Abbildung von
+Erwerbstätigkeit und Haushalten im unteren Einkommensbereich entscheidend.
+Systematische Vergleiche zwischen der EVS und dem SOEP kommen zu
+dem Ergebnis, dass der Bereich der unteren Einkommensverteilung mit
+der EVS schlechter erfasst wird als mit dem SOEP, wobei aber auch für
+das SOEP eine Untererfassung der unteren Einkommensschichten sehr
+wahrscheinlich ist
+            <xref ref-type="bibr" rid="ref5">(Becker et al. 2003)</xref>
+            . Grundsätzlich ist bei
+Befragungsdaten von einer geringeren Teilnahmebereitschaft (EVS) bzw. einer
+höheren Verweigerungsrate (SOEP) der unteren Einkommensschichten
+auszugehen. Als ein weiterer Grund für die deutliche Untererfassung von
+Haushalten aus dem unteren Einkommensbereich kann bei der EVS zusätzlich
+das Fehlen von fremdsprachigen Haushaltsbüchern genannt werden
+            <xref ref-type="bibr" rid="ref5">(Becker et al. 2003)</xref>
+            . Die Hochrechnung der EVS-Haushalte anhand der
+Rahmendaten des Mikrozensus berücksichtigt neben
+soziodemographischen Merkmalen auch die Verteilung von Nettoeinkommensklassen.
+Allerdings wird das Haushaltsnettoeinkommen im Mikrozensus nur
+undifferenziert mit einer pauschalen Frage erfasst. Zudem werden nur
+Einkommensklassen erfragt. Das Gewichtungsverfahren der EVS schließt damit eine
+Untererfassung unterer Einkommensschichten nicht aus.
+          </p>
+          <p>Eine Gegenüberstellung der in der EVS erfassten Haushalte, die den Bezug
+von laufender Hilfe zum Lebensunterhalt angeben mit den
+stichtagsbezogenen Daten der Sozialhilfestatistik des Jahres 2003 (Tabelle 1) soll dies
+nochmals deutlich machen:
+Tabelle 1: Haushalte mit Bezug von laufender Hilfe zum Lebensunterhalt
+Sozialhilfehaushalte
+(in Tsd.)
+Transfervolumen
+(in Mio. €)</p>
+          <p>Sozialhilfestatistik
+31.12.2003
+1.423
+7.381</p>
+          <p>EVS
+2003
+982
+4.019</p>
+          <p>Quelle: Eigene Berechnungen, EVS 2003, Statistisches Bundesamt: Statistik der Sozialhilfe 2003.
+die Entlastungen für ALG II und KdU überschätzt werden. Das dürfte auch
+für die zusätzlichen SV-Beiträge und die höhere Einkommensteuer im
+Szenario 1 gelten, da die Abschaffung der Mini- und Midijobs sicher zu
+unmittelbaren Reaktionen führen wird.</p>
+          <p>
+            Den „unsicheren“ fiskalischen Entlastungen stehen vergleichsweise sichere
+Belastungen entgegen, wenn der Zugang zu den SV-Zuschüssen und zum
+erhöhten Kindergeld einfach ist. Dafür kommt es vor allem auf die
+administrative Umsetzung dieser beiden Leistungen an. Grundsätzlich ist zwar
+auch hier eine unvollständige Inanspruchnahme vorstellbar, aber nur
+dann, wenn die Zuschüsse auf Antrag und nicht mit der Steuererklärung
+bzw. mit dem normalen Kindergeld quasi automatisch gewährt werden.
+Die Simulationen mit den Steuer-Transfer-Modellen führen zu einer
+deutlichen Überschätzung von ALG II-Beziehern mit eigenem
+Erwerbseinkommen. Dies führt uns zu der Vermutung, dass ein erheblicher Teil der
+nominal Anspruchsberechtigten keinen Antrag auf ergänzendes ALG II stellt.
+Diese Einschätzung wird von der Literatur geteilt.
+            <xref ref-type="bibr" rid="ref4">Becker (2006</xref>
+            , S. 36f)
+beziffert die Zahl an Erwerbstätigen, die bezogen auf das Niveau von ALG
+II und KdU verdeckt arm sind, auf das Dreifache der tatsächlichen
+„Aufstocker“. Damit existiert ein großer Personenkreis, der bei Einführung des
+SV-Zuschusses und des erhöhten Kindergeldes potentiell
+anspruchsberechtigt wird und diesen Anspruch möglicherweise eher geltend macht als
+seinen Anspruch auf ALG II.
+          </p>
+          <p>Die von uns berechneten Einspareffekte in den öffentlichen Budgets
+würden durch eine solche Erhöhung der Anzahl der tatsächlichen
+Transferempfänger deutlich sinken. Umgekehrt würde diese Mittel gezielt in
+Niedrigeinkommenshaushalte fließen und somit einen Beitrag zum Abbau von
+versteckter Armut leisten.</p>
+          <p>Die von uns berichteten Verteilungswirkungen basieren auf einem
+unterstellten Take-Up von 100 %, jeder nominelle Anspruch wird realisiert. Die
+Simulationen zeigen, dass die Effekte des SMWA-Modells, bezogen auf die
+gesamte personelle Einkommensverteilung, eher gering sind. Deutlichere
+Veränderungen zeigen sich dagegen, wenn man nur den Kreis der
+Transferempfänger (vor oder nach der Reform) betrachtet. In Übereinstimmung
+mit den fiskalischen Effekten sinkt die Summe aller verfügbaren
+Einkommen. Während vor allem die untersten Einkommensschichten innerhalb
+der Gruppe der bisherigen Transferempfänger Einbußen hinnehmen
+müssen, können Haushalte, die heute knapp über den Grenzen des SGB II
+liegen, zum Teil ihr verfügbares Einkommen erhöhen.</p>
+          <p>Bei den Arbeitsangebotseffekten ist zunächst der negative
+Partizipationseffekt hervorzuheben. Bei Erhalt der Mini- und Midijobs ist er
+betragsmäßig aber praktisch zu vernachlässigen. Das gesamte
+angebotene Arbeitsvolumen reagiert jedoch positiv. Das Arbeitsangebot in
+den niedrigen Stundenkategorien sinkt, während es in der 30- und der
+40Stundenkategorie steigt. Der stärkste Zuwachs ergibt sich in der
+Vollzeitkategorie (40 h). Dieses Teilergebnis zeigt exemplarisch, dass die
+positiven Arbeitsangebotseffekte fast ausschließlich auf die erhöhte
+Anrechnung von eigenem Erwerbseinkommen zurückgehen. Sowohl der
+Sozialversicherungszuschuss als auch das erhöhte Kindergeld führen in
+ihrer gesamten Wirkung auf die verschiedenen Haushaltstypen zu keiner
+weiteren Zunahme des Arbeitsangebotes.</p>
+          <p>Die beabsichtigte Umschichtung der Beschäftigungsverhältnisse, weg von
+kleinen, das ALG II aufstockenden Teilzeitjobs, hin zu
+Vollzeitarbeitsverhältnissen ohne ergänzendes ALG II, wird grundsätzlich erreicht. Das
+zusätzliche Arbeitsvolumen fällt mit ca. 55.000 Vollzeitäquivalenten
+allerdings recht gering aus. Dass der Effekt nicht größer ausfällt, hat seine
+Ursache auch in den ausgeprägten Einkommenseffekten des SV-Zuschusses
+und des „erhöhten Kindergelds“. Grundsätzlich ist zwar jede Form der
+Einkommens- bzw. Lohnsubvention mit diesem Problem behaftet, es sei denn
+die Förderung wird auf neue, zusätzliche Arbeitsverhältnisse beschränkt.
+Die Arbeitsanreizwirkungen des SMWA-Modell leiden zusätzlich unter der
+gemeinsamen Quasi-Veranlagung von Partnern in Paarhaushalten. Die
+konkrete Ausgestaltung des SV-Zuschusses macht sogar den Rückzug
+vom Arbeitsmarkt für einen der Partner attraktiv.</p>
+          <p>
+            Der Erhalt der Mini- und Midijobs (Szenario 2) hat praktisch keine
+Auswirkungen auf den gesamten Arbeitsangebotseffekt gemessen in
+Vollzeitäquivalenten. Der Rückgang des Arbeitsangebotes in Köpfen ist betragsmäßig
+jedoch deutlich kleiner als bei Abschaffung der Minijobs. In diesem Fall
+fällt die Strukturverschiebung von den „kleinen“ zu den „großen“
+Beschäftigungsformen weniger akzentuiert aus.
+Insgesamt liegt mit dem Vorschlag eine mögliche Alternative zur aktuell
+diskutierten Neugestaltung der Hinzuverdienstmöglichkeiten und der
+Neuordnung des Niedriglohnbereichs vor. Das SMWA-Modell ist vor allem
+deshalb interessant, weil ein höheres Arbeitsangebot nicht mit zusätzlichen
+öffentlichen Mitteln erkauft wird. Das Niveau der Grundsicherung bleibt
+unangetastet. Umgekehrt steht damit auch fest, dass der Reformvorschlag
+praktisch keine großen (Netto-)Arbeitsangebotswirkungen entfachen kann.
+Ein anderes Resultat würde den Ergebnissen früherer Studien zu den
+Wirkungen von Lohnsubventionen oder Kombilohnmodellen widersprechen
+            <xref ref-type="bibr" rid="ref16">(vgl. z. B. SVR 2006)</xref>
+            .
+          </p>
+          <p>Kritisch zu sehen ist die per Saldo fehlende Effektivität des SV-Zuschusses
+und des erhöhten Kindergelds. An dieser Stelle sollte das SMWA-Modell
+korrigiert werden. Die Verknüpfung des SV-Zuschusses mit einem
+zeitlichen Mindestumfang des zu fördernden Beschäftigungsverhältnisses ist
+dabei vom Grundsatz her richtig. Die konkrete Ausgestaltung für Paare
+sollte jedoch dahingehend geändert werden, dass keine oder lediglich
+geringe negative Arbeitsanreize bestehen.</p>
+          <p>Inwieweit das SMWA-Modell ähnlichen Reformvorschlägen unter- oder
+überlegen ist, hängt entscheidend von den politischen Vorgaben ab. Wenn
+das heutige Grundsicherungsniveau (ALG II plus KdU) nicht abgesenkt
+werden soll, und die Schaffung öffentlich verwalteter Arbeitsgelegenheiten
+– wie im Modell des Sachverständigenrats vorgesehen – nicht erwogen
+wird, dann bleiben nicht mehr viele Stellschrauben auf der
+Arbeitsangebotsseite übrig. Da jede Form der Einkommensaufstockung durch
+„InWork Benefits“ schnell hohe fiskalische Kosten verursacht, sind gut
+dotierte Kombilohnarrangements weder ökonomisch sinnvoll noch politisch
+realisierbar. Damit verbleibt die Neuordnung der Hinzuverdienstmöglichkeiten
+als einzig verfügbarer Hebel. Auf den Punkt gebracht schlägt das
+SMWAModell vor, die Hinzuverdienstmöglichkeiten einzuschränken und die
+dadurch eingesparten Mittel als zusätzlichen Anreiz zur Aufnahme einer
+Vollzeitbeschäftigung wieder auszuschütten. Wie die Simulationsrechnungen
+zeigen, ist dieser Weg grundsätzlich möglich.</p>
+          <p>Offen bleibt die Frage, ob der Vorschlag als bedürftigkeitsorientierte
+Leistung oder lediglich als einkommensgeprüfter Zuschuss ausgestaltet
+werden sollte. Im ersten Fall würde man den Fiskus stärker schonen und der
+horizontalen Gerechtigkeit mehr Rechnung tragen. Im zweiten Fall würden
+mehr Menschen vom Stigma des Sozialleistungsbezugs befreit, weil sich
+der Anreiz, das ALG II zu verlassen, bei Verzicht auf eine strikte
+Bedürftigkeitsprüfung zusätzlich verstärken würde.</p>
+          <p>Ein Schwachpunkt der jetzigen Spezifikation des Vorschlages ist deren
+hohe Komplexität. Es gibt viele Schwellenwerte durch Einkommens- und
+Arbeitszeitgrenzen, die sogar beim Sozialversicherungs- und Kinderzuschlag
+unterschiedlich ausfallen. Vor allem bei Paarhaushalten und Haushalten
+mit Kindern sind die Regelungen wenig transparent. Würde man zusätzlich
+an den bestehenden Regelungen zu den Mini- und Midi-Jobs festhalten,
+stiege die Komplexität auf ein sicher nicht mehr erträgliches Niveau. Wenn
+man das Gutachten aus politischen Gründen nicht eins zu eins umsetzen
+möchte, könnte man darüber nachdenken, ob die Grundgedanken in
+Teilen mit einfacheren Mitteln realisierbar sind. So könnten beispielsweise die
+Hinzuverdienstmöglichkeiten an der Bedürftigkeitsschwelle einen Bonus in
+Aussicht stellen, der dann in einem bestimmten Einkommensintervall
+abzuschmelzen wäre.</p>
+          <p>Die Frage der Regelungsdichte verweist auf den Aspekt der
+administrativen Umsetzung. Der Vorschlag impliziert eine Umschichtung von
+Transferempfängerströmen von den Bedarfsträgern des SGB II zu den Finanz- und
+Wohngeldämtern. Aufgrund der bekannter Maßen geringen Stetigkeit
+niedriger Einkommen sind zusätzliche Verwaltungskosten schon alleine
+deshalb nicht ausgeschlossen, weil Personen je nach Einkommensverlauf
+mal zuschussberechtigt sein können und mal nicht. Zudem kann sich die
+Höhe des Zuschussanspruchs auch unterjährig verändern. Dieser
+Sachverhalt ist den Bedarfsträgern des SGB II sicher wohl vertraut, sollte sich
+aber nicht noch weiter verstärken.</p>
+          <p>Positiv festzuhalten ist jedoch, dass die Arbeitsgemeinschaften und
+optierenden Kommunen bei Umsetzung des Vorschlags von Personen entlastet
+werden, die vorrangig kein Beschäftigungsproblem, sondern ein
+Einkommensproblem haben. Kurzfristig könnten bei Umsetzung des Vorschlags
+mindestens 220.000 erwerbstätige Hilfebezieher und deren Angehörige
+aus dem ALG II ausscheiden. Langfristig wird sich diese Zahl durch
+Verhaltensänderungen sehr wahrscheinlich erhöhen. Dieser Gedanke sollte
+daher auf jeden Fall weiter verfolgt werden, weil er die Chance böte, das
+Fordern und Fördern für die verbleibenden Hilfeempfänger zu
+intensivieren.
+5 Literatur
+6 Anhang</p>
+          <p>6.1 Modellparameter
+Tabelle 19: Modellparameter
+Ausgewählte Modellparameter zur Bestimmung der kurzfristigen fiskalischen Effekte
+Datenbasis:
+Grundgesamtheit:</p>
+          <p>Gültige Beiträge und Beitragsbemessungsgrenzen zum 1.01 2007</p>
+          <p>Es gilt der Rechtsstand 2007, insbesondere:
+SGB II</p>
+          <p>Es gilt der Rechtsstand 2007, insbesondere:
+Sozialversicherungsbeiträge
+Wohngeld
+SGB II
+Sozialversicherungszuschuss
+-Vorrangigkeit
+Der Wohngeldanspruch ist Ansprüchen aus dem SGB II grundsätzlich vorrangig. Könnte ein Haushalt mit dem Wohngeld eine geringere
+Leistung erreichen als nach dem SGB II, hat er jedoch ein Wahlrecht zwischen beiden Leistungen. Solange der simulierte Wohngeldanspruch
+über den simulierten Leistungen nach SGB II liegt, entscheidet sich der Haushalt für das Wohngeld u.U.
+-Mietobergrenzen -Mietobergrenzen
+Verwendet werden die Mietobergrenzen des §8 WoGG. Jedem Verwendet wird eine Mietobergrenze, die das 1,1-fache der
+Haushalt wird in Abhängigkeit von der Gemeindegrößenklasse und Mietobergrenze aus §8 WoGG einer Wohnung mit Mietstufe 3 und einem
+dem Bundesland eine Mietstufe zugeordnet. Zusätzlich wird das Bezugsjahr zwischen 1966 und 1991.</p>
+          <p>Baujahr der Wohnung berücksichtigt.
+-Bedarfsgemeinschaften
+Bedarfsgemeinschaften bestimmen sich nach dem SGB II. Der Bedarfsgemeinschaft angehörige unverheiratete Kinder bis 25 Jahre gehören
+nicht zur Bedarfsgemeinschaft der Eltern, soweit sie die Leistungen zur Sicherung ihres Lebensunterhaltes aus eigenem Einkommen
+bestreiten können. Wird für dieses Kind noch Kindergeld gewährt, wird das den Bedarf des Kindes übersteigende Einkommen maximal bis zur
+Höhe des Kindergeldes als sog. "überschüssiges Kindergeld" den Einkommen der Eltern zugerechnet. Andere Einkommen werden von den
+aus der Bedarfsgemeinschaft ausscheidenden Kindern nicht auf die Eltern übertragen.</p>
+          <p>Referenzszenario:
+Es gelten die Beiträge und Beitragsbemessungsgrenzen zum 1.01 2007. Die im Status quo bestehende Begünstigung von Mini- und Midi-Jobs
+wird abgeschafft. Die volle Sozialversicherungspflicht gilt ab dem ersten Euro.</p>
+          <p>Es gelten die Bestimmungen des Status quo, zu berücksichtigen ist:
+-Kein Verrechnung mit dem SV-Zuschuss und dem erhöhten Kindergeld
+Bei der Berechnung des Wohngeldanspruches wird ein möglicher SV-Zuschuss und das erhöhte Kindergeld nicht als Einkommen
+bei der Einkommensanrechnung berücksichtigt.</p>
+          <p>Es gelten die Bestimmungen des Status quo, abweichend gilt:
+-Freibetrag bei Erwerbstätigkeit
+Bemessungsgrundlage für die Berechnung des Freibetrags bleibt wie im Status quo das Bruttoeinkommen. Aus diesem errechnet
+sich der Freibetrag im Referenzszenario nach folgender Regel: Grundsätzlich bleiben 15% des Bruttoeinkommens
+anrechnungsfrei, mindestens jedoch 30 €. Bei Alleinstehenden und Alleinerziehenden beträgt der maximale Freibetrag 112,5 €,
+bei Paarhaushalten maximal 195 € für beide zusammen.
+-Verrechnung mit dem SV-Zuschuss und dem erhöhten Kindergeld
+Bei der Berechnung des ALGII-Anspruches wird ein möglicher SV-Zuschuss und das erhöhte Kindergeld als Einkommen der
+Bedarfsgemeinschaft berücksichtigt. Dabei handelt es sich zunächst allein um eine technische Vereinfachung in der
+Programmgestaltung. Sie dient der Identifikation der Haushalte, die trotz SV-Zuschuss das ALG II nicht verlassen. Bei der
+Bestimmung der fiskalischen Effekte wird der SV-Zuschuss und das erhöhte Kindergeld, die auf diese Haushalte entfallen, wieder
+herausgerechnet.
+-Zuschuss zur SV
+Unter den Bedingungen der Arbeitszeit- und Einkommensregel wird für Erwerbstätige ein Zuschuss zum Arbeitnehmeranteil der
+Sozialversicherungsbeiträge gewährt. Die maximale Höhe des Zuschusses ist damit durch die Höhe der SV-Beiträge vorgegeben.
+-Zuschussberechtigte Personen
+Von der Zuschussprüfung ausgeschlossen werden Studenten, Selbstständige, selbstständige Landwirte und Beamte.
+-Einkommensregel
+Ein voller Zuschuss wird bei Alleinstehenden und Alleinerziehenden bis zu einem Einkommen von 750 € und bei Paaren bis zu
+1.300 € gewährt. Bei höheren Einkommen wird der Zuschuss innerhalb einer Gleitzone linear abgeschmolzen. Die Gleitzone
+endet bei Alleinstehenden und Alleinerziehenden bei 1.300 € und bei Paaren bei 2.000 €.
+-Paarhaushalte
+Als Paare gelten sowohl verheiratete als auch unverheiratete Paare. Für die Einstufung unterhalb oder in die Gleitzone wird bei
+Paaren das Einkommen beider Partner berücksichtigt. Die Zuschüsse werden jedoch individuell nach den individuell abgeführten
+Sozialversicherungsbeiträgen berechnet.
+- Einkommensbegriff
+Der Einkommensbegriff bei der Berechnung des Zuschusses umfasst das Bruttoeinkommen aus abhängiger Beschäftigung,
+Einkommen aus selbstständiger Tätigkeit, Einkommen aus Vermögen, Arbeitslosengeld und Renten. Nicht berücksichtigt werden
+private Unterhaltszahlungen, Wohngeld und Kindergeld.
+-Arbeitszeitregel
+Die Arbeitszeitregel dominiert die Einkommensregel. Um den vollen SV-Zuschuss zu erhalten, müssen Alleinstehende,
+Alleinerziehende mit Kindern über 14 Jahre, Erwerbstätige in Paarhaushalten mit Kindern über 14 Jahren und Erwerbstätige in
+einem Paarhaushalt mit nur einem Erwerbstätigen mindestens 30 Wochenstunden erwerbstätig sein. Um den halben Zuschuss zu
+erreichen, reduziert sich die Stundengrenze auf 15 Wochenstunden. Für Alleinerziehende mit Kindern unter 15 Jahren gelten
+Stundengrenzen von 10 Wochenstunden für den halben SV-Zuschuss und 20 Wochenstunden für den vollen SV-Zuschuss. In
+Paarhaushalten mit zwei Erwerbstätigen und Kindern unter 15 Jahren kann einer der beiden Erwerbstätigen ebenfalls die
+10/20Regel in Anspruch nehmen. Die Verteilung der Stundengrenzen auf die beiden Partner wird so gewählt, dass der Haushalt die</p>
+          <p>Höhe der maximal zu erreichenden Zuschüsse optimiert.
+Datenbasis:</p>
+          <p>Erhöhtes Kindergeld
+EVS 2003</p>
+          <p>Referenzszenario:
+-Erhöhtes Kindergeld
+Unter den Bedingungen der Arbeitszeit- und Einkommensregel wird für Haushalte ein erhöhtes Kindergeld gewährt. Es beträgt 53 € je Monat
+für Kinder bis 14 Jahre und 122 € für Kinder bis unter 25 Jahre.
+-Einkommensregel
+Das volle erhöhte Kindergeld wird bei Alleinerziehenden bis zu einem Einkommen von 1.300 € und bei Paare bis zu 2.000 €
+gewährt. Bei höheren Einkommen wird der Zuschuss innerhalb einer Gleitzone linear abgeschmolzen. Die Gleitzone endet bei
+Alleinerziehenden mit einem Kind bei 1.700 € und bei Paaren mit einem Kind bei 2.400 €. Sie erhöht sich bei beiden
+Haushaltstypen für jedes weitere Kind um 400 €.
+-Paarhaushalte
+Als Paare gelten sowohl verheiratete als auch unverheiratete Paare. Für die Einstufung unterhalb oder in die Gleitzone wird bei
+Paaren das Einkommen beider Partner berücksichtigt.
+-Einkommensbegriff
+Der Einkommensbegriff bei der Berechnung des erhöhten Kindergeldes stimmt mit dem Einkommensbegriff bei der Berechnung
+des SV-Zuschusses überein.
+-Arbeitszeitregel
+Die Arbeitszeitregel dominiert die Einkommensregel. Um das volle erhöhte Kindergeld zu erhalten, muss in Paarhaushalten
+mindestens einer 30 Wochenstunden oder beide zwischen 15 und unter 30 Wochenstunden erwerbstätig sein. Für
+Alleinerziehende gilt ebenfalls die 30 Stundengrenze. Der halbe Zuschuss wird in Paarhaushalten gewährt, wenn nur ein Partner
+zwischen 15 und unter 30 Wochenstunden erwerbstätig ist und der andere Teil nicht erwerbstätig ist. Alleinerziehende erhalten
+den halben Zuschuss ebenfalls bei einer Wochenarbeitszeit zwischen 15 und 30 Stunden.</p>
+          <p>6.2 Typische Haushalte und deren Bedarf
+Die folgende Tabelle weist den durchschnittlichen Bedarf von
+verschiedenen Haushaltstypen nach dem</p>
+          <p>SGB II aus. Den Berechnungen liegen
+Statistiken über die anerkannten Kosten der Unterkunft für Kaltmiete und
+Nebenkosten zugrunde.</p>
+          <p>Tabelle 20: Typische Haushalte und Bedarf (€ je Monat)</p>
+          <p>Haushaltstyp</p>
+          <p>Mehrbedarf</p>
+          <p>Bedarf LU</p>
+          <p>Kaltmiete
+Alleinstehend
+Alleinerziehend, 1
+Kind u. 15 Jahre
+Paar ohne Kind
+Paar mit 1 Kind u.
+15 Jahre
+Quelle: Eigene Berechnungen.</p>
+          <p>124
+345
+676
+622
+829
+157
+266
+232
+298</p>
+          <p>KdU
+gesamt</p>
+          <p>Gesamt</p>
+          <p>bedarf
+216
+368
+333
+418
+561
+6.3 SV-Beiträge für Mini- und Midi-Jobs
+Die im SMWA vorgeschlagene Abschaffung der Subventionierung von
+Miniund Midi-Jobs durch ihre volle Einbeziehung in die SV-Pflicht führt bei
+Vernachlässigung von Anpassungsreaktionen der Beschäftigten und der
+Betriebe rechnerisch zu Mehreinnahmen in der Sozialversicherung von knapp
+2,4 Mrd. Euro. Hinzu kommen Steuereinnahmen, die vor allem bei
+MiniJobs in Nebenbeschäftigung anfallen, wenn die Pauschalbesteuerung
+entfällt. Zugrunde gelegt wurden die 2007 gültigen Abgabensätze, bei
+MiniJobs 28% Pauschalabgabe der Arbeitgeber.</p>
+          <p>Als Datenbasis für Anzahl und Lohnhöhe der Mini- und Midi-Jobs wurde
+der Stichtag Juni 2005 des Jahreszeitraummaterials der
+Beschäftigtenstatistik (BEH) verwendet. In Szenario 1 wurde für Arbeitnehmer
+grundsätzlich der um 0,9%-Punkte erhöhte Beitrag in der GKV angesetzt.
+Die Beitragseinnahmen der SV setzten sich folgendermaßen zusammen:
+Tabelle 21: Schätzung der SV-Einnahmen aus Mini- und Midi-Jobs
+Status Quo</p>
+          <p>Szenario 1</p>
+          <p>Szenario 2
+Sozialversicherungs</p>
+          <p>beiträge aus
+AG-Beiträge
+ausschließlich gfB
+AN-Beiträge
+ausschließlich gfB
+AG-Beiträge gf Nebenjob
+AN-Beiträge gf Nebenjob
+AG-Beiträge Gleitzone
+AN-Beiträge Gleitzone
+Gesamt 6.361
+Quelle: Eigene Berechnungen, Beschäftigtenhistorik des IAB 2005.</p>
+          <p>3.976</p>
+          <p>0
+970</p>
+          <p>0
+754
+659
+2.819
+2.947
+688
+719
+754
+788
+8.716
+-1.157
+2.947
+-282
+719</p>
+          <p>0
+128
+2.355
+6.4 Schätzergebnisse für die Lohngleichungen
+-------------------------------------------------------------------------------------</p>
+          <p>Variable | Frauen(ost) Frauen(west) Männer(ost) Männer(west)
+-------------------------+-----------------------------------------------------------Lohn |</p>
+          <p>Ausbildungsjahre | 0.072*** 0.057*** 0.050*** 0.041***
+Berufserfahrung Vollzeit | -0.004 0.002 -0.012*** -0.003***
+Berufserfahrung Teilzeit | -0.007* -0.006*** -0.023*** -0.020***</p>
+          <p>Erwerbsunterbrechung | -0.189*** -0.032** -0.194*** -0.161***
+Erwerbsunterbrechung q~t | 0.023** -0.005 0.039*** 0.035***</p>
+          <p>Betriebszugehörigkeit | 0.022*** 0.020*** 0.012*** 0.015***
+quadriert | -0.032*** -0.028*** -0.018** -0.021***</p>
+          <p>Alter | 0.145*** 0.075*** 0.095*** 0.069***</p>
+          <p>Alter^2/100 | -0.323*** -0.137*** -0.195** -0.118***
+Alter^3/10000 | 0.243*** 0.076* 0.148** 0.069*</p>
+          <p>Verheiratet | -0.000 -0.025* 0.024 0.040***
+Getrennt lebend | 0.036 0.047* 0.046 -0.034</p>
+          <p>Geschieden | 0.003 0.055*** 0.014 -0.001</p>
+          <p>Kind &lt; 3 | 0.109*** 0.052** 0.057** 0.046***</p>
+          <p>Kind 4-6 | 0.128*** 0.030* 0.019 0.043***
+Ost-Berlin | 0.155*** 0.166***
+Dummy 1996 | 0.008 0.005 0.001 0.005
+Dummy 1997 | 0.048*** 0.008 0.042*** 0.018**
+Dummy 1998 | 0.054*** 0.033*** 0.049*** 0.025***
+Dummy 1999 | 0.079*** 0.038*** 0.040*** 0.032***
+Dummy 2000 | 0.060*** 0.021** 0.063*** 0.036***
+Dummy 2001 | 0.087*** 0.036*** 0.101*** 0.057***
+Dummy 2002 | 0.132*** 0.093*** 0.154*** 0.124***
+Dummy 2003 | 0.145*** 0.117*** 0.194*** 0.157***</p>
+          <p>Deutsch | -0.153** -0.177***
+Ausbildungsjahre * deu~h | 0.017*** 0.018***</p>
+          <p>Constant | -0.902** 0.353 0.179 0.792***
+-------------------------+-----------------------------------------------------------Selektion |</p>
+          <p>Hauptschulabschluss | 2.108*** 0.313*** 0.256 0.435***
+Realschulabschluss | 1.624*** 0.219*** 0.473 0.125</p>
+          <p>Abitur | 0.821 -0.654*** -0.904** -0.867***</p>
+          <p>Lehre | 2.343*** 0.553*** 0.782*** 0.520***</p>
+          <p>Studium | 2.700*** 0.660*** 1.402*** 0.843***</p>
+          <p>Berufserfahrung | 0.023*** 0.013*** 0.033*** 0.032***</p>
+          <p>Erwerbsunterbrechung | -1.315*** -0.456*** -1.489*** -1.375***
+Erwerbsunterbrechung q~t | 0.130*** -0.052*** 0.187*** 0.176***
+26&lt;= Alter &lt;=30 | 0.198* 0.579*** 0.149 0.139**
+31&lt;= Alter &lt;=35 | 0.328** 0.652*** 0.079 0.253***
+36&lt;= Alter &lt;=40 | 0.109 0.740*** -0.031 0.177*
+41&lt;= Alter &lt;=45 | 0.130 0.741*** -0.324* 0.088
+46&lt;= Alter &lt;=50 | -0.230 0.669*** -0.428** -0.158
+51&lt;= Alter &lt;=55 | -0.417* 0.465*** -0.774*** -0.471***
+56&lt;= Alter &lt;=60 | -1.152*** -0.042 -1.491*** -1.299***</p>
+          <p>Verheiratet | 0.351*** 0.041 0.307*** 0.239***
+Getrennt lebend | -0.474*** -0.082 -0.734*** 0.253*</p>
+          <p>Geschieden | -0.124 0.012 -0.222* 0.142*</p>
+          <p>Kind &lt; 3 | -0.570*** -1.022*** -0.291*** -0.064
+Kind 4-6 | 0.568*** 0.074* -0.062 -0.090
+Kind 7-16 | 0.004 0.082** 0.111* 0.075*</p>
+          <p>Kind 17 | 0.127 0.054 0.151 0.131*</p>
+          <p>Erwerbsminderung | -0.006*** -0.008*** -0.002 -0.008***
+Sonst. Nettohaushaltse~n | -0.771*** -0.220*** -1.372*** -0.576***
+quadriert | 0.606*** 0.032*** 1.675*** 0.203***
+Dummy 1996 | -0.014 -0.012 -0.134** -0.027
+Dummy 1997 | 0.101 -0.011 -0.039 0.050
+Dummy 1998 | 0.102 -0.010 -0.059 0.043
+Dummy 1999 | 0.179** -0.093** 0.115 0.127**
+Dummy 2000 | 0.149** -0.160*** 0.101 0.037
+Dummy 2001 | 0.226*** -0.074** 0.113 0.077
+Dummy 2002 | 0.323*** 0.031 0.165** 0.185***
+Dummy 2003 | 0.191*** -0.001 0.028 0.015</p>
+          <p>Constant | -0.580 0.409*** 1.528*** 1.115***
+-------------------------+-----------------------------------------------------------athrho Constant | 0.176 -0.036 -0.164*** -0.122***
+-------------------------+-----------------------------------------------------------lnsigma Constant | -1.073*** -1.059*** -1.155*** -1.186***
+-------------------------+-----------------------------------------------------------</p>
+          <p>N | 59094 172125 55512 147070
+df_m | 24 25 24 25</p>
+          <p>ll | -31398 -94981 -26686 -65071
+-------------------------------------------------------------------------------------legend: * p&lt;.1; ** p&lt;.05; *** p&lt;.01
+6.5 Schätzergebnisse des Arbeitsangebotsmodells für
+die Haushaltstypen
+Tabelle 23: Conditional Logit Schätzung für die Gruppe Alleinstehende Frauen
+Conditional (fixed-effects) logistic regression Number of obs = 5446</p>
+          <p>LR chi2(18) = 949.81</p>
+          <p>Prob &gt; chi2 = 0.0000
+Log likelihood = -1039.0131 Pseudo R2 = 0.3137
+----------------------------------------------------------------------------------------------------------------</p>
+          <p>Variable | Coef. Std. Err. z P&gt;|z| [95% Conf. Interval]
+-------------------------------------------+--------------------------------------------------------------------Monatl.Nettohaushaltseikommen (Log) | 6.580*** 2.511296 2.62 0.009 1.657913 11.50201
+Mon. Nettohaushaltseink. quadr. | 0.246*** .0451399 5.45 0.000 .1573832 .3343285
+NettohhEK X Freizeit der Frau | -1.892*** .5431056 -3.48 0.000 -2.956819 -.8278844</p>
+          <p>Freizeit der Frau X Ost | -0.168 .363737 -0.46 0.645 -.8804167 .5454063
+Freizeit der Frau X Nationalität | 1.668*** .5869301 2.84 0.004 .5179664 2.81869</p>
+          <p>Freizeit der Frau | 110.910*** 17.81611 6.23 0.000 75.99101 145.8289</p>
+          <p>Freizeit der Frau quadr. | -12.596*** 2.133791 -5.90 0.000 -16.77849 -8.414186
+Freizeit der Frau X Hochbildung | 1.575 1.214751 1.30 0.195 -.8063664 3.955372
+Freizeit der Frau X Niedrigbildung | 2.471* 1.270887 1.94 0.052 -.0195888 4.962195</p>
+          <p>Freizeit der Frau X Alter | 0.005 .4001871 0.01 0.990 -.7793139 .7893907
+Freizeit der Frau quadr. X Alter | -0.020 .0496714 -0.40 0.686 -.117448 .0772604
+Freizeit der Frau X Alter quadr. | 0.003** .0013195 2.20 0.028 .0003218 .005494</p>
+          <p>Leisure X handicapped | -0.568 1.347792 -0.42 0.673 -3.210005 2.073243
+Freizeit der Frau X Kind bis 6 Jahre | 3.740*** .5335833 7.01 0.000 2.694509 4.786117
+Freizeit der Frau X Kind 7-16 Jahre | 0.964*** .23982 4.02 0.000 .4936397 1.433717
+Freizeit der Frau X Kind &gt;=17 Jahre | 0.451 .2927858 1.54 0.124 -.122901 1.024798
+Dummy für Teilzeiterwerbstätigkeit Frau | -3.579*** .2669647 -13.41 0.000 -4.102351 -3.055869
+Dummy für Vollzeiterwerbstätigkeit Frau | -1.844*** .3815507 -4.83 0.000 -2.592254 -1.096603
+-------------------------------------------+--------------------------------------------------------------------legend: * p&lt;.1; ** p&lt;.05; *** p&lt;.01
+Tabelle 24: Conditional Logit Schätzung für die Gruppe Alleinstehende Männer
+Conditional (fixed-effects) logistic regression Number of obs = 4200</p>
+          <p>LR chi2(14) = 984.29</p>
+          <p>Prob &gt; chi2 = 0.0000
+Log likelihood = -675.40332 Pseudo R2 = 0.4215
+---------------------------------------------------------------------------------------------------------------</p>
+          <p>Variable | Coef. Std. Err. z P&gt;|z| [95% Conf. Interval]
+-------------------------------------------+-------------------------------------------------------------------Monatl.Nettohaushaltseikommen (Log) | 11.848*** 2.557931 4.63 0.000 6.834257 16.86116
+Mon. Nettohaushaltseink. quadr. | -0.005 .0416491 -0.12 0.904 -.0866637 .0765979
+NettohhEK X Freizeit des Mannes | -2.675*** .5545335 -4.82 0.000 -3.761809 -1.588078</p>
+          <p>Freizeit des Mannes | 78.996*** 19.51295 4.05 0.000 40.75107 117.2404</p>
+          <p>Freizeit des Mannes quadr. | -7.014*** 2.285689 -3.07 0.002 -11.49339 -2.533653
+Freizeit des Mannes X Hochbildung | 1.992 2.083973 0.96 0.339 -2.092279 6.076746
+Freizeit des Mannes X Niedrigbildung | 2.542 2.125437 1.20 0.232 -1.623739 6.707822</p>
+          <p>Freizeit des Mannes X Ost | 0.479 .3560915 1.35 0.178 -.2186751 1.177178
+Freizeit des Mannes X Nationalität | 0.603 .7964092 0.76 0.449 -.958034 2.163833
+Freizeit des Mannes X Alter | -1.057** .4232873 -2.50 0.013 -1.886268 -.2270122</p>
+          <p>Leisure X handicapped | 0.652 .8463291 0.77 0.441 -1.006872 2.310677
+Freizeit des Mannes X Alter quadr. | 0.001 .0014248 0.93 0.351 -.0014642 .0041208
+Freizeit des Mannes quadr. X Alter | 0.125** .0510027 2.46 0.014 .0254769 .2254039
+Dummy für Vollzeiterwerbstätigkeit Mann | 5.671*** .3263493 17.38 0.000 5.031172 6.310438
+-------------------------------------------+-------------------------------------------------------------------legend: * p&lt;.1; ** p&lt;.05; *** p&lt;.01
+Tabelle 25: Conditional Logit Schätzung für die Gruppe Teilflexible Paare
+Conditional (fixed-effects) logistic regression
+Log likelihood = -1494.9013</p>
+          <p>Number of obs
+LR chi2(26)
+Prob &gt; chi2
+Pseudo R2
+Tabelle 26: Conditional Logit Schätzung für die Gruppe Flexible Paare
+Conditional (fixed-effects) logistic regression
+Log likelihood = -6450.7929</p>
+          <p>Number of obs
+LR chi2(32)
+Prob &gt; chi2
+Pseudo R2
+----------------------------------------------------------------------------------------------------------------------</p>
+          <p>Variable | Coef. Std. Err. z P&gt;|z| [95% Conf. Interval]
+---------------------------------------------------+------------------------------------------------------------------Monatl.Nettohaushaltseikommen (Log) | 18.641*** 2.132086 8.74 0.000 14.46253 22.82016</p>
+          <p>Mon. Nettohaushaltseink. quadr. | 0.229*** .0390322 5.87 0.000 .1526146 .305618
+Freizeit des Mannes X Freizeit der Frau | -2.097*** .4687067 -4.47 0.000 -3.015504 -1.178207
+NettohhEK X Freizeit des Mannes | -3.046*** .3107427 -9.80 0.000 -3.654735 -2.436646
+NettohhEK X Freizeit der Frau | -1.601*** .2724092 -5.88 0.000 -2.134883 -1.067058</p>
+          <p>Freizeit der Frau | 109.482*** 6.119853 17.89 0.000 97.48693 121.4763
+Freizeit der Frau quadr. | -10.579*** .5055126 -20.93 0.000 -11.57022 -9.588648</p>
+          <p>Freizeit des Mannes | 53.176*** 6.876226 7.73 0.000 39.6984 66.65271
+Freizeit des Mannes quadr. | -1.210** .6100921 -1.98 0.047 -2.405719 -.0142019</p>
+          <p>Freizeit der Frau X Ost | -9.874*** 2.331753 -4.23 0.000 -14.4443 -5.303999
+Freizeit der Frau X Nationalität | 0.210 .3780227 0.55 0.579 -.5312213 .9506005</p>
+          <p>Freizeit des Mannes X Ost | -8.126*** 2.472122 -3.29 0.001 -12.97099 -3.280444</p>
+          <p>Freizeit des Mannes X Nationalität | -0.296 .3995311 -0.74 0.459 -1.078948 .4871853
+Freizeit des Mannes X F. der Frau X Ost | 2.042*** .6180464 3.30 0.001 .8302589 3.252956
+Freizeit des Mannes X F. der Frau X Nationalität | -0.161 .0979212 -1.64 0.100 -.3529063 .0309378</p>
+          <p>Freizeit der Frau X Hochbildung | 1.569** .7214605 2.17 0.030 .1545167 2.98259
+Freizeit der Frau X Niedrigbildung | 1.774** .7609827 2.33 0.020 .2827185 3.265716
+Freizeit des Mannes X Hochbildung | 2.721** 1.235951 2.20 0.028 .2985857 5.143423
+Freizeit des Mannes X Niedrigbildung | 3.482*** 1.258913 2.77 0.006 1.014594 5.949443
+Freizeit des Mannes X Alter | -0.337*** .0891613 -3.78 0.000 -.5115834 -.1620777</p>
+          <p>Freizeit der Frau X Alter | -0.310*** .0899318 -3.45 0.001 -.4867215 -.1341952
+Freizeit des Mannes X Alter quadr. | 0.004*** .0010096 4.46 0.000 .0025204 .006478</p>
+          <p>Freizeit der Frau X Alter quadr. | 0.004*** .0010684 4.16 0.000 .0023511 .0065391
+Freizeit der Frau X Kind 7-16 Jahre | 1.233*** .1129982 10.91 0.000 1.011241 1.454186
+Freizeit der Frau X Kind &gt;=17 Jahre | 0.485*** .1247881 3.89 0.000 .2402578 .7294182
+Freizeit der Frau X Kind bis 6 Jahre | 3.311*** .2471672 13.40 0.000 2.826745 3.795622</p>
+          <p>Freizeit der Frau X Erwerbsmind. | -0.010 1.354513 -0.01 0.994 -2.664466 2.645129
+Freizeit des Mannes X Erwerbsmind. | 0.556 .7275347 0.76 0.445 -.8703886 1.981495
+Dummy für Vollzeiterwerbstätigkeit Mann | 6.332*** .2528583 25.04 0.000 5.836035 6.827221
+Dummy für Teilzeiterwerbstätigkeit Frau | -1.774*** .1959783 -9.05 0.000 -2.157652 -1.389431
+Dummy für Vollzeiterwerbstätigkeit Frau | -0.328 .2344075 -1.40 0.161 -.787645 .1312155
+Dummy für Erwerbstätigkeit beider Partner | -0.791*** .178047 -4.45 0.000 -1.140399 -.4424677
+---------------------------------------------------+------------------------------------------------------------------6.6 Arbeitsangebotseffekte der Reformelemente
+– Szenario 1
+In den folgenden Tabellen werden die gesamten Arbeitsangebotseffekte,
+wie sie sich in Folge des kompletten Maßnahmebündels ergeben, zerlegt
+und den Einzelmaßnahmen zugerechnet. Zunächst wird in Tabelle 27 der
+isolierte Effekt der Abschaffung der Mini- und Midijobs berichtet. Es folgen
+die Veränderung der Anrechnungsregel (Tabelle 28) und die Wirkungen
+des Sozialversicherungszuschusses (Tabelle 29). Die Tabellen sind dabei
+so konstruiert, dass ausgehend von Tabelle 27 in den folgenden Tabellen
+jeweils eine Maßnahme hinzugenommen wird. In Tabelle 28 sind also die
+Wirkungen aus der Abschaffung der Mini- und Midijobs und der neuen
+Anrechnungsregel dargestellt. Um den isolierten Effekt der Anrechnungsregel
+zu berechnen, muss die Differenz zwischen Tabelle 27 und Tabelle 28
+gebildet werden.</p>
+          <p>Tabelle 27: Arbeitsangebotseffekte der Abschaffung von Mini- und Midi-Jobs
+Simulierte Arbeitsangebotswirkungen in mittlerer Frist:
+Gesamteffekt ist Summe aus Partizipation und Anpassung der angebotenen Arbeitszeiten
+95%-Bootstrap-Konfidenzintervalle in eckigen Klammern
+*, **, *** kennzeichnet Signifikanz auf dem 10%-, 5%- und 1%-Niveau</p>
+          <p>V
+(eP rA na reä</p>
+          <p>g n
+rseon itzseb tboe red
+)n ite nene gdenu
+r
+10 h
+15 h
+20 h
+30 h
+40 h
+50 h
+Arbeitsangebotseffekt in
+Vollzeit</p>
+          <p>äquivalenten
+Veränderungen gegenüber Rechtsstand 2007</p>
+          <p>Alleinstehende</p>
+          <p>Männer
+-146
+[-752, 460]
+455</p>
+          <p>Alleinstehende</p>
+          <p>Frauen
+-1.292
+[-2.993, 409]</p>
+          <p>-1.435
+[-4.161, 1.291]</p>
+          <p>-659 *
+[-1.323, 4]</p>
+          <p>-221
+[-573, 132]</p>
+          <p>292
+[-201, 786]</p>
+          <p>695
+[-664, 2.053]</p>
+          <p>36
+[-26, 99]
+243</p>
+          <p>Paarhaushalte, Paarhaushalte, Paarhaushalte,
+beide Partner beide Partner nur ein Partner
+flexibel, Männer flexibel, Frauen flexibel</p>
+          <p>-5.266 *** -18.487 *** -5.888 *
+[-7.008, -3.523] [-26.575, -10.399] [-12.539, 764]</p>
+          <p>-857 -25.643 *** -5.749 *
+[-4.152, 2.438] [-39.233, -12.053] [-12.000, 502]</p>
+          <p>359 -8.574 *** -2.665 **
+[-565, 1.282] [-12.792, -4.356] [-5.307, -24]
+291 **
+[40, 542]</p>
+          <p>29
+[-10, 68]
+-3.566 **
+[-6.851, -281]</p>
+          <p>-1.522 ***
+[-2.416, -627]</p>
+          <p>-5.381 ***
+[-7.943, -2.818]</p>
+          <p>614 -317 356
+[-1.064, 2.292] [-1.674, 1.039] [-1.845, 2.556]
+[-433, 9.812] [-1.726, 1.778] [-6.095, 6.160]
+Tabelle 28: Abschaffung von Mini- und Midi-Jobs und veränderte
+Hinzuverdienstregelung
+Simulierte Arbeitsangebotswirkungen in mittlerer Frist:
+Gesamteffekt ist Summe aus Partizipation und Anpassung der angebotenen Arbeitszeiten
+95%-Bootstrap-Konfidenzintervalle in eckigen Klammern
+*, **, *** kennzeichnet Signifikanz auf dem 10%-, 5%- und 1%-Niveau</p>
+          <p>Alleinstehende</p>
+          <p>Männer</p>
+          <p>Alleinstehende</p>
+          <p>Frauen
+[47.172,
+r</p>
+          <p>V
+(eP rA na reä</p>
+          <p>g n
+reson itzseb tobe red
+)n ite neen gnude
+r
+10 h
+15 h
+20 h
+30 h
+40 h
+50 h
+Arbeitsangebotseffekt in
+Vollzeit</p>
+          <p>äquivalenten
+10 h
+15 h
+20 h
+30 h
+40 h
+50 h
+Arbeitsangebotseffekt in
+Vollzeit</p>
+          <p>äquivalenten
+Veränderungen gegenüber Rechtsstand 2007
+Quelle: Eigene Berechnungen, SOEP 2004.</p>
+          <p>Tabelle 29: Abschaffung von Mini- und Midi-Jobs, Hinzuverdienstregelung und</p>
+          <p>Einführung des SV-Zuschusses
+Simulierte Arbeitsangebotswirkungen in mittlerer Frist:
+Gesamteffekt ist Summe aus Partizipation und Anpassung der angebotenen Arbeitszeiten
+95%-Bootstrap-Konfidenzintervalle in eckigen Klammern
+*, **, *** kennzeichnet Signifikanz auf dem 10%-, 5%- und 1%-Niveau</p>
+          <p>Alleinstehende</p>
+          <p>Männer</p>
+          <p>Alleinstehende</p>
+          <p>Frauen
+Veränderungen gegenüber Rechtsstand 2007
+In dieser Reihe sind zuletzt erschienen</p>
+          <p>Autor(en)</p>
+          <p>Titel
+Sabine Hagemann, Vermittlungsgutscheine nach § 421g
+Werner Sörgel, SGB III - Zwischenergebnisse aus der
+Eberhard Wiede- Begleitforschung zur Vermittlung
+mann
+Nr.
+1/2004
+2/2004
+3/2004
+4/2004
+5/2004
+6/2004
+1/2005
+2/2005
+3/2005</p>
+          <p>Lutz Bellmann,
+Vera Dahms,
+Jürgen Wahse
+Lutz Bellmann,
+Vera Dahms,
+Jürgen Wahse
+Lutz Bellmann,
+Vera Dahms,
+Jürgen Wahse
+Eugen Spitznagel,
+Susanne Wanger
+IAB-Autorengemeinschaft
+Anja Heinze,
+Friedhelm Pfeiffer,
+Alexander
+Spermann, Henrik
+Winterhager, Amelie
+Wuppermann
+Sabine Dann,
+Günther Klee,
+Martin Rosemann
+Anja Heinze,
+Friedhelm Pfeiffer,
+Alexander
+Spermann, Henrik
+Winterhager</p>
+          <p>IAB-Betriebspanel Ost - Ergebnisse der
+achten Welle 2003 – Teil I: Entwicklung und
+Struktur der Betriebe und Beschäftigten,
+Auszubildende
+IAB-Betriebspanel Ost - Ergebnisse der
+achten Welle 2003 – Teil II: Personalpolitik,
+Betriebliche Flexibilität, Weiterbildung
+IAB-Betriebspanel Ost - Ergebnisse der
+achten Welle 2003 – Teil III: Wirtschaftliche
+Lage der Betriebe, Öffentliche Förderung
+Mehr Beschäftigung durch längere Arbeits- 10/2004
+zeiten? Ein Beitrag zu der Diskussion um
+eine generelle Erhöhung der Arbeitszeit
+Forschung zum SGB II des IAB:
+Die neuen Forschungsaufgaben im
+Überblick
+Vermittlungsgutscheine -
+Zwischenergebnisse der Begleitforschung 2004
+Teil I: Datenstruktur und deskriptive</p>
+          <p>Analysen
+Vermittlungsgutscheine -
+Zwischenergebnisse der Begleitforschung 2004
+Teil II: Typisierung der Arbeitsagenturen
+Vermittlungsgutscheine -
+Zwischenergebnisse der Begleitforschung 2004
+Teil III: Mikroökonometrische
+Wirkungsanalyse
+Datum
+9/2004
+9/2004
+9/2004
+9/2004
+12/2004
+3/2005
+2/2005
+3/2005
+4/2005
+5/2005
+6/2005
+7/2005
+8/2005
+9/2005</p>
+          <p>Reinhard Hujer,
+Christopher Zeiss</p>
+          <p>Vermittlungsgutscheine -
+Zwischenergebnisse der Begleitforschung 2004
+Teil IV: Makroökonomische
+Wirkungs</p>
+          <p>analyse
+Friedhelm Pfeiffer, Vermittlungsgutscheine -
+ZwischenergebHenrik Winterhager nisse der Begleitforschung 2004</p>
+          <p>Teil V: Kosten-Nutzen-Analyse
+Sabine Hagemann, Vermittlungsgutscheine -
+ZwischenergebWerner Sörgel nisse der Begleitforschung 2004</p>
+          <p>Teil VIa: Implementations- und
+Strukturanalysen - Private
+Arbeitsvermittler
+Sabine Hagemann, Vermittlungsgutscheine -
+ZwischenergebWerner Sörgel nisse der Begleitforschung 2004</p>
+          <p>Teil Vb: Implementations- und
+Struktur</p>
+          <p>analysen - Tabellenanhang
+Reinhard Hujer, Vermittlungsgutscheine -
+ZwischenergebGünther Klee, Ale- nisse der Begleitforschung 2004
+xander Spermann, Teil VII: Zusammenfassung der
+ProjektWerner Sörgel ergebnisse
+Regina Konle-Seidl Lessons learned – Internationale
+Evaluierungsergebnisse zu Wirkungen aktiver und
+aktivierender Arbeitsmarktpolitik
+SGB II – Neue Herausforderungen an</p>
+          <p>Statistik und Forschung
+10/2005 Ch. Brinkmann,</p>
+          <p>J. Passenberger,
+H. Rudolph,
+E. Spitznagel,
+G. Stephan,
+U. Thomsen,</p>
+          <p>H. Roß
+11/2005 Corinna Kleinert,</p>
+          <p>Hans Dietrich
+12/2005 Axel Deeke
+13/2005 Oliver Falck
+2/2005
+2/2005
+7/2005
+7/2005
+7/2005
+2/2005
+2/2005
+Aus- und Weiterbildungen im Pflegebereich 3/2005
+- Eine Analyse des
+Eingliederungsprozesses in Erwerbstätigkeit
+Kurzarbeit als Instrument betrieblicher
+Flexiblität - Ergebnisse aus dem
+IAB-Betriebspanel 2003
+Das Scheitern junger Betriebe
+Ein Überlebensdauermodell auf Basis des
+IAB-Betriebspanels
+3/2005
+3/2005
+14/2005 Helmut Rudolph,</p>
+          <p>Kerstin Blos</p>
+          <p>Schätzung der Auswirkungen des Hartz-IV- 4/2005</p>
+          <p>Gesetzes auf Arbeitslosenhilfe-Bezieher
+15/2005 Johann Fuchs,</p>
+          <p>Brigitte Weber
+16/2005 Johann Fuchs,</p>
+          <p>Doris Söhnlein
+17/2005 Michael Feil,</p>
+          <p>Gerd Zika
+18/2005 Johann Fuchs,</p>
+          <p>Brigitte Weber
+19/2005 Stefan Schiel,</p>
+          <p>Ralph Cramer,
+Reiner Gilberg,
+Doris Hess,</p>
+          <p>Helmut Schröder
+20/2005 Lutz Bellmann,</p>
+          <p>Vera Dahms,</p>
+          <p>Jürgen Wahse
+21/2005 Lutz Bellmann,</p>
+          <p>Vera Dahms,</p>
+          <p>Jürgen Wahse
+22/2005 Lutz Bellmann,</p>
+          <p>Vera Dahms,</p>
+          <p>Jürgen Wahse
+23/2005 Aderonke
+Osikominu</p>
+          <p>Neuschätzung der Stillen Reserve und
+des Erwerbspersonenpotenzials für
+Westdeutschland (inkl. Berlin-West)
+Vorausschätzung der Erwerbsbevölkerung
+bis 2050
+Politikberatung mit dem Simulationsmodell
+PACE-L – Möglichkeiten und Grenzen am
+Beispiel einer Senkung der Sozialabgaben
+Neuschätzung der Stillen Reserve und des
+Erwerbspersonenpotenzials für
+Ostdeutschland (einschl. Berlin-Ost)
+Das arbeitsmarktpolitische Programm FAIR
+- Zwischenergebnisse der Begleitforschung
+2004
+IAB-Betriebspanel Ost – Ergebnisse der
+neunten Welle 2004 – Teil I: Entwicklung
+und Struktur der Betriebe und
+Beschäftigten, Auszubildende
+IAB-Betriebspanel Ost – Ergebnisse der
+neunten Welle 2004 – Teil II:
+Personalpolitik, Betriebliche Flexibilität, betriebliche
+Arbeitszeiten, ältere Arbeitnehmer
+IAB-Betriebspanel Ost – Ergebnisse der
+neunten Welle 2004 – Teil III: Innovationen
+im Betrieb, wirtschaftliche Lage der
+Betriebe
+Eine Analyse der Teilnehmerselektion in die 9/2005
+berufliche Weiterbildung auf Basis der
+Integrierten Erwerbsbiografien (IEB)
+5/2005
+5/2005
+5/2005
+6/2005
+7/2005
+7/2005
+7/2005
+7/2005
+24/2005 Uwe Blien, Vergleichstypen 2005: Neufassung der Re- 9/2005
+Franziska Hirsche- gionaltypisierung für Vergleiche zwischen
+nauer Agenturbezirke
+25/2005 Johann Fuchs,</p>
+          <p>Katrin Dörfler
+26/2005 Axel Deeke</p>
+          <p>Projektion des Erwerbspersonenpotenzials
+bis 2050 – Annahmen und Grundlagen
+9/2005
+Das ESF-BA-Programm im Kontext der ar- 10/2005
+beitsmarktpolitischen Neuausrichtung der
+Bundesagentur für Arbeit – Zur Umsetzung
+des Programms von 2000 bis Anfang 2005
+2/2006</p>
+          <p>Susanne Wanger
+6/2006</p>
+          <p>Ch. Gaggermeier
+8/2006</p>
+          <p>K. Blos
+9/2006</p>
+          <p>A. Haas,</p>
+          <p>Th. Rothe
+10/2006 J. Wolff,</p>
+          <p>K. Hohmeyer
+11/2006 L. Bellmann,</p>
+          <p>H. Bielenski,
+F. Bilger,
+V. Dahms,
+G. Fischer, M. Frei,
+J. Wahse
+1/2006
+1/2006
+2/2006
+2/2006
+2/2006
+4/2006
+3/2006
+4/2006
+6/2006
+Erwerbstätigkeit, Arbeitszeit und
+Arbeitsvolumen nach Geschlecht und Altersgruppe
+– Ergebnisse der IAB-Arbeitszeitrechnung
+nach Geschlecht und Alter für die Jahre
+1991-2004
+Sarah Heinemann, Arbeitsförderung für Langzeitarbeitslose
+Hermann Gartner, - Erste Befunde zu
+EingliederungsleistunEva Jozwiak gen des SGB III im Rechtskreis SGB II
+Jan Binder, Barba- Neuer Gebietszuschnitt der
+Arbeitsmarktra Schwengler regionen im Raum Berlin und Brandenburg
+– Kritische Überprüfung der bisher gültigen
+Arbeitsmarktregionen und Vorschläge für
+einen Neuzuschnitt
+1/2006
+3/2006
+4/2006
+5/2006
+7/2006</p>
+          <p>Lena Koller, Blinde Kuh war gestern – heute ist FIS
+Ulrike Kress, Das Forschungs-Informations-System – ein
+Kerstin Windhövel neuer Weg wissenschaftlicher
+Politikbera</p>
+          <p>tung
+Ch. Brinkmann,
+M. Caliendo,
+R. Hujer,
+St. L. Thomsen
+St. Schiel,
+R. Gilberg,
+H. Schröder</p>
+          <p>Zielgruppenspezifische Evaluation von
+Arbeitsbeschaffungsmaßnahmen
+– Gewinner und Verlierer
+Indikatoren-Modelle zur Kurzfristprognose
+der Beschäftigung in Deutschland
+Evaluation des arbeitsmarktpolitischen Pro- 4/2006
+gramms FAIR - 3. Zwischenbericht
+Die Bedeutung der Ausgaben und
+Einnahmen der Sozialversicherungssysteme für
+die Regionen in Deutschland
+Regionale Arbeitsmarktströme -
+Analysemöglichkeiten auf Basis eines
+Mehrkontenmodells
+Förderung von arbeitslosen Personen im
+Rechtskreis des SGB II durch
+Arbeitsgelegenheiten: Bislang wenig
+zielgruppenorientiert
+Personalbewegungen und Fachkräfterekru- 6/2006
+tierung – Ergebnisse des
+IAB-Betriebspanels 2005
+12/2006 Th. Rhein,</p>
+          <p>M. Stamm
+13/2006 B. Rudolph,</p>
+          <p>C. Klement
+14/2006 Th. Rothe</p>
+          <p>Niedriglohnbeschäftigung in Deutschland:
+Deskriptive Befunde zur Entwicklung seit
+1980 und Verteilung auf Berufe und
+Wirtschaftszweige
+Arbeitsmarktpartizipation von Frauen im
+Transformationsprozess -
+Sozio-ökonomische Realität in den EU-Beitrittsländern
+Polen, Tschechien und Ungarn
+Die Arbeitskräftegesamtrechnung für
+Ostund Westdeutschland – Konzeption und
+ausgewählte Ergebnisse
+15/2006 R. Konle-Seidl,</p>
+          <p>Kristina Lang</p>
+          <p>Von der Reduzierung zur Mobilisierung des 8/2006</p>
+          <p>Arbeitskräftepotenzials
+16/2006 Johanna Dornette, Zielgruppenerreichung und
+Teilnehmer</p>
+          <p>Marita Jacob struktur des Jugendsofortprogramms JUMP
+17/2006 Andreas Damelang, Arbeitsmarkteinstieg nach dualer
+BerufsAnette Haas ausbildung – Migranten und Deutsche im</p>
+          <p>Vergleich
+18/2006 Susanne Rässler</p>
+          <p>Der Einsatz von Missing Data Techniken in 10/2006
+der Arbeitsmarktforschung des IAB
+19/2006 Kerstin Blos</p>
+          <p>Haushalte im Umfeld des SGB II
+20/2006 György Barabas,</p>
+          <p>Roland Döhrn
+21/2006 Axel Deeke
+22/2006 K. Hohmeyer,</p>
+          <p>Ch. Schöll,</p>
+          <p>J. Wolff
+23/2006 S. Noll,</p>
+          <p>A. Novorozhkin,</p>
+          <p>J. Wolff
+1/2007</p>
+          <p>Konjunktur und Arbeitsmarkt: Simulationen 12/2006
+und Projektionen mit der IAB-Version des
+RWI-Konjunkturmodells
+Berufsbezogene Sprachförderung für
+Arbeitslose mit Migrationshintergrund:
+Erste Ergebnisse aus der Begleitforschung
+zum ESF-BA-Programm
+Arbeitsgelegenheiten in der Entgeltvariante: 12/2006
+Viele Zielgruppen werden noch
+vernachlässigt
+Förderung mit dem Einstiegsgeld nach § 29 12/2006
+SGB II – Erste Befunde zur Implementation
+und Deskription
+Typisierung von SGB II-Trägern
+1/2007
+7/2006
+7/2006
+7/2006
+8/2006
+8/2006
+11/2006
+12/2006
+2/2007
+3/2007
+4/2007
+5/2007</p>
+          <p>A. Kettner,
+M. Rebien
+S. Rässler,
+U. Jensen
+Th. Rothe,
+St. Tinter
+Gabriele Fischer,
+Jürgen Wahse,
+Vera Dahms,
+Marek Frei,
+Arnold Riedmann,
+Florian Janik</p>
+          <p>Soziale Arbeitsgelegenheiten: Einsatz
+und Wirkungsweise aus betrieblicher
+und arbeitsmarktpolitischer Perspektive
+The effects of collective bargaining on firm
+performance: New evidence based on
+stochastic production frontiers and multiply
+imputed German establishment data
+Jugendliche auf dem Arbeitsmarkt: Eine
+Analyse von Beständen und Bewegungen
+Standortbedingungen und Beschäftigung in 6/2007
+den Regionen West- und Ostdeutschlands
+Ergebnisse des IAB-Betriebspanels 2006
+2/2007
+2/2007
+3/2007
+6/2007</p>
+          <p>Eva Schweigard</p>
+          <p>Berufsbezogene Deutschkurse im Rahmen
+des ESF-BA-Programms: Ergebnisse aus
+regionalen Fallstudien zur Umsetzung
+6/2007
+Herausgeber
+Institut für Arbeitsmarkt- und Berufsforschung
+der Bundesagentur für Arbeit
+Weddigenstr. 20-22
+D-90478 Nürnberg
+Redaktion
+Regina Stoll, Jutta Palm-Nowak</p>
+          <p>Impressum</p>
+          <p>Rechte
+Nachdruck – auch auszugsweise – nur mit
+Genehmigung des IAB gestattet
+IAB im Internet
+http://www.iab.de/de</p>
+        </sec>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <article-title>Die Simulationsrechnungen beruhen auf dem Sozioökonomischen Panel (Wellen 2004 und 2005</article-title>
+          ,
+          <article-title>SOEP) und der Einkommens- und Verbrauchsstichprobe (EVS) aus dem Jahr 2003</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Arntz</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ;
+          <string-name>
+            <surname>Feil</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          und
+          <string-name>
+            <given-names>A</given-names>
+            .
+            <surname>Spermann</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          )
+          <article-title>: „Die Arbeitsangebotseffekte der neuen Mini- und Midijobs - eine ex-ante Evaluation“</article-title>
+          . Mitteilungen aus der Arbeitsmarkt- und
+          <string-name>
+            <surname>Berufsforschung</surname>
+          </string-name>
+          , Jg. 36, H. 3. S.
+          <volume>271</volume>
+          -
+          <fpage>290</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Arntz</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ;
+          <string-name>
+            <surname>Clauss</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ;
+          <string-name>
+            <surname>Kraus</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ;
+          <string-name>
+            <surname>Schnabel</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          ;
+          <string-name>
+            <surname>Spermann</surname>
+            ,
+            <given-names>A. und J</given-names>
+          </string-name>
+          .
+          <string-name>
+            <surname>Wiemers</surname>
+          </string-name>
+          (
+          <year>2007</year>
+          )
+          <article-title>: „Verteilungswirkungen der Hartz-IV-Reform“, mimeo</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Becker</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>: „Armut in Deutschland: Bevölkerung unterhalb der Alg II-Grenze“</article-title>
+          ,
+          <source>Arbeitspapier Nr</source>
+          .
+          <article-title>3 des Projektes "Soziale Gerechtigkeit"</article-title>
+          ,
+          <string-name>
+            <surname>J. W. Goethe</surname>
+          </string-name>
+          <article-title>Universität Frankfurt a</article-title>
+          . M.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Becker</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          ; Frick,
+          <string-name>
+            <surname>J. R.</surname>
+          </string-name>
+          ; Grabka,
+          <string-name>
+            <given-names>M.</given-names>
+            ;
+            <surname>Hauser</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>R.</surname>
+          </string-name>
+          ; Krause,
+          <string-name>
+            <surname>P.</surname>
+          </string-name>
+          ; Wagner,
+          <string-name>
+            <surname>G.</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          )
+          <article-title>: „A Comparison of the Main Household Income Surveys for Germany: EVS and SOEP“</article-title>
+          , in: Becker,
+          <string-name>
+            <surname>I.</surname>
+          </string-name>
+          ; Hauser,
+          <string-name>
+            <surname>R.</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          )
+          <article-title>: Reporting on Income Distribution and Poverty. Perspectives from a German and a European Point of View</article-title>
+          , Berlin.
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Blos</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>: „Haushalte im Umfeld des SGB II“</article-title>
+          ,
+          <string-name>
+            <surname>IAB-Forschungsbericht Nr</surname>
+          </string-name>
+          .
+          <volume>19</volume>
+          /2006, Nürnberg.
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Bofinger</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          ;
+          <string-name>
+            <surname>Dietz</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ;
+          <string-name>
+            <surname>Genders</surname>
+          </string-name>
+          , S. und U.
+          <string-name>
+            <surname>Walwei</surname>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>: „Vorrang für das reguläre Arbeitsverhältnis: Ein Konzept für Existenz sichernde Beschäftigung im Niedriglohnbereich“, Gutachten für das Sächsische Ministerium für Wirtschaft und Arbeit (SMWA).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Bonin</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          ; Rinne, U. und H.
+          <string-name>
+            <surname>Schneider</surname>
+          </string-name>
+          (
+          <year>2007</year>
+          )
+          <article-title>: „Untersuchung der beschäftigungs- und finanzpolitischen Auswirkungen des Bofinger/Walwei-Konzepts zur Neuordnung des Niedriglohnbereichs“,</article-title>
+          <source>I Z A Research Report No. 11</source>
+          ,
+          <string-name>
+            <surname>Bonn</surname>
+          </string-name>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Heckman</surname>
+            ,
+            <given-names>J.J.</given-names>
+          </string-name>
+          (
+          <year>1979</year>
+          )
+          <article-title>: „Sample Selection Bias as a Specification Error”</article-title>
+          .
+          <source>Econometrica</source>
+          ,
+          <volume>47</volume>
+          (
+          <issue>1</issue>
+          ),
+          <fpage>153</fpage>
+          -
+          <lpage>161</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Jacobebbinghaus</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          )
+          <article-title>: „Steuer-Transfer-Mikrosimulation“, in: HartzGesetze : methodische Ansätze zu einer Evaluierung, Baden-Baden:</article-title>
+          <string-name>
+            <surname>Nomos</surname>
+          </string-name>
+          , S.
+          <fpage>73</fpage>
+          -
+          <lpage>83</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Redmond</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          ; Sutherland, H. und Wilson,
+          <string-name>
+            <surname>M.</surname>
+          </string-name>
+          (
+          <year>1998</year>
+          )
+          <article-title>: „The Arithmetic of Tax and Social Security Reform: A User's Guide to Microsimulation - Methods and Analysis”</article-title>
+          , Cambridge: Cambridge University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Sinn</surname>
+            , H.-W.; Holzner,
+            <given-names>C.</given-names>
+          </string-name>
+          ;
+          <string-name>
+            <surname>Meister</surname>
+            ,
+            <given-names>W.</given-names>
+          </string-name>
+          ; Ochel, W. und M.
+          <string-name>
+            <surname>Werding</surname>
+          </string-name>
+          (
+          <year>2002</year>
+          )
+          <article-title>: „Aktivierende Sozialhilfe: Ein Weg zu mehr Beschäftigung und Wachstum“</article-title>
+          ,
+          <source>ifo Schnelldienst</source>
+          <volume>55</volume>
+          (
+          <issue>9</issue>
+          ), Sonderausgabe, S.
+          <fpage>3</fpage>
+          -
+          <lpage>52</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Statistik der Bundesagentur für Arbeit</surname>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>: „Grundsicherung für Arbeitsuchende: Wohnsituation und Wohnkosten</article-title>
+          .“ Nürnberg,
+          <string-name>
+            <surname>Oktober</surname>
+          </string-name>
+          <year>2006</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <given-names>Statistisches</given-names>
+            <surname>Bundesamt</surname>
+          </string-name>
+          (
+          <year>2005</year>
+          ): „Wirtschaftsrechnungen, Einkommensund Verbrauchsstichprobe - Aufgabe,
+          <source>Methode und Durchführung der EVS</source>
+          <year>2003</year>
+          “, Fachserie 15, Heft 7.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Steiner</surname>
+            ,
+            <given-names>V. und P.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Jacobebbinghaus</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          )
+          <article-title>: „Reforming social welfare as we know it? A microsimulation study for Germany“</article-title>
+          ,
+          <source>ZEW Discussion paper Nr</source>
+          .
+          <volume>03</volume>
+          -
+          <fpage>33</fpage>
+          , Zentrum für Europäische Wirtschaftsforschung, Mannheim.
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <source>SVR - Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung</source>
+          (
+          <year>2006</year>
+          )
+          <article-title>: „Arbeitslosengeld II reformieren - Ein zielgerichtetes Kombilohnmodell“</article-title>
+          , Wiesbaden.
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <source>Tabelle</source>
+          <volume>22</volume>
+          :
+          <string-name>
+            <surname>Lohngleichungen</surname>
+            ,
+            <given-names>Heckman</given-names>
+          </string-name>
+          <string-name>
+            <surname>Selektionskorrektur</surname>
+          </string-name>
+          , ML
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

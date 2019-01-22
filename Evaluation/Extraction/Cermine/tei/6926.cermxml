@@ -1,0 +1,915 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Zeitschriftenartikel / journal article</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Eine Methode zur Strukturanpassung von Umfragedaten</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Bruno</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Veröffentlichungsversion / Published Version</string-name>
+        </contrib>
+      </contrib-group>
+      <pub-date>
+        <year>2006</year>
+      </pub-date>
+      <fpage>88</fpage>
+      <lpage>110</lpage>
+      <abstract>
+        <p>Zur Verfügung gestellt in Kooperation mit / provided in cooperation with: GESIS - Leibniz-Institut für Sozialwissenschaften nbn-resolving.de/urn:nbn:de:0168-ssoar-69267 Kopp, B. (2006). Eine Methode zur Strukturanpassung von Umfragedaten. ZUMA Nachrichten, 30(59), 89-110. http://</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/1/6926.images/img_1_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/1/6926.images/img_1_2.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/1/6926.images/img_1_3.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/1/6926.images/img_1_4.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>Umfragedaten</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Nutzungsbedingungen:</title>
+      <p>Dieser Text wird unter einer CC BY-NC-ND Lizenz
+(Namensnennung-Nicht-kommerziell-Keine Bearbeitung) zur
+Verfügung gestellt. Nähere Auskünfte zu den CC-Lizenzen finden
+Sie hier:
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de</p>
+    </sec>
+    <sec id="sec-3">
+      <title>Terms of use:</title>
+      <p>This document is made available under a CC BY-NC-ND Licence
+(Attribution-Non Comercial-NoDerivatives). For more Information
+see:
+https://creativecommons.org/licenses/by-nc-nd/4.0
+EINE METHODE ZUR STRUKTURANPASSUNG</p>
+      <p>VON UMFRAGEDATEN
+A METHOD FOR STRUCTURAL FITTING IN</p>
+      <p>SURVEY SAMPLING</p>
+      <p>BRUNO KOPP
+EDabei wird jedem Befragten i ein Gewicht der Form f (γi) derart zugeordnet, dass die
+s wird ein Verfahren zur Anpassung von Befragungen an Sollvorgaben vorgestellt.
+Strukturen hinsichtlich vorgegebener Befragungsmerkmale mit den Sollwerten dieser
+Merkmale überein stimmen, wobei die Faktoren f (γi ) möglichst nahe an vorgegebenen
+Eingangsfaktoren ti liegen. Durch geeignete Wahl der Funktion f lassen sich Bedingungen
+nach Vorzeichen und Lage an die Personengewichte stellen. Ein Vergleich mit anderen
+Algorithmen zeigt die besondere Robustheit der Methode.</p>
+      <p>Tweight f (γi) in order to fit the structure of known population totals. The procedure
+he paper presents a calibration method which assigns individuals i of a survey a
+generates weights which are close to a set of given initial factors ti . An appropriate
+selection of the function f allows different properties of the generated weights in sign and
+range. A comparison with other methods reveals the stability of the algorithm.
+1</p>
+      <sec id="sec-3-1">
+        <title>Problemstellung</title>
+        <p>Gewichtungsverfahren werden benutzt zur Anpassung von Umfragedaten an vorgegebene
+Sollstrukturen (etwa aus der amtlichen Statistik).</p>
+        <p>Wir können – ohne Einschränkung der Allgemeinheit – die Strukturmerkmale hier
+allgemein als binäre Vektoren annehmen: Eine ursprüngliche Variable, etwa das Alter mit den
+Kategorien 1 bis 3, wird dabei aufgelöst in 3 dichotome Merkmale. Die Ursprungsvariable
+kann ein zusammengesetztes Merkmal (etwa Alter * Bildung) sein, so dass beliebig
+komplexe Strukturen erfasst werden. Ein solches Merkmal unterscheidet sich prinzipiell nicht
+von einem einfachen Merkmal; insofern ist auch die Redewendung „Anpassung an
+Randverteilungen“ eher künstlich.</p>
+        <p>Ist r die Gesamtanzahl der Kategorien aller ausgewählten Anpassungsmerkmale und n die
+Befragtenanzahl der Umfrage, so lassen sich die Anpassungsmerkmale in einer binären
+Matrix S = (s i k) mit r Zeilen und n Spalten eindeutig festlegen. Gesucht werden nun
+individuelle Faktoren g i für jeden der n Befragten derart, dass für jede Kategorie gilt
+n
+∑
+k=1</p>
+        <p>s i k g k = bi, ( i =1,…,r).</p>
+        <p>Dabei sind die b i vorgegebene Sollwerte, also Gesamtfallzahlen der Kategorie i als
+Zielgrößen für die Umfrage.</p>
+        <p>Sind die Daten der Umfrage – also die Matrix S – und die Sollwerte in sich
+widerspruchsfrei, so kann man die Gewichtungsfaktoren in der Lösungsmenge des inhomogenen
+linearen Gleichungssystems (System der Restriktionen)</p>
+        <p>S g = b
+(1)
+suchen.</p>
+        <p>
+          Dabei ist g = (g1,…, g n)T und b = (b1,…b r)T mit T als Transpositionszeichen. Da die
+Lösung von (1) – wenn sie existiert – nicht eindeutig (weil im Normalfall r &lt; n) ist, wird
+in der Regel die Zusatzforderung gestellt, dass die Gewichte g i von Vorgewichten t i
+möglichst wenig abweichen sollten. Unter Vorgewichten verstehen wir hier so genannte
+Designgewichte.
+„Mit der Designgewichtung wird verhindert, dass eine vom Ansatz her bewusste (z.B. ein
+überhöhter Stichprobenanteil in den östlichen Bundesländern) oder nicht zu verhindernde
+(z.B. bei haushaltsbasierten Bevölkerungsstichproben) Verzerrung der Abbildung in die
+Auswertung übertragen wird.“
+          <xref ref-type="bibr" rid="ref8">(Von der Heyde 1999)</xref>
+          .
+        </p>
+        <p>Eine sinnvolle Forderung ist, dass die Gewichte positiv sein müssen, was bei einigen
+Methoden allerdings mit zunehmender Anzahl r an Restriktionen zu einem besonderen
+Problem wird.
+2</p>
+      </sec>
+      <sec id="sec-3-2">
+        <title>Der Iterative Proportional Fitting – Algorithmus („IPF“)</title>
+        <p>
+          Diese auf
+          <xref ref-type="bibr" rid="ref2">Deming &amp; Stephan (1940)</xref>
+          zurückgehende Gewichtungsmethode ermittelt die
+Gewichte als Quotienten aus Fallzahlen der Sollzellen zu den entsprechenden Fallzahlen
+der Umfrage (Ist-Zellen). Auf Basis dieser Idee arbeiten in der Praxis viele Methoden,
+deren genaue Beschreibungen leider öffentlich nicht zugänglich sind. Wir müssen uns
+daher auf eine prinzipielle Erörterung des IPF beschränken, dessen Arbeitsweise an
+folgendem Beispiel verdeutlicht werden soll. Alle Männer erhalten zunächst als Gewicht den
+Quotienten Anzahl Männer (Soll) zu der Anzahl Männer (Ist), wobei bei der Berechnung
+der Ist-Werte die Vorgewichte benutzt werden. Entsprechend erhalten die Frauen ihr
+Gewicht. Der erhaltene Gewichtsvektor enthält die vorläufigen Gewichte (1. Stufe).
+Anschließend wird mit einem weiteren Merkmal (Z.B. Alter) ganz entsprechend verfahren,
+wobei die Fälle in den Ist-Zellen nun mit den bereits vorliegenden Gewichten der Stufe 1
+ermittelt werden. Das ergibt wieder Gewichte, die – mit den Gewichten der 1. Stufe
+multipliziert – die neuen Gewichte der Stufe 2 liefern. Das Verfahren wird über alle
+vorgesehenen Anpassungsmerkmale fortgesetzt. Dabei werden stets die gerade erzeugten
+Gewichte mit denjenigen der Vorstufe multipliziert.
+        </p>
+        <p>
+          Nachdem so alle Merkmale behandelt wurden, wird der Prozess wiederholt bis nach
+einigen Iterationen Konvergenz eintritt. Die Vorteile des IPF liegen in seiner einfachen
+Arbeitsweise und in dem Umstand, dass die gefundenen Faktoren aufgrund der
+Quotientenbildung nicht negativ sein können. Nachteile ergeben sich dann, wenn leere Ist-Zellen
+auftreten (Division durch 0) – was eine umständliche Zusammenlegung von Kategorien
+erforderlich macht. Außerdem können bei der Forderung von Unter- und Obergrenzen der
+Gewichte ( IPF neigt zu extremen Gewichten) Konvergenzprobleme auftreten.
+Näheres über IPF findet man bei
+          <xref ref-type="bibr" rid="ref7">Rösch (1994)</xref>
+          .
+3
+        </p>
+      </sec>
+      <sec id="sec-3-3">
+        <title>Abstandsminimierung zu Vorgewichten bei linearen Restriktionen („MinVar“)</title>
+        <p>
+          Es gibt eine Reihe von Methoden, die aus der Lösungsmenge des Gleichungssystems der
+Restriktionen diejenige ermitteln, deren Abstand zu den Vorgewichten minimal ist.
+Diese Verfahren unterscheiden sich hauptsächlich in dem verwendeten Abstandsbegriff.
+So benutzt
+          <xref ref-type="bibr" rid="ref4">Merz (1993</xref>
+          , 2004) ein informationstheoretisches Distanzmaß, wodurch
+negative Gewichte verhindert werden.
+        </p>
+        <p>Mit dem Quadratischen Euklidischen Abstand zwischen den Gewichten und den
+Vorgewichten liefert die Minimierungsaufgabe mit t = (t 1,…, t n)T
+die Lösung</p>
+        <p>Min (g-t)T(g-t) unter der Nebenbedingung S g = b</p>
+        <p>g = t + ST (SST)-1 [b – S t].</p>
+        <p>
+          Obige Lösung ergibt sich per Lagrange-Technik (siehe Anhang).
+(2)
+(3)
+          <xref ref-type="bibr" rid="ref7">Rösch (1994)</xref>
+          bezeichnet dieses Verfahren als MinVar - Methode, weil im Falle gleicher
+Eingangsgewichte sich eine Lösung minimaler Varianz ergibt. Nachteilig bei dieser
+Methode ist einerseits der Umstand, dass obige Produkt-Matrix nicht invertierbar sein kann
+und andererseits negative Gewichte nicht auszuschließen sind.
+        </p>
+      </sec>
+      <sec id="sec-3-4">
+        <title>Hinweise zum Rang der Matrizen S und SST</title>
+        <p>Die Inversion in (3) setzt voraus, dass S den maximalen Rang r hat, also keine der r Zeilen
+von S sich aus den übrigen linear bilden lässt – es dürfen also keine redundanten
+Informationen in S enthalten sein.</p>
+        <p>Fehlt eine Ausprägung (Missing Value, leere Zelle), führt dies zu einer Nullzeile in S, was
+den Rang von S reduziert.</p>
+        <p>Selbst dann, wenn alle Kategorien vorkommen, ergeben sich Redundanzen, wie folgendes
+Beispiel zeigt.</p>
+        <p>Entsprechen z.B. – wie eingangs erwähnt – die ersten 3 Zeilen den Kategorien des Alters, so
+muss die Summe der 3 ersten Zeilen in S ausschließlich zu einer Zeile aus Einsen führen.
+Werden bei dem nächsten Ursprungsmerkmal – Beispiel Bildung mit 4 Kategorien –
+sämtliche 4 binäre Einzelmerkmale in S angefügt, so kann S automatisch nicht mehr den
+maximalen Rang haben. Denn die Summe dieser 4 Merkmale ergibt ja wieder lauter
+Einsen. Um diesen Effekt zu vermeiden, sollte man nur bei einem einzigen
+Ursprungsmerkmal (etwa beim Alter) sämtliche Kategorien berücksichtigen und bei allen
+nachfolgenden jeweils eine Ausprägung zur Vermeidung von Redundanzen auslassen.
+Besondere Probleme ergeben sich bei Kombinationsmerkmalen (etwa bei der Variablen
+Alter * Bildung), insbesondere dann, wenn Redundanzen aus Merkmalen und deren
+Kombinationen (etwa die 3 Merkmale Alter, Bildung und Alter * Bildung) vorgesehen sind.
+Hier könnte der Einsatz der Pseudoinversen Abhilfe schaffen, worunter dann allerdings
+die Genauigkeit der Ergebnisse leiden wird. Siehe Anhang 7.2.</p>
+        <p>Selbst dann, wenn keine Redundanzen vorkommen, kann der Rang von S kleiner als r sein.
+Dies ist etwa der Fall, wenn zwei Kategorien verschiedener Ursprungsmerkmale ein
+identisches Muster aufweisen. Bei fast identischen Mustern ist die Korrelation zwischen
+beiden Zeilen von S nahe 1; die Matrix SST ist „schlecht konditioniert“, und die
+Invertierung kann im günstigsten Fall mittels Pseudoinverse erfolgen, wobei es oft sinnvoller
+wäre, eine Anpassungsvariable zu entfernen. Siehe auch die Hinweise im Anhang 7.6.
+All diese Probleme spielen bei dem nachfolgenden Modell keine Rolle mehr.
+4</p>
+      </sec>
+      <sec id="sec-3-5">
+        <title>Alternativmodell: Minimierung ohne Nebenbedingen („Min I“)</title>
+        <p>Als Alternative zur obigen Minimierungsaufgabe (2) mit linearen Restriktionen bietet sich
+der folgende Ansatz einer Minimierung ohne Nebenbedingungen an.</p>
+        <p>
+          Z = λ(S g – b) T (S g – b) + (g-t)T(g-t) = Min !
+(4)
+Hier ist λ ein positiver Kontrollparameter, der eine differenzierte Gewichtung beider
+Summanden ermöglicht. Hohe Werte für λ sorgen dafür, dass die Restriktionen (1)
+genauer eingehalten werden. Geht λ gegen 0, so nähern sich die Gewichte den Vorgewichten.
+Die Lösung dieser quadratischen Minimierungsaufgabe (Herleitung im Anhang) ist
+g = t + ST(E r / λ + SST)-1 [ b – S t].
+E r ist dabei die Einheitsmatrix der Ordnung r. Da die zu invertierende Matrix hier stets
+regulär ist (Siehe Abschnitt 7.6 im Anhang), existiert diese Lösung grundsätzlich, was das
+Verfahren, das dem Ridge-Regression-Ansatz entspricht, besonders robust macht.
+Dies ist ein Vorteil gegenüber dem MinVar - Verfahren. Hinweise zur Ridge-Regression
+findet man bei
+          <xref ref-type="bibr" rid="ref3">Hartung und Elpelt (1986</xref>
+          ). Allerdings können auch hier negative Gewichte
+nicht ausgeschlossen werden. Man erkennt übrigens in (5), dass die Lösung mit
+wachsendem Kontrollparameter λ gegen diejenige des MinVar - Verfahrens (3) strebt.
+          <xref ref-type="bibr" rid="ref1">Chambers (1996)</xref>
+          und
+          <xref ref-type="bibr" rid="ref6">Rao &amp; Singh (1997)</xref>
+          benutzen eine zu (4) ähnliche Zielfunktion, wobei
+der Abstand zwischen Gewichten und Vorgewichten mittels χ2 –Distanzmaß gemessen wird.
+Abbildung 1 zeigt einen typischen Verlauf (aus einem Beispiel mit n = 2502, r = 44) der
+Größen Z1und Z2 im jeweiligen Minimum von Z = λΖ1 + Z2. Zusätzlich ist der Wert der
+Zielfunktion von MinVar eingetragen (ca. 300). Man erkennt, dass für λ etwa oberhalb 0,9
+praktisch kein Unterschied mehr zwischen beiden Methoden vorliegt: Der
+Anpassungsfehler Z1 ist praktisch 0 (was der Bedingung S g = b bei MinVar entspricht). Bei
+λ = 0,1 liegt der quadrierte Abstand zu den Vorgewichten Z2 beim Alternativmodell bei
+ca. 250, also um 50 Einheiten besser als der Zielfunktionswert von MinVar (300).
+Bei weiter fallenden Werten für λ würden sich die Gewichte bei Min I den Vorgewichten
+nähern (Z2 geht gegen 0) – bei gleichzeitiger Verschlechterung der Merkmalsanpassung
+Z1. In der Praxis hat sich gezeigt, dass mit λ = 1 sehr gute Ergebnisse erzielt werden, die
+mit MinVar durchaus konkurrieren können. Eine weitere Steigerung über 1 hinaus würde
+in diesem Beispiel keine wesentliche Verbesserung der Anpassung Ζ1 = (S g – b) T (S g – b)
+mehr bringen.
+        </p>
+        <sec id="sec-3-5-1">
+          <title>Abbildung 1</title>
+          <p>Einfluss von λ auf die Gewichtung
+350
+300
+250
+200
+150
+100
+50
+0</p>
+          <p>0
+0,10</p>
+          <p>0
+0,20
+Die Matrix E r / λ + SST in (5) ist grundsätzlich regulär (Siehe Anhang 7.6). Allerdings
+könnten numerische Probleme bei der Matrizeninversion auftreten im Falle extrem hoher
+Werte r an Restriktionen.</p>
+          <p>Dieser Fall liegt dann vor, wenn nicht nur Randverteilungen von Anpassungsmerkmalen
+berücksichtigt werden sollen, sondern auch beliebige Kombinationen zwischen solchen
+Variablen zu einer erheblichen Anzahl r von Gewichtungszellen führen.</p>
+          <p>Wir leiten nun aus diesem Ansatz (4) eine Methode ab, die a) unabhängig von der Anzahl
+der Restriktionen numerisch stabil bleibt und b) grundsätzlich zu positiven Gewichten
+führt.</p>
+        </sec>
+      </sec>
+      <sec id="sec-3-6">
+        <title>Ein robustes Gewichtungsverfahren mit positiven Gewichten („Min II“)</title>
+        <p>Es sei nun f eine Funktion, die jedem reellen x eine reelle Zahl f(x) zuordnet. Die
+existierenden Ableitungen f ’(x) und f ’’(x) seien außerdem stetig. Wir vereinbaren folgende
+Schreibweisen: f(x) = (f(x 1),…, f(x n))T, falls das Argument x eine Vektorgröße ist. Dies
+gelte auch für die Funktionen f ’(x) und f ’’(x).</p>
+        <p>Wir ersetzen nun die Gewichte g i durch den Ansatz f(γ i) = g i mit noch unbekannten
+reellen Größen γi und setzen f(γ) = (f(γ1),…, f(γn))T.</p>
+        <p>Bei einem Spaltenvektor x bedeute die Schreibweise Diag {x } die Diagonalmatrix der
+Komponenten von x.</p>
+        <p>Die Zielfunktion (4) lautet dann</p>
+        <p>Z = λ ( S f(γ) – b ) T ( S f(γ) – b ) + ( f(γ)-t )T( f(γ)-t )
+(6)
+Die Transformation f dient ausschließlich dazu, dass die Gewichte f(γ i) in noch
+vorzugebenden Bereichen liegen. So kann die Bedingung f(γ i) ∈ [a, b] etwa durch f(x) = a+(b-a)cos2 x
+erfüllt werden. Die Funktion f(x) = ex führt zu positiven Gewichten und nicht negative
+Gewichte ergibt f(x) = x 2. Keine Einschränkung der Gewichte liefert f(x) = x und (6) ist
+dann mit der Zielfunktion (4) identisch.</p>
+        <sec id="sec-3-6-1">
+          <title>5.1 Lösung des Optimierungsproblems</title>
+          <p>Die Zielfunktion (6) lässt sich umformen in</p>
+          <p>Z = f ( γ ) T [λ STS+ E n] f (γ ) – 2[λ b T S+ t T] f (γ ) + λ b T b + t Tt
+Dabei ist E n Einheitsmatrix der Ordnung n, Z im Allgemeinen keine quadratische Form in
+γ.</p>
+          <p>Der Gradient δ = Grad Z(γ1,…, γn) bezüglich γ1,…, γn lautet:
+δ = 2 Diag {f ’(γ) } ( [λ STS + En] f(γ) − λ ST b – t )
+(7)
+(8)
+Zur Lösung der Optimierungsaufgabe Z(γ1,…,γn) = Min ! verwenden wir das
+Gradientenverfahren 1. Ordnung γ = γ − ε δ mit der positiven Schrittweite ε.
+5.2 Positive Gewichte: f(x) = ex
+Wir behandeln nun den Fall f(x) = ex, der die Positivität der Gewichte garantiert.
+Mit der Bezeichnung eγ = (e γ 1,…, e γ n)T lautet die Zielfunktion</p>
+          <p>Z = eγ T [λ STS +E n] eγ – 2[λ bTS + tT] eγ+ λ bTb +tTt
+mit dem Gradienten
+Für die Jacobische Funktionalmatrix ergibt sich (siehe Anhang)
+δ = 2 Diag {e γ } ( [λ STS + E n] eγ − λ STb – t ) .</p>
+          <p>J = 2Diag {e γ } [λ STS + E n] Diag {e γ } + Diag{δ} .
+(9)
+(10)
+(11)</p>
+        </sec>
+        <sec id="sec-3-6-2">
+          <title>5.3 Die Lösung mittels Gradientenverfahren 1. Ordnung</title>
+          <p>Mit obigen Ergebnissen (10) und (11) ergibt sich nun das Iterationsverfahren γ : = γ – ε δ,
+woraus sich die positiven Gewichte unmittelbar als g i = e γi ergeben. Falls die Gewichte
+aus (5) ohnehin positiv waren, so stimmen sie mit den hier erhaltenen überein (Siehe den
+Hinweis im Anhang (7.3)). In diesem Fall macht ein Start mit Min II keinen Sinn – es sei
+denn, die Matrizeninversion in (5) wird wegen extrem hoher Anzahl r an Restriktionen
+problematisch.</p>
+          <p>Nur in diesem Ausnahmefall wird als Startwert γ beim Gradientenverfahren der
+Logarithmus der Vorgewichte, γi = ln (t i), verwendet.</p>
+          <p>Falls die Min I - Lösung g = t + ST(E r / λ + SST)-1 [ b – S t] nicht nur positive
+Komponenten hat, werden diejenigen Werte, die unterhalb einer Schranke (etwa 0,001) liegen, auf
+diesen positiven Grenzwert gesetzt und das Gradientenverfahren mit dem Logarithmus
+der so veränderten Gewichte gestartet. Mit der Schrittweite ε = δTδ / δTJ δ konvergiert das
+Verfahren dann sehr rasch.</p>
+          <p>Da in der Praxis Gewichtungen mit über n = 50000 Befragten möglich sind, ist der
+Hinweis wichtig, dass bei der Softwareimplementierung von Min II das Gradientenverfahren
+nur drei Arbeitsfelder der Größe n benötigt. Gradientenverfahren quadratischer
+Konvergenz (Newton-Raphson, Konjugierte Gradienten) scheitern daran, dass die Inverse einer
+(n,n)-Matrix berechnet werden müsste.</p>
+          <p>Das einfache Gradientenverfahren hat – als Iterationsverfahren – den Vorteil gegenüber
+nicht iterativen Methoden , dass es einerseits selbstkorrigierend ist (Rundungsfehler
+können sich nicht „aufschaukeln“) und außerordentlich numerisch stabil ist im Vergleich zu
+anderen denkbaren Lösungsansätzen. Dieser Effekt ist gerade bei sehr hohen Fallzahlen n
+von entscheidender Bedeutung.</p>
+          <p>Fehlende Werte (Missing Values) bei einer bestimmten Kategorie machen sich dadurch
+bemerkbar, dass eine der r Zeilen der Matrix S zur Nullzeile wird. Dies führt – wie
+anfangs erwähnt – zu Problemen bei MinVar.</p>
+          <p>Beim Alternativmodell Min I spielt dies offensichtlich rechnerisch keine Rolle, weil dort
+in (5) die Matrix Er / λ + SST grundsätzlich regulär bleibt (Siehe Anhang 7.6). Gleiches
+gilt natürlich für Min II.
+6</p>
+        </sec>
+      </sec>
+      <sec id="sec-3-7">
+        <title>Rechenbeispiele aus der Praxis</title>
+        <sec id="sec-3-7-1">
+          <title>6.1 Das Datenmaterial</title>
+          <p>Für ein Forschungsprojekt am Institut für Markt-, Media- und Regionalforschung
+BIK ASCHPURWIS+BEHRENS, Hamburg, wurde eine kleinere face to face-Befragung
+von 5007 Befragten (ab 14 Jahre) an Sollvorgaben einer repräsentativen face to
+faceBevölkerungsumfrage mit insgesamt 32423 Interviews angepasst. Zur Demonstration
+werden wir diese nun bezüglich der Merkmale Alter (7 Kat.), Geschlecht (2), Schule
+(höchster Schulabschluss des Befragten, die letzte Ausprägung „Schüler“ sind die
+Befragten, die noch zur Schule gehen.) (4), Haushaltsgröße (4) und Nutzergruppe eines Mediums
+nach Leseorten (9) an die größere Befragung anpassen. Beide Studien weisen bezüglich
+dieser Variablen vergleichbare Fragestellungen auf. Als Vorgewichte verwenden wir in
+diesem Beispiel einheitlich Einsen.</p>
+          <p>Die Schwierigkeiten liegen in den Diskrepanzen bei dem Merkmal Nutzergruppe, wie Tabelle 1
+zeigt, weswegen wir dieses Beispiel zu Demonstrationszwecken bewusst gewählt haben.</p>
+        </sec>
+        <sec id="sec-3-7-2">
+          <title>Tabelle 1</title>
+        </sec>
+        <sec id="sec-3-7-3">
+          <title>Nutz-GRP</title>
+        </sec>
+        <sec id="sec-3-7-4">
+          <title>6.2 Beispiel 1</title>
+          <p>Mit dem anfänglichen Kontrollparameter λ = 1 wurden zunächst die Methoden Min I und
+Min II gerechnet; zum Vergleich wurden auch die Resultate von MinVar und IPF mitgeliefert.
+Tabelle 2 zeigt die Unterschiede der 4 beschriebenen Gewichtungsverfahren. IPF hat
+tendenziell höhere Gewichte bei guter Genauigkeit der Anpassungsmerkmale.
+Allerdings geht dies zu Lasten des größeren Abstands zu den Vorgewichten.
+MinVar und Min I liefern in diesem Beispiel negative Gewichte, wobei erwartungsgemäß
+MinVar die Struktur der Merkmale fehlerfrei reproduziert wegen der Bedingung (1) Sg=b.
+Am nächsten an den Vorgewichten liegen die Ergebnisse von Min I und Min II mit
+gleicher Güte bezüglich der Anpassungsgenauigkeit.</p>
+          <p>Die Effektivität ist ein Maß für die Streuung der Gewichte, definiert als Quotient aus
+quadrierter Gewichtssumme zur Summe der Quadrate der Gewichte (prozentuiert auf die
+Anzahl n der Befragten). Hohe Werte sind gleichbedeutend mit niedriger Streuung. So ist
+die Höhe der Effektivität ein Qualitätsmerkmal für die erhaltene Gewichtung.
+Nur dann, wenn alle Gewichte einander gleich wären (Streuung 0), wäre die Effektivität
+gleich 100 %. Aus Tab. 2 ist ersichtlich, dass IPF die geringste Effektivität hat. Am
+höchsten liegt sie bei Min I und Min II.</p>
+        </sec>
+        <sec id="sec-3-7-5">
+          <title>Tabelle 2</title>
+        </sec>
+        <sec id="sec-3-7-6">
+          <title>Kenngrößen Gewichte</title>
+          <p>Min II
+MinVar
+Min I
+IPF</p>
+          <p>Effektivität
+Dass diese Unterschiede der Anpassungsgenauigkeit bei allen 4 Methoden indessen nicht
+sehr voneinander abweichen, zeigt Tabelle 3 mit den Soll-Ist-Abweichungen der
+errechneten Fallzahlen. Erwartungsgemäß ist der Unterschied bei Kategorie 11 von Nutz-GRP am
+stärksten (Sollwert 44, heraus kommt ein Istwert von 38 gewichteten Fällen bei Min I,
+Min II für λ = 1).</p>
+        </sec>
+        <sec id="sec-3-7-7">
+          <title>Tabelle 3</title>
+        </sec>
+        <sec id="sec-3-7-8">
+          <title>Abweichungen</title>
+          <p>Soll-Min II
+(λ=1)</p>
+          <p>Soll-MinVar</p>
+          <p>Soll-Min I
+(λ=1)
+(λ=1)
+Alter
+HHGR
+Das Gros der Gewichte liegt unterhalb 2,250, wie aus der Abb. 2 hervorgeht. Bis auf IPF
+liefern alle 4 Methoden in etwa die gleiche Gewichtsverteilung. Die IPF-Gewichte häufen
+sich zwischen 0,250 und 0,750.</p>
+        </sec>
+        <sec id="sec-3-7-9">
+          <title>Abbildung 2 Verteilung der Gewichte</title>
+          <p>30
+25
+20
+15
+10
+5
+0
+Mit wachsendem Kontrollparameter λ erhöht sich die Anpassungsgüte der Merkmale an
+die Sollvorgaben. In Tabelle 4 geht der Fehler bei Min I und Min II auf rund 17 zurück,
+wenn λ von ursprünglich 1 auf 2 ansteigt. Im „Problemfall“ Kategorie 11 der Variablen
+Nutz-GRP gilt nun Soll = 44, Ist = 41 Fälle.
+(λ=2)
+Alter
+HHGR</p>
+        </sec>
+        <sec id="sec-3-7-10">
+          <title>Tabelle 4</title>
+        </sec>
+        <sec id="sec-3-7-11">
+          <title>Abweichung</title>
+          <p>Effektivität
+Min g
+Max g
+Anpassungsfehler
+Quadr. Abst. Vorgew.
+69,73%
+0,009
+10,378
+16,989
+2173,17
+69,05%
+-0,336
+11,235
+Soll-Min II
+(λ=2)</p>
+          <p>Soll-Min I
+(λ=2)
+Wird der Kontrollparameter λ auf 5 gesetzt, so ergibt sich beim Merkmal Nutz-GRP
+folgendes Bild (bei allen anderen Merkmalen gibt es keine Unterschiede mehr):</p>
+        </sec>
+        <sec id="sec-3-7-12">
+          <title>Tabelle 5</title>
+          <p>(λ=5)
+Nach wie vor liegen die Gewichte bei Min I und Min II näher an den Vorgewichten. Der
+einzige Unterschied liegt bei Kategorie 11: Statt 44 Fällen ergeben sich nun 43 gewichtete
+Fälle bei beiden Verfahren (ab λ = 6 ist kein Unterschied bei der Anpassung mehr
+vorhanden und der quadratische Abstand zu den Vorgewichten liegt mit 2223,7 für Min II bzw.
+2223,5 für Min I immer noch besser als bei MinVar und erst recht IPF mit 2451,3).</p>
+        </sec>
+        <sec id="sec-3-7-13">
+          <title>6.3 Beispiel 2</title>
+          <p>Verzichtet man auf das problematische Merkmal Nutz-GRP (vgl. Tab. 1), bleiben die
+Gewichte bei allen 4 Methoden positiv. In diesem Fall liefern Min I und Min II (bei λ = 1) dieselben
+Ergebnisse, wie abschließend Tab. 6 zeigt. Min II bricht nach der ersten Iteration ab.
+Auch hier wird wieder die Sonderstellung von IPF deutlich: Die Gewichte weichen
+deutlich von denen der übrigen Verfahren ab (Abb. 3). Dagegen stimmen die
+MinVarGewichte mit denjenigen von Min I, Min II praktisch überein.</p>
+        </sec>
+        <sec id="sec-3-7-14">
+          <title>Tabelle 6</title>
+          <p>(λ = 1)
+Alter
+HHGR
+Effektivität
+min g
+max g
+Quadr. Abst. Vorgewichte
+Anpassungsgenauigkeit
+Soll-Min I Soll-IPF
+Min II
+90,05 %
+0,148
+2,589
+553,286
+1,825</p>
+        </sec>
+        <sec id="sec-3-7-15">
+          <title>Abbildung 3 Verteilung der Gewichte</title>
+          <p>45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+[ 0.138, ] 0.250, ] 0.500, ] 0.750, ] 1.000, ] 1.250, ] 1.500, ] 1.750,
+0.250] 0.500] 0.750] 1.000] 1.250] 1.500] 1.750] 3.240]
+1. Min II
+2. MinVar
+3. Min I
+4. IPF</p>
+        </sec>
+        <sec id="sec-3-7-16">
+          <title>6.4 Ein Experiment mit zusammengesetzten Merkmalen</title>
+          <p>Zum Abschluss folgt noch ein Extrembeispiel mit untereinander verknüpften Merkmalen.
+In Tabelle 7 sind 8 Merkmale aufgeführt, von denen die letzten 4 aus den ersten 4
+zusammengesetzt sind. Es handelt sich hier um insgesamt r = 327 Restriktionen
+(bei n = 5007 Befragten).</p>
+          <p>In diesem Fall versagt IPF wegen der entstehenden 15 leeren Ist-Zellen, was allenfalls
+durch ein recht umständliches Zusammenlegen von Kategorien verhindert werden könnte.
+Auch MinVar funktioniert hier nicht mehr, weil a) 55 Zeilen in S zu Null werden und b)
+die kombinierten Variablen 5 bis 8 zu den erwähnten Redundanzen im System der
+Restriktionen führt.</p>
+          <p>Erwartungsgemäß ergeben sich keine Probleme bei Min II. Mit λ = 1 ergeben sich sehr
+gute Ergebnisse, wie die Tabelle 7 zeigt.
+Die höchste Abweichung zwischen Soll und Ist ergibt sich bei den Frauen über 70 Jahren
+mit Hauptschulabschluss in einem Haushalt mit mehr als 4 Personen: Statt der 11 Sollfälle
+liefert die Min II - Gewichtung 8 solcher Fälle. In allen anderen der 327 Ausprägungen
+liegt der Unterschied unter 0,1 % bezogen auf 5007 Fälle.</p>
+        </sec>
+        <sec id="sec-3-7-17">
+          <title>Tabelle 7</title>
+          <p>Merkmale
+Alter (7)
+Sex (2)
+Schule (4)
+HHGR (4)
+Alter *Sex (14)
+Schule *HHGR (16)
+Alter * Sex * HHGR (56)
+Alter * Sex * Schule *HHGR (224)</p>
+          <p>Leere
+Soll-Zellen</p>
+          <p>leere
+Ist-Zellen</p>
+          <p>Nur bei Ist
+leere Zellen
+40
+55
+15
+Min g
+Max g
+Effektivität
+Quadr. Abst.</p>
+          <p>Vorgewichte
+Anpassungsgüte bei 327
+Restriktionen
+1087,7
+68,43
+Höchster Soll-Ist-Unterschied bei Frauen, 70 J+, Hauptschule, 4 Pers. + : Soll = 11, Ist = 8 Fälle
+Alle übrigen Unterschiede liegen – bezogen auf 5007 Fälle – unter 0,1 %.
+7
+7.1</p>
+        </sec>
+      </sec>
+      <sec id="sec-3-8">
+        <title>Anhang</title>
+        <sec id="sec-3-8-1">
+          <title>Spezielle Formeln für Gradienten und Jacobi-Matrix</title>
+          <p>Unter der Jacobischen Funktionalmatrix J einer reellwertigen Funktion F(x 1,…, x n)
+verstehen wir die (n, n)-Matrix der partiellen Ableitungen ∂2 F(x1,…,x n) / (∂x i ∂x k) . Es
+wird dabei unterstellt, dass die partiellen Ableitungen existieren und von der Reihenfolge
+unabhängig sind.</p>
+          <p>Wir haben in den vorangegangenen Abschnitten einige Formeln gebraucht, die hier kurz
+erläutert werden sollen. Sie betreffen Gradienten und Jacobische Funktionalmatrix
+bezüglich γi der reellen Funktion f(γ)TA f(γ) mit symmetrischer Matrix A und der Funktion
+bT f(γ). Dabei hängen A und der Vektor b nicht von den γi ab. Nicht indizierte Größen sind
+Spaltenvektoren. Wie schon erwähnt, sind f ’(γi) und f ’’(γi) die Werte der 1. und 2.
+Ableitung der Funktion f an der Stelle γi, f ’(γ) und f ’’(γ) die entsprechenden Spaltenvektoren.
+Ist v ein Vektor (in Spaltendarstellung), so bezeichne Diag {v} die Diagonalmatrix aus
+den Komponenten dieses Vektors. Bei besonderem Bezug auf die Komponenten v i des
+Vektors v gelte auch Schreibweise Diag {v i} Es folgt:</p>
+          <p>Grad f(γ)TA f(γ) = 2Diag {f ’(γ)} A f(γ)</p>
+          <p>Grad bT f(γ) = Diag {f ’(γ)} b
+Funktionalmatrix von b T f(γ) : Diag {bi f ’’(γi)} ,
+und von f(γ)TA f(γ) : 2Diag {f ’(γ)} A Diag {f ’(γ )} + 2Diag {f ’’(γ)} Diag { Af(γ) }</p>
+        </sec>
+        <sec id="sec-3-8-2">
+          <title>7.2 Herleitung Formel (3)</title>
+          <p>Wir minimieren die Lagrange-Funktion L(g, µ) = (g-t)T(g-t) + µT(Sg-b) , wobei die
+Minimierung bezüglich g und des r-dimensionalen Parametervektors µ erfolgt. Für die
+notwendigen Bedingungen setzen wir die Gradienten auf Null.</p>
+          <p>Grad g L = 2(g-t) + STµ = 0
+Grad µ L = Sg-b = 0
+(*)
+(**)
+Aus (*) ergibt sich STµ = - 2(g-t). Multiplikation mit S von links liefert zunächst
+SSTµ = −2S(g-t). Falls S maximalen Rang hat, folgt µ = −2(SSΤ)−1S(g-t). Also unter
+Verwendung von (**):µ = −2(SSΤ)−1S(g-t) = −2(SSΤ)−1 (b-St).</p>
+          <p>Daraus folgt zusammen mit (*) schließlich (3). Falls S nicht maximalen Rang hat, kann
+man versuchen, mit Hilfe der Moore-Penrose-Inversen von SST zu einer Ersatzlösung zu
+kommen.</p>
+          <p>
+            In
+            <xref ref-type="bibr" rid="ref3">Hartung und Elpelt (1986</xref>
+            ) findet man einen entsprechenden Algorithmus zur Bildung
+der Pseudoinversen.
+          </p>
+        </sec>
+        <sec id="sec-3-8-3">
+          <title>7.3 Herleitung Formel (5)</title>
+          <p>Wir setzen den Gradienten von Z =λ(S g– b)T(S g– b)+ (g-t)T(g-t) gleich 0 und erhalten
+(λSTS + En)g = λ ST b + t. Es folgt nach Linksmultiplikation mit S
+(λSSTS + S)g = λ S ST b + St und damit (λSST + E r) S g = λ S ST b + St, also
+S g = (λSST + E r)-1(λ S ST b + St).</p>
+          <p>Aus der ursprünglichen Beziehung (λSTS + En)g = λ ST b + t ergibt sich
+g = - λ ST S g + λ STb + t. Darin ersetzen wir nun S g durch (λSST + Er)-1(λ S STb + St):
+g = t + λ STb - λST(λSST + Er)-1(λ S STb + St) = t + λ STb - ST(SST + Er/λ)-1(λ S STb + St),
+g = t + λ ST b - ST(SST + E r /λ)-1(-b + b + λ S ST b + St),
+g = t + λ ST b - ST(SST + E r /λ)-1(E r +λ S ST)b - ST(SST + E r / λ)-1 (-b + St),
+g = t + λ ST b - λ ST b - ST (SST + E r /λ)-1 (-b + St) = t + ST(E r / λ + SST)-1[ b – S t].
+Hinweis: Sind alle Komponenten von g positiv, so verschwindet für dieses g mit
+γ: = Ln (g) der Gradient in (10), δ = 2 Diag {e γ } ( [λ STS + E n] eγ − λ STb – t ); denn es
+gilt ja dann:</p>
+          <p>[λ STS + E n] eγ − λ STb – t = [λ STS + E n] g − λ STb – t.</p>
+          <p>Und dies ist gleich 0 nach obiger Herleitung. Diese Überlegung gilt natürlich
+entsprechend für alle anderen Funktionen f(x), wenn man allgemein γ: = f -1(g) setzt mit f -1 als
+Umkehrfunktion von f.
+7.4 Formel (11)
+Für die Jacobische Funktionalmatrix J von (9) ergibt sich zunächst
+2Diag {e γ } [λSTS + E n] Diag {eγ } + 2Diag {e γ } Diag {[λSTS + E n] e γ − λ ST b – t }.
+Der 2. Summand aber ist aber gerade gleich Diag{δ}:
+Sei D = 2Diag {e γ} und v =[λ STS + E n] e γ − λ S Tb – t.</p>
+          <p>Nun ist wegen (10): δ = 2 Diag {e γ} ( [λ STS + E n] e γ − λ S Tb – t ) = D v.
+Also Diag{δ} = Diag {Dv} = D Diag {v}= 2Diag {eγ} Diag {[λSTS+ E n] eγ− λ STb – t }.</p>
+        </sec>
+      </sec>
+      <sec id="sec-3-9">
+        <title>7.5 Notwendige Änderungen bei Verwendung des χ2 – Distanzmaßes</title>
+        <p>Es bezeichne D = diag {t} die Diagonalmatrix der Eingangsgewichte. Damit lässt sich der
+χ2 – Abstand zwischen den Gewichten g und t darstellen in der Form: (g-t)TD-1(g-t).
+Man kann zeigen, dass sich mit diesem Distanzbegriff die bisherigen Formeln, die für den
+quadrierten Euklidischen Abstand gelten, so schreiben lassen:
+MinVar:
+Min I:
+Min II:
+g = t + DST(SDST)-1[b – S t]
+g = t + DST(E r / λ + SDST)-1 [ b – S t]
+δ = 2 Diag {e γ } ( [λ STS + D-1] eγ − λ STb – D-1 t )
+(3)
+(5)
+(10)
+Hinweis: In der technischen Implementierung (in APL) von Min I und Min II ist obige
+χ2 -Version als Option enthalten. Falls – wie in den Beispielen – alle Vorgewichte gleich 1
+2
+sind, stimmt das χ - Distanzmaß natürlich mit dem quadrierten Euklidischen Abstand
+überein.</p>
+      </sec>
+      <sec id="sec-3-10">
+        <title>Hinweise zur Matrix E r / λ + SST</title>
+        <p>7.6
+Für die Indikatormatrix S gilt grundsätzlich: Werden alle Ausprägungen eines
+Anpassungsmerkmals berücksichtigt, so liefert die Summe der entsprechenden Zeilen von S nur
+Einsen. Das hat zur Folge, dass S automatisch eine Rangreduktion erfährt, wenn bei
+einem weiteren Anpassungsmerkmal alle Ausprägungen eingetragen werden. Dies führt zu
+den erwähnten Problemen bei dem MinVar-Verfahren.</p>
+        <p>Der Rang der (r, n)-Matrix S (wobei stets n &gt; r) ist gleich dem Rang des Gaußschen
+Produkts SST . Diese symmetrische Matrix ist stets positiv semidefinit: Alle ihre Eigenwerte
+sind nicht negativ. Durch Addition der mit dem positiven Faktor 1/λ multiplizierten
+Einheitsmatrix ergibt sich für die Matrix E r / λ + SST : Alle Eigenwerte sind positiv, weil zu
+den (nicht negativen) Eigenwerten von SST der positive Summand 1/λ hinzukommt.
+Insbesondere ist die Matrix damit stets invertierbar (Determinante = Produkt der
+Eigenwerte). Dieser Hinweis gilt ebenso für die Matrix E r / λ + SDST im Fall des χ2 –
+Distanzmaßes (7.5).</p>
+      </sec>
+      <sec id="sec-3-11">
+        <title>Fazit – Abschließende Bemerkungen</title>
+        <p>Die Überlegungen haben gezeigt, dass Min I und seine Erweiterung auf positive Gewichte
+Min II sich durch ihre Robustheit auszeichnen bezüglich der anzupassenden Daten.
+Dies ist ein entscheidender Vorteil gegenüber MinVar, das bei Redundanzen aber auch
+fehlenden Werten in den Daten nicht mehr richtig arbeiten kann.</p>
+        <p>Wichtig ist der Hinweis, dass Min II weder durch die Anzahl der Befragten n noch durch
+die der Restriktionen praktisch eingeschränkt wird.</p>
+        <p>Die gezeigten Beispiele veranschaulichen die Möglichkeit von Min II, Bereiche für die
+Gewichte einzuhalten (z.B. Positivitätsbedingung), was so bei MinVar nicht ohne weiteres
+möglich ist. Durch Variation der Kontrollgröße λ lässt sich bei Min I und Min II eine hohe
+Flexibilität erreichen.</p>
+        <p>Ein wachsender Parameter λ führt dazu, dass das System der Restriktionen beliebig genau
+erfüllt werden kann; sinkende Parameterwerte begünstigen die Nähe zu den
+Vorgewichten. In der Praxis hat sich jedoch der Wert λ = 1 als Richtgröße bewährt.</p>
+        <p>Die Untersuchung hat außerdem gezeigt, dass die Ergebnisse des IPF- Algorithmus – in
+seiner klassischen Form – von denen der übrigen vorgestellten Gewichtungsverfahren am
+meisten abweichen. Die Effektivitäten der erhaltenen Gewichte sind hier am niedrigsten.
+Die Problematik von IPF bezüglich leerer Ist-Zellen (Soll / Ist) spielt bei Min I und Min II
+keine Rolle, weil hier diese Quotientenbildung unterbleibt. Dieses Problem gilt auch für
+MinVar, weil dann die dortige Matrix nicht mehr invertierbar ist.</p>
+        <p>Zum Abschluss möchte ich mich besonders bedanken bei Frau Christiane Heckel,
+BIK-Aschpurwis + Behrens, Hamburg, die die Daten für die Beispiele zur Verfügung
+gestellt hat und mir wichtige Anregungen und Zusatzinformationen gegeben hat.</p>
+      </sec>
+      <sec id="sec-3-12">
+        <title>Literatur</title>
+      </sec>
+      <sec id="sec-3-13">
+        <title>Korrespondenzadresse</title>
+        <p>Dipl.-Math. Bruno Kopp
+Bockheberer Weg 54
+29640 Schneverdingen
+Email: bkopp10102@aol.com</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Chambers</surname>
+            ,
+            <given-names>R. L.</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          ).
+          <article-title>Robust Case-Weighting for Multipurpose Establishment Surveys</article-title>
+          .
+          <source>Journal of Official Statistics</source>
+          ,
+          <volume>12</volume>
+          (
+          <issue>1</issue>
+          ),
+          <fpage>3</fpage>
+          -
+          <lpage>32</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Deming</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Stephan</surname>
+            ,
+            <given-names>F.</given-names>
+          </string-name>
+          (
+          <year>1940</year>
+          ).
+          <article-title>On a Least Square Adjustment of a Sampled Frequency Table when Expected Marginal Totals are known</article-title>
+          .
+          <source>The Annals of Mathematical Statistics</source>
+          ,
+          <volume>11</volume>
+          ,
+          <fpage>427</fpage>
+          -
+          <lpage>444</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Hartung</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Elpelt</surname>
+            <given-names>B.</given-names>
+          </string-name>
+          (
+          <year>1986</year>
+          ).
+          <article-title>Multivariate Statistik. Lehr- und Handbuch der angewandten Statistik</article-title>
+          . München, Wien: Oldenbourg.
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Merz</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>1993</year>
+          ). ADJUST.
+          <article-title>Ein Programmpaket zur Hochrechnung von Mikrodaten nach dem Prinzip des minimalen Informationsverlustes</article-title>
+          . Programm-Handbuch.
+          <source>FFBDokumentation Nr</source>
+          .
+          <volume>1</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Merz</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ).
+          <article-title>Kumulation von Mikrodaten - Konzeptionelle Grundlagen und ein Vorschlag zur Realisierung</article-title>
+          .
+          <source>Allgemeines Statistisches Archiv</source>
+          ,
+          <volume>88</volume>
+          ,
+          <fpage>451</fpage>
+          -
+          <lpage>472</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Rao</surname>
+            ,
+            <given-names>J. N. K.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Singh</surname>
+            ,
+            <given-names>A. C.</given-names>
+          </string-name>
+          (
+          <year>1997</year>
+          ).
+          <article-title>A Ridge-Shrinkage Method for Range Restricted Weight Calibration in Survey Sampling</article-title>
+          .
+          <source>In Proceedings of the Section on Survey Research Methods</source>
+          (pp.
+          <fpage>57</fpage>
+          -
+          <lpage>65</lpage>
+          ). Alexandria, VA: American Statistical Association.
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Rösch</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          (
+          <year>1994</year>
+          ).
+          <article-title>Kriterien der Gewichtung einer nationalen Bevölkerungsstichprobe</article-title>
+          . In: S. Gabler et al. (Eds.), Gewichtung in der Umfragepraxis (pp.
+          <fpage>7</fpage>
+          -
+          <lpage>26</lpage>
+          ). Opladen: Westdeutscher Verlag.
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Von der Heyde</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          ).
+          <article-title>Techniken und Möglichkeiten der Realisierung von RandomStichproben</article-title>
+          . In: ADM Arbeitskreis Deutscher Markt- und Sozialforschungsinistitute e.V./AG.MA Arbeitsgemeinschaft
+          <string-name>
+            <surname>Media-Analyse e</surname>
+          </string-name>
+          .V. (Eds.), Stichproben-Verfahren in der Umfrageforschung,
+          <source>Eine Darstellung für die Praxis</source>
+          (pp.
+          <fpage>35</fpage>
+          -
+          <lpage>60</lpage>
+          ). Opladen: Leske + Budrich.
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

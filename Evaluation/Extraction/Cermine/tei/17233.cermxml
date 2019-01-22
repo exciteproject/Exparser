@@ -1,0 +1,635 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>Identitätsvermittlungen im Internet</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Sabina Misoch</string-name>
+        </contrib>
+      </contrib-group>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/1/17233.images/img_3_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/1/17233.images/img_3_2.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/1/17233.images/img_3_3.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/1/17233.images/img_3_4.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/1/17233.images/img_4_1.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>1. Einführung</title>
+      <p>Identität ist nicht nur etwas, das man hat, sondern auch etwas, das den anderen
+gegenüber – den potentiellen Interaktionspartnern – in und durch
+Kommunikationen vermittelt wird und vermittelt werden muss, damit diese sozial wirksam werden
+kann. Dieses Kommunizieren der eigenen Identität kann auch als Selbstdarstellung
+bezeichnet werden und Vorgänge der Präsentation des eigenen Selbst sind allen
+alltäglichen sozialen Prozessen inhärent. Sie können unbewusstes Element der
+Kommunikation sein – denn auch wenn keine bewussten Darstellungsabsichten
+vorliegen, beinhalten alle sozialen Situationen Darstellungen des Selbst – oder
+können in Form von bewussten Selbstinszenierungen in den kommunikativen Prozess
+integriert werden.</p>
+      <p>
+        Betrachtet man spätmoderne Gesellschaften, so kann festgestellt werden, dass
+Selbstdarstellungsprozesse zu deren zentralen Kennzeichen gehören. Waren in
+vormodernen Gesellschaften Identitäten sozial eingebettet und nur in einem
+gewissen Maße selbst zu bestimmen, so hat sich dies im Zuge der Modernisierung von
+Gesellschaften geändert: Das eigene Selbst wurde zunehmend aus kollektiven
+Bindungen herausgelöst und individualisiert. Solange Individuen in ein relativ festes
+gesellschaftliches System eingebunden sind, entfällt die Notwendigkeit, sich selbst
+darzustellen. Erst durch die Freisetzung der Individuen und die Optionalität von
+Identitäten, erst durch die Kontingenz und Wählbarkeit der Lebenswege entsteht
+die Notwendigkeit, das eigene Selbst, das heißt die identitätsbezogenen
+Entscheidungen, nach außen hin zu verdeutlichen. Doch nicht nur Identitäten sind optional
+geworden, auch die gesellschaftlichen Strukturen verlieren zunehmend an
+normativer und integrierender Kraft: So müssen Identitäten gerade in hoch transformativen
+Gesellschaften, die durch Prozesse der radikalen Pluralisierung, Entbettung,
+Beschleunigung, der Zunahme an Kontingenzerfahrungen, Fragmentierung, usw.
+gekennzeichnet sind
+        <xref ref-type="bibr" rid="ref17 ref2 ref7">(z.B. Beck 1986; Gleick 2000; Gross 1994; Sennett 2000)</xref>
+        ,
+dezi4 7 6 1
+diert dargestellt und nach außen hin verdeutlicht werden, um auch unter diesen
+Vorzeichen soziale Orientierung zu ermöglichen.1
+      </p>
+    </sec>
+    <sec id="sec-2">
+      <title>2. Selbstdarstellung im VR – Simulationspotential – Forschungsfrage</title>
+      <p>Neben den genannten Transformationsmerkmalen zeichnen sich spätmoderne
+Gegenwartsgesellschaften durch eine zunehmende Relevanz virtueller Räume aus.
+Dies gilt nicht nur für den Bereich der Ökonomie, sondern auch soziale Prozesse
+verlagern sich zunehmend in den Bereich des Virtuellen hinein und ersetzen oder
+ergänzen damit Vorgänge im realweltlichen Kontext. Durch die verstärkte
+Implementierung und gesellschaftliche Akzeptanz Neuer Medien (zum Beispiel dem
+Internet) nimmt der Stellenwert mediierter Kommunikationen zu. Vor allem das
+Internet kann auf Grund seiner Nutzungsintensität inzwischen als alltagsrelevantes
+Medium bezeichnet werden (siehe Abb. 1).</p>
+      <p>Soziale Austauschsituationen können im Internet mittels verschiedener Dienste
+und Anwendungen stattfinden, zum Beispiel per Mail, in Chat-Räumen oder
+innerhalb von MUDs (Multi User Dungeons). Grundlegendes Kennzeichen aller
+Prozesse mittels Computervermittlung ist deren Entkörperlichung, die
+Kanalreduziertheit der Kommunikation, die Möglichkeit der Anonymität der
+Kommunikanden und der Vermittlungscharakter der Situation. Diese Vermittlung
+generiert mediale Restriktionen, die dazu führen, dass im Virtuellen alle Inhalte (die
+eigene Identität, Verbales usw.) dezidiert durch Zeichen ausgedrückt werden
+müssen; es gibt – um mit Goffman zu sprechen – nur »cues given« und keine »cues
+given off«.</p>
+      <p>Durch diesen Umstand entsteht eine dialektische Situation, da es zum einen
+seitens des Darstellenden zu einen Hinzugewinn an Kontrolle und zugleich seitens des
+Rezipienten zu einem Verlust an Kontrolle über den Darstellungsinhalt und dessen
+——————
+1 Der These postmoderner Theoretiker vom Verschwinden der Identität bzw. deren Implodierung
+und Fragmentierung wird im vorliegenden Beitrag nicht nachgegangen. In der 2003 durchgeführten
+Online-Studie zur Ermittlung der Selbstdarstellungspraxis wurde jedoch versucht zu ermitteln, ob
+die dargestellten Selbste im WWW als multipel – im Sinne der postmodernen Theoretiker – oder als
+flexibel oder stabil beschrieben werden können. So weit solche internen Strukturmerkmale von
+Identität überhaupt mittels nicht-tiefenpsychologisch orientierten Befragungen erhoben werden
+können, stellte sich heraus, dass die Mehrzahl der Probanden ihr Selbstgefühl als flexibel (56%) oder
+stabil (36%) beschrieben. Gefühle der Multiplizität oder Fragmentierung der eignen Identität
+konnten nur marginal nachgewiesen werden (8%). Siehe hierzu ausführlich Misoch 2004a, S. 184–190.
+Wahrheitsgehalt kommt. Fungieren im Realen der Körper und die von diesem
+bewusst und unbewusst gesendeten Zeichen als eventuelle Authentizitätsgaranten,</p>
+      <sec id="sec-2-1">
+        <title>Abbildung 1: Nutzung des Internet; Stand Dezember 2004.</title>
+        <p>(Quelle: @facts; verfügbar über http://www.atfacts.de/)
+so entfällt dies im Virtuellen. Durch den Vermittlungscharakter entsteht hier die
+Möglichkeit, das eigene Selbst kontrolliert, konstruiert und elaboriert darzustellen
+sowie gegebenenfalls eine völlig andere Identität auszuleben.</p>
+        <p>
+          Auf Grund dieses Simulationspotentials, das allen Darstellungsprozessen im
+Virtuellen inhärent ist, wird von verschiedenen Autoren theoretisch abgeleitet, dass sich
+Individuen im Netz nicht so darstellen, wie sie »wirklich« sind, sondern dass
+virtuelle Selbste entworfen würden, die nicht dem realen Selbst entsprächen. Das Netz
+würde somit als Spielwiese fungieren, auf welcher jeder nach Gutdünken eine
+Identität annehmen oder sich neu erfinden könne
+          <xref ref-type="bibr" rid="ref13 ref15 ref19 ref3">(Rheingold 1996; Becker 1997;
+Opaschowski 1999; Wallace 1999)</xref>
+          .
+4 7 6 3
+        </p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>Abbildung 2: Simulationspotential im Internet.</title>
+        <p>(Quelle: Peter Steiner; in: The New Yorker July 5/1993, page 61)</p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>3. Studie: Design, Sampling</title>
+      <p>Um zu prüfen, ob diese These der realen Selbstdarstellungspraxis der Individuen im
+Netz entspricht, wurde im Frühjahr 2003 eine Online-Erhebung durchgeführt.
+Geprüft werden sollte an einem Teilbereich des Internet wie sich Individuen vermitteln
+und ob die Darstellungen als Identitätssimulationen oder als authentische
+Darstellungen des realen Selbst beschrieben werden können. Hierzu wurden aus dem
+heterogenen Feld der Internet-Kommunikationen die privaten WWW-Seiten als
+Untersuchungsraum ausgewählt. Diese wurden gewählt, weil sie zum einen den
+Basisbedingungen computervermittelter Kommunikation und damit auch dem
+Simulationspotential unterliegen und zum anderen, weil sie ideale Bühnen darstellen, um
+Identitäten im Netz zu präsentieren.</p>
+      <p>
+        Diese von Privatpersonen betriebenen Webseiten werden als private
+Homepages bezeichnet. Eine private Homepage kann definiert werden als die gesamte
+WebPräsenz, die unter einer URL lokalisierbar ist, die – ausgehend von der Reichweite –
+theoretisch ein disperses Massenpublikum erreichen kann, die – ausgehend vom
+Sendestatus – einer oder mehreren Privatpersonen zugeordnet werden kann und die
+– ausgehend vom Inhalt des Gesendeten – ausschließlich privater Natur ist und
+Informationen zur Person, Interessen, Hobbys, sozialen Beziehungen usw. der
+Inhaber liefert. Eine private Homepage enthält vor allem privat-biographische
+Inhalte, die (multi-)medial vermittelt werden (können). Die Betreiber privater
+Homepages verfolgen keine kommerziellen Interessen und ihre Seiten lassen sich
+gegenüber Web-Logs und privaten themenbezogenen oder personenbezogenen Seiten
+nicht privater Ausrichtung, wie zum Beispiel in einem institutionellen Kontext,
+sowie gegenüber kommerziell ausgerichteten Seiten abgrenzen.
+3.1 Sampling
+Die der Stichprobenziehung der Studie zugrundeliegende Grundgesamtheit waren
+alle Inhaber/innen deutschsprachiger privater Homepages. Eine numerisch genaue
+Bestimmung dieser Grundgesamtheit ist nicht möglich, da zum einen kein zentrales
+Register existiert, in welchem alle privaten Homepages verzeichnet sind und zum
+anderen, weil es sich bei Web-Sites um ein hochgradig transitorisches Medium
+handelt: jeden Tag werden neue Homepages ins Netz gestellt und andere werden
+entfernt. Will man erste Schätzwerte zur Anzahl privater Webseiten in Deutschland
+bekommen, so kann man von mindestens einer Million bis hin zu vier Millionen
+privater Homepages ausgehen
+        <xref ref-type="bibr" rid="ref10 ref11">(Misoch 2004a)</xref>
+        ; bezogen auf die Nutzer des Internet
+sind dies ca. drei bis elf Prozent und bezogen auf die Gesamtbevölkerung ca. ein bis
+fünf Prozent, die allein in Deutschland bereits über eine eigene private Webpage
+verfügen.
+      </p>
+      <p>
+        Da die Grundgesamtheit der Inhaber/innen privater Homepages unbekannt ist
+und auch deren Merkmale bisher ungenügend empirisch erforscht sind, wurde als
+Untersuchungsmethode das Vorgehen mittels zufallsgenerierter Teilstichprobe gewählt.
+Diese sollte im Hinblick auf ihren Aussagegehalt möglichst »repräsentativ« sein, das
+heißt es sollte eine möglichst unverzerrte Abbildung der Grundgesamtheit aller
+Inhaber/innen durch die Stichprobe geleistet werden. Um dieses zu erreichen,
+wurden die Stichprobenelemente per kontrollierte Wahrscheinlichkeitsauswahl (random
+sample) gezogen. Das Vorgehen hierfür erfolgte anhand von
+Suchmaschinenergebnislisten bzw. durch eine stichwortbasierte Suche mittels Suchmaschinen (Querying).
+4 7 6 5
+Es wird davon ausgegangen, dass andere Auffindestrategien – wie zum Beispiel
+Adressverzeichnisse oder Providerlisten mit privaten Homepages – zu starken
+Verzerrungseffekten führen, da sich die Inhaber bei (den meisten) Adressverzeichnissen
+aktiv eintragen lassen müssen und bei Providerlisten durch die mittels Provider
+angebotene Software zur Homepage-Erstellung Probleme der Proportionalität und
+Repräsentativität entstehen. Das Vorgehen mittels Querying wird – unter
+Berücksichtigung der Suchmaschinenrankingstrategien
+        <xref ref-type="bibr" rid="ref14">(hierzu siehe Patzwaldt 2002)</xref>
+        und
+deren Trefferqualität – als am geringsten selektierend angesehen.
+      </p>
+      <p>
+        Es wurden für die vorliegende Studie n = 400 Stichprobenelemente per
+Querying gezogen. Die Probanden der Stichprobe wurden anhand eines
+Online-Fragebogens unter anderem zu ihrer Selbstdarstellungspraxis auf ihrer Web-Site befragt. Es
+wurde hierbei mehrdimensional und zum Teil anhand indirekter Fragen der
+Authentizitätsgehalt2 des Kommunizierten ermittelt, da davon auszugehen ist, dass
+auch bei Online-Befragungen Effekte des social desirability eintreten; – zumal wenn
+sich die Befragung mit dem Thema der Authentizität auseinandersetzt, welche in
+unserem Kulturkreis positiv bewertet wird und sozial positiv sanktioniert wird
+        <xref ref-type="bibr" rid="ref10 ref11">(ausführlich hierzu Misoch 2004a)</xref>
+        . Nach Beendigung der Erhebungsphase konnten 88
+auswertefähige Bögen verzeichnet werden; dies entspricht einer
+Ausschöpfungsquote von 22 Prozent.
+      </p>
+    </sec>
+    <sec id="sec-4">
+      <title>4. Ergebnisse</title>
+      <p>
+        Die Auswertung des Datenmaterials zeigte mit großer Deutlichkeit, dass das der
+computervermittelten Kommunikation inhärente Simulationspotential von
+Betreibern privater Homepages kaum genutzt wird. Die Selbstdarstellungen auf privaten
+Homepages können im Allgemeinen als Extensionen des Realselbst
+        <xref ref-type="bibr" rid="ref16">(nach Rogers
+1991)</xref>
+        und nicht als Identitätsexperimente oder virtuelle Selbstentwürfe beschrieben
+werden. Es konnten folgende Selbstdarstellungsmodi ermittelt werden: 3
+–
+      </p>
+      <p>
+        Ca. 85 Prozent der befragten Probanden stellen sich auf ihrer Homepage
+authentischdar;
+——————
+2 Authentizität bedeutet dem Wortsinn nach die Echtheit eines Phänomens. Als authentisch werden
+Selbstpräsentationen auf Homepages bezeichnet, wenn der Darsteller zum Ziel hat, seine reale
+(offline) Identität in den virtuellen Raum zu transferieren und die virtuelle Identität auf der Webpage als
+Extension bzw. Rekonstruktion der realen Identität fungiert.
+3 Nach Selbstaussagen stellen sich 92% der Befragten auf ihrer Website authentisch dar. Durch
+Mehrfachabfragen dieses Modus‘ im Fragebogen und indirekter Ermittlung der
+Authentizitätsbereitschaft der Probanden ergab sich ein korrigierter Wert von ca. 85%
+        <xref ref-type="bibr" rid="ref10 ref11">(siehe Misoch 2004a: 203f.)</xref>
+        .
+4 7 6 6
+– ca. 15 Prozent stellen ein vom Realselbst abweichendes Selbst auf ihrer Website
+dar und nutzen damit das Simulationspotential.
+      </p>
+      <p>Die erwähnte These der Identitätssimulation kann damit, zumindest für den Bereich
+der privaten Homepages, deutlich zurückgewiesen werden. Es zeigt sich, dass die
+Vermutung, computervermittelte Kommunikation trage nicht nur dazu bei, dass die
+Räume der Kommunikation sondern auch deren Inhalte virtuell würden, nicht
+bestätigt werden kann. Das Netz kann demnach nicht verallgemeinernd als Ort der
+Identitätsspiele oder der Simulation bezeichnet werden, zumal bei einem amorphen
+Phänomen wie dem Internet hinsichtlich der verschiedenen Kommunikationsräume
+differenziert werden sollte, da diese jeweils unterschiedliche soziale Praktiken
+generieren.</p>
+      <p>Private Homepages dienen, wie anhand der Daten belegt werden konnte,
+vornehmlich der authentischen Identitätsvermittlung und stellen demnach im amorphen
+Internet einen Raum der »wahrheitsgetreuen« Kommunikation dar, in welchem sich
+die Individuen analog zum »real life« präsentieren.</p>
+      <p>Betrachtet man nun jene ca. 15 Prozent der Probanden näher, die sich nicht
+authentisch darstellen, so zeigten sich korrelative Zusammenhänge4 zwischen
+diesem Modus und bestimmten subjektiven Empfindungen und personenbezogenen
+Merkmalen.</p>
+      <p>So konnten Zusammenhänge festgestellt werden zwischen
+Identitätsexperimenten und
+– einem Alter ≤ 25 Jahren;
+– Gefühlen mangelnder sozialer Integration;
+– Einsamkeit;
+– fehlender Anerkennung/Beachtung;
+– und häufigen Gefühlen der Macht- und Einflusslosigkeit.</p>
+      <p>
+        Es kann auf Grund dieser signifikanten Korrelationen geschlossen werden, dass das
+Darstellen virtueller Selbste das heißt das Ausleben des Simulationspotentials –
+zumindest auf privaten Homepages – zum einen eventuell als jugendliches Probehandeln
+interpretiert werden kann, wenn das nicht-authentische Darstellen vermehrt bei
+Probanden, die jünger als 25 Jahre alt sind, vorzufinden ist
+        <xref ref-type="bibr" rid="ref10 ref11">(Misoch 2004b)</xref>
+        . Zum
+anderen scheint dieser Verhaltensmodus mit bestimmten Gefühlsdimensionen in
+Zusammenhang zu stehen, so dass auf Grund der Ergebnisse vermutet werden kann,
+dass Individuen, die sich in ihrem Offline-Alltag häufig einsam, verkannt, zu wenig
+beachtet oder machtlos fühlen und die sich tendenziell als sozial desintegriert
+em——————
+4 Ausführlich hierzu siehe Misoch 2004a.
+4 7 6 7
+pfinden, mit einer höheren Wahrscheinlichkeit ein nicht ihrem Realselbst
+entsprechendes Selbst auf ihrer Web-Site präsentieren.
+      </p>
+      <p>Wenn das Ausleben des Simulationspotentials im Kontext bestimmter
+Persönlichkeitsmerkmale zu stehen scheint, wie ist dann der hohe Wert von ca. 85 Prozent
+authentischer Darstellungen zu interpretieren, wenn sich hier keine Korrelationen
+zu Personenmerkmalen aufzeigen lassen?</p>
+      <p>Dass sich Individuen auf ihren Homepages analog zum real life darstellen –
+obwohl sie die unkomplizierte Möglichkeit der Simulation haben – zeigt meines
+Erachtens zum einen, dass ein Bedürfnis nach authentischer Kommunikation des
+Selbst im Internet vorzuliegen scheint. Da sich zwischen diesem Modus und
+anderen Merkmalen der Probanden – wie sich anhand durchgeführter Analysen zeigte –
+keine signifikanten Korrelationen nachweisen ließen, können individuelle
+Dispositionen, die in der Persönlichkeit der Probanden begründet sind, hierfür als Ursache
+eher ausgeschlossen werden. So wird vermutet, dass authentische
+Identitätsvermittlungen auf privaten Homepages im Kontext gesellschaftlicher Zusammenhänge
+und der Strukturmerkmale des Internet zu interpretieren sind.</p>
+      <p>Betrachtet man die Darstellungsauthentizität vor dem Hintergrund der zentralen
+Alltagserfahrungen der Individuen in der Postmoderne – die unter anderem als
+Pluralisierung, Entbettung, permanente Transformation und Fragmentierung
+beschrieben werden können –, so kann vermutet werden, dass das Darstellen des
+Realselbst – trotz vorhandenen Simulationspotentials – im Kontext dieser
+gesellschaftlichen Bedingungen interpretiert werden kann. So könnte die
+Darstellungsauthentizität auf Web-Sites zweierlei Funktionen erfüllen: (1) Zum einen ermöglicht
+die Darstellung des Realselbst auf der Homepage eine Einbettung der Identität im
+kontingenten Raum des Internets und generiert damit einen Rahmen5 im Virtuellen
+für soziales, im konkreten Fall authentisches Handeln. (2) Zum anderen kann durch
+die authentische Selbstvermittlung die dem Simulationspotential unterliegende
+Netz-Kommunikation innerhalb des Netzes, quasi »örtlich begrenzt«, abgesichert
+werden. Durch die soziale Praktik der mehrheitlich authentisch erfolgenden
+Selbstdarstellungen auf privaten Homepages wird ein Glaubwürdigkeitsraum konstruiert:
+Homepages fungieren demnach als Rahmen für authentische Selbstdarstellungen
+und Kommunikationen und werden damit zum Refugium glaubwürdiger
+Kommunikation innerhalb des Cyberspace.
+——————</p>
+      <p>5 Zum Begriff des Rahmens siehe Bateson und Goffman (im Literaturverzeichnis).</p>
+    </sec>
+    <sec id="sec-5">
+      <title>Literatur</title>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Bateson</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Gregory</surname>
+          </string-name>
+          (
+          <year>1972</year>
+          ),
+          <article-title>»A Theory of Play and Fantasy«</article-title>
+          , in: ders. (Hg.),
+          <article-title>Steps to an Ecology of Mind</article-title>
+          , New York, S.
+          <fpage>177</fpage>
+          -
+          <lpage>193</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Beck</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Ulrich</surname>
+          </string-name>
+          (
+          <year>1986</year>
+          ),
+          <article-title>Risikogesellschaft. Auf dem Weg in eine andere Moderne, Frankfurt a</article-title>
+          .M.
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Becker</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Barbara</surname>
+          </string-name>
+          (
+          <year>1997</year>
+          ), »Virtuelle Identitäten:
+          <article-title>Die Technik, das Subjekt und das Imaginäre«</article-title>
+          , in: Becker, Barbara/Paetau, Michael (Hg.):
+          <article-title>Virtualisierung des Sozialen. Die Informationsgesellschaft zwischen Fragmentierung und Globalisierung, Frankfurt a</article-title>
+          .M.,
+          <string-name>
+            <surname>S.</surname>
+          </string-name>
+          163-
+          <fpage>184</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Gleick</surname>
+          </string-name>
+          , John (
+          <year>1999</year>
+          ), Faster.
+          <source>The Acceleration of Just About Everything</source>
+          , New York.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Goffman</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Erving</surname>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>Wir alle spielen Theater, München</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Goffman</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Erving</surname>
+          </string-name>
+          (
+          <year>2000</year>
+          ), Rahmen-Analyse.
+          <article-title>Ein Versuch über die Organisation von Alltagserfahrungen, Frankfurt a</article-title>
+          .M.
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Gross</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Peter</surname>
+          </string-name>
+          (
+          <year>1994</year>
+          ), Die Multioptionsgesellschaft,
+          <article-title>Frankfurt a</article-title>
+          .M.
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Hahn</surname>
+          </string-name>
+          , Alois/Willems, Herbert (
+          <year>1998</year>
+          ), »Zivilisation, Modernität, Theatralität: Identitäten und Identitätsdarstellungen«; in: Willems, Herbert /Jurga, Martin (Hg.), Inszenierungsgesellschaft, Opladen, S.
+          <fpage>193</fpage>
+          -
+          <lpage>213</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Hettlage</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Robert</surname>
+          </string-name>
+          (
+          <year>2000</year>
+          ), »
+          <article-title>Identitäten im Umbruch. Selbstvergewisserungen auf alten und neuen Bühnen«</article-title>
+          , in: Hettlage, Robert/Vogt, Ludgera (Hg.), Identitäten in der modernen Welt, Opladen, S.
+          <fpage>9</fpage>
+          -
+          <lpage>51</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Misoch</surname>
+          </string-name>
+          ,
+          <source>Sabina (2004a)</source>
+          ,
+          <source>Identitäten im Internet. Zur Selbstdarstellung auf privaten Homepages</source>
+          , Konstanz.
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Misoch</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Sabina</surname>
+          </string-name>
+          (
+          <year>2004b</year>
+          ),
+          <article-title>»Selbstdarstellungen Jugendlicher auf privaten Homepages«</article-title>
+          , merz
+          <year>2004</year>
+          /5, S.
+          <fpage>43</fpage>
+          -
+          <lpage>47</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Mummendey</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hans-Dieter</surname>
+          </string-name>
+          (
+          <year>1995</year>
+          ), Psychologie der Selbstdarstellung, Göttingen.
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Opaschowski</surname>
+            ,
+            <given-names>Horst W.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          ), Generation@.
+          <source>Die Medienrevolution entlässt ihre Kinder: Leben im Informationszeitalter</source>
+          , Hamburg/Ostfildern.
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Patzwaldt</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Klaus</surname>
+          </string-name>
+          (
+          <year>2002</year>
+          ), http://www.at-web.de/suchmaschinen/index.htm (
+          <volume>20</volume>
+          .
+          <fpage>09</fpage>
+          .
+          <year>2005</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Rheingold</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Howard</surname>
+          </string-name>
+          (
+          <year>1996</year>
+          ), Virtuelle Welten, Reinbek.
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Rogers</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Carl</surname>
+            <given-names>R.</given-names>
+          </string-name>
+          (
+          <year>1991</year>
+          ), Entwicklung der Persönlichkeit, Stuttgart.
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Sennett</surname>
+          </string-name>
+          , Richard (
+          <year>2000</year>
+          ),
+          <article-title>Der flexible Mensch</article-title>
+          .
+          <source>Die Kultur des neuen Kapitalismus</source>
+          , Berlin.
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Turkle</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Sherry</surname>
+          </string-name>
+          (
+          <year>1998</year>
+          /
+          <year>1995</year>
+          ),
+          <article-title>Leben im Netz. Identität im Zeitalter des Internet, Reinbek (orig. »Life on the Screen«</article-title>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Wallace</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Patricia</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          ), The Psychology of Internet, New York.
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

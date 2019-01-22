@@ -1,0 +1,1390 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>Konfiguration von Produkten und Dienstleistungen durch Endkunden - Chancen und Risiken des elektronischen Geschäftsverkehrs für Prosumenten</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Hanekop</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Heidemarie</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Klein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Stefan</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Köhne</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Frank</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Carsten</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Wittke</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Veröffentlichungsversion / Published Version</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Hanekop</institution>
+          ,
+          <addr-line>Heidemarie ; Klein, Stefan ; Köhne, Frank ; Totz, Carsten ; Wittke, Volker ; Soziologisches Forschungsinstitut</addr-line>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2003</year>
+      </pub-date>
+      <abstract>
+        <p>Abschlussbericht / final report an der Universität Göttingen e.V. (SOFI) (Ed.): Konfiguration von Produkten und Dienstleistungen durch Endkunden - Chancen und Risiken des elektronischen Geschäftsverkehrs für Prosumenten. Göttingen, 2004.. http://nbnresolving.de/urn:nbn:de:0168-ssoar-50120-5</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/0/50120.images/img_1_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/0/50120.images/img_1_2.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/0/50120.images/img_1_3.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data_german_Corpus/testing/0/50120.images/img_1_4.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>Volker
+Nutzungsbedingungen:
+Dieser Text wird unter einer Deposit-Lizenz (Keine
+Weiterverbreitung - keine Bearbeitung) zur Verfügung gestellt.
+Gewährt wird ein nicht exklusives, nicht übertragbares,
+persönliches und beschränktes Recht auf Nutzung dieses
+Dokuments. Dieses Dokument ist ausschließlich für
+den persönlichen, nicht-kommerziellen Gebrauch bestimmt.
+Auf sämtlichen Kopien dieses Dokuments müssen alle
+Urheberrechtshinweise und sonstigen Hinweise auf gesetzlichen
+Schutz beibehalten werden. Sie dürfen dieses Dokument
+nicht in irgendeiner Weise abändern, noch dürfen Sie
+dieses Dokument für öffentliche oder kommerzielle Zwecke
+vervielfältigen, öffentlich ausstellen, aufführen, vertreiben oder
+anderweitig nutzen.</p>
+      <p>Mit der Verwendung dieses Dokuments erkennen Sie die
+Nutzungsbedingungen an.</p>
+      <p>Terms of use:
+This document is made available under Deposit Licence (No
+Redistribution - no modifications). We grant a non-exclusive,
+nontransferable, individual and limited right to using this document.
+This document is solely intended for your personal,
+noncommercial use. All of the copies of this documents must retain
+all copyright information and other information regarding legal
+protection. You are not allowed to alter this document in any
+way, to copy it for public or commercial purposes, to exhibit the
+document in public, to perform, distribute or otherwise use the
+document in public.</p>
+      <p>By using this particular document, you accept the above-stated
+conditions of use.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Konfiguration von Produkten und Dienstleistungen durch</title>
+    </sec>
+    <sec id="sec-3">
+      <title>Endkunden - Chancen und Risiken des elektronischen</title>
+    </sec>
+    <sec id="sec-4">
+      <title>Geschäftsverkehrs für Prosumenten</title>
+      <sec id="sec-4-1">
+        <title>1 Arbeits- und Ergebnisbericht</title>
+        <sec id="sec-4-1-1">
+          <title>1.1 Ausgangsfragestellung und Zielsetzung</title>
+          <p>Die anhaltende Verbreitung neuer Kommunikationsmedien, speziell die des WWW, hat den
+seit längerer Zeit beobachtbaren Trend zur Einbeziehung des Endkunden in
+Wertschöpfungsprozesse verstärkt. Die Konfiguration von Leistungen – sei es in Form einer
+Spezifizierung oder einer Individualisierung – wird über den traditionellen Rahmen der
+zwischenbetrieblichen Zusammenarbeit hinaus auf Konsumenten ausgedehnt. Die Rolle des Endkunden
+beschränkt sich fortan nicht mehr nur auf die Konsumption von Leistungen, sondern erstreckt
+sich auch auf Bereiche der Produktion. In diesem Kontext wird der Kunde nicht mehr nur als
+„Consumer“ sondern als „Producer + Consumer = Prosumer“ bezeichnet. Die Integration des
+Endkunden in Wertschöpfungsprozesse offeriert neue Optionen der qualitativen
+Leistungsgestaltung und -individualisierung für alle Beteiligten. Beschränken sich die bisher
+realisierten und marktlich angebotenen Leistungen auch fast ausschließlich auf die relativ simple
+Auswahl oder Kombination bereits vom Anbieter vorgegebener Leistungsattribute, wie z.B.
+Module einer Reise oder Komponenten eines PCs, so lässt die stetige Zunahme derartiger
+Angebote eine Verschiebung der Rollen von Produzenten und Konsumenten erkennen.
+Die Integration des Endkunden in Prozesse der Leistungsgestaltung impliziert für Anbieter
+und Nachfrager jedoch nicht nur neue Möglichkeiten sondern auch neue Herausforderungen.
+So müssen Anbieter zur Nutzung der durch die Kundenintegration ermöglichten
+Individualisierungs- und (durchaus strategisch relevanten) Differenzierungspotenziale neue Formen
+der Leistungsentwicklung und –produktion implementieren, die sowohl eine Interaktion mit
+Kunden im Wertschöpfungsprozess ermöglichen, als auch heterogenen Fähigkeiten und
+Charakteristika der Endkunden Rechnung tragen. Aus Sicht des Nachfragers kann dagegen
+ein faktisch erweiterter Artikulationsraum wahrgenommen werden. Der Konsument erhält im
+Rahmen seiner Integration in den Wertschöpfungsprozess nicht nur eine Multioptionalität,
+sondern auch die Verpflichtung einer Artikulation seiner Bedürfnisse und einer die
+Wertschöpfung ermöglichenden Interaktion mit dem Anbieter. Sehen sich Anbieter hinsichtlich der
+Notwendigkeit der Integration des Kunden vor Herausforderungen gestellt, so gilt ähnliches
+auch für den Nachfrager. Inwiefern Kunden ihre Integration in Prozesse der
+Leistungskonfiguration begrüßen oder ablehnen kann nicht klar beantwortet werden.</p>
+          <p>- 2
+Vor diesem Hintergrund widmete sich das Projekt als zentralem Forschungsgegenstand der
+Analyse von Formen, Bedingungen, Möglichkeiten und Grenzen der Leistungsspezifikation
+und Konfiguration durch Konsumenten beim elektronischen Geschäftsverkehr. Die geplante
+Vorgehensweise umfasste fünf aufeinander aufbauende und sich wechselseitig ergänzende
+Schritte:
+• Erarbeitung und Ausdifferenzierung eines Bezugsrahmens zur computer-gestützten
+Konfiguration digitaler Produkte,
+• prototypische Gestaltung eines web-basierten Beratungssystems zur Veranschaulichung
+von Unterstützungsmöglichkeiten der Konsumenten bei der Spezifikation und
+Kombination von Leistungsattributen am Beispiel von Telekommunikationsdienstleistungen,
+• Durchführung und Auswertung von Experimenten zur Überprüfung der Akzeptanz und
+Beratungsqualität dieses computer-vermittelten Systems zur Leistungskonfiguration,
+• Erörterung der Generalisierbarkeit und der gesellschaftlichen Implikationen der
+Ergebnisse,
+• Diskussion der methodologischen Implikationen für die empirische Forschung im Umfeld
+des WWW.</p>
+        </sec>
+        <sec id="sec-4-1-2">
+          <title>1.2 Durchgeführte Arbeiten</title>
+        </sec>
+        <sec id="sec-4-1-3">
+          <title>1.2.1 Konzeptualisierung</title>
+          <p>
+            In einem ersten Schritt wurde das Prosuming als neuer Modus der Interaktion von
+Dienstanbietern und Nutzern aus soziologischer Sicht
+            <xref ref-type="bibr" rid="ref1">(Hanekop; Wittke 2001)</xref>
+            sowie aus Sicht des
+Dienstleistungsmarketing interpretiert
+            <xref ref-type="bibr" rid="ref2 ref3 ref8">(Klein; Totz 2004)</xref>
+            . Das Prosuming-Phänomen stellt
+sich als ein komplexes Wirkungsgeflecht von Marktentwicklungen
+            <xref ref-type="bibr" rid="ref2 ref3 ref8">(Klein; Totz 2004)</xref>
+            sowie
+Einflussfaktoren aus Anbieter und Kundenperspektive in einem noch frühen
+Entwicklungsstadium dar.
+          </p>
+          <p>Die Gestaltungsoptionen der Anbieter werden in der Literatur als Kontinuum zwischen
+Leistungsinternalisierung und Leistungsexternalisierung (Prosuming) betrachtet (vgl. Abbildung
+1, Corsten 1999). Allerdings haben wir – in Abgrenzung zum Modell von Corsten – zwei in
+der Zielsetzung und Umsetzung deutlich unterschiedliche Formen und Modi des Prosuming
+identifiziert, die beide vom Kontinuum zwischen Leistungsinternalisierung und
+externalisierung aus Anbietersicht (Isoleistungslinie) und dem Standardfall der
+Leistungsexternalisierung bzw. Selbstbedienung aus Kundensicht n abweichen. Beide Formen lassen
+sich als Verschiebung der Isoleistungslinie interpretieren:</p>
+          <p>- 3
+Im
+einen Fall o</p>
+          <p>
+            erfolgt eine Transformation hin zu individualisierbaren,
+kundenkonfigurierbaren Leistungen mit einem hohen Aktivitätsniveau von Kunde und Anbieter. In
+folge des Trends zur Mass-Customization haben wir dies ursprünglich als dominante
+Entwicklung und zentralen Fokus für unser Projekt betrachtet. Mittlerweile sind in verschiedenen
+Branchen Ansätze hierfür erkennbar
+            <xref ref-type="bibr" rid="ref10 ref7 ref9">(vgl. Schneider; Totz 2003)</xref>
+            , und die Notwendigkeit
+einer stärkeren Einbeziehung von Endkunden in Konfigurationsprozesse erscheint für einige
+der künftigen Telekommunikationsdienstleistungen (location-based services; unified
+messaging) unausweichlich. Allerdings ist die Umsetzung des individualisierten Prosuming selbst
+nach 5 Jahren (die ersten Projektskizzen stammen aus 1998) relativ gering. Die Analyse von
+Determinanten der Dienstleistungskonfiguration (Abbildung 2) zeigt hohe Anforderungen an
+die Anbieter nicht nur bei der Gestaltung der Konfigurationsoptionen und –umgebung,
+sondern auch der Gestaltung der konkreten Interaktion und der Kundenbeziehung. Die
+Akzeptanz und Übernahme einer individualisierten Prosumer-Rolle setzt beim Kunden beides,
+Wollen und Können, voraus. Die Bewertung dieser Prosuming-Form, die sich häufig gerade an
+Premium-Kunden richtet, ist zwiespältig, da eine Ausweitung der Leistung bzw. des
+Leistungsversprechens seitens des Anbieters mit einer Erhöhung des erforderlichen
+Aktivitätsund Qualifikationsniveaus beim Kunden einhergeht.
+          </p>
+          <p>Aktivitätsgrad
+des Nachfragers
+Isoleistungslinie</p>
+          <p>Varianten der
+Arbeitsteilung ohne</p>
+          <p>grundlegende
+Transformation der</p>
+          <p>Leistung
+Transformation hin
+zu standardisierten
+Leistungen mit
+effizientem,
+automatisiertem
+Leistungsaustausch
+1</p>
+          <p>Individualisierung</p>
+          <p>2
+In
+te
+rna
+lis</p>
+          <p>ierung
+Ex
+te
+rna
+lis
+ie</p>
+          <p>rung
+3</p>
+          <p>Standardisierung</p>
+          <p>Aktivitätsgrad
+des Anbieters</p>
+          <p>Transformation
+hin zu
+individualisierbaren,
+kunden-konfigurierbaren
+Leistungen. Hohes
+Aktivitätsniveau
+von Kunde und
+Anbieter.</p>
+          <p>Abbildung 1: Strategische Optionen der Dienstleistungsgestaltung (in Anlehnung an Corsten 1999)
+Im anderen Fall p</p>
+          <p>erfolgt die Transformation hin zu standardisierten Leistungen mit
+effizientem, automatisiertem Leistungsaustausch. Ziel des effizienzorientierten Prosuming ist die
+Gestaltung einer Leistung und der dazugehörigen Leistungsumgebung, die eine
+weitgehende Automatisierung der Leistungsabwicklung erlaubt. Prototypen dieser Prosuming-Form
+- 4
+sind Geldautomaten: der Prozess der Geldausgabe wird durch den Anbieter weitgehend
+standardisiert (vorgegebene Beträge und Stückelungen etc.). Innerhalb des damit definierten
+Leistungsspektrums ist der erforderliche Aktivitätsgrad der Kunden nach erfolgter
+Routinisierung weitgehend unverändert; gegebenenfalls sogar bei partiell höherem Leistungsniveau
+(24h Bereitschaft) etwas geringer – aufgrund kürzerer Wege und kürzerer Wartezeiten – als
+bei der Geldausgabe am Schalter.</p>
+          <p>Das in Abbildung 1 angedeutete Aktivitätsniveau von Anbieter und Nachfrager bezieht sich
+auf die Situation eines routinisierten Leistungsaustauschs bzw. routinisierter Interaktionen.
+Für den Aufbau und die Einführung sowohl der Konfigurations- als auch der
+Automatisierungslösung ist zunächst jedoch erheblicher Mehraufwand zu erwarten.</p>
+          <p>In einem zweiten Schritt haben wir Determinanten der Dienstleistungskonfiguration im
+Spannungsfeld von Anbieter-Strategien und Kundenverhalten untersucht. Im Zentrum stehen
+dabei das Leistungssystem, das Merkmale der Kernleistung wie auch Konfigurationsoptionen
+und -umgebung umfasst, und das Beziehungssystem, das die Interaktionen, Aufgabenteilung
+und Rollen sowie Beziehungsmerkmale umfasst. Die konkrete Ausgestaltung der
+AnbieterKunden-Interaktion findet im Kontext gesellschaftlicher Prozesse und Strukturen statt, die
+insbesondere das Kundenverhalten beeinflussen. Abbildung 2 skizziert den Zusammenhang
+der zentralen Betrachtungsgegenstände und Fragestellungen des Projekts.</p>
+          <p>Beziehungsmanagement
+Erwartungsmanagement, Kommunikation
+Anbieter-Strategie
+- Leistungspolitik</p>
+          <p>- Service-/
+Prosumingstrategie
+-
+Kundensegmentierung
+Leistungsinnovation
+und -design</p>
+          <p>Multikanalmanagement</p>
+          <p>Beziehungssystem</p>
+          <p>Beziehungsmerkmale
+Aufgabenteilung
+Interaktion im
+Rahmen der
+Transaktions</p>
+          <p>phasen
+Konfigurationsschnittstelle/</p>
+          <p>Umgebung
+Konfigurationsoptionen
+Leistungsmerkmale
+Leistungssystem</p>
+          <p>Akzeptanz
+der Prosumer-Rolle,
+Zufriedenheit mit der</p>
+          <p>Interaktion
+Kundenmerkmale und</p>
+          <p>-verhalten
+-Erfahrung, Vertrautheit
+- Häufigkeit der Interaktion
+- spezifische Präferenzen
+für Maßschneidern</p>
+          <p>Akzeptanz,
+Bewertung der Leistung,
+der Konfigurationsoptionen
+und der
+Konfigurationsumgebung</p>
+          <p>Gesellschaftliche
+Prozesse und</p>
+          <p>Strukturen</p>
+          <p>Etablierung von
+Routinen,</p>
+          <p>
+            gesellschaftliche
+Akzeptanz
+von Rollen
+Abbildung 2: Bezugsrahmen zur Dienstleistungskonfiguration
+            <xref ref-type="bibr" rid="ref2 ref3">(in Anlehnung an Klein et al. 2004)</xref>
+            - 5
+Als zentrale Faktoren betrachten wir das Zusammenwirken der Gestaltung der
+Kundeninteraktion und Beziehung einerseits und der Leistungsgestaltung (Kernleistung,
+Konfigurationsoptionen und Konfigurationsumgebung) andererseits:
+(1) Leistungssystem
+(1.1) Gestaltung der Leistungsmerkmale (Kernleistung)
+(1.2) Umfang und Attraktivität der Konfigurationsoptionen
+(1.3) Gestaltung der Konfigurationsumgebung (Benutzerfreundlichkeit etc.)
+(2) Beziehungssystem
+(2.1) Interaktion in den Phasen der Geschäftstransaktion (buying-cycle)
+(2.2) Aufgabenteilung
+(2.3) Beziehungsmerkmale.
+          </p>
+          <p>Tabelle 1: Determinanten der Dienstleistungskonfiguration
+Aus Anbietersicht unterscheiden wir drei zentrale Gestaltungsbereiche:
+(1) Leistungsinnovation und -design
+Einer der Ausgangspunkte des Projekts ist die zunehmende Bedeutung von
+Leistungsinnovationen für die Wettbewerbsfähigkeit von Unternehmen. Die Gestaltung der
+Kundenschnittstelle im Sinne von Optionen für Leistungsdifferenzierung und -anpassung (Maßschneidern,
+Konfigurationsoptionen) ist dabei Bestandteil und zum Teil Voraussetzung für die
+Leistungsinnovation. Die Begrenzung der Leistungsdifferenzierung im Sinne einer Vereinfachung,
+Standardisierung und gegebenenfalls Automatisierung ist hierbei als Gestaltungsoption
+durchaus mitgedacht.
+(2) Multikanalmanagement
+Aus der Gestaltung eines online Kanals für die Kundeninteraktion ergibt sich als eine
+zentrale Gestaltungsaufgabe die Positionierung und Abstimmung zwischen Online-Aktivitäten und
+solchen über traditionelle Kanäle (einschließlich des Call Centers). Dabei können
+a. die traditionellen Kanäle als im Prinzip funktional äquivalente Alternative
+angeboten werden,
+b. sie können in einer Übergangsphase zum Prosuming zur Unterstützung,
+Erläuterung und Beratung der Kunden eingesetzt werden oder
+c. sie werden, insbesondere im Rahmen des individualisierten Prosuming, als
+funktional differenziertes (komplementäres) Medium eingesetzt.</p>
+          <p>Unsere Befunde zeigen hier eher weiteren Forschungsbedarf als Lösungen auf. In den
+Gesprächen mit Anbietern und Kunden wurde deutlich, dass häufig noch keine
+Multikanalstrategie formuliert worden ist oder diese nicht ausreichend klar kommuniziert wird: Während die
+unterschiedlichen Kosten der Kanäle durchaus im Bewusstsein der Anbieter sind, werden
+zwar die Möglichkeiten einer gezielten Förderung des online Kanals (z.B. Anreize für online
+- 6
+Abfrage der TK-Rechnung) genutzt, Beispiele für die gezielte Positionierung und
+Kombination verschiedener Kanäle sind noch selten. Insbesondere ist die Umsetzung selbst bei
+Anbietern mit expliziter Multi-Kanalstrategie schwierig – nicht zuletzt deswegen, weil sich die
+Switching-Gewohnheiten der Kunden häufig völlig anderes entwickeln, als Anbieter planen.
+(3) Beziehungsmanagement
+Im Rahmen des Beziehungsmanagements wird über die Interaktion im Rahmen der
+Transaktionsphasen (customer buying cycle) und das Modell der Aufgabenteilung bzw. des
+Prosuming entschieden. Die technikinduzierten Innovationen des Leistungssystems bedingen und
+ermöglichen Änderungen im Beziehungssystem von Kunden und Anbietern. Häufig wird
+postuliert, dass Automatisierung von einfachen Routinetransaktionen (effizienzorientiertes
+Prosuming) Freiheitsgrade für persönliche Betreuung und Beratung schaffe. Ob solche
+Freiheitsgrade entstehen und genutzt werden, hängt jedoch wesentlich davon ab, ob die
+Anbieter potenzielle Produktivitätsgewinne bei den Routinetransaktionen wenigstens teilweise
+nutzen, um in aufwändigere Kundenbetreuung zu investieren. Zudem besteht das Risiko, dass
+der Kunde die Einführung eines effizienzorientierten Prosuming überwiegend als
+Sparmaßnahme und Leistungsminderung interpretiert. Angebot, Zuweisung und Aneignung von
+Prosuming-Rollen können nach Phasen von Geschäftstransaktionen differenziert werden (vgl.
+Abbildung 3), den Anbietern stellt sich jedoch ein erhebliches Problem in der
+Kundenkommunikation, wenn sie den Kunden ein derart differenziertes Leistungs- und
+Beziehungssystem vermitteln wollen.</p>
+          <p>Information</p>
+          <p>Verhandlung</p>
+          <p>Abwicklung</p>
+          <p>After sales
+r Kommunikation von
+Dite enstoptionen, Beratung
+e
+ib und Vermittlung von
+nA Domänenwissen,
+Erwartungsmanagement,
+Kundenintegration i.S.v.</p>
+          <p>Marktforschung
+e Identifikation und
+Komnd munikation von
+Präfeu renzen und
+AnforderunK gen: Kunde als
+Ko</p>
+          <p>Innovator</p>
+          <p>Definition von
+Lösungsräumen und
+Optionen, Beratung
+und Vermittlung von
+Domänenwissen</p>
+          <p>Anpassung von Beobachtung des
+KunDiensten und Pro- denverhaltens, CRM,
+dukten (build-to- Führen einer
+gegenorder), Gestaltung seitigen lernenden
+Bevon Selbstbedie- ziehung,
+Beschwernungs- demanagement
+schnittstellen
+Kunde konfiguriert in Kunde in der
+der Rolle eines Ko-
+SelbstdienungsDesigners. Verste- rolle (auch
+Kohen, Domänenwissen Produzent).
+aufbauen und an- Auswahl von
+Opwenden, Navigation tionen,
+Übernahim Lösungsraum, me von
+administAbgleich mit den ei- rativen Aufgaben
+genen
+Anforderungen</p>
+          <p>Kontinuierlich aktive
+Kunden:
+Rekonfiguration, Reinterpretation
+und
+Rekontextualisierung,
+Problemlösung mit
+beispielsweise FAQs
+oder in virtuellen
+Gemeinschaften
+(Communities)
+Abbildung 3: Konfigurationsoptionen aus Anbieter- und Kundensicht nach Transaktionsphasen
+Im Fall des individualisierten Prosuming, erfordern nicht nur die Komplexität der neuen
+Kundenrolle, sondern insbesondere die Lernpotenziale auf Anbieterseite eine intensivere
+Interaktion zwischen Kunde und Anbieter.</p>
+          <p>Die empirischen Arbeiten haben exemplarisch gezeigt, dass das Bewusstsein für die
+Interdependenzen zwischen den Gestaltungsbereichen auf Anbieterseite noch recht begrenzt ist.
+Aus Kundensicht unterscheiden wir zwei Gestaltungsdimensionen – die Gestaltung der
+Leistungsmerkmale und die Gestaltung der Interaktion. Beide Dimensionen implizieren dabei
+jeweils unterschiedliche Veränderungen der Kundenrolle bei Dienstleistungen im Internet (vgl.
+D’Alessio; Hanekop; Wittke 2004). Für die Untersuchung von Möglichkeiten und Grenzen der
+Kundenintegration im Internet sind daher beide Dimensionen getrennt und in ihrer
+Wechselwirkung zu berücksichtigen.
+(1) Interaktionsformen
+Der Gestaltungsspielraum der Interaktionsformen ist dadurch gekennzeichnet, dass
+einerseits eine stärkere und aktivere Beteiligung des Kunden erwartet werden kann, da der Kunde
+die unter seiner Mitwirkung auszuführenden Aufgaben selbständig, d.h. ohne Beteiligung von
+Servicepersonal durchführt. Insofern könnte man Internet-Dienstleistungen als eine (neue)
+Form der Selbstbedienung betrachten. Von der klassischen Selbstbedienung unterscheiden
+sich Online-Dienstleistungen durch erweiterte Interaktionsmöglichkeiten, die es erlauben,
+den Kunden während des Prozesses der Mitwirkung bei der Leistungserstellung zu „führen“.
+Dazu gehört die Vorbereitung von Navigationspfaden, die Bereitstellung von flexiblen
+(kontextsensitiven) Hilfefunktionen, dazu gehört auch, dass Interaktionen jederzeit stattfinden
+können und ein – wenn auch begrenzter – Frage-Antwort Dialog realisiert werden kann.
+Obgleich es sich um eine Mensch-Maschine Interaktion handelt, knüpft der Online-Modus der
+Kundenintegration mit diesen Interaktionsformen an Elemente der sozialen Interaktion an.
+Dadurch wird es für die Kunden möglich, bei der Interaktion mit der Anwendungsplattform
+auf Erfahrungen zurückzugreifen, die sie in der persönlichen Interaktion mit dem Personal
+des Anbieters bei der gleichen oder einer ähnlichen Dienstleistung gemacht haben, indem
+sie Handlungssequenzen und Interaktionsmuster aus der persönlichen Interaktion auf die
+Interaktion mit der Internet Plattform zu übertragen. Allerdings wissen die Kunden sehr wohl,
+dass sie nicht mit einer Person, sondern mit dem intelligenten System des Anbieters, d.h. mit
+einer Computeranwendung in Beziehung treten. Beide Aspekte der Interaktion konstituieren
+einen eigenständigen Modus der Kundenintegration im Internet, der tendenziell eine
+Verschiebung der Rolle des Kunden in Richtung auf aktivere Beteiligung und größere
+Eigenständigkeit beinhaltet. Offen ist, ob dieser Modus der Kundenintegration von Kunden als
+Rollenwechsel (im Sinne von Selbstbedienung oder Prosuming) wahrgenommen wird, oder ob
+- 8
+die Interaktionsmöglichkeiten im Internet – bei „guter“ Gestaltung – von den Kunden als
+Substitution für die persönliche Form der Kundenintegration empfunden werden.
+(2) Leistungsdimension
+Die Gestaltung der Leistungsdimension von Dienstleistungen, die über das WWW erbracht
+werden, basiert auf der wachsenden Leistungsfähigkeit der technischen Systeme (neue
+technische Optionen und verbesserte Anwendungsprogramme), unterliegt aber im Vergleich
+zu persönlich erbrachten Dienstleistungen spezifischen Einschränkungen, die sich aus der
+systembasierten Leistungserstellung ergeben. Neue (technische) Optionen ermöglichen
+potentiell neue Leistungsmerkmale und gänzlich neue Dienstleistungen, andererseits könnten
+bestehende Dienstleistungen, die ins Internet übertragen werden, aus Kundensicht mit
+gravierenden Defiziten (Flexibilität, Vertrauen) verbunden sein, die sich daraus ergeben, dass
+sie nicht persönlich vermittelt werden. Insbesondere für Dienstleistungen, die mit
+Beratungsbedarf verbunden sind, ist bisher nicht geklärt, wie diese Leistungen von einem technischen
+System in einer Weise erbracht werden können, die von Kunden als adäquate
+Leistungsqualität akzeptiert wird. Bei der Beurteilung der Leistungsqualität von Online-Dienstleistungen –
+definiert als Vergleich zwischen erwarteter und erbrachter Leistung – wird sich der Kunde auf
+seine Erfahrungen mit vergleichbaren, persönlich erbrachten Dienstleistungen beziehen. Bei
+persönlicher Beratung ist Vertrauen eine wesentliche Dimension der Leistungsqualität, daher
+könnte die Vertrauenswürdigkeit von systembasiert erstellten Beratungsvorschlägen eine
+potentielle Grenze von Online Dienstleistungen markieren.</p>
+          <p>
+            Es kann davon ausgegangen werden, dass eine enge Wechselbeziehung zwischen der
+Gestaltung der Interaktionsformen und der Leistungsmerkmalen besteht: Je komplexer die
+Leistungsmerkmale, um so höher sind die Anforderungen an die Interaktionsformen – und
+umgekehrt: Je eingeschränkter die Interaktionsformen, um so weniger komplex können die
+Leistungsmerkmale gestaltet werden
+            <xref ref-type="bibr" rid="ref1">(Hanekop; Tasch; Wittke 2001)</xref>
+            . Dabei ist ein weiterer
+Zusammenhang zu berücksichtigen, der für Dienstleistungen generell beschrieben wird: Der
+Grad der Kundenintegration nimmt mit der Komplexität der Leistungsmerkmale zu. Er nimmt
+ebenfalls zu, wenn die Leistung eng an die persönlichen Bedürfnisse angepasst wird. Dies
+bedeutet für die Konzeption der Rolle des Prosumer bei online erbrachten Dienstleistungen,
+dass der Kunde die Bereitschaft entwickeln müsste, komplexe Leistungsoptionen während
+eines Prozesses intensiver Kundenintegration ohne Anbieterpersonal an seine Bedürfnisse
+anzupassen und zu spezifizieren bzw. zu konfigurieren. Komplexität der Leistungsoptionen
+und der Grad der individuellen Anpassung der Leistungsspezifikation an die
+Kundenbedürfnisse sind daher in unserem Untersuchungsmodell die relevanten Variablen in der
+Leistungsdimension. Sie korrelieren mit dem Grad der realisierten Interaktivität und der
+Ähnlichkeit bzw. Vertrautheit von (sozialen) Interaktionsmustern in der Interaktionsdimension.
+          </p>
+          <p>- 9</p>
+        </sec>
+        <sec id="sec-4-1-4">
+          <title>1.2.2 Abweichungen vom ursprünglichen Projektplan</title>
+          <p>Das bei der Antragstellung konzipierte Untersuchungsdesign wurde im Projektverlauf in
+mehrfacher Hinsicht erweitert und damit zugleich umakzentuiert. Ursprünglich war nicht nur
+die Entwicklung eines Prototypen für ein web-basierten Beratungssystems zur
+Veranschaulichung von Unterstützungsmöglichkeiten der Konsumenten bei der Spezifikation und
+Kombination von Leistungsattributen ein wichtiges Arbeitspaket. Auch die Untersuchungen zur
+Akzeptanz und Beratungsqualität computer-vermittelter Systeme zur Leistungskonfiguration
+sollten mit Hilfe von Experimenten mit diesem Prototypen durchgeführt werden. Die
+Entwicklung des Prototypen wie auch die Durchführung der Experimente mit diesem Prototypen
+wurden zwar wie geplant realisiert. Allerdings konnte das geplante „Labor-Design“ im
+Projektverlauf zum einen durch die Untersuchung eines realen Kundenservicesystems im
+Internet erweitert werden. Als Kooperationspartner für die Durchführung dieser Untersuchungen
+konnte ein führender Anbieter von Telekommunikationsdienstleistungen gewonnen werden.
+Die Untersuchungen wurden mit Kunden dieses Anbieters durchgeführt. Aus soziologischer
+Perspektive bot dieser Untersuchungszugriff den Vorteil, dass die zentrale Fragestellung
+nach möglichen Rollenverschiebungen zwischen Dienstleistungsanbietern und Kunden bei
+elektronisch erbrachten Leistungen auf der Basis existierender Kundenbeziehungen und
+tatsächlich angebotener Leistungsmerkmale untersucht werden konnte. Darüber hinaus
+konnten auf diese Weise auch Akzeptanzprobleme mit untersucht werden, die sich bereits aus
+der Gestaltung der Konfigurationsschnittstelle (vgl. Abbildung 2) ergeben. Die Grenzen
+dieses Untersuchungszugriffs lagen darin, dass auch von führenden Anbietern während der
+Projektlaufzeit Optionen zur Online-Konfiguration von Telekommunikationsdienstleistungen
+nur in sehr beschränktem Umfang angeboten und damit auch getestet werden konnten.
+Zum andern wurde das geplante Untersuchungsprogramm durch eine Conjoint-Analyse und
+eine Delphi-Studie erweitert. Während die Conjoint-Analyse als Verfahren zur Analyse der
+Wertschätzung einzelner Leistungskomponenten etabliert ist, stößt ihre Anwendung im
+Rahmen eines innovativer und hoch-komplexer Dienstleistungen an Grenzen. Die Anwendung
+der Conjoint-Analyse war neben dem Interesse, Einschätzungen potenzieller Kunden in
+Erfahrung zu bringen, vor allem methodologisch motiviert. Wir wollten die Anwendbarkeit der
+Conjoint-Analyse im beschriebenen Kontext exemplarisch aufzeigen.</p>
+          <p>Die Delphi-Studie diente vor allem der Ausweitung und Abrundung der Expertenbefragung
+zu erwarteten Markttrends. Sie ermöglichte zudem eine, wenn auch nur begrenzte,
+Überprüfung der von uns entwickelten Konzeptualisierungen. Die Ergebnisse bilden gewissermaßen
+eine Folie zur Interpretation der Situation in der Telekommunikationsbranche und zu
+erwarteten Änderungen in kommenden Jahren.</p>
+          <p>- 10</p>
+        </sec>
+        <sec id="sec-4-1-5">
+          <title>1.2.3 Durchgeführte empirische Untersuchungen</title>
+          <p>Aufgrund der Zusammenarbeit zwischen Soziologen, Betriebswirtschaftlern und
+Wirtschaftsinformatikern konnten wir ein differenziertes Set von Methoden einsetzen, kombinieren und
+zum Teil für die spezifischen Untersuchungen weiterentwickeln (vgl. Tabelle 2).
+Der Schwerpunkt der Empirie lag auf der Untersuchung realer Anbieter-/Kundenbeziehungen
+bei individualisierten, über das Internet erbrachten Dienstleistungen. Auf diese Weise
+konnten zusätzlich zur Nutzerakzeptanz auch Nutzungsmuster in der realen
+Anbieter/Kundenbeziehung und deren soziale Einbettung untersucht werden. Mit dem von uns
+entwickelten methodischen Untersuchungsdesign (s.u.) war es möglich, den
+Entscheidungsprozess des Kunden für oder gegen die zukünftige Nutzung, bei dem der Kunde die erwartete
+Dienstleistungsqualität mit der tatsächlichen Leistung vergleicht, der empirischen Analyse
+zugänglich zu machen.</p>
+        </sec>
+        <sec id="sec-4-1-6">
+          <title>Fragestellung</title>
+          <p>Bestandsaufnahme der web-basierten
+Kundenservcieangebote und der darauf bezogenen Strategien
+von Telekommunikationsdienstleistern
+Kundenorientierte Gestaltung des Web-Angebots eines
+Telekommunikationsdienstleisters (MCI) (1.3)
+Evaluation des Online-Kundenservice eines
+Telekommunikationsanbieters: Vergleich der angebotenen
+Dienstleistungsfunktionen aus der Perspektive
+potentieller Kunden</p>
+        </sec>
+        <sec id="sec-4-1-7">
+          <title>Methodik</title>
+          <p>Recherche,
+Expertengespräche bei TK-dienstleistern
+Web Evaluation (externe Analyse)
+Webevaluation (critical incident Methode)
++ Focusgruppen Interviews + Fragebogen
+Zweite Evaluation des Online-Service: Konzentration
+auf komplexe Aufgabenstellungen
+Webevaluation (critical incident Methode)
++ Focusgruppen Interviews + Fragebogen
+Entwicklung eines webbasierten Konfigurations- und Webevaluation (critical incident Methode)
+Beratungssystems mit unterschiedlichen Konfigurations- + Focusgruppen Interviews + Fragebogen
+schnittstellen (1.2; 1.3), Nutzungsexperimente in
+Münster und Göttingen
+Nutzerpräferenzen bezüglich innovativer Dienstmerkma- Conjoint Analyse
+le und Anbieterkonstellationen (1)
+Expertenprognose (1; 2)
+Delphi Studie
+Tabelle 2: Fragestellungen und Methodik
+(die Zahlen verweisen auf die untersuchten Determinanten vgl. Tabelle 1)
+In Kooperation mit einem führenden Telekommunikationsdienstleister, der bereits in der
+Wachstumsphase der mobilen Dienste Ende der 90er Jahre mit dem Aufbau einer
+webbasierten Kundenserviceplattform begonnen hatte, wurden Erhebungen zu zwei Zeitpunkten
+(Herbst 2001 und Frühjahr 2003) realisiert. In der ersten Erhebungsrunde ging es darum, die
+Kundenperspektive auf die gesamte Breite der Servicepalette zu erfassen, Hypothesen zu
+generieren und das Untersuchungsinstrument zu testen. Daher wurden zunächst sämtliche
+Online-Serviceangebote des Anbieters in die Tests einbezogen. Die
+Untersuchungsergebnisse wurden dem Anbieter vorgestellt und von diesem bei der Überarbeitung der
+Internet- 11
+seiten berücksichtigt (wie auch später die Ergebnisse der zweiten Untersuchung). Die zweite
+Erhebungsrunde erfolgte auf der Basis einer Überarbeitung der Serviceplattform durch den
+Anbieter. Pragmatische Gründe sprachen für zwei möglichst weit auseinander liegende
+Untersuchungszeitpunkte (Re-Launch des Internetangebots, steigende Nutzung durch Kunden).
+Da die erste Untersuchung unerwartet große Differenzen in der Beurteilung und
+Nutzungsbereitschaft der unterschiedlichen Servicemodule ergeben hatte, haben wir die zweite
+Untersuchung nicht als Wiederholung der ersten konzipiert, sondern auf die Analyse komplexer
+Spezifikationsaufgaben mit Beratungsbedarf im Online-Service ausgerichtet, für die sich in der
+ersten Untersuchung eine niedrige Nutzungsbereitschaft ergeben hatte. Die zweite
+Untersuchung zielte insofern auf die genauere Analyse von Gestaltungsmöglichkeiten und -Grenzen
+komplexer Spezifikationsaufgaben im webbasierten Kundenservice.</p>
+          <p>Die dritte Untersuchung richtete sich – wie im Antrag skizziert – auf innovative
+Konfigurationsdienste, die während der Projektlaufzeit noch nicht bis zur Marktreife entwickelt waren.
+Dies betraf vor allem die erwarteten neuen Dienste und Anwendungen auf der Basis von
+neuen technischen Features (location based services und UMTS), aber auch avancierte
+personalisierte Beratungsdienste. Für die Experimente zur Untersuchung der Nutzerakzeptanz
+dieser innovativen Dienste wurde ein Prototyp entwickelt und mit potentiellen Nutzern (Typ
+Early Adopter) getestet.</p>
+          <p>Als methodisches Instrument wurde in allen drei Untersuchungen das im Projekt
+interdisziplinär entwickelte methodische Instrument aus einer Kombination von Webevaluation nach
+der Critical-Incident-Methode und anschließenden Focusgruppen-interviews, sowie
+individueller schriftlicher Befragung eingesetzt.</p>
+        </sec>
+        <sec id="sec-4-1-8">
+          <title>1.2.4 Methodisches Design</title>
+          <p>
+            Das Untersuchungsdesign besteht aus einer Kombination aus Usability-Test, individueller
+schriftlicher Befragung und Focusgruppendiskussion, die in der ersten Projektphase (bis
+Mitte 2001) in der interdisziplinären Kooperation entwickelt wurde. Die Methoden werden in den
+im Projekt vertretenen Fachdisziplinen – der Usability-Test in der Wirtschaftsinformatik,
+Focusgruppendiskussionen in der Soziologie und der Marktforschung – für vergleichbare
+Fragestellungen eingesetzt; neu ist allerdings die Art der Verknüpfung in dem von uns
+entwickelten Konzept. Das Instrument ermöglicht es, die Beurteilung einzelner Servicefunktionen und
+Webseiten durch die Kunde differenziert zu erfassen, darüber hinaus aber auch die
+Bewertungskontexte und die Abwägung der Nutzungsoptionen durch die Kunden zu analysieren.
+Im Zentrum der Untersuchung steht die Wahrnehmung des Zusammenhangs zwischen der
+Komplexität der Leistungsoptionen und den realisierten Interaktionsmöglichkeiten durch die
+Kunden. Zur Erfassung des Verhaltens der Probanden und ihrer Reaktionen während der
+- 12
+Testdurchführung kommt ein Methodenmix aus Blueprinting, Think-Aloud-Method und
+Critical-Incident-Analyse aus der Human-Computer-Interface-Forschung zum Einsatz
+            <xref ref-type="bibr" rid="ref11 ref12">(Totz et al.
+2001)</xref>
+            . Den Kunden werden Testaufgaben vorgegeben, in denen alltagsrelevante
+Anwendungssituationen skizziert sind, die von den Probanden mithilfe der zu testenden
+Kundenserviceseiten bewältigt werden sollen. Die Auswahl und Formulierung der Testaufgaben und
+Nutzungskontexte ist das zentrale Instrument zur inhaltlichen Steuerung und Strukturierung
+der gesamten Untersuchung. Nach dem Usability-Test wird die individuelle Bewertung der
+Probanden in einem standardisierten Fragebogen erfasst. Die anschließenden intensiven
+Focusgruppendiskussionen werden offen anhand von wenigen Leitfragen geführt und dauern
+knapp eine Stunde. Diese spezielle Form des Gruppeninterviews hat einige besondere
+Merkmale. Alle Teilnehmer haben zuvor im Usability-Test eine konkrete Situation erlebt, die die
+Diskussion anregt und vorstrukturiert. Die Focusgruppendiskussion zielt auf die subjektiven
+Erfahrungen, Erwartungen und Absichten der Probanden, die diese in der Diskussion in der
+Gruppe intensiv äußern und diskursiv abwägen. Dabei kann der Interviewleiter auf Grund
+seiner Kenntnis der Testsituation Stichworte liefern und auf relevante Dimensionen
+fokussieren. Die leitfadengestützte Gruppendiskussion ist jedoch nicht auf die Diskussion der
+getesteten Webseiten beschränkt. Über Fragen nach Nutzungskontexten für individuelle
+Dienstleistungen über das Internet werden überschießende Erwartungen (Möglichkeiten), sowie
+Befürchtungen und Unsicherheiten (Grenzen) thematisiert und mit anderen
+Dienstleistungserfahrungen (z.B. im persönlichen Beratungsgespräch) verglichen. Die
+Focusgruppendiskussionen wurden mit einer Videokamera aufgenommen und anschließend vollständig
+transkribiert. Das Instrument wurde in drei Untersuchungsrunden eingesetzt, zweimal mit dem
+'realen' Internetservices des gleichen TK-Anbieters und einmal experimentell mit dem
+Prototypen. An der ersten Untersuchung im Herbst 2001 nahmen 36 Probanden in 7 Gruppen teil,
+an der zweiten Untersuchung im Frühjahr 2003 37 Probanden in ebenfalls 7 Gruppen. An
+den Experimenten mit dem Prototypen nahmen 36 Probanden teil.
+          </p>
+          <p>Ergänzend wurden zwei weitere Untersuchungen mit einer Conjoint-Analyse und einer
+Delphi-Studie durchgeführt. Als Antwort auf die Unsicherheit der Anbieter und die schleppende
+Verbreitung von online Selbstbedienungsangeboten wurde die Conjoint-Analyse (Köhne, et
+al. 2003) als Gestaltungswerkzeug für innovative Dienste mit hoher Nutzerbeteiligung
+adaptiert und angewendet.</p>
+          <p>
+            Um die fehlende Feld-Verifikation der Teilergebnisse zu kompensieren, wurde der Dialog mit
+Forschung und Praxis in Form mehrerer Workshops gesucht (Siehe Anhang B) und die
+geplante Reflektion und Betrachtung der Implikationen in Form einer Delphi-Studie mit
+Experten aus dem Forschungsumfeld und der Telekommunikationsbranche ausgeweitet
+            <xref ref-type="bibr" rid="ref4">(Köhne,
+Klein 2003)</xref>
+            .
+          </p>
+          <p>- 13</p>
+        </sec>
+        <sec id="sec-4-1-9">
+          <title>1.2.5 Evaluation des Online-Kundenservice eines Telekommunikationsanbieters:</title>
+        </sec>
+        <sec id="sec-4-1-10">
+          <title>Vergleich der angebotenen Dienstleistungsfunktionen aus der Perspektive potentieller Kunden</title>
+          <p>In den Untersuchungen mit Kunden eines Telekommunikationsanbieters wurden die
+Voraussetzungen, Bedingungen, Möglichkeiten und Grenzen der web-basierten
+Leistungsspezifikation durch Kunden am Beispiel einer Kundenserviceplattform analysiert, die bereits
+seit 2000 auf dem Markt ist und seitdem kontinuierlich weiterentwickelt wird1. Die
+Testaufgaben, die den Kunden im Usability-Test vorgegeben wurden, umfassten das gesamte
+Spektrum der zum damaligen Zeitpunkt angebotenen Kundenservicefunktionen des Anbieters. Die
+Aufgaben bezogen sich auf die Administration von Kunden- und Leistungsdaten (Ermittlung
+des Kontostandes, Adressänderung), die Änderung bzw. Spezifikation von Tarifoptionen,
+sowie die Konfiguration von Telefondiensten (Rufumleitung und Sprachwahl). Für diese
+unterschiedlich komplexen Leistungen wurde untersucht, ob die realisierten Interaktionsformen
+der Kundenserviceplattform der subjektiv wahrgenommenen Komplexität der
+Leistungsoptionen aus Kundensicht angemessen sind oder ob sie zur Ablehnung des Online-Modus für die
+konkrete Servicefunktion führen.</p>
+          <p>Die Ergebnisse zeigen, dass sich aus der Perspektive der Kunden überraschend große
+Differenzen zwischen den Aufgaben bzw. den Servicefunktionen ergeben. Bei gering
+komplexen Leistungsoptionen, wie der Administration von Kundendaten und einfachen
+Leistungsspezifikationen, wird der Online-Modus von Kunden mit Interneterfahrung prinzipiell
+akzeptiert. Voraussetzung für die Nutzungsbereitschaft ist allerdings, dass bei der Gestaltung der
+Interaktionsmöglichkeiten die für den Handlungsraum des Internet erlernten routinisierten
+Interaktionsmuster berücksichtigt werden (Anforderungen an Usability, Feedback und
+Sicherheit) und dass die Gestaltung des Interaktionsprozesses transparent ist. Prozesstransparenz
+ist dann gegeben, wenn Handlungsmuster abgebildet werden, die den Kunden (z.B. aus
+anderen Formen der Kundenintegration) vertraut sind. Unter diesen Voraussetzungen werden
+die im Online-Modus von den Kunden zu übernehmenden Aufgaben nicht als Anforderung
+empfunden, die ihre Vorstellung von der eigenen Rolle als Kunde sprengen würde. Die
+Akzeptanz des Online-Kundenservice beruht in diesen Fällen gerade darauf, dass die
+Veränderung der Kundenrolle nicht als gravierend wahrgenommen wird, weil der Online Modus bei
+gering komplexen, standardisierten Servicefunktionen nicht zu wesentlichen Verschiebungen
+in der Leistungsdimension führt.</p>
+          <p>Bei komplexen Konfigurationsaufgaben (wie z.B. variable Rufumleitungen und
+Sprachwahloptionen) sowie bei der Spezifikation von differenzierten, individuell angepassten
+Tarifoptio1 Im August 2003 waren ca. 10% der Mobilfunkkunden des Anbieters registrierte Nutzer der
+Kundenserviceplattform. Die Nutzung der Serviceplattform konzentrierte sich dabei auf
+Kontostandsund Rechnungsabfragen.</p>
+          <p>- 14
+nen wird der Online-Modus mehrheitlich abgelehnt. Die geringe Akzeptanz komplexer
+Konfigurationsaufgaben resultierte in den untersuchten Fällen überraschenderweise nicht nur aus
+einer möglichen Überforderung bei der Konfiguration, sondern vielmehr aus der geringen
+Attraktivität der Leistung selbst. In den untersuchten Fällen wird die Attraktivität der Leistung
+unter anderem deswegen in Zweifel gezogen, weil die Kunden die automatische Anwendung
+von Konfigurationsalgorithmen als Restriktion wahrnehmen. Der potentielle Vorteil der
+Konfiguration – Wiederverwendung eines einmalig erstellten Kunden- (Bedarfs-) Profils – wird als
+Nachteil empfunden, weil sich die Bedürfnisse situativ verändern, d.h. gerade nicht immer
+gleich sind.</p>
+          <p>Bei den untersuchten Fällen zur Leistungsspezifikation zeigten die Kunde wenig Bereitschaft
+zur Übernahme komplexer Spezifikationsaufgaben im Online-Modus. Stattdessen
+präferierten sie mehrheitlich die Beratung durch Anbieterpersonal im Laden oder im Call Center.
+Beratungsanforderungen sind mehrdimensional, sie umfassen: Vermittlung von
+Wissen/Information und Erfahrung, Komplexitätsreduktion bzw. Abwägung von Vorschlägen,
+Anpassung an individuelle Bedürfnisse, Entscheidungshilfe, Sicherheit bzw. Vertrauen,
+Reduzierung von Aufwand. Im Unterschied zu Administrationsaufgaben und solchen
+Spezifikationsaufgaben, die als gering komplex wahrgenommen werden, wird die Kritik an der
+Gestaltung der Webseiten als grundsätzliche Ablehnung des Modus thematisiert. Bei komplexen
+Spezifikationsaufgaben ist der Online Modus in den untersuchten Fällen aus Kundensicht mit
+wesentlichen Veränderungen der Kundenrolle verbunden.</p>
+        </sec>
+        <sec id="sec-4-1-11">
+          <title>1.2.6 Zweite Evaluation des Online-Kundenservice mit komplexen Aufgabenstellungen</title>
+          <p>Im Frühjahr 2003 wurde die Evaluation der Kundenserviceplattform wiederholt, um die
+Entwicklung der Nutzungsmuster und Einstellungen von Kunden zu verfolgen, sowie um die
+Ergebnisse der ersten Untersuchung zu ergänzen und zu vertiefen. Insbesondere wurden die
+Anforderungen an die Testkunden erhöht, erstens durch die Konzentration auf komplexere
+Aufgaben mit individuell angepasster Leistungsspezifikation und zweitens dadurch, dass
+weniger konkrete Szenarien und Ausführungsanweisungen vorgeben werden. Die
+Untersuchungssituation kommt der eines Kunden gleich, der einen Kundenservice in Anspruch
+nehmen will, aber mit der Plattform noch nicht vertraut ist. Die Testkunden müssen die Plattform
+‚erlernen’, sowie ihre unspezifizierten Wünsche in die Sprache und Struktur des Angebots
+übersetzen. Als Beispiel für eine komplexe Spezifikationsaufgabe wurden die Kunden
+gebeten den für sie (kosten-)günstigsten Tarif herauszufinden und zu buchen.</p>
+          <p>Die Ergebnisse zeigen, dass die Kunden nicht bereit sind, eine Verschiebung der
+Rollenverteilung hinzunehmen, bei der die vom Anbieter erwartete, aber nicht erbrachte
+Beratungsleistung, durch den Kunden kompensiert werden soll, indem dieser sich in aufwendiger
+Eigenar- 15
+beit selbst informiert und die gewonnenen Informationen über das komplexe Tarifangebot auf
+seine Bedürfnisse bezieht. Der Online Modus stößt auf Ablehnung, wenn die Beratung durch
+Anbieterpersonal durch ‚Selbst-Beratung’ des Kunden ersetzt werden soll. Kunden erwarten
+auch im Online-Modus Lösungsvorschläge als Leistungsangebot des Anbieters. Wird diese
+erwartete Leistung im Online-Modus nicht erbracht, nimmt der Kunde dies als Defizit, d.h. als
+verminderte Leistungsqualität wahr. Die Übernahme von Aufgaben durch den Kunden stößt
+dann auf grundsätzlichen Widerstand, wenn sie aus Kundensicht mit einer qualitativen
+Leistungsminderung verbunden ist. Insbesondere in Fällen, in denen komplexe
+Leistungsoptionen an die individuellen Bedürfnisse der Kunden anzupassen sind und der Kunde bei dieser
+Aufgabe vom Anbieter nicht unterstützt wird, kann dies vom Kunden als unzumutbare
+Rollenverschiebung wahrgenommen und abgelehnt werden. Für die Ausgangsfrage nach den
+Grenzen des Online Modus wirft dieser Befund die Frage auf, ob Kunden generell keine
+Gestaltungsmöglichkeiten für eine akzeptable Kompensation persönlicher Beratung im
+Online Modus sehen, ob also die Grenzen des Online Modus erreicht sind, sobald Kunden einen
+‚Beratungsbedarf’ wahrnehmen. Unsere Ergebnisse deuten darauf hin, dass Beratung im
+Frühjahr 2003 nicht mehr zwangsläufig mit der Vorstellung eines persönlichen
+Beratungsgesprächs assoziiert wird. Ein Drittel der Testkunden im März 2003 hatte aufgrund ihrer
+Erfahrungen im Internet eine dezidierte Vorstellung von der Möglichkeit webbasierter
+Beratungsvorschläge, die der Anbieter automatisch (d.h. ohne zusätzliche Leistungsanteile des
+Kunden) aufgrund der ihm vorliegenden Daten über den Kunden generieren könnte2 und die sie
+als Leistungsoption erwarten würden. In dem von uns untersuchten Fall erwarten sie den
+Vorschlag eines elektronischen Tarifrechners auf der Basis ihrer individuellen
+Rechnungsdaten. Ein so generierter Vorschlag wäre (möglicherweise) vertrauenswürdig, weil er sich aus
+den gespeicherten Kundendaten errechnen lässt und die Kriterien, sowie die Art des
+Zustandekommens transparent sind. Fraglich ist allerdings, inwieweit dieses Modell auf andere
+Fälle übertragbar wäre.</p>
+        </sec>
+        <sec id="sec-4-1-12">
+          <title>1.2.7 Prototyp-Entwicklung und experimenteller Einsatz</title>
+          <p>Bereits am Markt erfolgende Kundentätigkeiten (i. S. v. Customer-Self-Service) decken nicht
+das gesamte Spektrum des Prosuming ab. Die Prosuming-Vision impliziert über die
+Substitution von bestehenden Anbieterleistungen hinaus eine Partizipation von Kunden an der
+Leis2 In dem von uns untersuchten Fallbeispiel „Anpassung der Tarifkonditionen an die individuellen
+Tarifgewohnheiten des Kunden“ wünschen ein Drittel der Kunden als Leistungsangebot des Anbieters im
+Web einen individuell errechneten Tarifvorschlag auf der Grundlage der individuellen, gespeicherten
+Rechnungsdaten. Aufgrund unserer Untersuchungsergebnisse wurde vom Anbieter ein solches
+Angebot in die Plattform integriert; die Kundenakzeptanz dieses Angebots konnte nicht mehr getestet
+werden.</p>
+          <p>- 16
+tungsdefinition (Konfiguration) oder ggf. Leistungsinnovation. Da kein Zugang zu
+entsprechenden Applikationen oder Prototypen bestand, war die Entwicklung einer prototypischen
+Applikation notwendig. Um eine für die Probanden realistische Testsituation zu konstruieren,
+wurde eine Prosuming-Aufgabe gewählt, die das Konzept des individualisierten Prosuming
+repräsentiert.</p>
+          <p>
+            Der Prototyp realisiert Prosuming im Sinne einer aktiven Personalisierung
+            <xref ref-type="bibr" rid="ref11 ref12">(vgl. Riemer, Totz,
+2001)</xref>
+            eines mobilen, ortsbezogenen Empfehlungsdienstes (Location Based Service), wobei
+die Erstellung eines Interessenprofils Voraussetzung für die Nutzung des Dienstes ist. Die
+Zielsetzung der Experimente war das explorative Generieren von Hypothesen in Bezug auf
+Akzeptanzfaktoren und Anforderungen an Dienste mit aktiver Personalisierung.
+Die Experimente zur Akzeptanz des prototypisch entwickelten Beratungssystems wurden mit
+technikaffinen Studierenden in Münster und Göttingen durchgeführt. Das methodische
+Design entsprach dem der Untersuchungen mit Mobilfunkkunden, d.h. es wurden Usabilitytests
+mit anschließenden Focusgruppendiskussionen und schriftlicher Befragung durchgeführt. An
+den Experimenten nahmen insgesamt 36 Testanwender teil, in Münster waren dies 22
+Studierende der Wirtschaftsinformatik, in Göttingen 14 Studierende der Sozialwissenschaften. In
+beiden Experimenten wurden für den Test ortsbezogene Daten aus Münster (Kneipen und
+Gaststätten in Münster) verwendet gelegt. Die erwartete Leistung (Kneipenvorschlag) ist ein
+Tipp, im Sinne einer Anregung außerhalb der vertrauten Alltagsroutine, die
+Selektionskriterien beinhalten subjektive Vorlieben und emotionale Befindlichkeiten.
+          </p>
+          <p>Die zentralen Bewertungsdimensionen der Probanden in Bezug auf den prototypisch
+realisierten innovativen Dienst waren die Plausibilität bzw. Vertrauenswürdigkeit der
+Empfehlungen und die Beurteilung der situativen Flexibilität bei der Bedarfsermittlung. Überraschend
+war die signifikant unterschiedliche Bewertung durch die Testgruppen aus Münster und
+Göttingen. Während das Serviceangebot von der Münsteraner Gruppe mehrheitlich positiv
+bewertet wurde, stieß es bei der Göttinger Gruppe auf Ablehnung. Entscheidend für die
+negative Bewertung des Dienstes durch die Göttinger Testgruppe war die aus ihrer Sicht geringe
+Vertrauenswürdigkeit des von dem Dienst (Prototypen) generierten Vorschlags. Von der
+Göttinger und der Münsteraner Gruppe wurden unterschiedliche Verfahren zur
+Plausibilitätsprüfung angewandt. Die Münsteraner Testgruppe konnte die Kneipenvorschläge auf der Basis
+ihrer eigenen Erfahrungen mit den Kneipen in Münster überprüfen und kam dadurch
+mehrheitlich zu einer positiven Beurteilung. Für die Göttinger Gruppe war diese Form der
+Plausibilitätsprüfung nicht möglich, da sie die vorgeschlagenen Kneipen nicht kannten. Sie testeten
+stattdessen das systembasierte Verfahren, mit dem die Vorschläge generiert werden. Dabei
+kamen sie mehrheitlich zu dem Ergebnis, dass sie dem Verfahren wenig Vertrauen
+schenken, weil es die subjektiven Vorlieben und emotionalen Befindlichkeiten nicht angemessen
+berücksichtigt. Das Ergebnis der Göttinger Gruppe macht deutlich, dass sich die
+Vertrau- 17
+enswürdigkeit von maschinell generierten Vorschlägen aus Kundensicht ein zentrales
+Problem von Online Beratungssystemen darstellen kann, insbesondere dann, wenn es um die
+Generierung von Vorschlägen geht, für die nur schwer standardisierbare Kriterien festgelegt
+werden können. Das Ergebnis der Münsteraner Gruppe verweist allerdings auf
+Möglichkeiten, wie Plausibilitätskontrollen organisiert werden können.</p>
+        </sec>
+        <sec id="sec-4-1-13">
+          <title>1.2.8 Conjoint-Analyse</title>
+          <p>Um das Problem der Gestaltung von Prosuming-Diensten konstruktiv weiter zu verfolgen,
+wurde die Conjoint-Methode als Gestaltungswerkzeug in einem Experiment erprobt und
+beurteilt.</p>
+          <p>Obliegt die Aufgabe der Ermittlung von Nutzerpräferenzen und –bedürfnissen im Fall der
+klassischen Wertschöpfung alleine den leistungsgestaltenden und –erstellenden Parteien, so
+wird diese im Fall des Prosuming (zumindest in Teilen) auf den Endkunden bzw.
+Prosumenten übertragen. Aus Sicht eines Prosumenten integrierenden Anbieters kommt der Ermittlung
+der kundenseitigen Wertschätzung einzelner Leistungskomponenten oder –module enorme
+Bedeutung zu, da der Nachfrager nicht mehr nur das aggregierte Endprodukt wahrnimmt und
+beurteilt, sondern bereits im Konfigurationsprozess Urteile hinsichtlich der Güte und
+Wichtigkeit einzelner Leistungsteile fällt. Anbieterinteresse muss es folglich sein, sowohl aus
+Konsumentensicht wertvolle Leistungskomponenten und –module bereitzustellen, als auch
+Prozesse der Meinungsbildung während der Interaktion zu unterstützen.</p>
+          <p>In der klassischen Marktforschung wird zur Analyse der Wertschätzung einzelner
+Leistungskomponenten auf dekompositionelle Methoden wie beispielsweise die Conjoint-Analyse
+zurückgegriffen. Liefern dekompositionelle Marktforschungsmethoden in der Praxis auch sehr
+wertvolle Ergebnisse, so stellt sich im Kontext der Konfiguration
+Telekommunikationsdienstleitungen die generelle Frage der Anwendbarkeit. Zum einen handelt es sich bei
+konfigurierbaren Telekommunikationsdiensten sehr häufig um innovative Dienste, die den Charakter
+von Erfahrungsgütern haben, die im Gesamten als auch in der Dekomposition vom Kunden a
+priori kaum beurteilt werden können. Kunden können somit nur bedingt valide Urteile über
+die Güte oder Relevanz einzelner Komponenten abgeben, da gerade erst deren (nicht oder
+nur kaum wahrnehmbares) Zusammenspiel nutzenstiftende Effekte haben kann. Darüber
+hinaus stellt die Vielfältigkeit der Leistungskomponenten in ihren denkbaren Ausprägungen
+den Kunden vor kognitive Probleme der Beurteilung, des Vergleichs und der Priorisierung
+von Optionen.</p>
+          <p>Das Experiment sollte Ergebnisse liefern, inwiefern Conjoint-Analysen im Bereich
+innovativer, konfigurierbarer Telekommunikationsdienstleitungen anwendbar sind und ob sich
+Optio- 18
+nen einer Integration dekompositioneller Methoden in Prozesse der
+Konfigurationsunterstützung erkennen lassen.</p>
+          <p>Als Anwendungsfall wurde ein virtueller mobiler ortsabhängiger Empfehlungsdienst (location
+based service) gewählt, der in die Komponenten Endgerät, Preismodell, Dienstanbieter und
+Konfigurationskanal untergliedert war. Das Experiment wurde mit Studenten der
+Wirtschaftsinformatik durchgeführt. Diesen wird einerseits eine hohe Technikaffinität, so dass der
+gewählte Dienst wenn auch noch nicht erlebt, so doch prinzipiell vorgestellt werden kann, als
+auch eine gewissen Erfahrung mit konfigurierbaren Diensten und Produkten (im Bereich der
+Software und IT-Hardware) zugeschrieben. Eine unzureichende Technikaffinität als auch
+eine mangelnde Konfigurationserfahrung konnten somit als Störfaktoren der Untersuchung
+reduziert werden.</p>
+        </sec>
+        <sec id="sec-4-1-14">
+          <title>1.2.9 Delphi-Studie</title>
+          <p>Da das Konzept des Prosuming im Bereich der Telekommunikation ein relativ unerforschter
+Untersuchungsbereich ist, eignen sich für eine Untersuchung in diesem Feld eher explorativ
+ausgerichtete Methoden.</p>
+          <p>In den Experimenten und Fallstudien konnten im Rahmen des Prosumer-Projekts erste
+Erkenntnisse durch Beobachtung gewonnen werden. Gleichwohl ist das Prosuming durch
+beobachtende Verfahren aufgrund der strategischen Bedeutung des Gegenstandsbereichs
+sowie experimentelle Defekte nur schwer zugänglich. Ferner wurde über den deskriptiven
+Ansatz hinaus in dieser Arbeit eine breite Untersuchung mit prognostischem wie auch
+verifizierendem Charakter angestrebt. Da die Entwicklung des Prosuming im
+Telekommunikationsbereich das Ergebnis strategischer Entscheidungen ist, liegt es nahe, Entscheidungsträger
+und Forscher aus dem Untersuchungsfeld zu befragen, um fundierte Prognosen machen zu
+können.</p>
+          <p>
+            Daher haben wir mit einer semistrukturierten Gruppendiskussion in Form einer Delphi-Studie
+eine befragende Methode als Untersuchungsform gewählt. Die Fragenbereiche umfassten
+Einschätzungen zur gegenwärtigen Situation des Prosuming, zur künftigen Entwicklung wie
+auch zu Maßnahmen zur Unterstützung der Interaktion zwischen Anbietern und
+Prosumenten. Die Einschätzungen der Experten spiegeln die starke Bedeutung des
+effizienzorientierten Prosuming wider. Sie zeigen aber auch, dass die bestehenden technischen
+Möglichkeiten zur Ausweitung des Prosuming noch nicht ausgeschöpft werden
+            <xref ref-type="bibr" rid="ref4">(vgl. Köhne; Klein
+2003)</xref>
+            .
+          </p>
+          <p>- 19</p>
+        </sec>
+        <sec id="sec-4-1-15">
+          <title>1.3 Wirtschaftliche Verwertbarkeit der Projektergebnisse</title>
+          <p>Als ein auf anwendungsorientierte Grundlagenforschung ausgerichtetes Projekt hat das
+Vorhaben keine unmittelbar wirtschaftlich verwertbaren Ergebnisse produziert. Allerdings haben
+die kooperierenden Unternehmen vom fallbezogenen Feedback der Projektergebnisse in
+besonderer Weise profitiert. Dies gilt insbesondere für die mit Kunden eines Anbieter von
+Telekommunikationsdienstleistungen durchgeführten Usability-Tests und Befragungen, die nur in
+enger Kooperation mit dem Anbieter realisiert werden konnten. Als Teil dieser Kooperation –
+und als Gegenleistung für den mit der Untersuchung verbundenen Aufwand – hat das
+Unternehmen eine ausführliche Präsentation der Test- und Befragungsergebnisse der beiden
+Erhebungsrunden erhalten, die jeweils mit Gestaltungshinweisen verbunden waren..</p>
+        </sec>
+        <sec id="sec-4-1-16">
+          <title>1.4 Generalisierbarkeit und offene Fragen</title>
+          <p>Das Untersuchungsfeld für die empirischen Erhebungen im Rahmen des Projekts waren
+Telekommunikationsdienstleistungen. Damit hat sich die Projektempirie auf einen – wenngleich
+relevanten – Ausschnitt digitaler Dienstleistungen beschränkt. In diesem Ausschnitt hat sich
+Prosuming während der Projektlaufzeit vor allem auf vergleichsweise gering komplexe,
+standardisierte Leistungen konzentriert.</p>
+          <p> Bezogen auf Prosuming im Zuge einer Standardisierung von Leistungen
+(effizienzorientiertes Prosuming) hat das Projekt Ergebnisse zur Gestaltungsproblematik aus
+Anbietersicht als auch in Bezug auf die Voraussetzungen für die Kundenakzeptanz
+geliefert.
+</p>
+          <p>Demgegenüber ist die Situation bezogen auf Prosuming im Zuge einer
+Individualisierung offener. Diese Form von Prosuming hat im Feld der
+Telekommunikationsdienstleistungen nicht nur eine untergeordnete Rolle gespielt. Bezogen auf diese
+Prosuming-Form waren auch die Vorbehalte der Kunden besonders ausgeprägt.</p>
+          <p>Es ist allerdings eine offene Frage, inwieweit dies untersuchungsfeld- oder zeitspezifischen
+Umständen geschuldet ist – etwa einem in diesem Feld bislang mangelnden Angebot an für
+die Kunden hinreichend attraktiven Leistungsmerkmalen, die der Individualisierung und
+Kunden-Konfiguration bedürfen.</p>
+          <p>Denkbar wäre aber auch, dass Standardisierung und Individualisierung nicht Endpunkte
+eines Kontinuums unterschiedlicher Prosuming-Formen darstellen, sondern unterschiedliche
+Pfade in Richtung Prosuming markieren, die aus Anbietersicht durch unterschiedliche,
+pfadspezifische Gestaltungsprobleme und aus Kundensicht durch ebenso pfad-spezifische
+Kalküle geprägt sind.</p>
+          <p>- 20</p>
+        </sec>
+      </sec>
+      <sec id="sec-4-2">
+        <title>2 Zusammenfassung</title>
+        <p>
+          Die Relevanz des Forschungsfeldes hat sich bestätigt. Online Anwendungen mit starker
+Nutzerbeteiligung (Prosuming) und erweiterte Möglichkeiten der Individualisierung sind in
+zwhlreichen Branchen entwickelt worden
+          <xref ref-type="bibr" rid="ref10 ref7 ref9">(vgl. die Zusammenstellung von Beispielen in
+Schneider; Totz 2003)</xref>
+          . Allerdings vollzieht sich die bereits 1999 im Antrag formulierte
+Erwartung der Transformation der Arbeitsteilung zwischen Anbieter und Kunde deutlich langsamer
+als wir seinerzeit erwartet haben.
+        </p>
+        <p>Die empirischen Untersuchungen haben zwar zeigen können, dass und unter welchen
+Bedingungen Kunden zu stärkerer Integration in die Leistungserstellung bereit sind. Diese
+Bereitschaft konzentriert sich jedoch auf gering komplexe, standardisierbare Dienstleistungen.
+Demgegenüber ist die Bereitschaft der Kunden zur Übernahme von Aufgaben im Rahmen
+von komplexen, individuell konfigurierten Dienstleistungen gering. Aus der Perspektive der
+Kunden ist ein qualitativer Unterschied festzustellen, der in den untersuchten Fällen dadurch
+erklärt werden kann, dass Kundenplattformen bei komplexen Leistungen häufig so gestaltet
+werden, dass Aufgaben verlagert werden, die zu Verschiebungen in der Leistungsdimension
+führen. Kunden nehmen dies als gravierende Rollenverschiebung wahr, die sie nicht
+akzeptieren wollen. Anbieterstrategien, die diese Probleme weitreichender Aufgabenverlagerung
+durch das Generieren systembasierter, individuell angepasster Leistungsalternativen zu
+vermeiden trachten, stehen vor der Schwierigkeit, dass sich bei der Gestaltung von
+Servicemodulen für komplexe Leistungen mit Beratungsbedarf die Herstellung der
+Vertrauenswürdigkeit von Beratungsvorschlägen als schwierig und aufwendig erweist. Die Problematik der
+Vertrauensbildung beim Prosuming durch Individualisierung ist erst in Ansätzen untersucht.
+Als Ergebnis unserer Fallstudien lassen sich freilich – in aller Vorläufigkeit – drei
+vertrauensbildende Gestaltungsmerkmale benennen: Transparenz des Verfahrens zur Generierung von
+Vorschlägen, Möglichkeiten zur Simulation von überprüfbaren Ergebnissen und zur
+Plausibilitätskontrolle.</p>
+        <p>Die empirischen Untersuchungen haben dabei nicht nur Akzeptanzprobleme der Kunden
+deutlich gemacht, sondern in weit stärkerem Maße als erwartet Probleme auf Seiten der
+Anbieter sichtbar werden lassen. Insbesondere der Mobilfunkmarkt befand sich im
+Untersuchungszeitraum in einer starken Wachstumsphase in einem zunehmend schwieriger
+werdenden wirtschaftlichen Umfeld (finanzielle Belastungen durch die UMTS-Auktionen und
+Rezession). In diesem Umfeld gewannen die Fragen zur Ausweitung von
+Selbstbedienungsfunktionen der Kunden zwar grundsätzlich eine Bedeutung, besaßen allerdings nicht die
+Priorität die erforderlich gewesen wäre, leistungsfähige und attraktive
+Selbstbedienungsfunktionalitäten zu gestalten und durch abgestimmte Maßnahmen in den verschiedenen
+Kommunikationskanälen (und Kundenkontaktpunkten) wirkungsvoll zu kommunizieren.</p>
+        <p>- 21
+Im Gegenteil, die empirischen Tests mit Endkunden zeigten gravierende Mängel in der
+Gestaltung von Funktionalität und Benutzerschnittstelle der web-basierten
+Selbstbedienungsplattform auf. Die Gespräche mit verschiedenen Anbietern bestätigten die hohe
+Systemkomplexität und Sicherheitsanforderungen, die aus einem erweiterten Kundenzugang zu den
+operativen Systemen resultieren. Da die Kundenreaktionen – nicht zuletzt aufgrund fehlender
+Anreize und begrenzter Funktionalität – bisher zurückhaltend ist, besteht kein starker Druck
+zur Ausweitung der Selbstbedienungsfunktionalität. Dem vermuteten Kostendruck der
+Anbieter, da die Kundenbetreuung durch Call Center wesentlich aufwändiger ist, steht der starke
+Wettbewerbsdruck in der Telekommunikationsbranche entgegen, der die Möglichkeiten,
+Kunden durch finanzielle Anreize (oder Gebühren für die Nutzung des Call Centers) zu einer
+Änderung ihres Verhaltens zu bewegen, eng begrenzt.</p>
+        <p>Die empirischen Arbeiten mit Kunden deuten daraufhin, dass ein konsistentes und
+förderndes Selbstbedienungsumfeld geschaffen werden muss, um die bestehenden Unsicherheiten,
+Einwände und Widerstände, die mit einer Ausweitung der Kundenrolle verbunden sind, zu
+überwinden. Zum gegenwärtigen Zeitpunkt ist die Kosten-Nutzen Bilanz aus Kundensicht
+noch überwiegend negativ, d.h. Kosten im Sinne von zusätzlichem Aufwand, Unsicherheit
+und empfundenen Risiken überwiegen die potenziellen Vorteile höherer Flexibilität,
+Selbstbestimmung, Kontrolle und Leistungsdifferenzierung bzw. –anpassung. Dies gilt in noch
+stärkerem Maße für die Nutzung von Konfigurationsoptionen.</p>
+        <p>Die Notwendigkeit einer stärkeren Einbeziehung und Aktivierung des Kunden in
+Leistungserstellungsprozesse wird zunehmend erkannt. Insbesondere funktionale Erweiterungen von
+Telekommunikationsdiensten in Richtung ortsbasierter Dienste (location based services) und
+flexible Kombination verschiedener Kommunikationsdienste mit einer einheitlichen
+Benutzerkennung (unified messaging) lassen sich ohne Konfiguration nicht realisieren. Dabei bieten
+sich drei grundsätzliche Optionen:
+• Verzicht auf die Konfigurationsfunktionalitäten unter der Annahme, dass diese sich
+ohnehin nur auf eine relative kleine Gruppe von Anwendern richten (kommerzielle Anwender,
+„Poweruser“).
+• Konzentration auf automatisierbare Funktionen der Leistungsindividualisierung und
+–konfiguration, etwa im Sinne der Smart Personal Object Technology (SPOT) von Microsoft
+oder der Buchempfehlungen bei Amazon. Eine automatische Erkennung der
+Kundenpräferenzen auf der Basis von Merkmalen der aktuellen Situation („im Auto“, „in einer
+fremden Stadt“) oder auf Basis von Verhaltensmustern ist jedoch angesichts der Vielfalt von
+Gestaltungsoptionen und situativ bestimmten, idiosynkratischen Präferenzen nur
+eingeschränkt möglich.</p>
+        <p>- 22
+•</p>
+        <p>Leistungsinnovation und systematische – technische, organisatorische und
+kommunikative – Gestaltung eines kundenfreundlichen Umfelds mit hoher Prozesstransparenz und –
+evidenz. Die Forschungsarbeiten wie auch die Antworten des Expertenpanels haben
+jedoch deutlich gemacht, dass unser Verständnis bezüglich der anbieterseitigen
+Gestaltungsanforderungen, der kundenseitigen Akzeptanzfaktoren wie auch der
+gesellschaftlichen Einflussfaktoren noch eng begrenzt ist.</p>
+        <p>Wir halten die letzte Option für zukunftsweisend, ermöglicht sie doch eine neue Qualität einer
+innovationsorientierten Anbieter-Kundenbeziehung. Die gestalterischen Herausforderungen
+gerade aus Anbietersicht sind jedoch beträchtlich und erst im Ansatz erkannt.
+Unsere Arbeiten hatten überwiegend explorativen Charakter. Damit lag der Schwerpunkt
+notwendigerweise auf konzeptionellen und methodischen Fragestellungen. Gerade die
+interdisziplinäre Kooperation hat es dabei jedoch ermöglicht und erleichtert, innovative Lösungen
+zu erarbeiten und anzuwenden. Unsere unit of analysis – die Interaktion von Anbietern und
+Kunden unter Berücksichtigung der Wechselwirkungen zu gesellschaftlichen Strukturen –
+war trotz einer Begrenzung auf ein spezifisches Anwendungsfeld so groß, um relevante
+Interdependenzen in den Blick zu bekommen. Folgearbeiten werden sich auf einzelne Aspekte
+beschränken müssen, aber auch – unter Verwendung der erarbeiteten Konzeptualisierung –
+können.</p>
+      </sec>
+      <sec id="sec-4-3">
+        <title>Veröffentlichungen</title>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <given-names>Hanekop</given-names>
+            <surname>Heidemarie</surname>
+          </string-name>
+          ; Tasch, Andreas; Wittke,
+          <string-name>
+            <surname>Volker</surname>
+          </string-name>
+          (
+          <year>2001</year>
+          ) „
+          <article-title>New Economy“ und Dienstleistungsqualität: Verschiebung der Produzenten- und Konsumentenrolle bei digitalen Dienstleistungen</article-title>
+          .
+          <source>SOFI Mitteilungen 9</source>
+          ,
+          <year>2001</year>
+          , S.
+          <fpage>73</fpage>
+          -
+          <lpage>91</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Klein</surname>
+          </string-name>
+          , Stefan; Köhne, Frank; Totz,
+          <string-name>
+            <surname>Carsten</surname>
+          </string-name>
+          (
+          <year>2004</year>
+          ):
+          <article-title>Extending customer's roles in eCommerce - Promises, challenges and some findings</article-title>
+          , in: Shaw, Michael,
+          <string-name>
+            <surname>J</surname>
+          </string-name>
+          . (ed.):
+          <source>Electronic Commerce and the Digital Economy</source>
+          ,
+          <year>2004</year>
+          , Armonk, NY: M.E. Sharpe,
+          <year>2004</year>
+          (in print).
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Klein</surname>
+          </string-name>
+          , Stefan; Totz,
+          <string-name>
+            <surname>Carsten</surname>
+          </string-name>
+          (
+          <year>2004</year>
+          ):
+          <article-title>Prosumers as service configurators - vision, status and future requirements</article-title>
+          , in: Bouwman,
+          <string-name>
+            <given-names>H.</given-names>
+            ;
+            <surname>Preissl</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>B.</given-names>
+            ;
+            <surname>Steinfield</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>C.</surname>
+          </string-name>
+          (Hrsg.)
+          <article-title>ELife after the DOT</article-title>
+          .com bust, Heidelberg, New York: Physica,
+          <year>2004</year>
+          , pp.
+          <fpage>119</fpage>
+          -
+          <lpage>135</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Köhne</surname>
+          </string-name>
+          , Frank; Klein,
+          <string-name>
+            <surname>Stefan</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          )
+          <article-title>: Prosuming in der Telekommunikationsbranche: Eine DelphiStudie</article-title>
+          . Institut für Wirtschaftsinformatik, Universität Münster, Arbeitsbericht Nr.
+          <volume>97</volume>
+          ,
+          <year>2003</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Köhne</surname>
+          </string-name>
+          , Frank; Schneider,
+          <string-name>
+            <surname>Bernd</surname>
+          </string-name>
+          (
+          <year>2002</year>
+          )
+          <article-title>: An AI Approach to Information Filtering for Location Based Services</article-title>
+          , in: Schubert, Petra; Leimstoll,
+          <string-name>
+            <surname>Uwe</surname>
+          </string-name>
+          (Hrsg.),
+          <source>Proceedings of the Ninth Research Symposium on Emerging Electronic Markets</source>
+          <year>2002</year>
+          , Basel, Switzerland,
+          <year>2002</year>
+          , S.
+          <fpage>149</fpage>
+          -
+          <lpage>156</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Köhne</surname>
+          </string-name>
+          , Frank; Totz,
+          <string-name>
+            <surname>Carsten</surname>
+          </string-name>
+          (
+          <year>2002</year>
+          )
+          <article-title>: Personalisation in mobile information services</article-title>
+          ,
+          <source>in: Proceedings of the BITA/B4U Workshop on Business Models, TU Delft, Netherlands</source>
+          ,
+          <year>2002</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Köhne</surname>
+          </string-name>
+          , Frank; Totz, Carsten; Wehmeyer,
+          <string-name>
+            <surname>Kai</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          )
+          <article-title>: Consumer Preferences for Location-Based Service Attributes - A Conjoint Analysis</article-title>
+          ,
+          <source>in: Proceedings of the Second International Conference on Mobile Business, Wien</source>
+          ,
+          <year>2003</year>
+          , S.
+          <fpage>115</fpage>
+          -
+          <lpage>127</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Köhne</surname>
+          </string-name>
+          , Frank; Totz, Carsten; Wehmeyer,
+          <string-name>
+            <surname>Kai</surname>
+          </string-name>
+          (
+          <year>2004</year>
+          )
+          <article-title>: Consumer Preferences for Location-Based Service Attributes - A Conjoint Analysis</article-title>
+          , in:
+          <source>International Journal of Mobile</source>
+          Communication (submitted).
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Riemer</surname>
+          </string-name>
+          , Kai; Totz,
+          <string-name>
+            <surname>Carsten</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          ):
+          <article-title>The many faces of personalization - an integrative overview of mass customization and personalization</article-title>
+          , in: Tseng, Mitchell M; Piller,
+          <string-name>
+            <surname>Frank</surname>
+            <given-names>T.</given-names>
+          </string-name>
+          (Hrsg.),
+          <source>The Customer Centric Enterprise</source>
+          , Berlin, Heidelberg, New York 2003, S.
+          <fpage>35</fpage>
+          -
+          <lpage>50</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Schneider</surname>
+          </string-name>
+          , Bernd; Totz,
+          <string-name>
+            <surname>Carsten</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          ):
+          <article-title>Web-gestützte Konfiguration komplexer Produkte und Dienstleistungen, Institut für Wirtschaftsinformatik, Universität Münster</article-title>
+          ,
+          <year>Dezember 2003</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Totz</surname>
+          </string-name>
+          , Carsten; Riemer,
+          <string-name>
+            <surname>Kai</surname>
+          </string-name>
+          (
+          <year>2001</year>
+          ):
+          <article-title>The effect of interface quality on success- an integrative approach on mass customization design</article-title>
+          ,
+          <source>in: Proceedings of the 1st World Congress on Mass Customization and Personalization</source>
+          ,
+          <string-name>
+            <surname>Hong-Kong</surname>
+          </string-name>
+          ,
+          <year>2001</year>
+          ,
+          <article-title>(available on CD-Rom at ami</article-title>
+          .
+          <source>ust.hk/MC01/MCPC.htm).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Totz</surname>
+          </string-name>
+          , Carsten, Riemer, Kai; Klein,
+          <string-name>
+            <surname>Stefan</surname>
+          </string-name>
+          (
+          <year>2001</year>
+          )
+          <article-title>: Web Evaluation</article-title>
+          , in: Lowry,
+          <string-name>
+            <given-names>Paul B.</given-names>
+            ;
+            <surname>Cherrington</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J</given-names>
+            . Owen; Watson,
+            <surname>Ronald R.: The E-Business</surname>
+          </string-name>
+          <string-name>
+            <surname>Handbook</surname>
+          </string-name>
+          , St. Lucie Press,
+          <year>2001</year>
+          ,
+          <fpage>45</fpage>
+          -
+          <lpage>66</lpage>
+          .
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
