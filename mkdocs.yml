@@ -1,0 +1,13 @@
+site_name: EXparser Documentation
+repo_url: https://github.com/exciteproject/Exparser
+repo_name: GitHub
+theme: readthedocs
+site_description: How to use EXparser
+docs_dir: docs
+plugins:
+    - search
+theme:
+    name: readthedocs
+pages:
+  - Home: 'index.md'
+  
