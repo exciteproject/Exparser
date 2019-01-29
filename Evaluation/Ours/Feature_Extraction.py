@@ -10,13 +10,17 @@ import jenkspy
 import collections
 import sqlite3
 from itertools import groupby
+execfile('./src/Initial_Data.py')
 execfile('./src/gle_fun.py')
 execfile('./src/gle_fun_ext.py')
 
+if not os.path.isdir('./Dataset/Features/tmp'):
+	os.mkdir('./Dataset/Data_Comp/tmp/')
 
 
 
-fold="Datasets/Ours/LYT3"
+
+fold="Datasets/Ours/LYT"
 fdir=os.listdir(fold)
 for u in range(0,len(fdir)):
 	if not os.path.isfile('Datasets/Ours/Features/tmp/'+fdir[u]+'.npy'):

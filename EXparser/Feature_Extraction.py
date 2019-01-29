@@ -10,10 +10,12 @@ import jenkspy
 import collections
 import sqlite3
 from itertools import groupby
+execfile('./src/Initial_Data.py')
 execfile('./src/gle_fun.py')
 execfile('./src/gle_fun_ext.py')
-execfile('./src/Initial_Data.py')
 
+if not os.path.isdir('./Dataset/Features/tmp'):
+	os.mkdir('./Dataset/Data_Comp/tmp/')
 
 
 fold="./Dataset/LYT"
