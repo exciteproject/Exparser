@@ -1,0 +1,42 @@
+1 Metzker ML. Sequencing technologies – the next generation. Nat Rev Genet 2010;11, 31–46.
+2 Hutchison CA III. DNA sequencing: bench to bedside and beyond. Nucleic Acids Res 2007;35:6227–37.
+3 Sanger F, Nicklen S, Coulson AR. DNA sequencing with chain-terminating inhibitors. Proc Natl Acad Sci USA 1977;74:5463–7.
+4 Lander ES, Linton LM, Birren B, Nusbaum C, Zody MC, Baldwin J et al. Initial sequencing and analysis of the human genome. Nature 2001;409:860–921.
+5 Venter JC, Adams MD, Myers EW, Li PW, Mural RJ, Sutton GG et al. The sequence of the human genome. Science 2001;291:1304–51.
+6 Saiki RK, Scharf S, Faloona F, Mullis KB, Horn GT, Erlich HA et al. Enzymatic amplification of beta-globin genomic sequences and restriction site analysis for diagnosis of sickle cell anemia. Science 1985;230:1350–4.
+7 Smith LM, Sanders JZ, Kaiser RJ, Hughes P, Dodd C, Connell CR et al. Fluorescence detection in automated DNA sequence analysis. Nature 1986;321:674–9.
+8 Prober JM, Trainor GL, Dam RJ, Hobbs FW, Robertson CW, Zagursky RJ et al. A system for rapid DNA sequencing with
+fluorescent chain-terminating dideoxynucleotides. Science 1987;238: 336–41.
+9 Cohen AS, Najarian DR, Paulus A, Guttman A, Smith JA, Karger BL et al. Rapid separation and purification of oligonucleotides by high- performance capillary gel electrophoresis. Proc Natl Acad Sci USA 1988;85:9660–3.
+10 Kasper TJ, Melera M, Gozel P, Brownlee RG. Separation and detection of DNA by capillary electrophoresis. J Chromatogr 1988;458: 303–12.
+11 Margulies M, Egholm M, Altman WE, Attiya S, Bader JS, Bemben LA et al. Genome sequencing in microfabricated high-density picolitre reactors. Nature 2005;437:376–80.
+12 Valouev A, Ichikawa J, Tonthat T, Stuart J, Ranade S, Peckham H et al. A high-resolution, nucleosome position map of C. elegans reveals a lack of universal sequence-dictated positioning. Genome Res 2008;18:1051–63.
+13 Bentley DR. Whole-genome re-sequencing. Curr Opin Genet Dev 2006;16:545–52.
+14 Bentley DR, Balasubramanian S, Swerdlow HP, Smith GP, Milton J, Brown CG et al. Accurate whole human genome sequencing using reversible terminator chemistry. Nature 2008;456:53–9.
+15 Wheeler DA, Srinivasan M, Egholm M, Shen Y, Chen L, McGuire A et al. The complete genome of an individual by massively parallel DNA sequencing. Nature 2008;452:872–6.
+16 Li H, Handsaker B, Wysoker A, Fennell T, Ruan J, Homer N et al. The Sequence Alignment ⁄ Map format and SAMtools. Bioinformatics 2009;25:2078–9.
+17 Li H, Ruan J, Durbin R. Mapping short DNA sequencing reads and calling variants using mapping quality scores. Genome Res 2008;18:1851–8.
+18 Li R, Li Y, Kristiansen K, Wang J. SOAP: short oligonucleotide alignment program. Bioinformatics 2008;24:713–4.
+19 Langmead B, Trapnell C, Pop M, Salzberg SL. Ultrafast and memory-efficient alignment of short DNA sequences to the human genome. Genome Biol 2009;10:R25.
+20 Li H, Durbin R. Fast and accurate short read alignment with Burrows-Wheeler transform. Bioinformatics 2009;25:1754–60.
+21 Li R, Yu C, Li Y, Lam TW, Yiu SM, Kristiansen K et al. SOAP2: an improved ultrafast tool for short read alignment. Bioinformatics 2009;25:1966–7.
+22 Rumble SM, Lacroute P, Dalca AV, Fiume M, Sidow A, Brudno M et al. SHRiMP: accurate mapping of short color-space reads. PLoS Comput Biol 2009;5:e1000386.
+23 Homer N, Merriman B, Nelson SF. BFAST: an alignment tool for large scale genome resequencing. PLoS ONE 2009;4:e7767.
+24 Li H, Homer N. A survey of sequence alignment algorithms for next-generation sequencing. Brief Bioinform 2010; 11: 473–83.
+25 Sundquist A, Ronaghi M, Tang H, Pevzner P, Batzoglou S. Whole- genome sequencing and assembly with high-throughput, short-read technologies. PLoS ONE 2007;2:e484.
+26 Abnizova I, Skelly T, Naumenko F, Whiteford N, Brown C, Cox T et al. Statistical comparison of methods to estimate the error probability in short-read Illumina sequencing. J Bioinform Comput Biol 2010;8:579–91.
+27 McKenna A, Hanna M, Banks E, Sivachenko A, Cibulskis K, Kernytsky A et al. The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data. Genome Res 2010; 20:1297–303.
+28 Morris AP, Zeggini E. An evaluation of statistical approaches to rare variant analysis in genetic association studies. Genet Epidemiol 2010;34:188–93.
+29 Li B, Leal SM. Methods for detecting associations with rare variants for common diseases: application to analysis of sequence data. Am J Hum Genet 2008;83:311–21.
+30 Madsen BE, Browning SR. A groupwise association test for rare mutations using a weighted sum statistic. PLoS Genet 2009;5:e1000384.
+31 Choi M, Scholl UI, Ji W, Liu T, Tikhonova IR, Zumbo P et al. Genetic diagnosis by whole exome capture and massively parallel DNA sequencing. Proc Natl Acad Sci USA 2009;106:19096–101.
+32 Ng SB, Turner EH, Robertson PD, Flygare SD, Bigham AW, Lee C et al. Targeted capture and massively parallel sequencing of 12 human exomes. Nature 2009;461:272–6.
+33 Ng SB, Buckingham KJ, Lee C, Bigham AW, Tabor HK, Dent KM et al. Exome sequencing identifies the cause of a mendelian disorder. Nat Genet 2010;42:30–5.
+34 Lupski JR, Reid JG, Gonzaga-Jauregui C, Rio Deiros D, Chen DC et al. Whole-Genome Sequencing in a Patient with Charcot-Marie- Tooth Neuropathy. N Engl J Med 2010; 362:1181–91.
+35 Roach JC, Glusman G, Smit AF, Huff CD, Hubley R, Shannon PT et al. Analysis of Genetic Inheritance in a Family Quartet by Whole- Genome Sequencing. Science 2010;328:636–9.
+36 Nejentsev S, Walker N, Riches D, Egholm M, Todd JA. Rare variants of IFIH1, a gene implicated in antiviral responses, protect against type 1 diabetes. Science 2009;324:387–9.
+37 Mardis ER, Ding L, Dooling DJ, Larson DE, McLellan MD, Chen K et al. Recurring mutations found by sequencing an acute myeloid leukemia genome. N Engl J Med 2009;361:1058–66.
+38 Pleasance ED, Cheetham RK, Stephens PJ, McBride DJ, Humphray SJ, Greenman CD et al. A comprehensive catalogue of somatic mutations from a human cancer genome. Nature 2010;463:191–6.
+39 Pleasance ED, Stephens PJ, O’Meara S, McBride DJ, Meynert A, Jones D et al. A small-cell lung cancer genome with complex signa- tures of tobacco exposure. Nature 2010;463:184–90.
+40 Campbell PJ, Stephens PJ, Pleasance ED, O’Meara S, Li H, Santarius T et al. Identification of somatically acquired rearrangements in cancer using genome-wide massively parallel paired-end sequencing. Nat Genet 2008;40:722–9.
+41 Shah SP, Morin RD, Khattra J, Prentice L, Pugh T, Burleigh A et al. Mutational evolution in a lobular breast tumour profiled at single nucleotide resolution. Nature 2009;461:809–13.

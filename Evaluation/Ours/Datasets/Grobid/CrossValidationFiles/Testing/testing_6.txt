@@ -1,0 +1,10 @@
+0_cns0017-0066_CNS_Neurosci_Ther_2011_Feb_17(1)_66-79.references.tei.xml
+1003_gbq104_J_Gerontol_B_Psychol_Sci_Soc_Sci_2011_May_3_66B(3)_279-286.references.tei.xml
+1004_jgo-22-9_J_Gynecol_Oncol_2011_Mar_31_22(1)_9-17.references.tei.xml
+102_11934_2011_Article_182_Curr_Urol_Rep_2011_Jun_11_12(3)_209-215.references.tei.xml
+1046_10856_2010_Article_4183_J_Mater_Sci_Mater_Med_2011_Jan_11_22(1)_97-105.references.tei.xml
+1048_1752-1947-5-173_J_Med_Case_Reports_2011_May_6_5_173.references.tei.xml
+1050_tmet34-268_J_Med_Eng_Technol_2010_May_13_34(4)_268-273.references.tei.xml
+1056_JMS-10-148_J_Med_Screen_2011_Mar_18(1)_41-45.references.tei.xml
+130_dom0013-0251_Diabetes_Obes_Metab_2011_Mar_13(3)_251-257.references.tei.xml
+136_1746-1596-6-46_Diagn_Pathol_2011_May_31_6_46.references.tei.xml

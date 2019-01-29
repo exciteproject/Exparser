@@ -1,0 +1,1224 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>LOCAL LIKELIHOOD ESTIMATORS IN A REGRESSION MODEL FOR STOCK RETURNS1</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Uwe Christian Jönck</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Department Mathematik (SPST), Universität Hamburg Bundesstr.</institution>
+          <addr-line>55, 20146 Hamburg</addr-line>
+          ,
+          <country country="DE">Germany</country>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1997</year>
+      </pub-date>
+      <volume>2</volume>
+      <abstract>
+        <p>We oconsider a non-stationary regression type model for stock returns in which the innovations are described by four-parameter distributions and the parameters are assumed to be rsmooth, deterministic functions of time. Incorporating also normal distributions for modelling the innovations, our model is capable of adapting to light-tailed innovations as wPellas to heavy-tailed ones. Thus, it turns out to be a very exible e approach. Both, for the tting of the model and for forecasting the distributions of future returns, we use local likelihood methods for estimation of the parameters. We apply our model to the S&amp;eP500 return series, observed over a period of twelve years. We show that it ts these datraquite well and that it yields reasonable one-day-ahead forecasts.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>Introduction
+with white noise f"tg and volatilities given by
+t2 =</p>
+      <p>p
+0 + X
+i=1</p>
+      <p>q
+iXt2 i + X j t2 j :
+j=1
+There have been various modi cations on this approach, which led to more sophisticated but
+on the other hand also more complicated models. For an overview see for example Bollerslev
+1This work was supported by Deutsche Forschungsgemeinschaft (DFG grant DR 271/4 1).
+et al. (1994) or Gouriéroux (1997). These models succeed in reproducing various stylized
+facts. However, especially when dealing with long time series, they also have some
+drawbacks, such as the occurence of the so-called IGARCH e ect in the popular GARCH(1;1)
+model. (A critical discussion of this model can be found in St ric , 2003.) Mikosch and
+St ric  (2003, 2004) argue that this e ect could be due to the fact that time series of log
+returns are actually not stationary, which is one of the basic paradigms of the GARCH class
+models. Furthermore, they show that also the so-called long range dependence e ects in the
+second moment structure can be explained if the underlying time series is non-stationary.
+The assumption of stationarity might also seem questionable especially for long nancial
+time series, because the nancial markets and the general economic framework may change
+over long Ftime periods. Consequently, the concept of stationarity might not be adequate
+o
+for a nancial time series model. A weakening of the strong requirement of stationarity
+might be the concept of a locally stationary behaviour of the time series: this means that for
+small time intervrals the time series is nearly stationary, whereas over longer time intervals</p>
+      <p>P
+its (stochastic) behaviour changes gradually.</p>
+      <p>
+        <xref ref-type="bibr" rid="ref6">Drees and St ric  (2002)</xref>
+        propose a very simple regression-based model that drops the
+assumption of stationarity. eFor the returns Xt Drees and St ric  presume a multiplicative
+e
+structure, similar to that of (1.1). The di erence to the GARCH models lies in the
+modelling approach for the volatilities t. In the GARCH class models these are determined by
+endogenous factors, namely by parstvolatilities as well as past returns. In contrast to that,
+      </p>
+      <p>R
+Drees and St ric  assume the volatilities to be driven by some unknown (presumably rather
+complex) market conditions, and hence to be determined exogenously. However, this
+exterior mechanism might be too complex to deevelop a realistic stochastic model for it. For this
+v
+reason Drees and St ric  simply model the volatilities as a smooth, deterministic function
+of time. Thus, their basic model is the following:
+i</p>
+      <p>e=const:;
+8&gt; Xt = + (t)"t; t = 1; 2; : : : ; n;
+&gt;
+&lt;&gt; f"t : t = 1; : : : ; ng IID(0; 1); w
+&gt;: (t); t = 1; 2; : : : ; n; a smooth, deterministic function of time.
+(1.2)
+Considering the centered returns Rt = Xt , we have O</p>
+      <p>Rt2 = (t)2 + (t)2("t2 1):
+n
+Hence, (1.2) can be interpreted as a regression model for the squared volatilities, and
+nonl
+y
+parametric regression techniques can be applied for estimating the volatilities. The
+innovations "t are modelled by asymmetric Pearson Type VII distributions, which generalize the
+class of t-distributions (see below), and thus allow for heavy tails. Drees and St ric  t this
+model to the daily returns of the closing prices of the Standard &amp; Poor's 500 (S&amp;P 500)
+stock index from 2 January 1990 to 21 February 2002, depicted in Figure 1.1. They
+estimate the volatilities by a simple Nadaraya-Watson kernel estimator and they use a maximum
+likelihood (ML) estimator to determine the parameters of the t-distributions. They show
+that their model is competitive to the conventional GARCH(1;1) and EGARCH(1;1) models
+concerning the tting of the data as well as the forecasting of future return distributions.</p>
+      <p>
+        In this paper
+        <xref ref-type="bibr" rid="ref6">(which can be regarded as a continuation of the work of Drees and St ric ,
+2002)</xref>
+        we take up and re ne the above regression model. However, instead of the
+assump0.08
+0.06
+0.04
+0.02
+      </p>
+      <p>0
+-0.02
+-0.04
+-0.06
+-0.08
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+O
+2 Re nement of the model of Drees and St ric 
+n
+l
+We consider the regression model (1.2) from the previous section. In the following, instead of
+the returns Xt we consider the centered returns Rt = Xt . Then we have y(approximately)
+(2.1)</p>
+      <p>Rt = (t)"t</p>
+      <p>Xt</p>
+      <p>
+        Xn;
+regarding Xn = 1=n Pjn=1 Xj as an approximation for = EXt, and neglecting an
+estimation error that might occur. We assume the innovations "t and, consequently, the centered
+returns, too to be independent and distributed with density
+g(x; u+; u ; v+; v ) = 21 g(jxj; u ; v ) fx &lt; 0g + g(x; u+; v+) fx
+0g ;
+u 2 [0; 2);
+2 (0; 1);
+where
+(2.2)
+The corresponding cdf is denoted G( ; u+; u ; v+; v ), or sometimes just G. The parameters
+u+ and u essentially determine the shape of the density g: for u &gt; 0 the term 1=2g( ; u; v)
+equals the right tail of the density of a t-distribution with 2=u 1 degrees of freedom and
+scale parameter v=(2 u)1=2 (which is sometimes also referred to as a Pearson Type VII
+distributFion, cf. Johnson and Kotz, 1970, p. 114 .), and for u = 0 it equals the right tail of
+the density of a normal distribution with mean zero and variance v2=2. The parameters v+
+and v behave olike scale parameters for the positive and negative parts of the distribution,
+respectively. It irseasily seen that G has nite variance i u+; u &lt; 2=3. This modelling
+approach is more exible than that of
+        <xref ref-type="bibr" rid="ref6">Drees and St ric  (2002)</xref>
+        , who always assume u+; u &gt;
+0. In contrast, our mPodel can adapt to heavy-tailed as well as light-tailed innovations as
+we shall see later on. e
+      </p>
+      <p>Note that for each x we have g(x; u; v) ! g(x; 0; v) as u ! 0. Hence, g(x; 0; v) can
+also be considered an approxiemation to g(x; u; v) for small values u. In the following this
+property is often referred to as threnormal approximation of the tails.</p>
+      <p>Another nice property of the law G is that it allows for asymmetry in the tails, and thus is
+quite exible. It may appear somewhat Rinconsequent to model the innovations (and thus the
+e
+centered returns) presumed to have mean zero by a class of distributions that in general
+do not have this property (the distributions G are in general not centered, but only have
+median zero). However, for practical applicativonsthis is not of great importance: indeed,
+the model assessments in Section 4 will show that ithe means of the tted distributions are
+approximately equal to zero. e</p>
+      <p>We further re ne the model of Drees and St ric  by dwropping their assumption of
+identically distributed innovations. Instead, we assume the parameters to be smooth, deterministic
+functions of time, i.e. we have as an initial approach</p>
+      <p>O
+"t G( ; u+(t); u (t); v+(t); v (t)):
+n
+To avoid an overparametrization resulting from the additional scale parameter (t), we
+introduce new parameters +(t) := (t)v+(t) and (t) := (t)v (t), wlhyichleads to the
+modelling assumption of independent centered returns
+(2.3)</p>
+      <p>Rt</p>
+      <p>G( ; u+(t); u (t); +(t); (t)):
+Hence, our model is completely determined by the distributions of the centerd returns, given
+by (2.3), and the smooth parameter function
+: f1; : : : ; ng ! [0; 2)2
+(0; 1)2; t 7! BBBB@ 23((tt))CCCC</p>
+      <p>A
+0 1(t)1
+4(t)
+0u+(t)1
+BBB@u+((tt))CCCC :
+B</p>
+      <p>A
+(t)
+In the following, we shortly write G( ; ) or G , instead of G( ; u+; u ; +; ), and for the
+corresponding density we write g . Note that in this approach the volatilities only play
+a subordinate role as part of the parameters + and . However, assuming that for the
+innovations we have Var("t) = 1, the volatilities can easily be regained from the equation
+2(t) = Var(Rt).
+3</p>
+      <p>Local likelihood estimation
+(3.2)
+&gt;
+&gt;
+&gt;
+:</p>
+      <p>
+        = ( 1T ; : : : ; dT )T = ( 11; : : : ; O1p1; : : : ; d1; : : : ; dpd )T :
+Here K denotes a kernel, h is a bandwidth (or smoothing parameter), anndKh( ) = K( =h)=h.
+Usually K is a unimodal symmetric pdf, preferably with compact support. Maximizing
+Ln( ; h; x) with respect to yields the local likelihood estimates ^kj . Conlseyquently, we have
+estimates ^k(j)(x) = j! ^kj for the value of the parameter function in x and its derivatives,
+respectively. For further information on local likelihood estimation and local polynomial
+tting cf.
+        <xref ref-type="bibr" rid="ref1">Aerts and Claeskens (1997)</xref>
+        ,
+        <xref ref-type="bibr" rid="ref8">Fan et al. (1998)</xref>
+        , or
+        <xref ref-type="bibr" rid="ref9">Fan and Gijbels (1996)</xref>
+        .
+Asymptotics. In the following, we assume the design points xi to be generated according
+to xi = G 1 (i 1)=(n 1) , with G(x) = R x1 fX(t)dt and a design density fX with
+supp(fX ) = [a; b]. Furthermore, we assume the kernel K to be a symmetric pdf with compact
+support [ 1; 1].
+        <xref ref-type="bibr" rid="ref1">Aerts and Claeskens (1997)</xref>
+        show that under some additional regularity
+conditions the local likelihood estimators are consistent and asymptotically normal. (Mainly,
+these regularity conditions are the classical conditions on the densities f ( ; ), needed for
+For tting our model to data we use the method of local likelihood estimation. In this
+section, we rst give a brief overview of its basic concept. Subsequently, based on a paper
+by Aerts Fand Claeskens (1997), we investigate the asymptotics of these estimators, and we
+provide a deovice for constructing approximate con dence intervals for the parameters. We
+discuss how these ideas carry over to our model.
+      </p>
+      <p>r
+The basic concept. PConsider a sample (x1; y1); : : : ; (xn; yn). The data xi denote distinct
+points of time in some interval [a; b]. These might either be xed or given by a random
+design. The corresponding eyi's are realizations of independent, real-valued random variables
+Yi. Suppose that each Yi is diestributed according to some pdf f ( ; si), where the parameter
+si 2 d is determined by a functiorn: xi 7! (xi) = si. Assuming this parameter function
+to be su ciently smooth, each of its components k can be approximated locally by a Taylor
+polynomial of degree pk. Thus, for xi Rclose to a xed point x we have the approximation
+(3.1) k(xi) Xjp=k0 k(jj)!(x) (xeivx)j Xjp=k0 kj (xi x)j ;
+i
+where in this notation the dependence of kj from x is omitted. For estimating the coe
+cients kj of the local polynomials, we consider the leocal likelihood function
+8&gt; n 0 p1
+&gt;&gt;&lt; Ln( ; h; x) = X log f @yi; X
+i=1 j=0
+1j(xi</p>
+      <p>wpd
+x)j ; : : : ; X
+j=0
+dj(xi</p>
+      <p>1
+x)j A Kh(xi
+x);
+proving consistency and asymptotic normality of ML estimators; cf. Aerts and Claeskens,
+1997, conditions (R1) (R6), for details.) More precisely, they show that
+pnh
+^1(x)
+1?(x) T Hp1; : : : ; ^d(x)
+d?(x) T Hpd</p>
+      <p>T</p>
+      <p>
+        p1nh Bnh(x)
+D! N (0; V(x));
+as n ! 1, with k?(x) = ( k?1(x); : : : ; k?pk (x))T denoting the vector of the true coe cients
+of the local polynomials, i.e. k?j(x) = k(j)(x)=j!, and employing the indexing given in
+(3.2). The matrices Hpk are diagonal matrices with entries h0; : : : ; hpk , whereas the other
+quantities depend in a rather complicated way on the true parameters k(j)(x), the kernel
+K, the (Flog-)densities and its derivatives and on the design point x. Again, cf.
+        <xref ref-type="bibr" rid="ref1">Aerts and
+Claeskens (1997)</xref>
+        for details.
+      </p>
+      <p>o
+Con dence intrervals. The results from the previous paragraph provide a device for
+constructing approximate pointwise con dence intervals for the true coe cients of the local
+polynomials. With eij Pdenoting the vector with 1 as ij-entry and 0 elsewhere (i.e., we
+e
+have eiTj = ij ), from (3.3) we get
+pnh ^ij(x) i?ej(x) hj p1nh eiTjBnh(x) D! N (0; eiTjV(x)eij ):</p>
+      <p>r
+Following the argumentation of Fan and Yao (2003), p. 243, we neglect the asymptotic bias
+term. Hence, approximately, we have R</p>
+      <p>L ^i0(x) i?0(x) eN 0; n1h eiT0V(x)ei0 :
+Replacing the parameters i(x) in the expression vfor the asymptotic covariance matrix V(x)
+by the corresponding estimates ^i(x) we get an appiroximate covariance matrix Vb(x). Thus,
+by e</p>
+      <p>
+        u =2 Vbi0;i0(x)=(nh) 1=2 ; ^i0(x) + u w=2Vb i0;i0(x)=(nh) 1=2i
+h ^i0(x)
+we get an approximate con dence interval at the level 1
+where u =2 is the standard normal (1 =2)-quantile.
+for the true parameter i(x),
+Bandwidth selection. A crucial point in local likelihood estimatinonis the choice of an
+appropriate bandwidth h. This acts as a smoothing parameter in nearly the same way as
+it does in ordinary nonparametric regression. The above asymptotics mlotivate to chose
+y
+a bandwidth that minimizes the asymptotic mean squared error of the estimates, which
+is a function of h and also depends on some unknown constants. The latter ones have
+to be estimated by plug-in procedures.
+        <xref ref-type="bibr" rid="ref1">(Cf. also Aerts and Claeskens, 1997.)</xref>
+        Another
+approach, which is not based on the above asymptotics, is discussed by
+        <xref ref-type="bibr" rid="ref8">Fan et al. (1998)</xref>
+        :
+they derive estimates for the bias and variance terms, and thus for the mean squared error
+(MSE) of the local likelihood t. Following their approach the bandwidth is chosen such
+that the estimated MSE, which is a function of h, is minimal. This method is especially
+feasible for the computation of local bandwidths. A nice alternative to the above bandwidth
+selection procedures is a cross-validation method, proposed by
+        <xref ref-type="bibr" rid="ref1">Aerts and Claeskens (1997)</xref>
+        .
+In this fully data-driven approach for a given bandwidth h the parameters (x1); : : : ; (xn)
+are estimated, where the ith estimate is based on the sample without the ith oberservation
+(xi; yi). The resulting parameter estimates denoted ^[i](xi) are then plugged into the
+loglikelihood function. Doing these computations for varying bandwidths h yields the
+crossvalidation function
+      </p>
+      <p>ApplyinFgthe asymptotics to our model. For applying the above asymptotics to our
+modelling approach, we have to consider some minor modi cations to our model. After
+centering the oreturns (cf. (2.1)), we are given observations f(t; Rt) : t = 1; : : : ; ng. For the
+purpose of asymrptotic investigations, now we consider a rescaling of the time points by the
+transformation
+(3.4) Pes 7! ns 11 =: s~; 1 s n;</p>
+      <p>e
+which maps the time points into the unit interval. These rescaled design points ful ll
+the assumption on the points xi from the above paragraph on asymptotics with fX (x) =
+[0;1](x). The parameter functiorncan be rescaled in the same way, setting ~(t~) := (t).</p>
+      <p>R
+Note that this transformation is only necessary for the application of the asymptotic results
+and the computation of the con dence intervals. It has no e ects on practical aspects of
+the estimation. Therefore, when it is obvioeusthat an assertion is correct for the original
+points of time (i.e. for t = 1; : : : ; n) as well as for the rescaled ones (i.e. for the points t~), for
+v
+ease of notation we often silently omit the notation for the rescaling. Especially, we do so
+when considering the parameter function and the liocal polynomials.
+e</p>
+      <p>In addition, we have to check whether the regularity conditions on the densities hold
+for our model. Actually, this is the case for a suitable wsubmodel, namely for the family
+fG : 2 g. Here the parameter space is de ned as := (u; u)2 ( ; )2, with arbitrary
+values 0 &lt; u &lt; u &lt; 2=3 and 0 &lt; &lt; &lt; 1. The veri cation of Otheregularity conditions is
+lengthy but quite standard. It is based upon showing diverse interchangeability conditions
+for integration and di erentiation of the densities and rough estimatinoninequalities for the
+derivatives of the (log-)densities; it also uses the fact that is compact. The complete
+proof is given in Jönck (2005). Consequently, for estimations within thislsubmodel we can
+y
+calculate approximate con dence intervals for the true parameters according to Section 3.
+Since 7! (Var G )1=2 is di erentiable in , an application of the Delta method yields
+approximate con dence intervals for the volatilities, too.
+4</p>
+      <p>Modelling the S&amp;P 500 return series
+In this section we t our model to the returns of the closing prices of the S&amp;P 500 return
+series from 2 January 1990 to 21 February 2002 (cf. Figure 1.1), which is a total of n = 3062
+observations. We discuss the numerical results and check whether they ful ll the model
+assumptions.
+Fitting the model. We estimate the (rescaled) parameter function (x) for each of the
+points x = x~1; : : : ; x~n, with x~i = (i 1)=(n 1), cf. equation (3.4). To this end, for each
+such x the optimization problem
+(4.1)
+8&gt; max Ln( ; h; x) under constraints: ( 10(x); : : : ; 40(x))T 2 ;
+&gt;
+&gt;
+&gt;&gt;&gt;:&gt;&lt;&gt; @0Xjp=10 1j(x~i x)j ; : : : ; Xjp=40 4j(x~i x)j A1T 2 ; x~i 2 [x
+h; x + h];
+is solved, where Ln( ; h; x) is the local likelihood function de ned by (3.2), employing the
+densities fg : 2 g. For the kernel K we use the Epanechnikov kernel, which is given
+by K(u) F=3=4(1 u2)+. Using the notation from (3.2), the vector ( 10(x); : : : ; 40(x))T
+corresponds oto(x) = (u+(x); u (x); +(x); (x))T . For the computations we use the
+fmincon routine implemented in Matlab (V.7). The meaning of the rst constraint in (4.1)
+is obvious, the sercond one ensures that all evaluations of the local polynomials lie in the
+pwaitrhamue=ter10spa2,ceu, =oth2P=er3w,ise=L1n0( 4; ha;nxd) is=n5o.t de ned. We take as de ned in Section 3,</p>
+      <p>We compute the cross-evalidation function CV ( ) for bandwidths ranging from 0:010 to
+0:075 (cf. Section 3): for bandweidths between 0:020 and 0:050 it is very at, and it has a (not
+very distinct) maximum at hCV = 0:026. For our computations we choose the bandwidth
+h = 0:030. r</p>
+      <p>
+        We use local linear ts for all four Rparamters, i.e. p1 = = p4 = 1. It is preferable to
+use the same degree of adaption for all parameters, since the expression for the asymptotic
+bias is essentially of an order of the smallest esuch polynomial degree. In addition, the use of
+v
+odd-degree polynomial ts reduces boundary e ects.
+        <xref ref-type="bibr" rid="ref1">(For details see Aerts and Claeskens,
+1997.)</xref>
+        Our choice of local linear ts takes account of both aspects and at the same time
+keeps the number of optimization parameters to a iminimum.
+e
+      </p>
+      <p>
+        In addition, we use the normal approximation from Section 2 in the following way: if for
+some x the local likelihood estimation yields an estimate wu^+(x) = u, we can assume the true
+value u+(x) to be very close to zero, thus implying a very light right tail of the corresponding
+return distribution L (Rt). According to the above ideas, then Owe can approximate the
+right tail of the return distribution by that of a N (0; +2 =2)-distribution, and thus u^+(x)
+is assigned the value zero. Likewise we proceed if u^ (x) = u. In canseof either u^+(x) or
+u^ (x) being zero, the conditions for the asymptotic results by
+        <xref ref-type="bibr" rid="ref1">Aerts and Claeskens (1997)</xref>
+        are violated. Therefore, in such cases we do not provide asymptotic con dleynceintervals for
+any of the four paramters u+(x), u (x), +(x) and (x).
+      </p>
+      <p>Numerical results. The estimates for the parameter functions are shown in Figure 4.1.
+Apparently, the normal tail approximation is widely employed, and so it seems a valuable
+tool to enhance the model's ability of assessing light-tailed distributions.</p>
+      <p>One can clearly see that for most points of time we have u^+ &lt; u^ , i.e. the left tails of the
+estimated distributions are heavier than the corresponding right tails. This might re ect the
+well-known fact that in time series of stock returns the extremely large negative returns are
+usually larger in absolute value than the extremely large positive returns. Furthermore, the
+estimated distributions show some sort of symmetric behaviour in the tails. For example,
+0.03
+0.02F5
+0.02
+0.015
+0.01
+0.005</p>
+      <p>P
+0 1990 1992 1994 1996 1998 2000 2002 0 1990 1992 1994 1996 1998 2000 2002
+^+e ^
+Figure 4.1. The estimated paerameter functions u^+, u^ , ^+ and ^ (bold solid lines) together
+r
+with the corresponding asymptotic pointwise 95%-con dence intervals (dotted lines), where
+applicable, and the bootstrap con dence intervals (thin solid lines).</p>
+      <p>R
+whenever the left tails of the distributions eget heavier, i.e. u^ increases, the parameter
+v
+function u^+ also tends to increase and vice versa. Apparently, such a symmetric behaviour
+can be observed in the estimated scale parameters ^+ and ^ , too, where this symmetry
+seems even much more distinctive. Remember thiat we de ned (t) = (t)v (t). Thus,
+e
+due to the symmetric behaviour of the scale parameters one might try to simplify the
+model in such a way that only the volatility (t) is prewsumed a smooth function and the
+parameters v+(t) and v (t) are presumed global constants. However, it turns out that the
+O
+quotient ^+(t)=^ (t) is strongly uctuating with varying t and that the con dence intervals
+for +(t)= (t) (which can be derived easily from the use of the Delta method) are nearly
+disjoint for many points of time. n</p>
+      <p>The estimates u^+ and u^ also seem to exhibit a certain kind of periodicity, which
+expresses through the fact that the periods between two consecutive points lof ymaximum (and
+minimum, respectively) are approximately of the same length. This e ect might be due to
+the choice of the rather small bandwidth h for the estimation of the parameters at any point
+of time less than 185 observations are taken into account. Indeed, for larger bandwidths this
+periodicity appears much less distinct.</p>
+      <p>Figure 4.1 also shows the pointwise con dence intervals for the true parameters, as
+derived in Section 3 (depicted in dotted lines). Since we can only provide such asymptotic
+con dence intervals for those points of time for which no use of the normal approximation
+is made for either tail (see above), we also compute 95%-bootstrap con dence intervals for
+each of the estimated parameters (depicted in thin solid lines in Figure 4.1). To this end,
+we simulate a total of J = 1000 time series samples fRt j : t = 1; : : : ; ng, with independent
+0.3
+0.25
+variables P
+(4.2) Rt ejG^(t); t = 1; : : : ; n; j = 1; : : : ; J:</p>
+      <p>e
+For each of these simulated samples we compute likelihood estimates f ^ j (t) : t = 1; : : : ; ng.
+Thus, for every t and every k (denoting one of the parameter components) the upper and
+lower 2.5%-quantiles of the set f ^kj r(t) : j = 1; : : : ; J g yield a 95%-boostrap con dence
+interval for the parameter ^k(t). This is a very Rsimple procedure for the construction of bootstrap
+con dence intervals. However, the resulting intervals should be interpreted carefully, because
+we do not know anything about their (asymeptotic) properties and thus their accuracy. In
+v
+addition, we do not know the e ects on these intervals which occur due to the fact that for
+parameter values u+ or u close to zero our model switches from t-distributions to normal
+tails. Nevertheless, these bootstrap con dence inteirvals are helpful to get a rst impression
+e
+on how the local likelihood estimates in our modelling approach behave.</p>
+      <p>For u+ and u the asymptotic con dence intervals (as wwell as the bootstrap con dence
+intervals) are rather wide, in some cases they cover nearly all of the space (u; u). This
+is somewhat unsatisfying, because it yields little information Oabout the accuracy of our
+estimated functions for the parameters u+ and u : these con dence intervals would as well
+allow for parameter functions u+ and u of a di erent shape, for examnple they would allow
+for globally constant parameter functions. It might therefore be worth thinking about a
+simpli ed approach, modelling u+ and u as global constants, like Drees alnd ySt ric  (2002)
+do. We shall come back to and further discuss this idea at the end of this section. For
+the scale parameters + and the asymptotic con dence intervals as well as the bootstrap
+con dence intervals are rather narrow. Indeed, they seem to coincide more ore less.</p>
+      <p>
+        Figure 4.2 shows the estimated annualized volatilities ^a(t) := p250^(t), where the ^'s
+are computed as the standard deviations of the estimated distributions. The corresponding
+con dence intervals for the estimated volatilities result from the use of the Delta method.
+The estimated annualized volatilities resemble very much the corresponding estimates from
+Drees and St ric , concerning both, the oscillation behaviour and the magnitude of the
+estimates, as can be seen from the right image in Figure 4.2. Only the double-peak in the
+middle of 1995 appears a bit strange, in particular, since the time series is very calm during
+that period. The occurence of such e ects depends of course on the choice of the bandwidth:
+they can be avoided by chosing a larger bandwidth, which on the other hand might lead to
+an over-smoothing of some parts of the curve. To completely prevent such problems, the use
+of a local, data-driven bandwidth
+        <xref ref-type="bibr" rid="ref8">(as proposed by Fan et al., 1998, Section 6)</xref>
+        may be helpful,
+which is however computationally very intensive and therefore not always recommended.
+Assessment of the model. Summarizing so far, one can say that the local likelihood
+estimators in our model, together with the normal tail approximation seem to yield
+reasonable results for describing the development of the time series. Next we want to check
+whether the model assumptions are really ful lled. Of course, this also gives some answer
+to the qFuestion of the goodness of our modelling approach. We have to check whether
+ the (ceontered) returns are independent,
+ the estimatred distributions G^(t) are good approximations to the real distributions of
+the returns, i.e. approximately we have Rt G^(t), and
+      </p>
+      <p>P
+ the estimated distributions G^(t) have approximately mean zero (i.e. the centered
+returns Rt are really ecentered).</p>
+      <p>
+        For this purpose we mainly uesethe same techniques as
+        <xref ref-type="bibr" rid="ref6">Drees and St ric  (2002)</xref>
+        .
+Furthermore, we check whether r
+ the asymptotic con dence intervRalscover the true parameter with probability 0.95.
+      </p>
+      <p>e</p>
+      <p>
+        First we check whether the innovations or, equivalent, whether the centered returns
+Rt are independent. This is one of the basic assumptions of our model. As the common
+tests for independence always demand for a savmple of identically distributed observations,
+we rst standardize the centered returns. Assumiing the estimated distributions are good
+approximations for the return distributions, i.e. we ehave approximately Rt G^(t), the
+variables w
+(4.3) Vt := 1 G(Rt; ^(t)) ; t = 1; : : : ; n;
+O
+in the following referred to as standardized returns should be standard normal, and thus
+in case of independence of the returns should be Gaussian white nonise.To check this, we
+investigate the SACFs of the time series of standardized returns and of their absolute
+values; see Figure 4.3. For almost all lags both of the SACFs stay within thle y95%-con dence
+intervals, given by the dashed lines, thus strongly supporting the independence assumption.
+In addition, Figure 4.3 shows the p-values of the Portmanteau tests for the corresponding
+time series for the rst 100 lags. While for the standardized returns the hypothesis of
+independence is rejected for almost all lags at the 95%-level, the test supports the hypothesis of
+uncorrelated absolute standardized returns for almost all lags.
+        <xref ref-type="bibr" rid="ref4">(For general information on
+the con dence intervals or the Portmanteau test cf. Brockwell and Davis, 1987, Section 7.2
+and p. 300 ., respectively.)</xref>
+        This surprising e ect occurs in a similar form also in the original
+model of
+        <xref ref-type="bibr" rid="ref6">Drees and St ric  (2002)</xref>
+        . To nd an explanation for this e ect, we consider the
+SACFs of the returns and the absolute returns of the S&amp;P 500, respectively, which are given
+in Figure 4.4: the SACF of the absolute returns exhibits some long range dependencies
+(FigRt
+      </p>
+      <p>G^(t); t = 1; : : : ; n:
+If this holds true, then the standardized returns should be approximately standard normal.
+This is clearly supported by the QQ-plot for the standardized returns, which is given in
+Figure 4.5. To formally test the normality of the standardized returns, we employ the
+0.06
+0.04
+0.02
+FCA 0
+S
+-0.02
+-0.04</p>
+      <p>F
+o
+r
+0.25
+0.2
+F0.15
+C
+SA0.1
+--44r-3 -2Stand-a1rd nor0mal qu1antiles2
+3
+4</p>
+      <p>e
+Kolmogorov-Smirnov (KS) test and the Jarque-Bera (JB) and Shapiro-Wilk (SW) tests. The
+latter ones are specially designed for testing nvormality; cf. Shapiro and Wilk (1965), and
+Judge et al. (1988), respectively. (The Matlab impleimentations used for the SW and JB tests
+are part of the UCSD GARCH Toolbox, available at ehttp://econ.ucsd.edu/ ksheppar;
+we corrected some errors in the codes.) The high p-valwuesof all three tests, given in the
+rst line of Table 4.1, indicate that the estimated distributions approximate the true return
+distributions very well.</p>
+      <p>Finally, we address to the question if the estimated distribuOtions G^(t) (approximately)
+have mean zero, as postulated by the model. If so, according to the central limit theorem,
+the statistic n</p>
+      <p>Sn := (PtnP=1tn=^12(Rt)t)1=2 ly
+should be approximately standard normal. The p-value of the corresponding two-sided
+test is roughly equal to 1, and thus we accept the estimated distributions G^(t) as being
+aproximately centered.</p>
+      <p>Our approach of evaluating the estimated model is not unproblematic, as it has two
+major shortcomings: when testing for independence of the returns, we assume the estimated
+distributions to be good approximations for the true return distributions. Whereas the
+goodness of t tests used for checking normality of the standardized returns presume the
+returns to be independent. We adopt this approach, because (to the best of our knowledge)
+there is no reasonable method for testing independence and the goodness of t separately.
+Consequently, the outcomes of the above evaluations should be interpreted carefully.</p>
+      <p>The second shortcoming of our approach concerns the p-values of the above goodness of
+t tests. What we did above, was computing the estimates ^(t) on the basis of the centered
+returns aFndthen applying the tests for normality on the standardized returns. These depend
+on the estimates ^(t) and thus, again, on the centered returns (cf. (4.3)). So, actually, we use
+o
+the same data for estimating the model as we use for checking their goodness of t. Hence,
+the accuracy of trhe p-values seems questionable. Due to the high dependency on only one</p>
+      <p>P
+single set of data, they may not be very accurate and there might be some need for adjusting
+them. Therefor let us remind how the p-values are calculated for the case of the KS, JB and
+SW tests: each of these teestsis based on a test statistic, say T . It will reject the hypothesis
+then de ned as p = P fT tg. eThus, we can redress the problem of an inaccurate p-value by
+of standard normal Vt's if the realization of T , denoted t, takes large values. The p-value is
+recalculating the law of T in considreration of the standardization (4.3). To this end, suppose
+we are given J time series samples fRt j : t = 1; : : : ; ng, simulated according to (4.2). For</p>
+      <p>
+        R
+each of these simulated samples we compute the likelihood estimates f^ j(t) : t = 1; : : : ; ng
+and the resulting standardized returns, given eby Vt j = 1 G(Rt j; ^ j (t)) . Consequently,
+we have J + 1 realizations of T given by
+v
+t = T (V1; : : : ; Vn) and tj =iT (V1 j; : : : ; Vn j):
+e
+Then, from the empirical cdf FJ ( ) = J 1 PjJ=1 ftj g we get an approximation for
+the law of T under the assumption that the distributions wofthe centered returns are really
+given by the family fG^(t) : t = 1; : : : ; ng. Consequently, for the p-value we have as an
+approximation the Monte Carlo p-value pMC = 1 FJ (t). For mOoregeneral information on
+this Monte Carlo testing approach cf.
+        <xref ref-type="bibr" rid="ref5">Davison and Hinkley (2003)</xref>
+        , especially Chapter 4. (Of
+course, for the same reasons that we already mentioned in the discussinonof the construction
+of bootstrap con dence intervals, such a Monte Carlo p-value has to be considered carefully
+rst of all it is a heuristic approach to assess the quality of the model t.l)y
+      </p>
+      <p>We do this computationally intensive method for the KS, JB and SW tests with J = 1000
+simulated times series. The results are given in the second line of Table 4.1. All three
+pMCvalues assert the good results from the simple tests, the Monte Carlo version of the JB
+and SW tests, surprisingly, having even a higher p-value than their simple versions.</p>
+      <p>Finally we want to check whether the approximate con dence intervals actually cover
+the true parameter with probability 0.95. Suppose that at time t neither u^+(t) nor u^ (t)
+equals 0 or 2=3, such that we can construct con dence intervals for the true parameters,
+according to Section 3. Again, we consider the simulated time series fRt j : t = 1; : : : ; ng
+and the resulting local likelihood estimates f^ j(t) : t = 1; : : : ; ng, j = 1; : : : ; J . Assume
+that from the estimates ^ j(t) (i.e. the parameter estimates for time t resulting from the jth</p>
+      <p>R
+e
+1990 1992 1994 1996 1998 2000 2002
+1990 1992 1994 199v61998 2000 2002
+^a i
+e
+Figure 4.6. Relative frequencies of the initial paramter estimates ^k(t), k = 1; : : : ; 4, to lie
+in the simulated con dence intervals. Points of time t, wforwhich in the orignial estimates
+no con dence intervals are constructed, are assigned the value zero.
+simulation) we can compute approximate con dence intervals for each nofthe four parameters
+^1(t); : : : ; ^4(t). These may be denoted by I ^kj (t) , k = 1; : : : ; 4. The number of all j's for
+which the construction of such con dence intervals is possible be denotedlby Jt. Then the
+y
+relative frequencies # j : ^k(t) 2 I ^kj (t) =Jt give an estimate for the covering probability
+of the approximate con dence intervals.</p>
+      <p>We compute these relative frequencies for all t with u^+(t); u^ (t) 2= f0; 2=3g, using a total
+of J = 1000 simulated time series. The results are depicted in Figure 4.6: for the parameters
+u+, u , + and</p>
+      <p>the levels of the con dence intervals lie between 0.85 and 1.0 for almost
+all points of time and thus do not di er too much from the 95%-level. However, there are
+also some exceptions from this, e.g. shortly after the beginning of the year 2000, where the
+estimated level for the con dence intervals of the parameter + are very low (below 70%).
+A simple explanation for this e ect might be, that this is exactly the period during which
+the estimated parameters ^+ are maximal, as can be seen in Figure 4.1. The estimates ^+j ,</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Test</title>
+      <p>p
+pMC</p>
+    </sec>
+    <sec id="sec-3">
+      <title>Shapiro-Wilk 0.861 0.879</title>
+      <p>which result from the simulated time series, in general take more moderate values, they
+are smaller than ^+. Thus, the resulting simulated con dence intervals I ^ j cover the
++
+parametFer^+ less often. For the annualized volatilities there are major di erences between
+the relative frequencies and the presumed 95%-level of the con dence intervals. Especially
+o
+the very low level shortly before 1996 is striking. This is exactly the period where there is the
+unexplainable doruble-peak of the volatilities (cf. Figure 4.1 and the comments thereon), and
+thus should not be too surprising. Note that, although we have taken J = 1000, of course
+the quantity Jt is less Pthan that for all t, due to the fact that also during the simulations
+the normal approximation efor the tails is used. However, except for very few points of time,
+we always have Jt 300.</p>
+      <p>e</p>
+      <p>r
+The model with globally constant parameters u+ and u . In our rst discussion</p>
+      <p>R
+of the estimates for the parameter functions u+ and u (see p. 10), we pointed out that an
+alternative approach might be to model theesetwo parameters by global constants. We want
+to brie y investigate how this simpli ed modelling approach behaves. To this end we take the
+estimated scale parameters ^+ and ^ from the avbove local likelihood estimation and then we
+rst re-estimate u+ and u as global constants, usiniga maximum likelihood (ML) estimator.
+Based on these ML estimates, then the parameter funections + and are re-estimated with
+local likelihood estimates, using again local linear ts. Cwonsidering the S&amp;P 500 data this
+yields globally constant parameter estimates u^g+lob = 0:209 and u^glob = 0:315, the newly
+O
+estimated parameter functions ^+ and ^ resemble very much the corresponding functions
+from Figure 4.1, the plots are therefore omitted. The same model assessment procedures
+n
+that are used above can now be applied to the standardized returns resulting from these new
+parameter estimates: the assessments of the SACFs and the Portmanteau tests look exactly
+the same as those from Figures 4.3 and 4.5 (and are therefore omittedl),thus indicating
+y
+that the parameter estimates describe the data quite well. This is further supported by
+the p-values and the Monte Carlo p-values based on J = 1000 simulated time series of
+the goodness of t tests, which are given in Table 4.2. The p-values from the simpli ed
+modelling approach even seem to slightly outperform the results from Table 4.1.</p>
+      <p>Of course, the above mixed modelling approach, where global constant ts for u+ and
+u and local linear ts for + and are used, comes with the drawback that nearly two
+times as many parameter estimates are needed in order to t the model. However, it has
+the advantage that if once tted the model can be updated more easily, because only
+the scale parameters + and have to be updated regularly, which thus also saves on
+computing time. This is in particular interesting for real-time observation of a time series.
+5</p>
+      <p>
+        Forecasting with local likelihood methods
+We now want to provide an approach for forecasting future return distributions, the basic
+idea of which is the same as in
+        <xref ref-type="bibr" rid="ref6">Drees and St ric  (2002)</xref>
+        . Subsequently, we provide numerical
+results for one-day-ahead distributional forecasts, and discuss them.
+      </p>
+      <p>Distributional forecasts in the regression model. Assume we are given the data
+available up to time t which we interprete as the present and we try to forecast the
+distribution of the next d-day return Xt;d = Pid=1 Xt+i. In our model this is given by
+8 d
+&gt;&gt;&lt; Xt;d = d + X Rt+s;</p>
+      <p>s=1</p>
+      <p>G (t+s);
+(5.1) F</p>
+      <p>o &gt;:&gt; Rt+s Rt+s independent, s = 1; : : : ; d.</p>
+      <p>Thus, we have tornd reasonable estimates for the future parameter values (t + s) that are
+based only on the data available at time t. Presuming the forecasting horizon d is not too
+large, an extrapolation Pof the Taylor polynomial in (3.1) using the notation from Section 3,
+e
+especially the vector notation from (3.2) yields
+(5.2) k(t + s) Xjp=k0 k(jje)!(t)sj Xjp=k0 kj (t)sj ; s = 1; : : : ; d; k = 1; : : : ; 4:
+r
+The unknown coe cients kj (t) can be estimated by local likelihood methods. Therefor we
+employ a one-sided kernel, i.e. we use RK() f 0g instead of K( ). Again, the estimations
+are based on the centered returns, which in the forecasting context are given by R~s = Xs Xt,
+s t, where Xt = 1=t Pit=1 Xi. (Note that ethese centered returns have to be re-computed
+for di erent values of t.) These two modi cativonsassure that the resulting local likelihood
+estimates ^kj (t) only depend on the information available at time t. Plugging these initial
+i
+estimates into (5.2), we get forecasts for the future pearameters by
+(5.3) ^k;t(t + s) = Xpk ^kj (t)sj ; s = 1; : : : ; wd;k = 1; : : : ; 4:
+j=0
+Here and in the following the additional subscript t shall empOhasize that the parameter
+forecast is only based on the data up to time t. Instead of (5.3), one might also take
+(5.4) ^k;t(t + s) = ^k0(t); s = 1; : : : ; d; k = 1; : : : ; 4n;
+l
+thus neglecting any trend components, which express through the componenyts^kj (t), j &gt; 0.
+In the case of tting each parameter by local constants, i.e. p1 = = p4 = 0, then of course
+(5.3) and (5.4) coincide. Replacing the unknown quantities and (t + s) in (5.1) by Xt
+and ^t(t + s) (either given by (5.3) or by (5.4)), the law of</p>
+      <p>d
+(5.5) X~t;d = dXt + X R~t+s; R~t+s G^t(t+s);</p>
+      <p>s=1
+provides a distributional forecast for Xt;d. In the following, the correspondig cdf's of Xt;d
+and X~t;d are denoted Ft;d and F~t;d, respectively.</p>
+      <p>The asymptotic results for the local likelihood estimates presented in Section 3 act on the
+assumption of a symmetric kernel, and hence seem not suitable for our forecasting purpose.
+(a) All four parameters are tted by local econstants, i.e. p1 =
+(b) Local linear ts are used for each of the fvourparameters, i.e. p1 =
+For each of the two tting schemes (a) and (b) we imiplement the cross-validation method (cf.
+e
+Section 3), computing the corresponding cross-validation functions for bandwidths ranging
+from 0:040 to 0:200. In case of tting scheme (a) the resuwlting function is close to constant,
+with a maximum at hCV 0:13, which is however not very distinct. For tting scheme
+(b) the corresponding cross-validation function is strictly increasOingfor all considered
+bandwidths. On the basis of these results it seems hard to choose an appropriate bandwidth, in
+both cases the cross-validation method yields large bandwidths. Indened,it is plausible that
+for the prediction of future parameters a larger degree of smoothing is needed than for the
+tting of the model. However, in case of tting scheme (b) this is somelwhat critical: the
+y
+bigger we choose h the more restrictive becomes the second constraint in (4.1), and thus the
+smaller in absolute value the estimates ^k(1) for the rst derivatives of the parameter functions
+have to be, which runs contrary to the idea of local linear ts for the parameter functions.
+Therefore, in this situation it seems questionable if cross-validation is the best approach for
+the choice of an appropriate bandwidth. Instead, we choose a smaller bandwidth for our
+computations, taking h = 0:095, which is then rescaled for each t, as described above. This
+bandwidth choice is essentially based on trial and error, doing parameter estimations with
+di erent bandwidths.</p>
+      <p>We use the one-sided version of the Epanechnikov kernel. Otherwise, the same setting
+i.e. same parameter space, optimization procedure, etc. as in the simple model tting
+= p4 = 1.</p>
+      <p>However, they can easily be carried over to our forecasting context. To this end, for each
+xed t we interpret t as the right boundary point of the interval [1; t] and we do the rescaling
+proposed in (3.4) with n replaced by t. The bandwidth is rescaled in a similiar way, taking
+~h = h n=t for the estimation of (t), with h xed. The rescalation of the bandwidth ensures
+that the number of observations used for the estimation does not change with varying t.
+With this interpretation of t as right boundary point, it makes no di erence if we use the
+above one-sided kernel or its two-sided version, because there are no observations at times
+larger than t that could have in uence on the estimate. Consequently, the asymptotics,
+which hold true for the right boundary point t when using a two-sided kernel, do so for
+the use of the one-sided kernel as well. That is, the estimates ^(t) are consistent and
+asymptoFtically normal, which enables us to provide approximate con dence intervals for the
+o
+true parameters (as proposed in Section 3). Again, it is favourable to use local polynomials
+of the same degree for all parameters, i.e. p1 = = p4, in order to keep the expression
+for the asymptotricbias to a minimum. For the tting of the model it was also preferable</p>
+      <p>P
+to chose odd degree local polynomials to ensure that the expression for the bias is of the
+same order for boundary points and inner points. Since in this situation we always consider
+the estimation of the pareameter function in a boundary point, the question whether the
+details). e
+pi's should be even or odd is of minor importance (cf. Aerts and Claeskens, 1997 for more
+We apply the above forecastinrgapproach to the S&amp;P 500 daily returns, and we do
+one</p>
+      <p>R
+day-ahead distributional forecasts, i.e. we take d = 1. Two di erent computations are done,
+each using a di erent degree of local polynomial tting, namely:
+= p4 = 0.
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1</p>
+      <p>0
+0.03
+0.02F5
+0.02
+0.015
+0.01
+0.005
+0</p>
+      <p>P
+1992 1994 1996 1998 2000 2002
+^+e
+e</p>
+      <p>r
+0.3
+0.25
+0.2
+0.15
+0.1
+0.05
+0
+Numerical results for the forecasts. Figure 5.1 shows the local likelihood estimates
+^k;t(t) for t = 301; : : : ; 3062, and the corresponding 95%-con dence intervals (where
+applicable) for the case of local constant ts of all four parameters (case (a)). The estimated
+functions, and thus the estimated distributions, seem to exhibit the same symmetric
+behaviour that was already discussed in Section 4. Furthermore, for almost all points of time,
+the left tails i.e. the tails modelling the losses are heavier than the right tails, a desirable
+property, as mentioned above. Despite the much larger bandwidth, the estimated functions
+in Figure 5.1 exhibit greater uctuations on a small time scale than the corresponding
+estimates for the tting of the model (Figure 4.1). This is due to the use of the one-sided kernel.
+We omit plots of the estimated parameter functions for case (b): in this case the estimated
+functions look similar to those from Figure 4.1, however they are much more wiggly, and
+the con dence intervals are wider.</p>
+      <p>For the prediction of the law of the one-day-ahead returns Xt;1 we consider three di erent
+forecasting approaches. These di er with respect to the degrees of the local polynomials
+that are used for the initial likelihood estimations (represented by one of the above cases
+(a) and (b)), and with respect to the kind of extrapolation that is used for predicting future
+distribution parameters (either (5.3) or (5.4)):</p>
+      <p>F1: The initial local likelihood estimates are computed with local constant ts for all</p>
+      <p>F
+parameters. In this case (5.3) and (5.4) are the same.</p>
+      <p>o
+F2: For the initial likelihood estimates local linear ts are used for all parameters, the
+parameter forecasts are given by (5.3).</p>
+      <p>r
+F3: Same as F2, but with parameter forecasts according to (5.4).</p>
+      <p>P
+We now want to analyse the quality of the distributional forecasts provided by the random
+variables X~t;1. Essentially, ethe analysis is based on the same ideas and testing devices that
+we used for the assessments of the quality of the model tting in Section 4. Suppose for
+e
+a moment that the forecasting distributions L (X~t;1) perfectly match the laws of the true
+future returns L (Xt;1), i.e. for trhecorresponding cdf's we have F~t;1(x) = Ft;1(x) for all
+x 2 . Then the variables</p>
+      <p>R
+(5.6) Zt;1 := 1 F~t;1(Xt;1) ; t = 301; : : : ; 3061;</p>
+      <p>e
+in the following referred to as standardized vforecasts should be i.i.d. standard normal.
+To check whether this holds true, we have to test for both, independence and normality of
+the standardized forecasts. We do so for each of thieforecasting methods F1 F3.
+e</p>
+      <p>In a rst step to check for the normality of the standardized forecasts, we apply the
+goodness of t tests (KS, JB ans SW tests) to the time sewriesfZt;1 : t = 301; : : : ; 3061g. The
+corresponding p-values for each of the three forecasting approaches are given in Table 5.1.
+Considering only the p-values resulting from the simple versions Oof the three goodness of
+t tests does not allow for an answer to the question whether the standardized forecasts
+are (at least approximately) standard normal: as can be seen from tnhetable, the KS test
+supports the hypothesis of normality of the standardized forecasts for all three forecasting
+approaches, whereas the JB and SW tests nearly always reject the hypothlesyis.This con ict
+might be a consequence of the standardization (5.6) and its e ects on the values of the
+di erent test statistics (compare the discussion in Section 4), thus indicating the inadequacy
+of these simple goodness of t tests. For this reason, again, we consider Monte Carlo
+tests. The basic idea is the same as described in Section 4: we simulate J time series
+fR~t j : t = 301; : : : ; 3062g, with independently simulated random variables R~t j G^t(t).
+Based on these simulated time series we re-compute the initial local likelihood estimates
+f ^ j(t) : t = 601; : : : ; 3062g, and we compute the corresponding forecasting parameters
+^t j (t + 1) and the simulated standardized forecasts fZt;j1 : t = 601; : : : ; 3061g. Repeating
+these operations for j = 1; : : : ; J , and computing the KS, JB and SW test statistics for
+these simulated standardized forecasts, nally yields approximate Monte Carlo p-values.
+Forecasting method</p>
+      <p>F1
+F2
+F3</p>
+      <p>
+        Test
+p
+pMC
+p
+pMC
+p
+pMC
+4
+3
+lise 2
+tsscaaqu 01 P
+t
+n
+re
+irezadd-2 e
+fo-1
+tand-3
+S-4 e
+--54 -3 -2Stand-a1rd nor0mal qu1antilesr23 4
+6
+lse 4
+itan 2
+u
+q
+tssa 0
+rec
+fod-2
+ezd
+i
+rad-4
+n
+ta
+S-6
+--84 -3 -2Stand-a1rd nor0mal qu1antiles2 3 4
+0.1
+0.08
+0.06
+0.04
+FC 0.02
+SA 0
+-0.02
+-0.04
+-0.06 0 10 20 30 40 L5a0g 60 70 80 90 100
+0.1
+0.08
+0.06
+0.04
+FC 0.02
+SA 0
+-0.02
+-0.04
+-0.06 0 10 20 30 40 L5a0g 60 70 80 90 100
+Forecasting over longer horizons. Of course the forecasting approach that we used
+above can also be used for larger forecasting horizons, say d = 20 or d = 40.
+        <xref ref-type="bibr" rid="ref6">Drees and
+St ric  (2002)</xref>
+        do such examinations. However, with a larger forecasting horizon there
+occur several di culties: one major problem is that the distributions of the forecasting
+variables X~t;d cannot be described in a closed form. Hence, simulations are needed to nd
+good approximations for the convolution given in (5.5). Furthermore, the variables Xt;d
+are not independent. Even in case of the returns being independent which is a somewhat
+critical assumption, as we have seen in the above examinations the forecasting variables
+form a (d 1)-dependent sequence of random variables. And the same holds true for the
+corresponding standardized d-day forecasts Zt;d = 1 F~t;d(Xt;d) . Hence, the basis for an
+application of the goodness of t tests is clearly violated. (Remember that this was already
+critical for the one-day-ahead forecasts!) On the other hand Monte Carlo tests, like we did
+them above, are computationally way too expensive, because of the additional simulations
+needed for computing the distributions of the variables Xt;d. Hence, an assessment of the
+forecasts becomes a di cult task. For these reasons we only consider one-day-ahead forecasts
+in this paper.
+6
+      </p>
+      <p>F
+Concluding remarks</p>
+      <p>
+        o
+Based on a work rof
+        <xref ref-type="bibr" rid="ref6">Drees and St ric  (2002)</xref>
+        , we considered a simple regression type model
+for stock returns. The Pinnovations were modelled by four parameter asymmetric
+distributions, and the parameters were modelled as smooth, deterministic functions of time. In
+addition, we considered aenappropriate normal approximation for the tails, enabling the
+model to adapt to both, heaevy-tailed as well as light-tailed return distributions. By the
+r
+example of the S&amp;P 500 daily returns, observed over a period of twelve years, the principle
+of local likelihood estimation (in connection with local linear ts) prove to be a reasonable
+method for tting our model to real-Rlifedata. In addition, approximate con dence
+intervals for the true parameters could be given. The assessment of the model via the (Monte
+Carlo) KS, JB and SW tests argued for a geood tting of our estimated model to the given
+data. Solely the assumption of independence of vthe innovations seemed somewhat critical:
+although the investigation of the SACFs of the (standardized) returns and their absolute
+values supported the hypothesis of independent innoviateions, the outcome of the Portmanteau
+tests partly spoke against that. We also considered a simple device for forecasting future
+rew
+turn distributions, and we did one-day-ahead distributional forecasts, using local likelihood
+estimators with several forecasting approaches. Actually, an evaluation of these estimates
+pointed out some minor aws, concerning the independence assOumption of the returns and
+the results of the simple versions of the goodness of t tests. However, the results of the
+Monte Carlo tests as well as the QQ-plots for the standardized forecnasts clearly argued for
+our modelling approach to yield reasonable distributional forecasts.
+l
+      </p>
+      <p>Summarizing, one can say that our simple modelling approach, in connyection with the
+local likelihood estimators, seems to succeed in describing nancial time series and giving
+reasonable one-day-ahead forecasts. The results clearly underpin the adequacy of the idea
+of a local modelling approach.</p>
+      <p>Acknowledgements. I would like to thank Holger Drees for his guidance and
+encouragement. I am also grateful to the referees for their valuable comments, which led to an
+improvement of this paper. This work was made possible by the nancial support of Deutsche
+Forschungsgemeinschaft (DFG).
+Fan, J. and Yao, Q. (2003). Nonlinear Time Sevries. Springer, New York.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Aerts</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Claeskens</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          (
+          <year>1997</year>
+          ).
+          <article-title>Local polynomial estimation in multiparameter likelihood models</article-title>
+          .
+          <source>Journal of the American Statistical Association</source>
+          ,
+          <volume>92</volume>
+          :
+          <fpage>1536</fpage>
+          1545.
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Bollerslev</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          (
+          <year>1986</year>
+          ).
+          <article-title>Generalized autoregressive conditional heteroskedasticity</article-title>
+          .
+          <source>Journal of Econometrics</source>
+          ,
+          <volume>31</volume>
+          :
+          <fpage>307</fpage>
+          327.
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Bollerslev</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Engle</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Nelson</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>1994</year>
+          ).
+          <article-title>ARCH models</article-title>
+          . In Engle, R. and
+          <string-name>
+            <surname>McFadden</surname>
+          </string-name>
+          , D., editors,
+          <source>Handbook of Econometrics</source>
+          , vol.
+          <volume>4</volume>
+          , pages
+          <fpage>2961</fpage>
+          <lpage>3038</lpage>
+          . Elsevier.
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Brockwell</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Davis</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          (
+          <year>1987</year>
+          ).
+          <source>Time Series Analysis: Theory and Methods</source>
+          . Springer, New YFork.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Davison</surname>
+            ,
+            <given-names>A</given-names>
+          </string-name>
+          . oandHinkley,
+          <string-name>
+            <surname>D.</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <source>Bootstrap Methods and their Application</source>
+          . Cambridge University Press, Cambridge.
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Drees</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          and St ric ,
+          <string-name>
+            <surname>C.</surname>
+          </string-name>
+          (
+          <year>2002</year>
+          ).
+          <article-title>A simple non-stationary model for stock returns</article-title>
+          . Preprint, available at www.maPth.chalmers.se/ starica.
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Engle</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          (
+          <year>1982</year>
+          ).
+          <article-title>Autoregeressive conditional heteroskedasticity with estimates of the variance of UK in ation</article-title>
+          .
+          <source>Econoemetrica</source>
+          ,
+          <volume>50</volume>
+          :
+          <fpage>987</fpage>
+          1008.
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Fan</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Farmen</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Gijbelrs</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          ).
+          <article-title>Local maximum likelihood estimation and inference</article-title>
+          .
+          <source>Journal of the Royal Statistical Society</source>
+          , series B,
+          <volume>60</volume>
+          (
+          <issue>3</issue>
+          ):
+          <fpage>591</fpage>
+          <lpage>608</lpage>
+          . R
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Fan</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Gijbels</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          ).
+          <article-title>Local Polynomial Modelling and its Applications</article-title>
+          . Chapman &amp; Hall, London. e
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,23 @@
+Anderson J.E, D. Marcouiller (2002), “Insecurity and the Pattern of Trade: An empirical Investigation”, Review of Economics and Statistics, 84(2), 342-252.
+Anderson J.E., E. van Wincoop (2003), “Gravity with Gravitas: A Solution to the Border Puzzle”, American Economic Review, 93(1), 170-192.
+Anderson S.W., Daly J.D., Johnson M.F. (1995), “The Value of Management Control Systems: Evidence on the Market Reaction to ISO 9000 Quality Assurance Certificates”, University of Michigan Business School, Working Paper #9501-16.
+Anderson S.W., Daly J.D., Johnson M.F. (1999), “Why Firms seek ISO 9000 Certification: Regulatory Compliance or Competitive Advantage?”, Production and Operations Management, 8(1), 28-43.
+Arellano M., S. Bond (1991), “Some Test of Specification for Panel Data: Monte Carlo Evidence and an Application to Employment Equations”, Review of Economic Studies, 58(2), 277-297.
+Bénézech D., Lambert G., Lanoux B., Lerch Ch., Loos-Baroin J. (2001), “Completion of knowledge codification: an illustration through the ISO 9000 standards implementation process”, Research Policy, 30(9), 1395-1407.
+Blind K. (2001), “The Impact of Innovations and Standards on Trade of Measurment and Testing Products: Empirical Results of Switzerland’s Bilateral Trade Flows with Germany, France and the UK”, Information Economics and Policy, 13(4), 439-460.
+Blind K. (2002), “Driving Forces for Standardization at Development Organizations”, Applied Economics, 34(16), 1985-1998.
+Casella A. (1996), “Free Trade and Evolving Standards”, in Bhagwati J., Hudec R., edts., Fair Trade and Harmonization: Prerequisites for Free Trade?, vol.1, MIT Press, Cambridge, 119-156.
+Deardorff A.V. (1998), “Determinants of Bilateral Trade: Does Gravity Work in a Neoclassical World?” in J.A. Frankel, ed., The regionalization of the world economy, University of Chicago Press, Chicago, 7-22.
+Docking D.S., R.J. Dowen (1999), “Market Interpretation of ISO 9000 Registration”, Journal of Financial Research, XXII(2), 147-160.
+Frankel J.A, Stein E., Wei S.-J. (1997), Regional Trading Blocks in the World Economic System, Institute for International Economics, Washington, DC.
+Freund C.L., D. Weinhold (2004), “The effect of the Internet on international trade”, Journal of International Economics, 62, 171-189.
+Glick R., A.K. Rose (2002), “Does currency union affect trade? The time-series evidence”, European Economic Review, 46, 1125-1151.
+Grajek M. (2002), “Identification of Network Externalities in Markets for Non-Durables”, Wissenschaftszentrum Berlin, Discussion Paper FS IV 02-32.
+Hummels D., J. Levinsohn (1995), “Monopolistic Competition and International Trade: Reconsidering the Evidence”, Quarterly Journal of Economics 110(3), 799-836.
+ISO (2001), Quality Management Principles, ISO Central Secretariat, Geneve.
+ISO (2002), The ISO Survey of ISO 9000 and ISO 14000 Certificates, Eleventh cycle – 2001, ISO Central Secretariat, Geneve.
+Moenius J. (2000), “Information versus Product Adaptation: The Role of Standards in Trade”, Northwestern University, mimeo.
+Rauch J.E. (1999), “Networks versus markets in international trade”, Journal of International Economics, 48(1), 7-35.
+Rauch J.E., V. Trindade (2002), “Ethnic Chinese Networks in International Trade”, Review of Economics and Statistics, 84(1), 116-130.
+Swann P., Temple P., Shurmer M. (1996), “Standards and Trade Performance: The UK Experience”, Economic Journal, 106(438), 1297-1313.
+Wooldridge J.M. (2002), Econometric Analysis of Cross Section and Panel Data, MIT Press, Cambridge and London.

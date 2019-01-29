@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_2"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Wieland J./ Grüninger S. (2000): Ethik ManagementSysteme und ihre Auditierung -Theoretische 
+Einordnung und praktische Erfahrungen, in: Bausch, Th./ Kleinfeld, A./ Steinmann, 
+H. (Hrsg.): Unternehmensethik in der Wirtschaftspraxis, DNWE-Schriftenreihe Bd. 7, 
+München u. Mering: Hampp/Grüninger, 155-189.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

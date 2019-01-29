@@ -1,0 +1,10 @@
+1002_glq223_J_Gerontol_A_Biol_Sci_Med_Sci_2011_Mar_3_66A(3)_312-319.references.tei.xml
+1005_10194_2011_Article_307_J_Headache_Pain_2011_Jun_9_12-12(3)_281-286.references.tei.xml
+1017_jhh2010104a_J_Hum_Hypertens_2011_Jun_25_25(6)_346-353.references.tei.xml
+1033_jir0052-0581_J_Intellect_Disabil_Res_2008_Jul_52(7)_581-587.references.tei.xml
+1044_10911_2011_Article_9217_J_Mammary_Gland_Biol_Neoplasia_2011_Jun_15_16(2)_97-108.references.tei.xml
+1067_jmgm-05-262_J_Mol_Genet_Med_2011_May_18_5_262-263.references.tei.xml
+1078_djr128_J_Natl_Cancer_Inst_2011_May_4_103(9)_763-773.references.tei.xml
+122_dvdy0239-2522_Dev_Dyn_2010_Oct_24_239(10)_2522-2533.references.tei.xml
+129_dmso-4-187_Diabetes_Metab_Syndr_Obes_2011_May_30_4_187-194.references.tei.xml
+132_13300_2010_Article_10_Diabetes_Ther_2010_Aug_26_1(1)_32-43.references.tei.xml

@@ -84,7 +84,7 @@ def comp_prob(label_pred,llin,tlin,kde_ntag,kde_ltag,kde_dtag,kde_atag,kde_wtag,
 	tl=np.exp(kde_tlen.score(tlin))
 
 	
-	prob=g*ll#*tl
+	prob=g*ll*tl
 	#prob=
 	return prob
 
@@ -173,55 +173,51 @@ def segment(txt,ref_prob0,valid):   #ref_prob is the probability given by refere
 		samples=30
 		llin=1			#length of the line
 		for i in range (samples):
+			x=random.randint(0, 1) if (lim[2]-lim[0])>0 else 0    # add or remove 0 add 1 remove
 			w=random.randint(0, 1)   #top or buttom
-			pb,lb,_=main_sg(l,0)
-			rp=restriction(lb)
-			p=get_score(pb,len(l.split()),'a')
-			cp=comp_prob(lb,llin,tlin,kde_ntag,kde_ltag,kde_dtag,kde_atag,kde_wtag,kde_gtag,kde_llen,kde_tlen)
-			s1=lim[0]-1
-			s2=lim[2]+1
-			if ((w==0)&(s1>=0)):
-				if ((valid[s1]==1)&(ref_id[s1]==0)):
-					txt[s1]=preprocwt(txt[s1]) if prep[s1]==0 else txt[s1]
-					prep[s1]=1
-					l0=txt[s1]+' '+l
-					tlin0=len(l0.split())   #length in terms of token 
-					pb,lb0,_=main_sg(l0,0)
-					rp0=restriction(lb0)
-					p0=get_score(pb,len(l.split()),'e')
-					cp0=comp_prob(lb,llin+1,tlin0,kde_ntag,kde_ltag,kde_dtag,kde_atag,kde_wtag,kde_gtag,kde_llen,kde_tlen)
-					pn0=max(ref_prob0[s1][1:3])
-					pn=ref_prob0[s1][3]
-					if (p0*cp0*pn0*rp0)>=(p*cp*pn*rp):
-						#l=preprocwt(l0)		#if an error occur use this one
-						l=l0
-						lim[0]=s1
-						valid[s1]=0
-						llin+=1
-						tlin=tlin0
-						lb=lb0
-			elif ((w==1)&(s2<len(txt))):
-				if ((valid[s2]==1)&(ref_id[s2]==0)):
-					txt[s2]=preprocwt(txt[s2]) if prep[s2]==0 else txt[s2]
-					prep[s2]=1
-					l0=l+' '+txt[s2]
-					tlin0=len(l0.split())   #length in terms of token 
-					pb,lb0,_=main_sg(l0,0)
-					rp0=restriction(lb0)
-					p0=get_score(pb,len(l.split()),'b')
-					cp0=comp_prob(lb,llin+1,tlin0,kde_ntag,kde_ltag,kde_dtag,kde_atag,kde_wtag,kde_gtag,kde_llen,kde_tlen)
-					pn0=max(ref_prob0[s2][2::])
-					pn=ref_prob0[s2][1]
-					if (p0*cp0*pn0*rp0)>=(p*cp*pn*rp):
-						l=l0
-						lim[2]=s2
-						valid[s2]=0
-						llin+=1
-						tlin=tlin0
-						lb=lb0
+			if x==0:
+				pb,lb,_=main_sg(l,0)
+				p=get_score(pb,len(l.split()),'a')
+				cp=comp_prob(lb,llin,tlin,kde_ntag,kde_ltag,kde_dtag,kde_atag,kde_wtag,kde_gtag,kde_llen,kde_tlen)
+				s1=lim[0]-1
+				s2=lim[2]+1
+				if ((w==0)&(s1>=0)):
+					if ((valid[s1]==1)&(ref_id[s1]==0)):
+						txt[s1]=preprocwt(txt[s1]) if prep[s1]==0 else txt[s1]
+						prep[s1]=1
+						l0=txt[s1]+' '+l
+						tlin0=len(l0.split())   #length in terms of token 
+						pb,lb,_=main_sg(l0,0)
+						p0=get_score(pb,len(l.split()),'e')
+						cp0=comp_prob(lb,llin+1,tlin0,kde_ntag,kde_ltag,kde_dtag,kde_atag,kde_wtag,kde_gtag,kde_llen,kde_tlen)
+						pn0=max(ref_prob0[s1][1:3])
+						pn=ref_prob0[s1][3]
+						if (p0*cp0*pn0)>=(p*cp*pn):
+							l=preprocwt(l0)
+							lim[0]=s1
+							valid[s1]=0
+							llin+=1
+							tlin=tlin0
+				elif ((w==1)&(s2<len(txt))):
+					if ((valid[s2]==1)&(ref_id[s2]==0)):
+						txt[s2]=preprocwt(txt[s2]) if prep[s2]==0 else txt[s2]
+						prep[s2]=1
+						l0=l+' '+txt[s2]
+						tlin0=len(l0.split())   #length in terms of token 
+						pb,lb,_=main_sg(l0,0)
+						p0=get_score(pb,len(l.split()),'b')
+						cp0=comp_prob(lb,llin+1,tlin0,kde_ntag,kde_ltag,kde_dtag,kde_atag,kde_wtag,kde_gtag,kde_llen,kde_tlen)
+						pn0=max(ref_prob0[s2][2::])
+						pn=ref_prob0[s2][1]
+						if (p0*cp0*pn0)>=(p*cp*pn):
+							l=l0
+							lim[2]=s2
+							valid[s2]=0
+							llin+=1
+							tlin=tlin0
 
-		if check_ref(lb):	 #this fucntion checks the validity of a reference if it is conforme to the standards or not (having usual tags)				
-			ref_id[lim[0]:lim[2]+1]=[u]*((lim[2]+1)-lim[0])
+							
+		ref_id[lim[0]:lim[2]+1]=[u]*((lim[2]+1)-lim[0])
 		u+=1
 		ref_prob[np.where(np.array(valid)==0)]=0
 		tmp=max(ref_prob)

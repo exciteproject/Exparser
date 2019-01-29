@@ -1,0 +1,10 @@
+1012_534_2010_Article_362_J_Hepatobiliary_Pancreat_Sci_2011_May_14_18(3)_339-345.references.tei.xml
+1030_10905_2010_Article_9247_J_Insect_Behav_2011_May_1_24(3)_186-199.references.tei.xml
+1035_10840_2010_Article_9531_J_Interv_Card_Electrophysiol_2011_Jan_20_30(1)_31-36.references.tei.xml
+103_lcot30-108_Cutan_Ocul_Toxicol_2011_Jun_18_30(2)_108-115.references.tei.xml
+1042_JL2011-670479_J_Lipids_2011_Sep_19_2011_670479.references.tei.xml
+1061_jmi0241-0013_J_Microsc_2011_Jan_241(1)_13-28.references.tei.xml
+1072_894_2010_Article_808_J_Mol_Model_2011_May_29_17(5)_1081-1090.references.tei.xml
+1077_11051_2010_Article_9911_J_Nanopart_Res_2010_Sep_6_12(7)_2313-2333.references.tei.xml
+1079_11418_2010_Article_452_J_Nat_Med_2011_Jan_14_65(1)_43-49.references.tei.xml
+149_lddi33-1101_Drug_Dev_Ind_Pharm_2007_Oct_25_33(10)_1101-1111.references.tei.xml

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_3"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Questionnaires, English. Retrieved electronically on 20 December, 2013 from 
+http://www.cdc.gov/nchs/nhis/quest_data_related_1997_forward.htm.</ref>
+<ref>Converse, J. M., and H. Schuman. 1974. Conversations at Random: Survey Research as 
+Interviewers See It. Hoboken, NJ: John Wiley & Sons.</ref>
+<ref>Currivan, D., A. Nyman, C. F. Turner, and L. Biener. 2004. Does Telephone Audio 
+Computer-Assisted Self-Interviewing Improve the Accuracy of Prevalence Estimates of Youth 
+Smoking? Evidence from the UMass Tobacco Study. Public Opinion Quarterly 68:542-564.</ref>
+<ref>Fowler, F. J., and T. Mangione. 1990. Standardized Survey Interviewing: 
+Minimizing Interviewer-Related Error. Newbury Park: Sage.</ref>
+<ref>Fowler, F. J. 1995. Improving Survey Questions: Design and Evaluation. Thousand Oaks, 
+CA: Sage Publications.</ref>
+<ref>Geer, J. G. 1988. What Do Open-Ended Questions Measure? Public Opinion Quarterly 52: 
+365-367.</ref>
+<ref>Geer, J. G. 1991. Do Open-Ended Questions Measure "Salient" Issues? Public Opinion 
+Quarterly 55: 360-370.</ref>
+<ref>Heckathorn, D. D. 1997. Respondent-Driven Sampling: A New Approach to the Study of 
+Hidden Populations. Social Problems, 44:174-199.</ref>
+<ref>Pasek, J., and J. A. Krosnick. 2010. Optimizing Survey Questionnaire Design in Political 
+Science: Insights From Psychology. In Oxford Handbook of American Elections and Political 
+Behavior, ed. J. Leighley, 27-50. Oxford: Oxford University Press.</ref>
+<ref>Schober, M. F., and F. G. Conrad. 1997. Does Conversational Interviewing Reduce 
+Survey Measurement Error? Public Opinion Quarterly 61:576-602.</ref>
+<ref>Schober, M. F., and F. G. Conrad. 2002. A Collaborative View of Standardized Survey 
+Interviews. In Standardization and Tacit Knowledge: Interaction and Practice in the Survey 
+Interview, eds. D. Maynard, H. Houtkoop-Steenstra, N. C. Schaeffer, and J. van der Zouwen. 
+New York: Wiley.</ref>
+<ref>Schaeffer, N. C., and D. W. Maynard. 2008. The Contemporary Standardized Survey 
+Interview for Social Research. In Envisioning the Survey Interview of the Future, ed. F. G. 
+Conrad and M. Schober. New York: Wiley.</ref>
+<ref>Smyth, J.D., D.A. Dillman, L. M. Christian, and M.J. Stern. 2006. Comparing Check-all 
+and Forced-Choice Question Formats in Web Surveys. Public Opinion Quarterly, 70:66-77.</ref>
+<ref>Tourangeau, R. and Smith, T. W. 1996. Asking Sensitive Questions: The Impact of Data 
+Collection Mode, Question Format, and Question Context. Public Opinion Quarterly, 60: 
+275-305.</ref>
+<ref>Wilson, S. 2010. Cognitive Interview Evaluation of the 2010 National Health Interview 
+Survey Supplement on Cancer Screenings & Survivorship: Results of interviews conducted 
+October -December, 2008. National Center for Health Statistics. Hyattsville, MD.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,10 @@
+1016_his-34-01-035_J_Histotechnol_2011_Mar_34(1)_35-39.references.tei.xml
+1023_10295_2010_Article_791_J_Ind_Microbiol_Biotechnol_2011_Apr_6_38(4)_489-501.references.tei.xml
+1036_1758-2652-14-22_J_Int_AIDS_Soc_2011_May_8_14_22.references.tei.xml
+1043_ljlc31-2603_J_Liq_Chromatogr_Relat_Technol_2008_Sep_3_31(17)_2603-2611.references.tei.xml
+1057_10916_2009_Article_9307_J_Med_Syst_2010_Oct_15_34(5)_919-929.references.tei.xml
+1059_jmv0080-1615_J_Med_Virol_2008_Sep_80(9)_1615-1623.references.tei.xml
+1065_JME110011_J_Mol_Endocrinol_2011_Jun_46(3)_227-232.references.tei.xml
+1070_109_2011_Article_728_J_Mol_Med_2011_Mar_8_89(3)_213-220.references.tei.xml
+1074_jmdh-4-165_J_Multidiscip_Healthc_2011_May_25_4_165-170.references.tei.xml
+1082_702_2011_Article_585_J_Neural_Transm_2011_Jun_5_118(6)_857-864.references.tei.xml

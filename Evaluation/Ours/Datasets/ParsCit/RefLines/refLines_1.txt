@@ -1,0 +1,50 @@
+Alexander Vrchoticky. Modula/R language definition. Technical Report TU Wien rr-02-92, version 2.0, Dept. for Real-Time Systems, Technical University of Vienna, May 1993.
+W. Landi and B. G. Ryder. Aliasing with and without pointers: A problem taxonomy. Center for Computer Aids for Industrial Productivity Technical Report CAIP-TR-125, Rutgers University, September 1990.
+Gmytrasiewicz, P. J., Durfee, E. H., & Wehe, D. K. (1991a). A decision theoretic approach to coordinating multiagent interaction. In Proceedings of the Twelfth International Joint Conference on Artificial Intelligence, pp. 62-68 Sydney, Australia.
+Winston, P. H., Binford, T. O., Katz, B., & Lowry, M. (1983). "Learning physical descriptions from functional definitions, examples, and precedents". National Conference on Artificial Intelligence, 433-439.
+Corkill, D. D. (1979). Hierarchical planning in a distributed environment. In Proceedings of the Sixth International Joint Conference on Artificial Intelligence, pp. 168-175 Tokyo.
+Burton, Robert P. and Sutherland, Ivan E. "Twinkle Box: A Three-dimensional Computer Input Device". in Proceedings of the National Computer Conference (1974) pp. 513-520.
+D. M. Chiarulli, S. P. Levitan, R. G. Melhem, and C. Qiao. Locality based control algorithms for reconfigurable optical interconnection networks. Applied Optics, to appear.
+S. C. Woo, M. Ohara, E. Torrie, J. P. Singh, and A. Gupta. The SPLASH-2 Programs: Characterization and Methodological Considerations. In Proceedings of the 22nd International Symposium on Computer Architecture, pages 24-36, June 1995.
+Blumer, A., Ehrenfeucht, A., Haussler, D., & Warmuth, M. (1989). Learnability and the Vapnik-Chervonenkis dimension. Journal of the ACM, 36 (4), 929-965.
+S. E. Conry, K. Kuwabara, V. R. Lesser and R. A. Meyer. (1991) Multistage Negotiation for Distributed Satisfaction, IEEE Transactions on Systems, Man, and Cybernetics, Special Issue on Distributed Artificial Intelligence, 21(6), 1462-1477 .
+Linden, A., & Weber, F. (1993). Implementing inner drive by competence reflection. In Roitblat, H. (Ed.), Proceedings of the 2nd International Conference on Simulation of Adaptive Behavior. MIT Press, Cambridge, MA.
+Arun Garg. Parallel STREAMS: A multi-processor implementation. In Proceedings of the Winter 1990 USENIX Conference, pages 163-176, Washington, D. C., January 1990.
+C. Amza, A. L. Cox, S. Dwarkadas, P. Keleher, H. Lu, R. Rajamony, W. Yu, and W. Zwaenepoel. Tread-Marks: Shared memory computing on networks of workstations. IEEE Computer, 29(2), 18-28, February 1996.
+Serra, J. (1982). Image Analysis and Mathematical Morphology. Academic Press, London.
+Quinlan, J. R. (1990). Learning logical definitions from relations. Machine Learning, 5, 239-266.
+Umrigar, Zerksis D. and Pitchumani, Vijay (1985). An experiment in programming with full first-order logic. In Symposium of Logic Programming, Boston, MA. IEEE Computer Society Press.
+van Arragon, Paul (1990). Nested Default Reasoning for User Modeling. PhD thesis, Department of Computer Science, University of Waterloo, Waterloo, Ontario. Published by the department as Research Report CS-90-25.
+Bunke, H., & Allermann, G. (1983). Inexact graph matching for structural pattern recognition. Pattern Recognition Letters, 1 (4), 245-253.
+Peot, M. A., & Smith, D. E. (1993). Threat-removal strategies for partial-order planning. In Proceedings of the Eleventh National Conference of the American Association for Artificial Intelligence (AAAI-93), pp. 492-499 Washington, D. C. Morgan Kaufmann.
+Jia, R.-Q., and J. Lei, Approximation by Multiinteger Translates of Functions Having Global Support, J. Approx. Theory 72 (1993), 2-23.
+T. E. Hull, T. F. Fairgrieve, and P. T. P. Tang. Implementing complex elementary functions using exception handling. ACM Trans. Math. Softw., 20(2) 215-244, 1994.
+Anoop Gupta, Andrew Tucker, and Shigeru Urushibara. The impact of operating system scheduling policies and synchro nization methods on the performance of parallel applications. In Proceedings of the ACM SIGMETRICS Conference on Measurement and Modeling of Computer Systems, pages 120-132, May 1991.
+Wermuth, N., & Lauritzen, S. L. (1983). Graphical and recursive models for contingency tables. Biometrika, 70, 537-552.
+A. L. Yuille. Deformable templates for face recognition. Journal of Cognitive Neuroscience, 3(1) 59-70, 1991.
+D. G. Bradlee, S. J. Eggers and R. R. Henry, Integrating Register Allocation and Instruction Scheduling for RISCs, Proc. Fourth International Conf. on ASPLOS, Santa Clara, CA, April 8-11, 1991, pp. 122-131.
+Ventura, Dan, (1995). On Discretization as a Preprocessing Step for Supervised Learning Models, Masters Thesis, Department of Computer Science, Brigham Young University.
+Dempster, A., Laird, N., and Rubin, D. (1977) Maximum likelihood from incomplete data via the EM algorithm. Journal of the Royal Statistical Society B39, 1-38.
+Lisa F. Rau. Extracting company names from text. In Proceedings of the Sixth IEEE Conference on Artificial Intelligence Applications, 1991.
+K. Chandy and J. Misra, Parallel Program Design: A Foundation, Addison-Wesley, 1988.
+Nishida, T., & et al. (1991). Automated phase portrait analysis by integrating qualitative and quantitative analysis. In Proceedings of AAAI.
+Kohonen, Teuvo, (1990). The Self-Organizing Map. In Proceedings of the IEEE, Vol. 78, No. 9, pp. 1464-1480.
+D. Haussler. Quantifying inductive bias: AI learning algorithms and Valiant's learning framework. Artificial Intelligence, 1988.
+Litman, D., & Hirschberg, J. (1990). Disambiguating cue phrases in text and speech. In Proceedings of the Thirteenth International Conference on Computational Linguistics (COLING).
+Harper, M. P., & Helzerman, R. A. (1995b). Managing multiple knowledge sources in constraint-based parsing of spoken language. Fundamenta Informaticae, 23 (2, 3, 4), 303-353.
+Dyn, N. and A. Ron (1993) "Radial basis function approximation: from gridded centres to scattered centres", CMS Technical Summary Report #94-3, University of Wisconsin-Madison.
+J.-S. Pang and S. A. Gabriel, NE/SQP: A robust algorithm for the nonlinear complementarity problem, Math. Programming, 60 (1993), pp. 295-337.
+Lovejoy, W. S. (1991b). Computationally feasible bounds for partially observed Markov decision processes. Operations Research, 39 (1), 162-175.
+F. Rabiti, E. Brtino, W. Kim, D. Woelk, A Model of Authorization for Next-Generation Database Systems, to appear in ACM Transactions on Database Systems.
+Crammond, J., Scheduling and Variable Assignment in the Parallel Parlog Implementation, in Proceedings of the North American Conference on Logic Programming, Austin, MIT Press, Cambridge, Mass., 1990.
+N. Benvenuto and F. Piazza. On the Complex Backpropagation Algorithm. IEEE Transactions on Signal Processing, 40(4) 967-969, 1992.
+Guziec, A., & Ayache, N. (1992). Smoothing and matching of 3-d space curves. Visualization in Biomedical Computing, Proc. SPIE, 1808, 259-273.
+M. C. Ferris and J.-S. Pang (editors). Complementarity and variational problems : State of the Art. SIAM Publications, 1997.
+Tim Berners-Lee, Robert Cailliau, Jean-Francois Groff, and Bernd Pollermann. WorldWideWeb: the information universe. Electronic Networking: Research, Applications and Policy, 2(1) 52-58, Spring 1992.
+R. Reiter. A theory of diagnosis from first principles. Artificial Intelligence, 33(1) 57-95, 1987.
+J. Allen and J. Koomen. Planning using a temporal world model. In Proc. IJCAI, pages 741-747, 1983.
+Golomb, S., & Baumert, L. (1965). Backtrack programming. J. ACM, 12, 516-524.
+McCarthy, J. F., & Lehnert, W. G. (1995). Using decision trees for coreference resolution. In Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence (IJCAI).
+P. K. Chrysanthis and K. Ramamritham. Synthesis of extended transaction models using ACTA. ACM Transactions on Database Systems, 19(3) 450-491, September 1994.
+David Chapman. Planning for conjunctive goals. Artificial Intelligence, 32, 1987.
+M. V. Solodov. Some optimization reformulations of the extended linear complementarity problems, 1997. Computational Optimization and Applications, to appear.

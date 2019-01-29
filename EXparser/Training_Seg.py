@@ -32,7 +32,7 @@ execfile('./src/Initial_Data.py')
 
 
 #preparing training data
-fold="SEG"
+fold="Dataset/SEG"
 fdir=os.listdir(fold)
 train_sents=[]
 train_feat=[]
@@ -95,8 +95,8 @@ for u in range (len(fdir)):
 
 
 crf = sklearn_crfsuite.CRF(
-    algorithm='l2sgd', 
-    c2=0.8, 
+    algorithm='pa', 
+    #c2=0.8, 
     all_possible_transitions=True,
 	all_possible_states=True
 )

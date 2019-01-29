@@ -1,0 +1,1601 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>Diffusion of ISO 9000 Standards and International Trade</article-title>
+      </title-group>
+      <contrib-group>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>JEL Classification: C51</institution>
+          ,
+          <addr-line>C52, F15</addr-line>
+        </aff>
+      </contrib-group>
+      <abstract>
+        <p>Investigating the link between ISO 9000 standards and bilateral exports, this paper contributes to the literature on standardization and international trade. A debate exists as to how ISO 9000 impacts trade. First, it has been argued that ISO 9000 is a “common language” that lowers information asymmetries between firms, thus allowing more efficient organization of inter-firm trade. Second, ISO 9000 has been criticized as a means of introducing market-entry barriers and a tariff on international trade. To assess the actual impact we estimate a gravity equation for bilateral exports incorporating ISO 9000 adoptions in each country as factors affecting bilateral trade barriers. Endogeneity issues are carefully addressed. To obtain additional insights, we separately estimate an ISO 9000 international diffusion equation. In general, our results support the “common language” hypothesis, i.e., the empirical tests find both domestic and foreign ISO 9000 adoptions to benefit bilateral exports. Moreover, we find evidence for a substitution effect, as ISO 9000 certified firms tend to trade with each other more than with uncertified firms. Consequently, the positive impact of these standards on trade is more pronounced among ISO 9000 abundant countries.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Gravity Model</kwd>
+        <kwd>International Trade</kwd>
+        <kwd>ISO 9000</kwd>
+        <kwd>Adoption of Standards</kwd>
+        <kwd>Network Effects</kwd>
+        <kwd>Compatibility</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>Die Diffusion von ISO 9000 Normen und der Internationale Handel</title>
+      <sec id="sec-1-1">
+        <title>Das vorliegende Papier ist ein Beitrag zur Literatur über den Zusammenhang</title>
+        <p>zwischen der Standardisierung und dem internationalen Handel, untersucht
+anhand der Verbindung zwischen der ISO 9000 Normierung und bilateralen</p>
+      </sec>
+      <sec id="sec-1-2">
+        <title>Exportumsätzen. Über die Auswirkung von ISO 9000 auf den internationalen</title>
+      </sec>
+      <sec id="sec-1-3">
+        <title>Handel existiert eine rege Debatte. Einerseits wurde argumentiert, dass die ISO</title>
+        <p>9000 Normen eine „gemeinsame Sprache“ bilden, die die
+Informationsasymmetrie zwischen Unternehmen mindert und dadurch einen effizienteren</p>
+      </sec>
+      <sec id="sec-1-4">
+        <title>Handel zwischen ihnen gewährt. Andererseits wurde ISO 9000 kritisiert als ein</title>
+        <p>Mittel zur Einführung eines Marktzugangshemmnisses und als eine Steuer auf
+den internationalen Handel. Um die tatsächliche Auswirkung zu beurteilen,
+schätzen wir eine Gravitätsgleichung für die bilateralen Exportumsätze, die die
+nationalen Einführungszahlen von ISO 9000 als Determinanten der
+beidseitigen Handelshemmnisse berücksichtigt. Die Endogenitätsproblematik
+wird sorgfältig behandelt. Um zusätzliche Einsichten zu gewinnen, schätzen wir
+getrennt eine Gleichung der weltweiten Diffusion von ISO 9000. Unsere</p>
+      </sec>
+      <sec id="sec-1-5">
+        <title>Ergebnisse bestätigen im Allgemeinen die Hypothese der „gemeinsamen</title>
+      </sec>
+      <sec id="sec-1-6">
+        <title>Sprache“, d.h. die empirischen Überprüfungen stellen fest, dass sich die</title>
+        <p>inländischen sowie auch die ausländischen Einführungszahlen dieser Normen
+positiv auf die Exportumsätze der Handelspartner auswirken. Außerdem finden
+wir Anzeichen eines Substitutionseffektes, da die mit ISO 9000 zertifizierten</p>
+      </sec>
+      <sec id="sec-1-7">
+        <title>Unternehmen zu mehr Handel mit anderen zertifizierten Unternehmen neigen</title>
+        <p>als mit nicht zertifizierten Unternehmen. Folglich ist die positive Auswirkung der</p>
+      </sec>
+      <sec id="sec-1-8">
+        <title>ISO 9000 Normierung auf den Handel zwischen den Ländern mit einer hohen</title>
+      </sec>
+      <sec id="sec-1-9">
+        <title>Normierungsquote stärker ausgeprägt. iv</title>
+        <sec id="sec-1-9-1">
+          <title>1. Introduction</title>
+          <p>The main goal of the International Organization for Standardization (ISO) is to
+harmonize standards around the world, which, as it is widely claimed, promotes trade and
+therefore global welfare. Examples of the work done by ISO include technical, environmental,
+and management standards. ISO 9000 family of standards – often referred to as generic
+quality management standards – is one of them. The vision of the developers is that
+(…) through its worldwide acceptance and use, the ISO 9000 family of standards will provide an effective
+means for improving the performance of individual organizations and providing confidence to people and
+organizations that products (goods and services) will meet their expectations thereby enhancing trade,
+global prosperity and individual well-being.1</p>
+          <p>Critics of ISO 9000 claim, however, that it is merely a barrier to market entry and a
+tariff on international trade. There are valid arguments on both sides. On the one hand, ISO
+9000 might be a common language, which lowers informational asymmetry between firms
+and allows them to organize trade more efficiently. Indeed, the standards emphasize clear and
+open communication with customers, as well as with suppliers.2 Furthermore, they provide a
+tool facilitating screening and performance evaluation. Consequently, learning this common
+language offers an alternative for establishing vertical relations based on long-term
+relationship and brand reputation. On the other hand, ISO 9000 has been used as a standard
+against which to assess performance in government procurements and in setting of minimum
+quality requirements for imports. This raises a concern that the standard is mainly a tool for
+protecting domestic markets.</p>
+          <p>
+            This paper empirically investigates the impact of ISO 9000 on international trade. We
+estimate a gravity equation for bilateral trade incorporating ISO 9000 adoptions in each
+country as factors affecting bilateral trade barriers. As it has been pointed out in the literature,
+the causality might go both ways. International trade might benefit (suffer) from standards’
+harmonization, as trade barriers decrease (increase); and standardization process might in turn
+be determined by intensity of foreign trade, which indicates openness of an economy ( see e.g.
+Casella, 1996; Moenius, 2000). As a consequence, empirical models of international trade
+using standardization as an explanatory variable may suffer from endogeneity bias. We
+1 http://www.tc176.org/About176.asp
+2 See ISO (
+            <xref ref-type="bibr" rid="ref7">2001</xref>
+            ).
+carefully address this issue in the paper. Statistical tests do not reject strict exogeneity of ISO
+9000 adoptions in our gravity equation. As we discuss later, however, there are reasons to
+believe that this result does not hold for other standards. Although, we do not need to
+endogenize ISO 9000 adoptions for consistency of gravity equation results, we estimate its
+international diffusion equation to obtain additional insights.
+          </p>
+          <p>The empirical literature investigating the impact of common standards on trade is
+scarce. In particular, we are not aware of any study that investigates the performance of ISO
+9000 in this context. Few existing empirical analyses of ISO 9000 focus on managers’
+motivation to seek the certification and on market reaction to it. Examples include Anderson
+et. al. (1999), who find that after controlling for regulatory and customer pressures, providing
+credible signals of quality assurance to external parties motivates the adoption decision.
+Further, Docking and Dowen (1999) examine the reaction of the firms’ stock price to the
+announcement of ISO 9000 registration. They find that, for smaller firms, investors react
+positively to the announcement and that there was no significant reaction for larger firms.</p>
+          <p>
+            The work by Moenius (2000), looking at the impact of country-specific and bilaterally
+shared product and process standards on international trade, is probably closest to our work.
+He finds that both country-specific and shared standards are favorable to trade. Similarly,
+Swann et al. (1996) report that both international and country-specific product standards
+promote imports into the U.K. Further, Blind (
+            <xref ref-type="bibr" rid="ref7">2001</xref>
+            ) analyses Switzerland’s trade of
+measurement and testing products with Germany, France, and the U.K. He finds that the stock
+of both national and international standards in this sector has a positive impact on the trade
+flows. In turn, Blind (
+            <xref ref-type="bibr" rid="ref8">2002</xref>
+            ) investigates factors responsible for intensity of standardization in
+20 industrial sectors of seven countries. He reports empirical evidence on the positive relation
+between the stock of national and international standards in a sector and the ratio of exports to
+total production in that sector.
+          </p>
+          <p>
+            More generally, our work also relates to the strand of literature considering the role of
+networks in reducing information costs associated with international trade (e.g. Rauch, 1999;
+Rauch and Trindade, 2002). In our view, the role of ISO 9000 for international trade very
+much overlaps with the role of ethnic Chinese networks for trade studied by Rauch and
+Trindade (
+            <xref ref-type="bibr" rid="ref8">2002</xref>
+            ). To the extent that ISO 9000 lowers information and search costs, it also
+relates to the role of Internet for trade studied by Freund and Weinhold (2004). Neither of
+these studies, however, discusses the potential endogeneity of networks’ formation.
+          </p>
+          <p>The rest of the paper is organized as follows. Section 2 describes the ISO 9000 family
+of standards and its role in international trade more in detail. Section 3 provides theoretical
+models of bilateral trade flows and standard diffusion, which guide our empirical analysis.
+Data, empirical implementation of the theoretical models, and discussion of the results are
+presented in section 4. Section 5 concludes.</p>
+        </sec>
+        <sec id="sec-1-9-2">
+          <title>2. ISO 9000 and its role in international trade</title>
+          <p>The ISO 9000 family of standards is often referred to as generic quality management
+standards – generic in the sense that they can be implemented by any organization regardless
+of its size, activity sector, and managerial or national culture. Quality management reflects
+what the organization does to enhance customer satisfaction by meeting his/her requirements
+and expectations.3 Compliance with ISO 9000 indicates consistent use of documents and
+standardized procedures to produce a good or service, for which the customer contracts. In
+other words, ISO 9000 certifies that the firm’s products conform to specification.</p>
+          <p>
+            The history of ISO 9000 started in 1987 with publication of the ISO 9000 Quality
+Assurance Standards by a Technical Committee (TC 176) of the International Organization
+for Standardization (ISO). By the end of 2001, the number of ISO 9000 certificates exceeded
+half a million in 161 countries around the world, contributing to its reputation as an
+international reference for quality requirements in business-to-business dealings.4 We treat
+ISO 9000 as a uniform standard although it consists of a series of nested standards, which
+evolved over time. The core members of the original family with which firms could actually
+be certified were ISO 9001, ISO 9002, and ISO 9003. They differed in terms of the quality
+system elements they covered. The nested nature of these standards allowed firms to
+accommodate differences in the scope of their operations.5 The 2000 edition of the ISO 9000
+family replaced these three standards with a single one labeled ISO 9001: 2000. As
+supplementary standards, the 2000 edition included ISO 9000: 2000, which describes
+fundamentals and specifies vocabulary for a quality management system, and ISO 9004:
+2000, which provides guidelines for performance improvements. Both of them were
+developed on the basis of previous standards, which they replaced. Given that the core
+3 See ISO (
+            <xref ref-type="bibr" rid="ref8">2002</xref>
+            ).
+4 Ibid.
+5 See Anderson et al. (1995, 1999) for details.
+members of the ISO 9000 family were finally replaced by a single one, our simplifying
+assumption treating ISO 9000 as a uniform standard seems justified.
+          </p>
+          <p>ISO 9000 adoption is a sovereign decision of each firm; however, they can seek
+certification only in their home countries. Each country has one government-designed
+accrediting agency that certifies the competence of third party registrars to conduct ISO 9000
+quality audits. The registrars are also charged with the issuing of certificates.6 In general,
+motivations behind the implementation of ISO 9000 could be divided into three main
+categories: i) compliance with government regulations, ii) ability to enter new forms of
+vertical relations due to use of a common language, and iii) internal efficiency gains. In fact,
+all the factors influencing managers to seek ISO 9000 certification identified by Anderson et
+al. (1999) in a comprehensive review of practitioners journals fall into one of the three
+categories.</p>
+          <p>The first category stems from the fact that ISO 9000 has been used as a standard
+against which to assess performance in government procurements and in setting of minimum
+quality requirements for products that affect public safety. The Single Market Initiative of
+1992 initiated by the European Community involves the most noticeable example of such
+regulations. The public safety argument obliged firms to attain a uniquely designed EC Mark
+in order to get access to certain markets.7 ISO 9000 was selected as a means to attain the mark
+in most of the cases. This raises the concern that ISO 9000 can be a barrier to market entry
+and a tariff on international trade. We relate our empirical findings to potential effects of the
+regulations.</p>
+          <p>The second category of motivations is the focus of this study. As noted by Bénézech et
+al. (2001, p. 1396), “the ISO 9000 series can be viewed as a code, a language used by firms to
+extend their industrial relationship”. Thanks to standardized documentation flow and
+organizational procedures within certified firm, ISO 9000 provides a screening device that
+allows other firms to observe and to evaluate its performance. This naturally lowers
+informational asymmetries between firms. Consequently, ISO 9000 proxies for conformance
+of the firm’s product to the specification, for which the customer contracts. This leads to
+lower transaction and search costs in vertical relations between firms. To realize the benefits
+of ISO 9000, however, both contracting parties should have adopted (i.e. learned) it in the first
+place. This is why the common language analogy is appropriate.8 Learning this common
+language could be viewed as an alternative for establishing vertical relations based on
+longterm relationship and trust reputation. This explains the potential of ISO 9000 for reducing
+barriers to market entry and non-tariff barriers to trade.</p>
+          <p>Finally, firms seek ISO 9000 certification to realize efficiency gains. The discipline of
+documentation and organizational procedures could reduce waste, lower costs, and improve
+productivity. For example, relying on a survey of ISO 9000 certified firms in the U.S. (sales
+from $100 million to $500 million), Anderson et al. (1999) report average annual savings of
+$200,000 due to the certification.</p>
+          <p>The same authors further report that obtaining ISO 9000 certification at a
+manufacturing site in the U.S. takes from 9 to 28 months and approximately 35-40% of all
+sites fail the first audit. Beyond time, the actual costs of the standard adoption and
+certification are also substantial. A medium size manufacturing facility employing 100 people
+can expect to spend $50,000. For larger firms (sales from $100 million to $500 million), the
+average cost that the authors report is $300,000. The above discussed potential costs and gains
+will guide our ISO 9000 diffusion model developed in section 3.2.</p>
+        </sec>
+        <sec id="sec-1-9-3">
+          <title>3. Economic models</title>
+          <p>3.1 International trade flows</p>
+          <p>
+            The standard empirical framework used to predict international trade flows is the
+gravity equation. In a simple form, which explains its name, the equation reads
+where Vij is value of exports from country i to country j, Yi and Yj are their economic masses
+often measured by GDP or GNP, Dij is a measure of the distance between them, and A is a
+constant of proportionality.9 Attractiveness of the gravity equation originally stems from its
+empirical explanatory power. Recent developments, however, show that the equation can also
+8 We give the common language hypothesis a slightly different spin than Bénézech et al. (
+            <xref ref-type="bibr" rid="ref7">2001</xref>
+            ). They
+concentrate rather on the role of ISO 9000 as a means to codify the knowledge within a firm.
+9 Some empirical studies, in which gravity equation for trade is not theoretically motivated, often define Vij as
+bilateral trade flows rather than exports alone.
+be theoretically motivated, in particular, in the context of classical Heckscher-Ohlin
+framework, as presented by Deardorff (1998). He shows that in a frictionless world – i.e.
+without transport costs and other impediments to trade – under some mild assumptions,
+bilateral exports are given on average by (1) with constant of proportionality A = 1/Yw, where
+Yw stands for world income. He argues also that the tendency of high-income consumers to
+consume larger budget share of capital-intensive goods will lead
+high-income/capitalabundant countries to trade more than average with each other and less than average with
+lowincome/labor-abundant countries. This would motivate inclusion of per capita income in the
+gravity equation, as is often the case in empirical literature.
+          </p>
+          <p>In the real world however, trade is impeded due to transportation costs, tariffs and
+other non-tariff barriers to trade. Anderson and Wincoop (2003) derive a particularly elegant
+gravity equation for bilateral exports with trade barriers. Their work falls under the stream of
+research that – in contrast to the classical Heckscher-Ohlin framework – assumes product
+differentiation by the place of origin. The key result of Anderson and Wincoop (2003) is that
+the distance between countries in (1) Dij is determined by relative trade barriers. That is, it
+directly depends on bilateral trade barriers between i and j and indirectly on bilateral trade
+barriers between every other pair of countries. Unfortunately, empirical implementation of the
+model is troublesome, as the closed-form solution for Dij in terms of all bilateral trade barriers
+does not exist. Moreover, the authors show uniqueness of the implicit solution only for
+symmetric trade barriers.10</p>
+          <p>As we have already argued, ISO 9000 can be understood as a common language,
+adoption of which allows firms to lower the transaction and search costs. We will assume that,
+by lowering these costs, adoptions of the standard in both country i and country j will
+decrease their bilateral trade barriers. Section 4.2 on empirical implementation of the model
+presents that in more detail.
+3.2 ISO 9000 diffusion</p>
+          <p>Our modeling of the ISO 9000 adoption process is driven by the common language
+hypothesis, as explained before. This hypothesis naturally leads to network effects in the
+adoption process, meaning that the value of certification for a firm depends on the total
+number of certified firms. Intuitively, the more ISO 9000 certified firms the bigger the pool of
+potentially more efficient business contacts, hence the higher value of the standard for each
+certified firm. Since we are interested in the link between ISO 9000 and international trade,
+the relevance of foreign adoptions of the standard for the home country adopters is of crucial
+importance. We want to test whether economic distance between countries in terms of trade
+related factors matters for the foreign adoptions’ relevance. Finding such relationship would
+give us additional insight about the role of ISO 9000 in international trade.</p>
+          <p>
+            To facilitate the analysis we apply the model developed by Grajek (
+            <xref ref-type="bibr" rid="ref8">2002, 2003</xref>
+            ). It
+allows us to derive structural country-specific diffusion equations from adoption decisions of
+individual firms in each country. We assume that in each country i = 1, 2, …, I there is an
+infinite number of heterogeneous firms, which instantaneously decide whether to adopt ISO
+9000 or not. The adoption decision is influenced by the firm-specific intrinsic valuation of the
+standard, denoted by vi, which corresponds to the net efficiency gains that the firm realizes
+after the adoption. Another factor influencing the adoption decision is the network size of
+certified firms at time t denoted by xi(t). Network effects arise in the adoption of ISO 9000
+due to potentially more efficient contracting among the certified firms. The efficiency gains
+and network effects together shape the net instantaneous benefits of ISO 9000 adoption,
+which for simplicity takes the following functional form
+          </p>
+          <p>u(vi,xi(t)) = vi + cxi(t) + dxi2(t),
+where c and d are parameters that capture the extent of network effects. The squared network
+size term in (2) accounts for diminishing marginal network effect, as is usually assumed in the
+theoretical literature. The costs of ISO 9000 adoption consist of a sunk investment in the
+reorganization of the firm qi and an instantaneous audit fee pi, both of which are assumed to
+be constant over time. The outside option is not to adopt and brings no benefits.</p>
+          <p>Firms maximize the net benefits adopting ISO 9000 when the present value of the
+stream of future benefits exceeds the present value of the costs. As shown in appendix 6.1, we
+can calculate the net-of-cost intrinsic valuation of indifferent firm in country i at time t,
+denoted as v~i*,t , from the following first order condition
+(2)
+(3)
+The lag of network size δ in (3) is crucial for the dynamic properties of the model. It can be
+motivated by excessive optimism of the firms regarding time needed to implement the
+standard in their own sites. In fact, as we point out in section 2, the adoption process takes
+time and large share of firms fails the first audit.</p>
+          <p>Assume that the net-of-cost intrinsic valuations in each country – v~i,t – are uniformly
+distributed over an interval (-∞, ai] with some density bi. Integrating over all firms with
+intrinsic valuation higher than v~i*,t , we obtain the equilibrium number of adopters in each
+country
+yi (t) = (ai + cxi (t − δ ) + dxi2 (t))bi .</p>
+          <p>The final step in setting up the model is to define the relevant network for ISO 9000
+adopters in each country. We are not going to differentiate the firms in a given country in
+terms of their cooperation prospects with each other. Instead, we want to emphasize the
+difference between the foreign and the domestic firms. Therefore, we define the network size
+of ISO 9000 adopters as
+xi (t) = yi (t) + ∑ wij y j (t) ,
+j≠i
+(4)
+(5)
+where wij reflects the relative importance of country j adopters for country i adopters. Since
+we expect that foreign markets are relevant for the adoption decisions of domestic firms, we
+are going to relate wij to bilateral trade between i and j in the next section. The general idea is
+that the intensity of trade indicates closeness of the economies, hence the relevance of foreign
+firms as business partners for the domestic firms.</p>
+          <p>Finally, substituting (5) in (4), we arrive at the following adoption equation</p>
+          <p>⎛ ⎞ ⎛ ⎞2
+yi (t) = aibi + bi c⎜⎜ yi (t −δ ) + ∑ wij y j (t −δ ) ⎟⎟ + bi d ⎜⎜ yi (t −δ ) + ∑ wij y j (t −δ ) ⎟⎟ ,
+⎝ j≠i ⎠ ⎝ j≠i ⎠
+(6)
+which guides the empirical analysis in section 4.</p>
+        </sec>
+        <sec id="sec-1-9-4">
+          <title>4. Empirical model</title>
+          <p>4.1 Data</p>
+          <p>
+            Data on ISO 9000 adoptions comes from ISO (
+            <xref ref-type="bibr" rid="ref8">2002</xref>
+            ). Bilateral exports are taken from
+the UN Commodity Trade Statistics Database (Comtrade), and GDP and population figures
+come from the IMF’s International Financial Statistics. The data ranges over 1995-2001 and
+covers 101 countries. The sample is restricted to this period, because the main variable of
+interest – ISO 9000 adoptions – is not available prior to 1995. Table 1 lists the countries
+included in this study together with the number of firms that adopted ISO 9000 standard till
+the end of 2001 in each of the countries. Summary statistics of the variables used in the
+estimations are given in table 2.
+          </p>
+          <p>A distinctive feature of this study is its particularly wide coverage of countries. In fact,
+our sample covers approximately 80% of the world trade and 99% of the world ISO 9000
+adoptions. A primary reason for this is that the adoptions of ISO 9000 in each country depend
+on the world diffusion of the standard, as predicted by equation (6). Therefore, the smaller the
+coverage of the sample, the more sever is the concern about omitted variable bias in the
+estimates. Additionally, inclusion of the less developed countries, for which the trade barriers
+aspect of ISO 9000 is potentially more severe, is important for the generality of our results. In
+the context of gravity equation for trade, the wide coverage of countries might seem
+problematic. The theories of trade in imperfect substitutes, which were the first to justify the
+gravity model, were thought to apply only to the industrialized countries. However, as found
+by Hummels and Levinsohn (1995), the model works equally well for the larger set of
+countries.11
+4.2 Implementation of gravity equation for trade</p>
+          <p>In our empirical implementation of gravity equation, we apply panel data techniques,
+which have the advantage over cross-section estimations that they can capture all time
+invariant trade determinants by means of country-pair specific effects. This is very useful,
+since the trade barriers in gravity models are usually difficult to quantify, as they might
+consist of tariff barriers, transportation costs, information costs, etc., some of which are not
+even observable. Among many variables proposed by researchers to approximate the trade
+11 See the discussion in Frankel et.al. (1997), p. 55.
+barriers, there are geographical distance, linguistic and colonial ties, membership in trade
+agreements and monetary unions, and common borders. To the extent that these variables are
+time invariant, which is very likely given the relatively short time span of our data, the
+country-pair specific effects will account for them. A particular ingredient of the trade barriers
+we consider are search and transaction costs. According to the main hypothesis of this paper,
+they can be lowered for firms that invested in learning of the common language – ISO 9000.
+As it is commonly assumed, the trade barriers are approximated by a log-linear function.
+Then, our specification of the trade barriers in (1) reads12</p>
+          <p>Dijt −1 = eηij (1 + ISOit )δ1 (1 + ISO jt )δ 2 .</p>
+          <p>According to (7) the lack of ISO 9000 awarded firms in both countries i and j simplifies the
+measure of the bilateral trade barriers to a function of country-pair specific effect. Since, we
+do not impose symmetry on the trade barriers, ηij is in fact importer-exporter specific. This
+asymmetry is going to be important later on, because it allows us to distinguish the distance to
+foreign customer (importer) from the distance to foreign supplier (exporter) from the domestic
+firm viewpoint. Unilateral adoptions of ISO 9000 affect average trade barriers only
+marginally.13 Bilateral adoptions multiply this effect, as follows from our interpretation of
+ISO 9000 as a common language. For the sake of generality, we do not restrict the parameters
+δ1 and δ2 to be equal, although this would fit our common-language hypothesis.</p>
+          <p>Then, after substituting the measures of economic masses and the constant of
+proportionality in (1) with specific functions of the observables, the gravity equation that we
+estimate becomes
+(7)
+(8)
+ln X ijt = α + β 1 ln GDPit + β 2 ln GDPjt + γ 1 ln POPit + γ 2 ln POPjt +
++ δ 1 ln(1 + ISOit ) + δ 2 ln(1 + ISO jt ) + λt +η ij + ε ijt
+,
+where Xijt denotes exports from country i to country j in year t.14 We do not restrict the
+parameters on countries’ GDP – β1 and β2 – to be equal. We also include POP variable, which
+measures the countries’ population in millions. The reason for that is to capture the tendency
+12 As discussed in previous section, the measure of distance between two countries Dij could be broadly
+interpreted as the measure of trade barriers between them.
+13 We would like to stress that specification (7) describes average bilateral trade barriers, since the trade barriers
+faced by ISO 9000 certified firms and non certified firms differ.
+14 In equation (8), a small technical difficulty arises, because of zero-valued entries in bilateral exports Xijt.
+Following Frankel et al. (1997), we treat these observations as missing.
+that rich countries trade more than average with each other, as explained in section 3.1.15
+Finally, λt stands for time effects, which are meant to capture changes in the world income,
+and εijt is a usual i.i.d. error term.
+4.3 Implementation of ISO 9000 diffusion equation</p>
+          <p>Now, we turn to the empirical implementation of the ISO 9000 adoption equation (6).
+As already mentioned, we are mainly interested in the relevance of international markets for
+the adoption decisions of domestic firms. Our assumption, which follows from the
+commonlanguage hypothesis, is that ISO adoptions in close economies reinforce each other relatively
+more than ISO adoptions in distant economies. There are two natural candidates for
+measuring this economic closeness/distance; intensity of bilateral trade and bilateral trade
+barriers. In the context of gravity equation (8), the difference between the two is that intensity
+of bilateral trade depends on the countries’ economic masses and some unobserved factors
+captured by the error term on top of the bilateral trade barriers.</p>
+          <p>These two measures of economic distance differ also in terms of the econometric
+treatment of the models they imply. The trade intensity measure obviously leads to
+endogeneity of ISO 9000 variables in the gravity equation (8), whereas trade barriers measure
+does not. Testing for the endogeneity of ISO 9000 in the gravity equation yields then a way to
+discriminate between them.</p>
+          <p>Here, we proceed assuming that bilateral trade barriers are the relevant measure of
+economic distance in the context of ISO 9000 adoptions. In other words, we assume that the
+relevance of a foreign ISO adoption for domestic firms does not depend on the size of foreign
+economy in which the adoption occurs. This is justified by the fact the ISO 9000 adoptions
+take place at the individual firm level, as opposed to other – e.g. technical – standards, which
+are usually adopted at the industry or nation level. Clearly, the size of the economy is more
+relevant in the latter than in the former case. Our specification of the economic closeness then
+reads
+wij = w1eηij + w eη ji ,
+2
+(9)
+15 Actually the inclusion of lnPOP or ln(GDP/POP) in (8) is mathematically equivalent. What changes is only
+the interpretation of the parameters. See Frankel at al. (1997) for a simple exposition of this point.</p>
+          <p>11
+where w1 and w2 are some constant weights and {ηij} are the importer-exporter specific effects
+in (8). Since ηij (ηji) reflects the barriers to exports from i to j (from j to i) specification (9)
+distinguishes the distance to foreign customers – weighted by w1 – from the distance to
+foreign suppliers – weighted by w2. In fact, estimation of the parameters w1 and w2 drives our
+interest in the ISO 9000 adoption equation. Positive values of w1 and/or w2 would suggest that
+the firms’ adoption decisions are indeed affected by the number of potential foreign customers
+and/or suppliers certified with ISO 9000.</p>
+          <p>We also need to relate country-specific parameters of the types’ distribution ai and bi
+to some observables in order to avoid estimation of excessive number of parameters in (6).
+One could expect that bi, which reflects the number of firms with a given efficiency gains
+prospects from ISO 9000 adoption, depends on the total number of firms in country i, which
+in turn positively correlates with the GDP of that country. Similarly, one could argue that ai,
+the maximum realizable efficiency gains across firms in country i, depends on the country’s
+GDP. The rationale is that the efficiency gains due to ISO 9000 adoptions increase with the
+firm size – so ai most probably reflects the efficiency gains of the largest firms in the country
+– and the world largest firms are located in the richest countries. We are going to relate ai and
+bi to the country’s GDP one at a time to keep the model as simple as possible. This leads us to
+the following specifications
+and
+ai = a
+∧</p>
+          <p>bi = b0 + b1GDPi
+ai = a0 + a1GDPi
+∧
+bi = b .
+(10)
+(10’)</p>
+          <p>Then, after applying specifications (9) and (10) and substituting theoretical values in
+the equation (6) with observables, the ISO 9000 adoption equation that we estimate becomes
+ISOit = a(b0 + b1GDPit ) + c(b0 + b1GDPit )(ISOi(t−1) + ω1ΣISOiC(t−1) + ω 2ΣISOiS(t−1) ) +
++ d (b0 + b1GDPit )(ISOi(t−1) + ω1ΣISOiC(t−1) + ω 2ΣISOiS(t−1) )2 +ψ it</p>
+          <p>(11)
+where the variables ΣISOCi(t-1) and ΣISOSi(t-1) are the indices of foreign customers’ adoptions
+and foreign suppliers’ adoptions respectively.16 The indices make use of the asymmetry in the
+importer-exporter specific effects {η ij } , which reflect the asymmetry in bilateral trade
+barriers. They are defined as ΣISOiC(t−1) ≡ ∑ eηˆij ISO j(t−1)
+j≠i
+and ΣISOi(t−1) ≡ ∑ eηˆ ji ISOj(t−1) ,</p>
+          <p>S
+j≠i
+where {ηˆij } are the estimates of{η ij } . ψit is an i.i.d. error term, which capture the influence of
+unobserved factors. Alternatively, applying specification (10’) instead of (10), we obtain
+ISO it = a0b + a1bGDPit + cb (ISO i(t−1) + ω 1ΣISO iC(t−1) + ω 2 ΣISO iS(t−1) )+
++ db (ISO i(t−1) + ω 1ΣISO iC(t−1) + ω 2 ΣISO iS(t −1) ) +ψ 'it
+2
+.</p>
+          <p>(11’)
+Note that ω1 replaced w1 and ω2 replaced w2 in both equations (11) and (11’). This is because
+the importer-exporter specific effects {η ij } cannot be identified separately from the constant α
+in equation (8) without additional assumptions. To obtain {ηˆij } we will arbitrarily assume
+that max{ηˆij } = 0 , i.e. we will normalize the smallest net-of-ISO-9000 measure of trade
+i, j
+barriers in our sample to 1.17 In case of any such normalization, the relation between wk and
+ωk can be expressed byω k = wk e
+∆</p>
+          <p>∀k = 1,2 , where ∆ is some unknown constant. This
+means that we are still able to make some inference about wk having estimated ωk. In
+particular, they have the same signs and the ratio of ω1 and ω2 equals the ratio of w1 and w2.
+4.4 Discussion of the results</p>
+          <p>First, we estimate (8) by fixed effects (FE). Typically, researchers report FE estimation
+results along with random-effects (RE) results. The advantage of FE estimation over RE
+estimation is that consistency in the former does not rely on orthogonality between the
+country-pair specific effects ηij and all the other explanatory variables.18 We skip the RE
+estimation, since we expect the adoptions of ISO in country i to depend on the economic
+16 Note that in contrast to (6), time in (11) is treated as discrete variable. As a consequence, δ in (6) becomes
+“one period” in (11).
+17 The reason why we choose this particular normalization is merely that the order of magnitude of coefficients
+in (11) and (11’) is not too diverse. This makes exposition of the estimation results look nicer.
+18 We follow the approach in Wooldridge (2002, p. 251–252), that FE and RE correspond to the assumptions we
+are willing to impose on unobserved effects ηij in order to estimate the model rather than to their deterministic or
+stochastic nature.
+distance to each trade partner indicated by ηij. The FE estimation results are presented in
+table 3.</p>
+          <p>
+            The first three columns (1) – (3) contain results of the regressions, in which we
+exclude some of the explanatory variables and column (4) corresponds to the regression with
+the full set of covariates. We see that estimated coefficients vary only marginally across these
+different specifications. In general, we find the coefficient on countries’ own income β1 and
+the coefficient on partner’s income β2 to lie about 0,3 and 0,7 respectively. Moreover, the
+coefficients on population γ1 and γ2 tend to be of the same magnitude with reversed sign as
+income coefficients. These estimates imply that, in contrast to theoretical prediction and the
+results from cross-sectional studies (see e.g. Frankel et al., 1997, table 4.2 and table B6.6),
+trade is almost entirely driven by countries’ income per capita. Glick and Rose (
+            <xref ref-type="bibr" rid="ref8">2002</xref>
+            ), who
+also apply FE estimation, report findings, which are similar to ours (see table 4 in there).
+          </p>
+          <p>The next four regressions (5) – (8) in table 3 augment the first four regressions by
+inclusion of the leading explanatory variables in order to test the strict exogeneity assumption,
+as suggested by Wooldridge (2002, p. 285). The null hypothesis of the Wald test reported in
+table 3 is that coefficients on the leading explanatory variables equal zero. We see that the
+Wald test rejects the null – and thereby strict exogeneity of the explanatory variables – in all
+four cases at very high significance. Without strict exogeneity, the FE estimators become
+inconsistent, so the estimates of the gravity equation coefficients in table 3 can be misleading.</p>
+          <p>We believe that the reason why strict exogeneity failed in the FE estimations is that
+macroeconomic indicators like exports and GDP tend to be trending variables. This is also
+true for population and ISO adoptions variables. As is well known from the time series
+literature, simple OLS is likely to deliver spurious correlations between trending variables.
+The most straightforward remedy for that is to use first differencing (FD) estimation.</p>
+          <p>
+            Table 4 reports the results of the same exercise, as in table 3, using FD estimation.
+Again, we see that the estimated coefficients of the gravity equation are stable across different
+specifications. However, the estimates changed in comparison to the FE results. The most
+noticeable change concerns population variables. The coefficient on country’s own population
+γ1 changed sign to positive and the coefficient on partner’s population γ2 decreased in
+magnitude. Both coefficients are now statistically insignificant, which is in contrast to the
+findings of cross-sectional studies. The reason for this discrepancy might be that the intended
+effect of countries’ income per capita on trade is already captured by the country-pair specific
+effects ηij. This is in line with the Anderson and Marcouiller’s (
+            <xref ref-type="bibr" rid="ref8">2002</xref>
+            ) alternative explanation
+of why capital-abundant countries trade disproportionately with each other. They argue that
+strong institutions support trade security, which can be plausibly treated as constant in our
+data.
+          </p>
+          <p>Given the interpretation, that country-specific effects absorb the impact of per capita
+income, the coefficient on partner’s GDP in table 4, which equals roughly 0,77, corresponds
+well to the findings of cross-sectional studies. The coefficient on own GDP is however about
+10 times smaller and only marginally significant.19 The most important indicator, which gives
+us some confidence about plausibility of our results, is the Wald test. It does not reject strict
+exogeneity of the covariates in first differences in the regressions without population variables
+(column 13 and 15 in table 4).</p>
+          <p>Finally, we turn to the impact of ISO-9000-adoptions’ variables, which are the focus
+of our study. The FD estimates are lower than the FE estimates, but still significant at the 5%
+level. The coefficients on own and partner’s adoptions equal 0,027 and –0,026 respectively.
+This means that a 10% increase in the number of firms awarded with ISO 9000 certificates in
+a country leads on average to 0,27% increase in bilateral exports and 0,26% decrease in
+bilateral imports of that country. These results provide an empirical evidence for the role ISO
+9000 plays in international trade, although they are not fully in line with our expectations. The
+common language hypothesis, as we stated it, suggests that bilateral trade flows should rise
+with both, exporter’s and importer’s, adoptions, since they both contribute to the number of
+potentially more efficient business links. This line of argument, however, does not take into
+account the possibility of substitution between suppliers, i.e. exporters in this case. Freund
+and Weinhold (2004) argue along the same lines interpreting their findings on impact of the
+Internet on bilateral trade. Also, Anderson and Wincoop (2003) point to the fact that bilateral
+trade flows depend on trade barriers between all trading parties.20 In our specification of the
+gravity model, concentration of ISO 9000 adoptions in few countries around the world could
+explain falling average bilateral imports with the number of adoptions. In fact, the OECD
+members (30 out of 101 countries in our sample) account for 75% of ISO 9000 adoptions in
+table 1.</p>
+          <p>To explore further the substitution effect of ISO 9000 on international trade we restrict
+our sample to the OECD countries and rerun the FD estimations. The results are reported in
+table 5. Again, the population variables proved to be insignificant and cause endogeneity
+19 Freund and Weinhold (2004) also report insignificant FD estimate of own GDP coefficient in their gravity
+equation for exports. Moreover they find the coefficient on partner’s GDP to lie just slightly above 0,10 (see
+table 3 in there).
+20 See the discussion in section 3.1.
+problems. Coefficients on own and partner’s GDP are higher than for the whole sample
+roughly by 0,1 and 0,2 respectively and highly significant. Coefficients on own and partner’s
+ISO 9000 adoptions are also significant and amount to 0,063 and 0,036 respectively. This
+supports the substitution effects hypothesis. Bilateral exports between ISO 9000 abundant
+countries indeed increase with both domestic and foreign adoptions. These results, however,
+should be treated with caution, because the Wald test rejects strict exogeneity even in the
+regressions without population variables (columns 21 and 23 in table 5). Now, the GDP
+variables are responsible for the rejection. There are good reasons to believe that the
+endogeneity of GDP in these regressions is merely a statistical phenomenon and that it does
+not significantly bias the results. First, the inclusion of variables in levels does not
+significantly change the coefficients on variables in differences. Second, Hummels and
+Levinsohn (1995) report that correcting for the endogeneity of GDP with instrumental
+variables makes very little difference.</p>
+          <p>As we mentioned in section 2, critics of ISO 9000 reasonably argue that the standard is
+actually a barrier to trade, since it has been used as a tool for introducing import restrictions.
+In fact, the positive effect of domestic ISO 9000 adoptions on exports, that we found, could be
+explained by increasing access to the regulated markets. However, the impact of domestic
+adoptions on imports, that we found, cannot be explained by the trade barrier hypothesis. In
+particular, the finding that imports increase with domestic ISO 9000 adoptions within OECD
+countries cannot be supported by this hypothesis. The reversed relation in the full sample
+might be due to the use of ISO 9000 in introducing import restrictions, however, under
+additional assumption that the restrictions increases with domestic ISO 9000 adoptions.21</p>
+          <p>Estimation results of the ISO 9000 diffusion equation provide additional insights about
+the link between the standards and international trade. To estimate (11) and (11’) we follow
+the general method of moments (GMM) approach for linear dynamic panel data models
+proposed by Arellano and Bond (1991). By doing so, we allow for additional unobserved
+heterogeneity on top of (11) and (11’). This unobserved heterogeneity accounts for
+institutional factors, like the national accrediting agencies, which could either spur or hamper
+the diffusion process.</p>
+          <p>To obtain linear models we multiply out the terms in the structural equations (11) and
+(11’). By multiplying out the terms, the parameters ω1 and ω2 – the transformed weights in
+21 Since the panel data estimation techniques we use provide time-series evidence, because cross-section
+differentiation is captured by country-pair specific effects, this assumption is much more heroic that it might
+seem.
+our measure of economic closeness (9) – become overidentified. This allows us to test the
+underlying structure of the empirical diffusion equations. The estimated coefficients of the
+linearized equations (11) and (11’) are reported in table 6, in columns (25) and (25’)
+respectively.22 Except for the lagged dependent variable, all the regressors are treated as
+strictly exogenous. We see that both regressions perform reasonably well in statistical sense,
+as indicated by the Sargan and the Arellano-Bond test statistics at the bottom of the table. The
+underlying economic structure of both regressions (25) and (25’) is, however, rejected by the
+S
+data. According to the structural equation (11), the ratio of coefficients on ΣISO i(t-1) and
+S
+ISOi(t-1) in the regression (25) should be equal to the ratio of coefficients on GDPitΣISO i(t-1)
+and GDPitISOi(t-1), because both ratios identify the same parameter ω2. Yet, the ratios have
+opposite signs. Similarly, the equation (11’) predicts that the ratio of coefficients on
+(ΣISOCi(t-1))2 and ISO2i(t-1) in the regression (25’) should be equal to the squared ratio of
+coefficients on ΣISOCi(t-1) and ISOi(t-1), since they identify (ω2)2. But, the first ratio is
+negative.23 Therefore, we are going to treat the results as coming from a reduced form
+approach and limit the discussion to pointing out major correlation patterns.</p>
+          <p>The results of the regressions (25) and (25’) suggest in general that ISO 9000
+adoptions in each country are positively related to the market size measured by the country’s
+GDP. The adoptions also exhibit significant inertia, as indicated by the coefficients on the
+lagged dependent variable. Since we are mostly interested in the foreign trade considerations
+in the adoption decisions of firms, the crucial result in table 6 are the coefficients on the
+indices of foreign customers’ adoptions and foreign suppliers’ adoptions. We find that
+domestic ISO 9000 adoptions are positively related to foreign customers’ adoptions, as
+expected. In contrast, foreign suppliers’ adoptions are not or weakly negatively correlated
+with domestic adoptions depending on the specification. In other words, the diffusion of ISO
+9000 seems to proceed from customers to suppliers and not the other way around, at least in
+the international context. This asymmetry does not necessarily contradict our common
+language hypothesis. It might reflect the fact that business customers are able to benefit from
+ISO 9000 without actually being certified, as someone, who understands a language without
+having passed exams that certify that. At the same time, certified suppliers might not care
+about certification of the customers, if their relations are already established.
+22 In the regression (25) we additionally assumed that d = 0 in (11). Without this assumption the main
+coefficients of the model turned out to be insignificant and the Arellano-Bond test indicated second-order
+autocorrelation in the residuals. The likely reason for this is the multi-collinearity of the explanatory variables.
+23 We also carried out formal Wald-type tests, which confirm this intuitive argumentation.</p>
+          <p>To check the robustness of these findings, we perform additional two regressions (26)
+and (26’), in which the indices of foreign ISO 9000 adoptions in (25) and (25’) are replaced
+with simple unweighted sum of foreign adoptions. The coefficients on the unweighted foreign
+adoptions are much less significant than those on the indices of foreign adoptions in the
+previous regressions. In other words, our indices are much better predictors of domestic
+adoptions than is the unweighted sum. This gives us some confidence in the effects of foreign
+trade considerations on domestic adoptions we found in (25) and (25’).</p>
+        </sec>
+        <sec id="sec-1-9-5">
+          <title>5. Conclusions</title>
+          <p>In this paper, we empirically assess the link between the ISO 9000 family of standards
+and international trade. According to the vision of its developers, ISO 9000 should provide
+confidence to people and organizations that products will meet their expectations, thereby
+enhancing trade and global welfare. In contrast, its critics claim that it is merely a barrier to
+market entry and a tariff on international trade.</p>
+          <p>Our modeling strategy is to look at the impact of ISO 9000 adoptions on bilateral trade
+flows between countries. We estimate a gravity equation for bilateral exports using data on
+101 countries over 1995-2001. To obtain additional evidence, we estimate an international
+ISO 9000 diffusion equation and test whether the number of certified foreign trade partners
+plays a role in the domestic firms’ adoption decisions.</p>
+          <p>Using the full sample, we find that domestic ISO 9000 adoptions spur bilateral exports
+and hamper bilateral imports. In the sample restricted to the OECD countries, however, the
+domestic adoptions are positively related to both bilateral exports and imports. Additionally,
+we find empirical evidence on the positive effect of foreign customers’ adoptions of ISO 9000
+on domestic adoptions.</p>
+          <p>In general, these findings suggest that the ISO 9000 standards have indeed significant
+positive impact on international trade. They are consistent with the common language
+hypothesis, which states that ISO 9000 lowers informational asymmetry between firms and
+allows them to organize vertical relations more efficiently. The negative effect of ISO 9000
+adoptions on bilateral imports in the full sample can be explained by a substitution effect, as
+ISO 9000 certified firms tend to trade with each other more than with uncertified firms. Since
+domestic certified firms are likely to choose other certified firms as suppliers, the average
+bilateral imports from all trade partners will fall with domestic adoptions if the concentration
+of adoptions around the world is high enough.</p>
+          <p>The hypothesis that ISO 9000, as a tool for introducing import restrictions, is a barrier
+to international trade is not able to explain our empirical findings, although we cannot reject
+it. The substitution effect we pointed out might be, however, another way, in which ISO 9000
+constitutes an effective trade barrier. If the diffusion of ISO 9000 in the less developed
+countries remains sluggish – e.g. due to weak institutional framework – the benefits of ISO
+9000 envisioned by its developers will stay in the developed countries’ domain.</p>
+        </sec>
+        <sec id="sec-1-9-6">
+          <title>6. Appendices</title>
+          <p>6.1 Optimal timing of ISO 9000 adoption</p>
+          <p>We assume that once the standard is adopted, it yields the infinite stream of future
+benefits. The present value of the stream of benefits can be written as
+where ρ is a common instantaneous discount rate. The cost of adoption consists of the sunk
+investment in reorganization of the firm qi and the instantaneous audit fee pi, both of which
+are assumed to be constant over time. We write the present value of the cost as
+∞
+V (vi , xi (t), t) = ∫ e−ρsu(vi , xi (s))ds ,
+t</p>
+          <p>∞
+C(qi , pi , t) = e−ρt qi + ∫t e−ρs pi ds .</p>
+          <p>mtax[V (vi , xi (t), t) − C(qi , pi , t)].</p>
+          <p>The optimal timing of adoption involves solving the following maximization problem
+Assuming that problem (14) is concave, we obtain the intrinsic valuation of the indifferent
+firm vi,t* as the solution to
+(12)
+(13)
+(14)
+ddt V (vi*,t , xi (t), t) − ddt C(qi , pi , t) = 0 ,
+which simplifies to</p>
+          <p>u(vi*,t , xi (t)) − ρqi − pi = 0 .</p>
+          <p>Now, substituting benefit function (2) in (16) we finally obtain
+v~i*,t + cxi (t) + dxi2 (t) = 0 ,
+(15)
+(16)
+(17)
+(18)
+where v~i*,t = vi*,t − ρqi − pi denotes the net-of-cost intrinsic valuation of indifferent firms.
+Further, we modify solution (17) introducing a lag δ into the network size. The lag is crucial
+for identification in this model (see Grajek, 2002). In the context of ISO 9000 adoption
+decision, the lag can be motivated by an excessive optimism of firms regarding the time
+needed to implement the standard. The fact that firms obtain certification later than implied by
+(17) leads to the modified first order condition</p>
+          <p>v~i*,t + cxi (t −δ ) + dxi2 (t −δ ) = 0 .</p>
+          <p>
+            Note that deriving (17) we assumed that the firms have perfect knowledge about the future
+diffusion of network. This assumption carries over to (18). In other words, the firms know
+that the others are overoptimistic.
+6.2 Tables
+Argentina
+Australia
+Austria
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Bolivia
+Botswana
+Brazil
+Bulgaria
+Cameroon
+Canada
+Chile
+China
+Colombia
+Costa Rica
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Estonia
+Finland
+France
+Germany
+Greece
+Grenada
+Source: ISO(
+            <xref ref-type="bibr" rid="ref8">2002</xref>
+            )
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Senegal
+Seychelles
+Singapore
+Slovak Republic
+Slovenia
+South Africa
+Spain
+Sri Lanka
+St. Lucia
+Sudan
+Swaziland
+Sweden
+Switzerland
+Thailand
+Trinidad and Tobago
+Tunisia
+Turkey
+Uganda
+United Kingdom
+United States
+Uruguay
+Venezuela
+Zambia
+Zimbabwe
+# ISO 9000
+certifications
+Dec. 2001
+33
+46
+200
+961
+2622
+2474
+52
+1670
+1517
+8
+6
+3513
+827
+1026
+2263
+17749
+155
+3
+3
+11
+4652
+8605
+3870
+29
+302
+2949
+60
+66760
+37026
+241
+373
+10
+134
+ΣISOi d
+ΣISOCi d
+ΣISOSi d
+          </p>
+          <p>Description
+Exports from country i to country j in billion
+current US$
+GDP of country i in trillion current US$
+Population of country i in millions
+Number of country i's ISO 9000 adopters in
+thousands
+The sum of ISO 9000 adopters in all countries
+except country i in thousands
+Index of ISO 9000 adoptions by all foreign
+business customers of firms in country i
+Index of ISO 9000 adoptions by all foreign
+suppliers of firms in country i
+Note: All variables are on yearly basis.</p>
+          <p>
+            Sources: a UN Comtrade databank; b IMF International Financial Statistics; c ISO(
+            <xref ref-type="bibr" rid="ref8">2002</xref>
+            ); d own calculations
+based on all previous sources
+Dependent variable: ln Exportsijt
+Independent (1)
+variablesa
+ln GDPit 0.300***
+(8.51)
+0.026 0.027 0.030 0.030 0.025 0.025
+0.445 0.211 0.486 0.167 0.517 0.496
+0.417 0.197 0.461 0.155 0.482 0.469
+a Year-dummies’ coefficients suppressed.
+b The constant term is defined here as the average of importer-exporter-specific effects.
+*** denotes significance at 1% level, ** at 5% level, * at 10% level; t-statistics in parentheses.
+(5)
+          </p>
+          <p>(7)
+0.097**
+(2.01)
+0.013 0.013 0.014 0.014 0.013 0.013
+a Year-dummies’ coefficients suppressed.
+*** denotes significance at 1% level, ** at 5% level, * at 10% level; t-statistics in parentheses.
+(14)
+(15)
+(16)
+(13)
+Dependent variable: ∆ln Exportsijt
+Independent (17) (18)
+variablesa
+∆ln GDPit 0.322***</p>
+          <p>0.316***
+(5.47)
+0.085 0.085 0.089 0.089 0.089 0.098
+a Year-dummies’ coefficients suppressed.
+*** denotes significance at 1% level, ** at 5% level, * at 10% level; t-statistics in parentheses.</p>
+          <p>(19)</p>
+          <p>(23)</p>
+          <p>(24)
+(26’)
+ΣISOSi(t-1)
+(ΣISOSi(t-1))2
+ΣISOi(t-1)
+(ΣISOi(t-1))2
+Interaction terms
+GDPit ISOi(t-1)
+GDPit ΣISOCi(t-1)
+GDPit ΣISOSi(t-1)
+GDPit ΣISOi(t-1)
+ISOi(t-1) ΣISOCi(t-1)
+ISOi(t-1) ΣISOSi(t-1)
+ΣISOCi(t-1) ΣISOSi(t-1)
+ISOi(t-1) ΣISOi(t-1)
+Sargan test (χ2)b
+Arellano-Bond m2 testc
+17.98 (14) 16.78 (14) 17.11 (14)</p>
+          <p>1.45 1.41 1.47
+Number of observations 475 475 475
+*** denotes significance at 1% level, ** at 5% level, * at 10% level; t-statistics in parentheses.
+a All variables are in first differences.
+b</p>
+          <p>Sargan test of over-identifying restrictions; degrees of freedom in parentheses.
+c Arellano-Bond test of second-order serial correlation in residuals.</p>
+          <p>(25)</p>
+          <p>(26)
+Freund C.L., D. Weinhold (2004), “The effect of the Internet on international trade”, Journal
+of International Economics, 62, 171-189.</p>
+          <p>
+            Glick R., A.K. Rose (
+            <xref ref-type="bibr" rid="ref8">2002</xref>
+            ), “Does currency union affect trade? The time-series evidence”,
+          </p>
+          <p>European Economic Review, 46, 1125-1151.</p>
+          <p>
+            Grajek M. (
+            <xref ref-type="bibr" rid="ref8">2002</xref>
+            ), “Identification of Network Externalities in Markets for Non-Durables”,
+          </p>
+          <p>Wissenschaftszentrum Berlin, Discussion Paper FS IV 02-32.</p>
+          <p>Hummels D., J. Levinsohn (1995), “Monopolistic Competition and International Trade:</p>
+          <p>
+            Reconsidering the Evidence”, Quarterly Journal of Economics 110(3), 799-836.
+ISO (
+            <xref ref-type="bibr" rid="ref7">2001</xref>
+            ), Quality Management Principles, ISO Central Secretariat, Geneve.
+ISO (
+            <xref ref-type="bibr" rid="ref8">2002</xref>
+            ), The ISO Survey of ISO 9000 and ISO 14000 Certificates, Eleventh cycle – 2001,
+          </p>
+          <p>ISO Central Secretariat, Geneve.</p>
+          <p>Moenius J. (2000), “Information versus Product Adaptation: The Role of Standards in Trade”,</p>
+          <p>Northwestern University, mimeo.</p>
+          <p>Rauch J.E. (1999), “Networks versus markets in international trade”, Journal of International</p>
+          <p>Economics, 48(1), 7-35.</p>
+          <p>
+            Rauch J.E., V. Trindade (
+            <xref ref-type="bibr" rid="ref8">2002</xref>
+            ), “Ethnic Chinese Networks in International Trade”, Review of
+          </p>
+          <p>Economics and Statistics, 84(1), 116-130.</p>
+          <p>Swann P., Temple P., Shurmer M. (1996), “Standards and Trade Performance: The UK</p>
+          <p>Experience”, Economic Journal, 106(438), 1297-1313.</p>
+          <p>
+            Wooldridge J.M. (
+            <xref ref-type="bibr" rid="ref8">2002</xref>
+            ), Econometric Analysis of Cross Section and Panel Data, MIT Press,
+Cambridge and London.
+Bücher des Forschungsschwerpunkts Markt und politische Ökonomie
+          </p>
+          <p>Books of the Research Area Markets and Political Economy
+Pablo Beramendi
+Decentralization and Income Inequality
+2003, Madrid: Juan March Institute
+Thomas Cusack
+A National Challenge at the Local Level: Citizens,
+Elites and Institutions in Reunified Germany
+2003, Ashgate
+Sebastian Kessing
+Essays on Employment Protection
+2003, Freie Universität Berlin,
+http://www.diss.fu-berlin.de/2003/202
+Daniel Krähmer
+On Learning and Information in Markets and
+Organizations
+2003, Shaker Verlag
+Bob Hancké
+Large Firms and Institutional Change. Industrial
+Renewal and Economic Restructuring in France
+2002, Oxford University Press
+Andreas Stephan
+Essays on the Contribution of Public
+Infrastructure to Private: Production and its Political
+Economy
+2002, dissertation.de
+Peter A. Hall, David Soskice (Eds.)
+Varieties of Capitalism
+2001, Oxford University Press
+Hans Mewis
+Essays on Herd Behavior and Strategic Delegation
+2001, Shaker Verlag
+Andreas Moerke
+Organisationslernen über Netzwerke – Die
+personellen Verflechtungen von Führungsgremien
+japanischer Aktiengesellschaften
+2001, Deutscher Universitäts-Verlag
+Silke Neubauer
+Multimarket Contact and Organizational Design
+2001, Deutscher Universitäts-Verlag
+Lars-Hendrik Röller, Christian Wey (Eds.)
+Die Soziale Marktwirtschaft in der neuen
+Weltwirtschaft, WZB Jahrbuch 2001
+2001, edition sigma
+Michael Tröge
+Competition in Credit Markets: A Theoretic
+Analysis
+2001, Deutscher Universitäts-Verlag
+Torben Iversen, Jonas Pontusson, David Soskice
+(Eds.)
+Unions, Employers, and Central Banks
+2000, Cambridge University Press
+Tobias Miarka
+Financial Intermediation and Deregulation:
+A Critical Analysis of Japanese
+Bank-FirmRelationships
+2000, Physica-Verlag
+Rita Zobel
+Beschäftigungsveränderungen und
+organisationales Lernen in japanischen
+Industriengesellschaften
+2000, Humboldt-Universität zu Berlin
+http://dochost.rz.hu-berlin.de/dissertationen/zobel-rita2000-06-19
+Jos Jansen
+Essays on Incentives in Regulation and Innovation
+2000, Tilburg University
+Ralph Siebert
+Innovation, Research Joint Ventures, and
+Multiproduct Competition
+2000, Humboldt-Universität zu Berlin
+http://dochost.rz.hu-berlin.de/dissertationen/siebertralph-2000-03-23/
+Damien J. Neven, Lars-Hendrik Röller (Eds.)
+The Political Economy of Industrial Policy in
+Europe and the Member States
+2000, edition sigma
+Jianping Yang
+Bankbeziehungen deutscher Unternehmen:
+Investitionsverhalten und Risikoanalyse
+2000, Deutscher Universitäts-Verlag
+Christoph Schenk
+Cooperation between Competitors –
+Subcontracting and the Influence of Information,
+Production and Capacity on Market Structure and
+Competition
+1999, Humboldt-Universität zu Berlin
+http://dochost.rz.hu-berlin.de/dissertationen/schenkchristoph-1999-11-16
+Horst Albach, Ulrike Görtzen, Rita Zobel (Eds.)
+Information Processing as a Competitive
+Advantage of Japanese Firms
+1999, edition sigma
+Dieter Köster
+Wettbewerb in Netzproduktmärkten
+1999, Deutscher Universitäts-Verlag
+Christian Wey
+Marktorganisation durch Standardisierung: Ein
+Beitrag zur Neuen Institutionenökonomik des
+Marktes
+1999, edition sigma
+Annette Boom</p>
+          <p>Kai A. Konrad
+Wolfram F. Richter
+Investments in Electricity Generating Capacity
+under Different Market Structures and with
+Endogenously Fixed Demand
+Zur Berücksichtigung von Kindern
+bei umlagefinanzierter Alterssicherung
+Restraining the Genuine Homo Economicus:
+Why the Economy cannot be divorced from its
+Governance
+Insisting on a Non-Negative Price: Oligopoly,
+Uncertainty, Welfare, and Multiple Equilibria</p>
+          <p>Buyer Power and Supplier Incentives</p>
+          <p>Monopoly Pricing with Negative Network Effects:</p>
+          <p>The Case of Vaccines</p>
+          <p>The Breakdown of Authority</p>
+          <p>Paul Heidhues
+Nicolas Melissas</p>
+          <p>Equilibria in a Dynamic Global Game: The Role of
+Cohort Effects
+Political Institutions and Income Inequality:</p>
+          <p>The Case of Decentralization
+Daniel Krähmer</p>
+          <p>Learning and Self-Confidence in Contests</p>
+          <p>Delay in Joint Projects
+Tomaso Duso</p>
+          <p>Astrid Jung
+Thomas R. Cusack</p>
+          <p>Pablo Beramendi
+Kjell Erik Lommerud</p>
+          <p>Frode Meland
+Odd Rune Straume
+Joseph Clougherty</p>
+          <p>The Introduction of New Product Qualities by
+Incumbent Firms: Market Proliferation versus
+Cannibalization
+Impact of Uncertainty and Sunk Costs on Firm
+Survival and Industry Dynamics
+Endemic Volatility of Firms and Establishments:
+Are Real Options Effects Important?
+Private Monitoring in Auctions
+Product Market Competition and Lobbying
+Coordination in the U.S. Mobile
+Telecommunications Industry
+Taxing Work: Some Political and Economic
+Aspects of Labor Income Taxation
+Globalisation and Union Opposition to
+Technological Change
+Industry Trade-Balance and Domestic Merger
+Policy: Some Empirical Evidence from the U.S.</p>
+          <p>SP II 2003 – 01
+SP II 2003 – 02
+SP II 2003 – 03
+SP II 2003 – 04
+SP II 2003 – 05
+SP II 2003 – 06
+SP II 2003 – 07
+SP II 2003 – 08
+SP II 2003 – 09
+SP II 2003 – 10
+SP II 2003 – 11
+SP II 2003 – 12
+SP II 2003 – 13
+SP II 2003 – 14
+SP II 2003 – 15
+SP II 2003 – 16
+SP II 2003 – 17
+SP II 2003 – 18
+SP II 2003 – 19</p>
+          <p>Dan Anderberg</p>
+          <p>Fredrik Andersson
+Eugenio J. Miravete
+Lars-Hendrik Röller</p>
+          <p>Talat Mahmood
+Klaus Schömann</p>
+          <p>Talat Mahmood
+Klaus Schömann</p>
+          <p>Suchan Chae
+Paul Heidhues
+Helmut Bester
+Kai A. Konrad
+Kai A. Konrad
+Kai A. Konrad
+Steffen Huck
+Kai A. Konrad
+Kai A. Konrad</p>
+          <p>Bidding in Hierarchies
+Stratification, Social Networks in the Labour
+Market, and Intergenerational Mobility
+Estimating Markups under Nonlinear Pricing
+Competition
+On the Migration Decision of IT-Graduates:
+A Two-Level Nested Logit Model
+Assessing the Migration Decision of Indian
+IT-Graduates: An Empirical Analysis
+Buyers Alliances for Bargaining Power
+Negotiated Shareholder Value: The German
+Version of an Anglo-American Practice
+Estimating Network Effects and Compatibility in
+Mobile Telecommunications
+Easy Targets and the Timing of Conflict
+Opinion Leaders, Influence Activities and
+Leadership Rents
+Mobilität in mehrstufigen Ausbildungsturnieren
+Moral Cost, Commitment and Committee Size
+SP II 2003 – 21
+SP II 2003 – 22
+SP II 2003 – 23
+SP II 2003 – 24
+SP II 2003 – 25
+SP II 2003 – 26
+SP II 2003 – 27
+SP II 2003 – 28
+SP II 2003 – 29
+SP II 2003 – 30</p>
+          <p>SP II 2003 – 31</p>
+          <p>DISCUSSION PAPERS 2004
+Jos Jansen</p>
+          <p>Partial Information Sharing in Cournot Oligopoly
+Johan Lagerlöf</p>
+          <p>Lars Frisell</p>
+          <p>Lobbying, Information Transmission, and Unequal</p>
+          <p>Representation
+Antonio Guarino</p>
+          <p>Steffen Huck
+Thomas D. Jeitschko</p>
+          <p>Thomas Plümper</p>
+          <p>Vera E. Troeger</p>
+          <p>Ulrich Kaiser¤</p>
+          <p>Pablo Beramendi
+Thomas R. Cusack
+Joseph Clougherty
+Joseph Clougherty</p>
+          <p>Anming Zhang</p>
+          <p>Roel C.A. Oomen
+Robert J. Franzese,Jr.</p>
+          <p>Jude C. Hays
+Albert Banal-Estañol
+Inés Macho-Stadler</p>
+          <p>Jo Seldeslachts</p>
+          <p>Oz Shy
+Rune Stenbacka</p>
+          <p>Michal Grajek</p>
+          <p>Changes in Germany’s Bank Based Financial
+System: A Varieties of Capitalism Perspective
+Entrepreneurial Business Models in the German
+Software Industry: Companies, Venture Capital,
+and Stock Market Based Growth Strategies of the
+‚Neuer Markt’
+Can Fear Cause Economic Collapse?
+Insights from an Experimental Study
+External Effects of Currency Unions
+An Estimated Model of the German Magazine
+Market
+Diverse Disparities: The Politics and Economics of
+Wage, Market and Disposable Income Inequalities
+Antitrust Holdup Source, Cross-National
+Institutional Variation, and Corporate Political
+Strategy Implications for Domestic Mergers in a
+Global Context
+Export Orientation and Domestic Merger Policy:
+Theory and Some Empirical Evidence
+Modelling Realized Variance when Returns are
+Serially Correlated
+Modeling International Diffusion: Inferential
+Benefits and Methodological Challenges, with an
+Application to International Tax Competition
+Mergers, Investment Decisions and Internal
+Organisation
+Price Competition, Business Hours, and Shopping
+Time Flexibility
+Fixed, focal, fair? Book Prices Under Optional
+resale Price Maintenance
+Diffusion of ISO 9000 Standards and International
+Trade
+SP II 2004 – 01
+SP II 2004 – 02
+SP II 2004 – 03
+SP II 2004 – 04
+SP II 2004 – 05
+SP II 2004 – 06
+SP II 2004 – 07
+SP II 2004 – 08
+SP II 2004 – 09
+SP II 2004 – 10
+SP II 2004 – 11
+SP II 2004 – 12
+SP II 2004 – 13
+SP II 2004 – 14
+SP II 2004 – 15
+SP II 2004 – 16
+Bestellschein</p>
+        </sec>
+      </sec>
+      <sec id="sec-1-10">
+        <title>Reichpietschufer 50 D-10785 Berlin-Tiergarten</title>
+      </sec>
+    </sec>
+    <sec id="sec-2">
+      <title>Discussion paper(s):</title>
+      <p>Bestell-Nr. / Order no.
+Autor/in, Kurztitel /Author(s) / Title(s) in brief</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Anderson J.E</surname>
+          </string-name>
+          , D.
+          <string-name>
+            <surname>Marcouiller</surname>
+          </string-name>
+          (
+          <year>2002</year>
+          ),
+          <article-title>“Insecurity and the Pattern of Trade: An empirical Investigation”</article-title>
+          ,
+          <source>Review of Economics and Statistics</source>
+          ,
+          <volume>84</volume>
+          (
+          <issue>2</issue>
+          ),
+          <fpage>342</fpage>
+          -
+          <lpage>252</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Anderson J.E.</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>E. van Wincoop</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          ), “
+          <article-title>Gravity with Gravitas: A Solution to the Border Puzzle”</article-title>
+          , American Economic Review,
+          <volume>93</volume>
+          (
+          <issue>1</issue>
+          ),
+          <fpage>170</fpage>
+          -
+          <lpage>192</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <given-names>Anderson S.W.</given-names>
+            ,
+            <surname>Daly</surname>
+          </string-name>
+          <string-name>
+            <given-names>J.D.</given-names>
+            ,
+            <surname>Johnson</surname>
+          </string-name>
+          <string-name>
+            <surname>M.F.</surname>
+          </string-name>
+          (
+          <year>1995</year>
+          ), “
+          <article-title>The Value of Management Control Systems: Evidence on the Market Reaction to ISO 9000 Quality Assurance Certificates”</article-title>
+          , University of Michigan Business School, Working Paper #
+          <fpage>9501</fpage>
+          -
+          <lpage>16</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <given-names>Anderson S.W.</given-names>
+            ,
+            <surname>Daly</surname>
+          </string-name>
+          <string-name>
+            <given-names>J.D.</given-names>
+            ,
+            <surname>Johnson</surname>
+          </string-name>
+          <string-name>
+            <surname>M.F.</surname>
+          </string-name>
+          (
+          <year>1999</year>
+          ), “
+          <article-title>Why Firms seek ISO 9000 Certification: Regulatory Compliance or Competitive Advantage?”</article-title>
+          ,
+          <source>Production and Operations Management</source>
+          ,
+          <volume>8</volume>
+          (
+          <issue>1</issue>
+          ),
+          <fpage>28</fpage>
+          -
+          <lpage>43</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Arellano</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Bond</surname>
+          </string-name>
+          (
+          <year>1991</year>
+          ),
+          <article-title>“Some Test of Specification for Panel Data: Monte Carlo Evidence and an Application to Employment Equations”</article-title>
+          ,
+          <source>Review of Economic Studies</source>
+          ,
+          <volume>58</volume>
+          (
+          <issue>2</issue>
+          ),
+          <fpage>277</fpage>
+          -
+          <lpage>297</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <given-names>Bénézech D.</given-names>
+            ,
+            <surname>Lambert</surname>
+          </string-name>
+          <string-name>
+            <given-names>G.</given-names>
+            ,
+            <surname>Lanoux</surname>
+          </string-name>
+          <string-name>
+            <given-names>B.</given-names>
+            ,
+            <surname>Lerch</surname>
+          </string-name>
+          <string-name>
+            <given-names>Ch.</given-names>
+            ,
+            <surname>Loos-Baroin</surname>
+          </string-name>
+          <string-name>
+            <surname>J</surname>
+          </string-name>
+          . (
+          <year>2001</year>
+          ), “
+          <article-title>Completion of knowledge codification: an illustration through the ISO 9000 standards implementation process”</article-title>
+          , Research Policy,
+          <volume>30</volume>
+          (
+          <issue>9</issue>
+          ),
+          <fpage>1395</fpage>
+          -
+          <lpage>1407</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Blind</surname>
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ), “
+          <article-title>The Impact of Innovations and Standards on Trade of Measurment and Testing Products: Empirical Results of Switzerland's Bilateral Trade Flows with Germany, France and the UK”</article-title>
+          ,
+          <source>Information Economics and Policy</source>
+          ,
+          <volume>13</volume>
+          (
+          <issue>4</issue>
+          ),
+          <fpage>439</fpage>
+          -
+          <lpage>460</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Blind</surname>
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ), “Driving Forces for Standardization at Development Organizations”, Applied Economics,
+          <volume>34</volume>
+          (
+          <issue>16</issue>
+          ),
+          <fpage>1985</fpage>
+          -
+          <lpage>1998</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Casella A.</surname>
+          </string-name>
+          (
+          <year>1996</year>
+          ), “
+          <article-title>Free Trade and Evolving Standards”</article-title>
+          , in Bhagwati J.,
+          <string-name>
+            <surname>Hudec</surname>
+            <given-names>R</given-names>
+          </string-name>
+          ., edts.,
+          <source>Fair Trade and Harmonization: Prerequisites for Free Trade?</source>
+          , vol.
+          <volume>1</volume>
+          , MIT Press, Cambridge,
+          <fpage>119</fpage>
+          -
+          <lpage>156</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Deardorff A.V.</surname>
+          </string-name>
+          (
+          <year>1998</year>
+          ), “
+          <article-title>Determinants of Bilateral Trade: Does Gravity Work in a Neoclassical World?</article-title>
+          ” in J.A. Frankel, ed.,
+          <source>The regionalization of the world economy</source>
+          , University of Chicago Press, Chicago,
+          <fpage>7</fpage>
+          -
+          <lpage>22</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <given-names>Docking D.S.</given-names>
+            , R.J.
+            <surname>Dowen</surname>
+          </string-name>
+          (
+          <year>1999</year>
+          ), “
+          <article-title>Market Interpretation of ISO 9000 Registration”</article-title>
+          ,
+          <source>Journal of Financial Research, XXII(2)</source>
+          ,
+          <fpage>147</fpage>
+          -
+          <lpage>160</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <given-names>Frankel J.A</given-names>
+            ,
+            <surname>Stein</surname>
+          </string-name>
+          <string-name>
+            <given-names>E.</given-names>
+            ,
+            <surname>Wei S</surname>
+          </string-name>
+          .
+          <article-title>-</article-title>
+          <string-name>
+            <surname>J.</surname>
+          </string-name>
+          (
+          <year>1997</year>
+          ),
+          <article-title>Regional Trading Blocks in the World Economic System, Institute for International Economics</article-title>
+          , Washington, DC.
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <given-names>Bei</given-names>
+            <surname>Ihren</surname>
+          </string-name>
+          <article-title>Bestellungen von WZB-Papers schicken Sie bitte unbedingt einen an Sie adressierten Aufkleber mit sowie je paper eine Briefmarke im Wert von 0,51 Euro oder einen "Coupon Reponse International " (für Besteller aus dem Ausland)</article-title>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,302 @@
+"[Bosch 2005] In letzter Sekunde vor dem Unfall, www.bosch.de/start/content/ language1/html/715_3979.htm (23.12.05)"
+"Aschenbrenner, Norbert, 2005: Clevere Beifahrer, in: Pictures of the Future, Herbst 2005: 40-42"
+"Blutner, Doris/Stephan Cramer/Tobias Haertel, 2006: Der Mensch als Problemlöser in logistischen Ketten (Universität Dortmund, Soziologische Arbeitspapiere Nr. 13)"
+"Grell, Detlef, 2003: Rad am Draht, in: c't 14/2003: 170-183, www.heise.de/ct/03/14/170/default.shtml (15.09.04)"
+"Goroncy, Jürgen, 2005: Das Auto bekommt Augen, in: Pictures of the Future, Herbst 2005: 46-50"
+"Gras, A./Moricot, C./Poirot-Delpech, S.L./Scardigli, V., 1994: Faced with Automation. The Pilot, the Controller and the Engineer, Paris: Publications de la Sorbonne"
+"Hack, Gert, 2004: Auf Distanz. Technik im Detail: Unterwegs im BMW 530d mit aktiver Geschwindigkeitsregelung, in: FAZ 09.11.2004: T3"
+"Herrtwich, R.G., 2003: Fahrzeuge am Netz, in: Mattern 2003, 63-83"
+"Krohn, Wolfgang/Johannes Weyer, 1989: Gesellschaft als Labor. Die Erzeugung sozialer Risiken durch experimentelle Forschung, in: Soziale Welt 40: 349-373"
+"Mattern, F., (Hg.), 2003: Total vernetzt. Szenarien einer informatisierten Welt (7. Berliner Kolloquium der Gottlieb Daimler- und Karl Benz-Stiftung), Heidelberg: Springer"
+"Rammert, W./Schulz-Schaeffer, I., (Hg.), 2002: Können Maschinen handeln? Soziologische Beiträge zum Verhältnis von Mensch und Technik, Frankfurt/M.: Campus"
+"Rossberg, Ralf Roman, 1999: Ausfall der Zugsteuerung ließ CitySprinter ins Unglück rollen. Stadtbahn-Unfall in Köln: Verkettung unglücklicher Umstände führte zum Zusammenstoß, in: VDI-Nachrichten 03.09.1999: 11, http://ods.schule.de/bics/son/verkehr/presse/1999_2/v3292_06.htm (22.12.05)"
+"Schulz, Andreas/Monica De Filippis/Manfred Thüring, 2005: ""Driving Without Awareness""? Eine experimentelle Untersuchung zum Vigilanzabfall während des Autofahrens, in: Urbas/Steffens 2005: 71-76"
+"Spehr, M., 2004: Die Physik des Staus. Neue Wege gegen den Kollaps auf der Straße, in: FAZ 14.09.2004: T1"
+"Sterbak, Rolf, 2005: Mein Auto versteht mich, in: Pictures of the Future, Herbst 2005: 56-58"
+"TA-Swiss (Hg.), 2003a: Auf dem Weg zur intelligenten Mobilität. Kurzfassung des TA-Arbeitsdokumentes ""Das vernetzte Fahrzeug"" (TA 43A/2003), Bern, www.ta-swiss.ch/wwwremain/reports_archive/publications/2003/KF_Verkehrstelematik_d.pdf (06.10.03)"
+"Urbas, Leon/Christiane Steffens (Hg.), 2005: Zustandserkennung und Systemgestaltung. 6. Berliner Werkstatt Mensch-Maschnie-Systeme, Düsseldorf: VDI Verlag"
+"Vanberg, V., 1975: Die zwei Soziologien. Individualismus und Kollektivismus in der Sozialtheorie, Tübingen: J.C.B. Mohr"
+"Vasek, T., 2004: Rechner auf Rädern, in: Technology Review 7/2004: 20-41"
+"Vernaleken, C., 2004: Forschen fürs Cockpit der nächsten Generation, in: Luft- und Raumfahrt 4/2004: 22-24"
+"Wagner, T./Göhner, P./Urbano, P.G. de A., 2003/04: Softwareagenten - Einführung und Überblick über eine alternative Art der Softwareentwicklung, in: Automatisierungstechnische Praxis 45 (2003), H. 10: 48-57 Teil (1), H. 11: 57- 65 Teil (2) und 46 (2004), H. 2: 42-51 (Teil 3)"
+"Weyer, J., 1997: Die Risiken der Automationsarbeit. Mensch-Maschine-Interaktion und Störfallmanagement in hochautomatisierten Verkehrsflugzeugen, in: Zeitschrift für Soziologie 26: 239-257"
+"Weyer, J., 2004: Creating Order in Hybrid Systems. Reflexions on the Interaction of Man and Smart Machines (Universität Dortmund, Soziologische Arbeitspapiere Nr. 7)"
+"Wille, Walter, 2004: Die neuen Fahrer heißen Bit und Byte. Deutschlands erste vollautomatische U-Bahn, in: FAZ 19.10.2004: T 1-2"
+"Ziegler, Peter-Michael/Benz, Benjamn, 2005: Fliegendes Rechnernetz. IT-Technik an Bord des Airbus A380, in: c't 2005, H. 17: 84-91"
+"Arnold, Michael; Strehl, Rüdiger, 2000: Wie kommen Innovationen ins DRG-System? (Die Steuerungsfunktion der Bundesauschüsse), in: Michael Arnold; Martin Litsch; Henner Schellenschmidt (Hg.): Krankenhaus-Report 2000. Schwerpunkt: Vergütungsreform mit DRGs. Stuttgart: Schattauer, 159-171."
+"Beske, Fritz, 2001: Neubestimmung und Finanzierung des Leistungskatalogs der gesetzlichen Krankenversicherung: Kieler Konzept – Paradigmenwechsel im Gesundheitswesen. Berlin u.a.: Quintessenz."
+"Borchert, Günter, 1999: „Sicherung der Verbindlichkeit untergesetzlicher Normen im Krankenversicherungsrecht“, Die Krankenversicherung 51: 273-275."
+"Braun, Bernard, 2001: „Budgetierung, Rationierung, Rationalisierung“, Dr. med. Mabuse 133: 52-55."
+"Dierks, Marie-Luise; Bitzer, Eva-Maria; Lerch, Magnus; Martin, Sabine; Röseler, Sabine; Schienkiewitz, Anja; Siebeneick, Stefanie; Schwartz, Friedrich-Wilhelm, 2001: Patientensouveränität. Der autonome Patient im Mittelpunkt. Arbeitsbericht Nr. 195 der Akademie für Technikfolgenabschätzung in Baden-Württemberg“. Stuttgart: Institut für Sozialmedizin, Epidemiologie und Gesundheitssystemforschung (ISEG) in Zusammenarbeit mit der medizinischen Hochschule Hannover, Abt. Epidemiologie, Soziamedizin und Gesundheitssystemforschung."
+"Döhler, Marian; Manow-Borgwardt, Philip, 1992: „Gesundheitspolitische Steuerung zwischen Hierarchie und Verhandlung“, MPIFG Discussion Paper Nr. 7. Köln."
+"Francke, Robert, 2002: „Innovationen im Gesundheitswesen – Rechtliche Regulierung des Zugangs von medizinischen Neuerungen zur gesetzlichen Krankenversicherung“. 3. Siegburger Abteigespräche des VdAK/AEV im Februar 2002, Siegburg."
+"Gibis, Bernhard; Rheinberger, Paul, 2002: „Erfahrungen mit und Impact von Health Technology Assessment im Bundesausschuss der Ärzte und Krankenkassen“, Zeitschrift für ärztliche Fortbildung und Qualitätssicherung (ZaeFQ) 96: 82-90."
+"Glaeske, Gerd, 2002: „Produktzulassung: Sicherung eines hochstehenden Arzneimittelangebotes“. Symposium des BKK-Bundesverbandes zur Arzneimittelpolitik am 4.11.2002, Essen."
+"Großbölting, Ralf; Schneider, Karl-Heinz, 1999: „Kostenerstattung für neue Behandlungsmethoden im Rahmen der Gesetzlichen Krankenversicherung – Rechtsprechung des BSG im Wandel“, Medizinrecht 17: 403-407."
+"Hart, Dieter, 2001a: „Health Technology Assessment (HTA) und gesundheitsrechtliche Regulierung“, Medizinrecht 19: 1-8."
+"Hart, Dieter, 2001b: „Wirksamkeit, Nutzen, Nachmarktkontrolle. Eine tatsächliche und eine mögliche Relation zwischen Arzneimittel- und Sozialrecht“. Tagung ArzneimittelAnwendungsforschung – Strategie für mehr Effizienz und Patientennutzen am 4./5.10.2001, Bremen."
+"Jung, Karl, 1998: „Bundesausschuss der Ärzte und Krankenkassen – Entscheidungsgremium der gemeinsamen Selbstverwaltung in der vertragsärztlichen Versorgung der gesetzlichen Krankenversicherung (GKV)“, Gesellschaftspolitische Kommentare 39: 3-42."
+"Jung, Karl, 1999: „Bundesausschuss der Ärzte und Krankenkassen – Aufgaben, Zusammensetzung, Verfahren“. Probleme der Rechtsquellen im Sozialversicherungsrecht. Tagungsband zum 7. Fachkolloquium des Instituts für Sozialrecht der Universität Bochum, Bochum."
+"Jung, Karl, 2000: „Rechtliche Grundlagen des Bundesausschusses auch nach der GKVReform 2000 unzureichend“, Die Krankenversicherung 52: 52-58."
+"Jung, Karl; Gawlik, Christian; Gibis, Bernhard; Pötsch, Rüdiger; Rheinberger, Paul; Schmacke, Norbert; Schneider, Günther, 2000: „Bundesausschuss der Ärzte und Krankenkassen – Ansprüche der Versicherten präzisieren“, Deutsches Ärzteblatt 97: A365-A370."
+"Kern, Axel Olaf; Kistler, Ernst; u.a., 2002: „Definitionsprobleme und Implikationen von Leistungsausgrenzungen in der gesetzlichen Krankenversicherung“. Stadtbergen: Internationales Institut für Empirische Sozialökonomie (inifes)."
+"Kilburg, Anne, 1999: „Arzneimittelrichtlinien des Bundesausschusses der Ärzte und Krankenkassen in der Diskussion. Interview mit Karl Jung“, Gesundheitsökonomie und Qualitätsmanagement 4: A94-A96."
+"Knappe, Eckard; Becker, Marc, 2003: „Zuwahlleistungen in der Gesetzlichen Krankenversicherung – ökonomische Begutachtung.“ Gutachten im Auftrag des „Forums für Solidarität und Wettbewerb in der GKV. Trier: Zentrum für Gesundheitsökonomie – Universität Trier."
+"Koch, Thorsten, 2001: „Normsetzung durch Richtlinien des Bundesausschusses der Ärzte und Krankenkassen? (Teil 1)“, Die Sozialgerichtsbarkeit (SGb): 109-116."
+"Korzilius, Heike, 1999: „Die Zukunft ist (vorerst) ungewiss“, Deutsches Ärzteblatt 96: A1103."
+"Korzilius, Heike, 2000: „Bundesausschuss: Streit um Akupunktur“, Deutsches Ärzteblatt 97: A2013."
+"Lipset, Seymour Martin, 1962: Soziologie der Demokratie. Neuwied: Luchterhand."
+"Marx, Peter, 2000: „Pricing and reimbursement systems in Europe: Erstattung von Arzneimitteln in Deutschland“, The European Journal of Health Economics (HEPAC): 16- 19."
+"Perleth, Matthias (Hg.), 1997: „Mehr ‚Qualität und Wirtschaftlichkeit‘ im Gesundheitswesen durch systematische Evaluation medizinischer Verfahren?“, Jahrbuch für kritische Medizin 28: 141-159."
+"Rheinberger, Paul, 2002: „Diffusions of Innovations: Positron-Emission-Tomography (PET). Results from the Review of the Federal Standing Committee of Physicians and Sickness Funds“. Four Country Conference July 2002 „Diffusion of medical technologies: Innovation and policy response“, Potsdam."
+"Scharpf, Fritz W. 1992: „Versuch über Demokratie in Verhandlungssystemen.” MaxPlanck-Institut für Gesellschaftsforschung, MPIFG Discussion Paper 92/9, Köln."
+"Scharpf, Fritz W., 2000: Interaktionsformen. Akteurszentrierter Institutionalismus in der Politikforschung. Opladen: UTB."
+"Schimmelpfeng-Schütte, Ruth, 1999: „Richtliniengebung durch den Bundesausschuss der Ärzte und Krankenkassen und demokratische Legitimation“, Neue Zeitschrift für Sozialrecht (NZS) 8: 530-537."
+"Schneider-Danwitz, Anette; Glaeske, Gerd, 1999: „Viagra. Der Bundesausschuss der Ärzte und Krankenkassen – ein ‚kleiner Gesetzgeber‘ –?“, Medizinrecht 17: 164-172."
+"Schöffski, Oliver; Uber, Andrea (Hg.), 2000: Grundformen gesundheitsökonomischer Evaluationen. Berlin u.a.: Springer."
+"Urban, Hans-Jürgen, 2001: Wettbewerbskorporatistische Regulierung im Politikfeld Gesundheit. Der Bundesausschuss der Ärzte und Krankenkassen und die gesundheitspolitische Wende. Veröffentlichungsreihe der Arbeitsgruppe Public Health Wissenschaftszentrum Berlin für Sozialforschung (WZB)P01-206. Berlin: Wissenschaftszentrum Berlin für Sozialforschung (WZB)."
+"van de Ven, Wynand, 1995: „Choices in health care – A contribution from the Netherlands“, British Medical Bulletin 51: 781-790."
+"Pavel M. Alexejew, Valentin M. Kalinin und Rajmond G. Piotrowski (Hg.) (1973): Sprachstatistik. München/Salzburg."
+"Gershon Alperovich (1984): The size distribution of cities – On the empirical validity of the rank-size rule. Journal of Urban Economics, XVI, S. 232-239."
+"Felix Auerbach (1913): Das Gesetz der Bevölkerungskonzentration. Petermanns Geographische Mitteilungen, Band LIX, S. 73 –76."
+"Robert Axtell und Richard Florida (2001) : Emergent cities – A microeconomic explanation for Zipf``s law. Mimeo, The Brookings Institution. Internet."
+Michael Batty (2000): siehe Shiode.
+Marianne van den Berg (1999): siehe Brakman.
+"Ludwig Beutin (1959): Wirtschaftsgeschichte. In: Handbuch der Wirtschaftswissenschaften (Hg. Karl Hax und Theodor Wessels), Köln/Opladen, Band II S. 1405-1443."
+"Flavio Bonifacio (2004): An automatic method for detection of extreme values : rules and applications. 3rd Conference in Actuarial Science and Finance, Samos, Greece, 2-5 September 2004. Internet."
+"Steven Brakman, Harry Garretsen,Charles van Marrewijk und Marianne van den Berg (1999): The return of Zipf – Towards a further understanding of the rank-size distribution. Journal of Regional Science, Vol 39, S.183-213."
+"Manfred Bretz und Edgar Wedel (1988): Zweck und Bedeutung der Volks-, Berufs-, Gebäude- und Wohnungszählung. Wirtschaft und Statistik 3/1987, S.195-206."
+"Glenn R. Carroll (1982): National city-size distributions – What do we know after 67 years of research? Progress in Human Geographie VI, S.<1-43."
+"Juan Carlos Cordoba (2004): A generalized Gibrat`s law for cities. Internet, Rice University (U.S.), Department of Economics."
+Charles Darwin (1859): On the origin of species by means of natural selection – Or the preservation of favoured races in the struggle for life. London.
+Albert Einstein (1922): Über die spezielle und allgemeine Relativitätstheorie. Braunschweig.
+"Ernst Engel (1881): Das Rechnungsbuch der Hausfrau und seine Bedeutung im Wirtschaftsleben der Nation. Zeitschrift des Königlich Preussischen Statistischen Bureaus 21, S.379-390."
+Ronald Aylmer Fisher (1925): Statistical methods for research workers. Edinburgh.
+Richard Florida (2001): siehe Axtell.
+"Xavier Gabaix (1999): Zipf`s law for cities – An explanation. The Quarterly Journal of Economics, 114, S.739-767."
+"Johann Gottfried Galle (1858): Über die Verbesserung der Planeten-Elemente aus beobachteten Oppositionen, angewandt auf eine neue Bestimmung der Pallas-Bahn. Breslau."
+Harry Garretsen (1999): siehe Brakman.
+"Wolfgang Gerß (1984): Statistische Einzelangaben als Grundlage der regionalen wirtscha ftlichen Gesamtrechnungen. Jahrbücher für Statistik und Landeskunde von Baden-Württemberg, Jahrgang 29, S.151-158."
+"Wolfgang Gerß (1990): Inter- und intraregionale Unterschiede der Wertschöpfung in der Bundesrepublik Deutschland. Statistische Rundschau Nordrhein-Westfalen Jg. 42/9, S.639-649."
+"Wolfgang Gerß (1996): Statistische Signifikanz der Diversität im Zusammenhang mit biologischen Bestandserfassungen. Allgemeines Statistisches Archiv 80 (2), S.219-226."
+"Wolfgang Gerß (2000): Statistische Auswertung einer zehnjährigen Punkt-StoppVogelzählung im niederbergischen Hügelland. Charadrius 36 Heft 2, S.49-56."
+Robert Gibrat (1931): Les inégalités économiques. Paris.
+"Ernest P. Goodrich (1926) : The statistical relationship between population and the city plan. American Journal of Sociology, Vol. 20, S.123-128."
+"Volker Hannemann (1992):Ergebnisse, Nutzen, Qualität und Organisation von Volkszählungen in den alten Bundesländern. In: Forum der Bundesstatistik, Band 21, S.67-82, Stuttgart."
+J. Michael Harrison (1985): Brownian motion and stochastic flow systems. New York.
+Jeroen Hinloopen und Charles van Marrewijk (2004): Locating economic concentration. Tinbergen Institute Discussion Paper. Internet.
+"Robert T. Holt, Brian L. Job und Lawrence Markus (1978): Catastrophe theory and the study of war. Journal of Conflict Resolution 22, S.171-208."
+"Yannis M. Ioannides und Henry G. Overman (2003): Zipf`s law for cities – An empirical examination . Regional Science and Urban Economics, Vol.33, S.127-137."
+Robert I. Jennrich (1978): siehe Ralston.
+Brian L. Job (1978): siehe Holt.
+Pascual Jordan (1955): Schwerkraft und Weltall – Grundlagen der theoretischen Kosmologie. Braunschweig.
+Valentin M. Kalinin (1973): siehe Alexejew.
+"Thorbjörn Knudsen (2001): Zipf`´s law for cities and beyo nd – The case of Denmark. American Journal of Economics and Sociology, Vol.60 No.1, S.123 -146."
+"Wentian Li (1999): Zipf´s law. North shore LIJ research institute, Rockefeller University. Internet."
+Alfred J. Lotka (1925): The elements of physical biology. Baltimore.
+"Friedrich Lütge (1959): Ausgangstatsachen der Volkswirtschaftslehre. In: Handbuch der Wirtschaftswissenschaften (Hg. Karl Hax und Theodor Wessels), Köln/Opladen, Band II S.903-935."
+Anne E. Magurran (1988): Ecological diversity and its measurement. London.
+Thomas Robert Malthus (1778): An essay on the principle of population as it affects the future improvement of society. London.
+"Benoit Mandelbrot (1953): An information theory of the statistical structure of languages. In: Communication Theory (Hg. W.Jackson), New York, S.486-502."
+Lawrence Markus (1978): siehe Holt.
+Charles van Marrewijk (1999): siehe Brakman.
+Charles van Marrewijk (2004): siehe Hinloopen.
+"Karl Marx (1867/ 1885/ 1894): Das Kapital – Kritik der politischen Ökonomie; Bände I,II,III. Hamburg."
+Henry G. Overman (2003): siehe Ioannides.
+Vilfredo Pareto (1896/1897): Cours d´économie politique professé à l´université de Lausanne; Bände 1 und 2. Lausanne.
+"Johann Pfanzagl (1963): Über die Parallelität von Zeitreihen. Metrika 6, S.100-113."
+Rajmond G. Piotrowski (1973): siehe Alexejew.
+"Johannes Popitz (1926): Finanzausgleich. In: Handwörterbuch der Staatswissenschaften, vierte Auflage, dritter Band, Jena, S. 1016-1042."
+"Mary L. Ralston und Robert I. Jennrich (1978): DUD, a derivative- free algorithm for nonlinear least squares. Technometrics 20, S.7-14."
+Anatol Rapoport (1980): Mathematische Methoden in den Sozialwissenschaften. Würzburg/Wien.
+"Cambell B. Read (1988): Zipf´s law. In: S. Kotz, N.L. Johnson, C.B.Read (Hg), Encyclopedia of Statistical Sciences, New York."
+"Marco Scharmer (2001): Ergebnisse der Pendlerrechnung Nordrhein-Westfalen 1998. Statistische Analysen und Studien NRW 4/2001, S.27-44."
+"Narushige Shiode und Michael Batty(2000): Power law distributions in real and virtual worlds. INET 2000 Proceedings, The Internet Society Conference, Yokohama, 18-21 July 2000. Internet."
+"Herbert Alexander Simon (1955): On a class of skew distribution functions. Biometrika 42, S. S.426-439."
+"Kwok Tong Soo (2002): Zipf´s law for cities – A cross country investigation . Mimeo, London School of Economics. Internet."
+"John Quincy Stewart (1947): Empirical mathematical rules concerning the distribution and equilibrium of population. The Geographical Review, Vol. 37, S.461-485."
+"John Quincy Stewart (1948): Demographic gravitation – Evidence and applications. Sociometry, Vol. 11 Nr. 1 und 2, S.31-58."
+Erwin Stresemann (1951): Die Entwicklung der Ornithologie. Berlin.
+"Friedrich Vogel (1995): Beschreibende und schließende Statistik, 8. Auflage. München/Wien."
+"Hugo de Vries (1901, 1903): Die Mutationstheorie – Versuche und Beobachtungen über die Entstehung von Arten im Pflanzenreich. Leipzig."
+Edgar Wedel (1987): siehe Bretz.
+Edgar Wedel (1988): siehe Würzberger.
+"Rolf Wiegert (1999): Einführung in die Diskussion um einen Zensus 2001 in Deutschland.Sonderheft 33 zum Allgemeinen Statistischen Archiv, S.9-14. Göttingen."
+"Paul Würzberger und Edgar Wedel (1988): Erste Ergebnisse der Volkszählung 1987. Wirtschaft und Statistik 12/ 1988, S.829-836."
+"Erik Christopher Zeeman (1976): Catastrophe theory. Scientific American 234, S.65-83."
+"George Kingsley Zipf (1940): The generalized harmonic series as a fundamental principle of social organization. Psychological Record, Vol. 4, S.43."
+George Kingsley Zipf (1941): National unity and disunity – The nation as a bio-social organism. Bloomington/Ind.
+"George Kingsley Zipf (1942): The unity of nature, least-action, and natural social science. Sociometry Vol. 5, S.48-62."
+"George Kingsley Zipf (1947): The hypothesis of the ´Minimum Equation´as a unifying social principle, with attempted synthesis. American Sociological Review, Vol.12, S.627-650."
+George Kingsley Zipf (1949): Human behavior and the principle of least efforts – An introduction to human ecology. Cambridge/Mass. [Faksimile New York 1972].
+Bahrdt, Hans Paul (1961) Die moderne Großstadt. Soziologische Überlegungen zum Städtebau. Hamburg.
+Benevolo, Leonardo (1983) Die Geschichte der Stadt. Frankfurt.
+Hecher, Franz (2001) Max Webers Städtetypologie am Beispiel Nürnberg. Magisterarbeit. Wien.
+Horkheimer, Max (1936) Egoismus und Freiheitsbewegung. (Zur Anthropologie des bürgerlichen Zeitalters). In: Zeitschrift für Sozialforschung,5. Jg., Heft 2, 161-234.
+Poliakow, Léon (1979) Geschichte des Antisemitismus. Bd. 1: Von der Antike bis zu den Kreuzzügen. Worms.
+Riesman, David et. al. (1950) The Lonely Crowd. A Study of the Changing American Character. New Haven.
+Schluchter, Wolfgang (1988) Religion und Lebensführung. Bd. 2. Studien zu Max Webers Religions- und Herrschaftssoziologie. Frankfurt.
+Simmel, Georg (1994) Philosophie des Geldes. Frankfurt.
+Weber, Max (1921) Die rationalen und soziologischen Grundlagen der Musik. München.
+Weber, Max (1958/ Orig. 1923) Wirtschaftsgeschichte. Abriss der universalen Sozial- und Wirtschaftsgeschichte. Berlin.
+Weber, Max (1980/ Orig. 1922) Wirtschaft und Gesellschaft. Grundriss der Verstehenden Soziologie. Tübingen.
+Weber, Max (1988a/ Orig. 1894) Die Börse. In: Ders.: Gesammelte Aufsätze zur Soziologie und Sozialpolitik. Tübingen, 256-322.
+Weber, Max (1988b) Die protestantische Ethik und der Geist des Kapitalismus. In: Ders.: Gesammelte Aufsätze zur Religionssoziologie I. Tübingen, 17-205.
+Weber Max (1988c/ Orig. 1920) Gesammelte Aufsätze zur Religionssoziologie I. Tübingen.
+Weber, Max (1988d/ Orig. 1921) Gesammelte Aufsätze zur Religionssoziologie II. Tübingen.
+Abromeit, Heidrun, 1993: Interessenvermittlung zwischen Konkurrenz und Konkordanz. Studienbuch zur Vergleichenden Lehre politischer Systeme. Opladen: Leske + Budrich.
+Abromeit, Heidrun, 1995: Volkssouveränität, Parlamentssouveränität, Verfassungssouveränität: Drei Realmodelle der Legitimation staatlichen Handelns. In: Politische Vierteljahresschrift 36, Heft 1/1995. Opladen: Westdeutscher Verlag, S. 49-66.
+Abromeit, Heidrun, 1998: Democracy in Europe. Legitimising Politics in a Non-State Polity. Oxford: Berghahn Books.
+Abromeit, Heidrun, 2001: Jenseits des ‘sui generis’. In: Christine Landfried (Hg.): Politik in einer entgrenzten Welt. 21. wissenschaftlicher Kongress der DVPW vom 1.–5. Oktober 2000 in Halle (i. E.).
+Abromeit, Heidrun / Pommerehne, Werner (Hg.), 1992: Staatstätigkeit in der Schweiz. Bern/Stuttgart: Paul Haupt.
+Beetham, David, 1994: Defining and Measuring Democracy. London: Sage.
+Beetham, David / Lord, Christopher, 1998: Legitimacy and the European Union. London: Longman.
+Buchanan, James M. / Tullock, Gordon, 1965: The Calculus of Consent. Ann Arbor: University of Michigan Press.
+Chryssochoou, Dimitris N., 1998: Democracy in the European Union. London: Tauris.
+Dahl, Robert A., 1971: Polyarchy – Participation and Opposition. New Haven / London: Yale University Press.
+Dahl, Robert A., 1989: On Democracy. New Haven (u.a.): Yale University Press.
+Dahl, Robert A., 1997: Procedural Democracy. In: Robert E. Goodin / Philip Pettit (Hg.): Contemporary Political Philosophy. An Anthology. Oxford: Blackwell, S. 109–127.
+Dicey, Arthur V., 1885/1959: Introduction to the Study of the Law of the Constitution. Basingstoke: Macmillan.
+Eder, Klaus, 2001: Transnationale Vergesellschaftungsformen im Schatten nationaler Öffentlichkeit. In: Christine Landfried (Hg.): Politik in einer entgrenzten Welt. 21. wissenschaftlicher Kongress der DVPW vom 1.–5. Oktober 2000 in Halle (i. E.).
+Eichener, Volker, 2000: Das Entscheidungssystem der Europäischen Union: Institutionelle Analyse und demokratietheoretische Bewertung. Opladen: Leske + Budrich.
+Germann, Raimund, 1975: Politische Innovation und Verfassungsreform. Bern/Stuttgart: Paul Haupt.
+Hix, Simon, 1999: The Political System of the European Union. Basingstoke: Macmillan.
+Inkeles, Alex, 1991: On measuring democracy. New Brunswick: Transaction Publ.
+Judge, David, 1993: The Parliamentary State. London (u.a.): Sage.
+Kastendiek, Hans et al. (Hg.), 1999: Länderbericht Großbritannien: Geschichte, Politik, Wirtschaft, Gesellschaft (2. Aufl.). Bonn : Bundeszentrale für politische Bildung.
+Linder, Wolf, 1999: Schweizerische Demokratie. Bern / Stuttgart: Paul Haupt.
+Mount, Ferdinand, 1992: The British Constitution Now: Recovery or Decline? London: Heinemann.
+Neidhart, Leonhard, 1970: Plebiszit und pluralitäre Demokratie. Eine Analyse des schweizerischen Gesetzesreferendums. Bern: Francke.
+Pettit, Philip, 1999: Republican Freedom and Contestatory Democratization. In: Shapiro, Ian / Hacker-Cordón, Casiano (Hg.): Democracy’s Value. Cambridge: Cambridge University Press, S.163–190.
+Schmidt, Manfred G., 2000: Der konsoziative Staat. Hypothesen zur politischen Struktur und zum politischen Leistungsprofil der Europäischen Union. In: Edgar Grande / Markus Jachtenfuchs (Hg.): Wie problemlösungsfähig ist die EU? Regieren im europäischen Mehrebenensystem. Baden-Baden : Nomos, S. 33–58.
+Weise, Peter, 1985: Neue Mikroökonomie. Würzburg / Wien: Physica-Verlag. Author: Heidrun Abromeit
+"Brach, Juliane (2008): Economic Development in the Arab Countries of the Middle East and North Africa. Determinants, Constraints and Implications for EU-Arab Relations, Dissertation, Universität Hamburg."
+"Görg, H./Greenaway, D. (2004): Much Ado About Nothing? Do Domestic Firms Really Benefit from Foreign Direct Investment?, in: World Bank Research Observer, Jg. 19, Nr. 2, S. 171-197."
+"Helpman, E./Melitz, M. / Yeaple, S. (2003): Export vs. FDI with Heterogenous Firms, in: American Economic Review, Jg. 94, Nr. 1, S. 300-316."
+"Herzer, D./Klasen, S./Nowak-Lehmann, F. (2008): In Search of FDI-led Growth in Developing Countries: The Way Forward, in: Economic Modelling, Jg. 25, S. 793-810."
+"World Bank (2008): Economic Development and Prospects, Middle East and North Africa Region, Washington D.C."
+"World Bank (2008): World Development Indicators, Washington D.C."
+"World Bank (2005): Economic Growth in the 1990s: Learning from a Decade of Reform, Washington D.C."
+"Yeaple, S. (2003): The complex integration strategies of multinationals and cross country depend encies in the structure of foreign direct investment, in: Journal of International Development, Jg. 60, S. 293-314."
+"Bacher, Johann (1994): Clusteranalyse, München, Wien."
+"Blien, Uwe/Hirschenauer, Franziska/Arendt, Manfred/Braun, Hans Jürgen/Gunst, Dieter-Michael/Kilcioglu, Sibel/Kleinschmidt, Helmut/Musati, Martina/Roß, Hermann/Vollkommer, Dieter/Wein, Jochen (2004): Typisierung von Bezirken der Agenturen für Arbeit. In: Zeitschrift für Arbeitsmarktforschung 2, S. 146-175."
+"Blien, Uwe/Hirschenauer, Franziska (2005): Welche Agenturen sind vergleichbar? IAB-Kurzbericht 18, Nürnberg, online im Internet unter: http://doku.iab.de/kurzber/2005/kb1805.pdf"
+"Blien, Uwe/Hirschenauer, Franziska (2005a): Vergleichstypen 2005. Neufassung der Regionaltypisierung für Vergleiche zwischen Agenturbezirken. IABForschungsbericht 24, Nürnberg, online im Internet unter: http://doku.iab.de/forschungsbericht/2005/fb2405.pdf"
+"Wiedenbeck, Michael/Züll, Cornelia (2001): „Klassifikation und Clusteranalyse: Grundlegende Techniken hierarchischer und K-means-Verfahren“, ZUMA, online im Internet unter: http://www.gesis.org/Publikationen/Berichte/ZUMA_How_to/Dokumente/pdf/howto10mwcz.pdf"
+"Arntz, M.; Feil, M. und A. Spermann (2003): „Die Arbeitsangebotseffekte der neuen Mini- und Midijobs – eine ex-ante Evaluation“. Mitteilungen aus der Arbeitsmarkt- und Berufsforschung, Jg. 36, H. 3. S. 271-290."
+"Arntz, M.; Clauss, M.; Kraus, M.; Schnabel, R.; Spermann, A. und J. Wiemers (2007): „Verteilungswirkungen der Hartz-IV-Reform“, mimeo."
+"Becker, I. (2006): „Armut in Deutschland: Bevölkerung unterhalb der Alg II-Grenze“, Arbeitspapier Nr. 3 des Projektes ""Soziale Gerechtigkeit"", J. W. Goethe Universität Frankfurt a. M."
+"Becker, I.; Frick, J. R.; Grabka, M. ; Hauser, R.; Krause, P.; Wagner, G. (2003): „A Comparison of the Main Household Income Surveys for Germany: EVS and SOEP“, in: Becker, I.; Hauser, R. (2003): Reporting on Income Distribution and Poverty. Perspectives from a German and a European Point of View, Berlin."
+"Blos, K. (2006): „Haushalte im Umfeld des SGB II“, IAB-Forschungsbericht Nr. 19/2006, Nürnberg."
+"Bofinger, P.; Dietz, M.; Genders, S. und U. Walwei (2006): „Vorrang für das reguläre Arbeitsverhältnis: Ein Konzept für Existenz sichernde Beschäftigung im Niedriglohnbereich“, Gutachten für das Sächsische Ministerium für Wirtschaft und Arbeit (SMWA)."
+"Bonin, H.; Rinne, U. und H. Schneider (2007): „Untersuchung der beschäftigungs- und finanzpolitischen Auswirkungen des Bofinger/Walwei-Konzepts zur Neuordnung des Niedriglohnbereichs“, I Z A Research Report No. 11, Bonn."
+"Heckman, J.J. (1979): „Sample Selection Bias as a Specification Error”. Econometrica, 47(1), 153-161."
+"Jacobebbinghaus, P. (2004): „Steuer-Transfer-Mikrosimulation“, in: HartzGesetze : methodische Ansätze zu einer Evaluierung, Baden-Baden: Nomos, S. 73-83."
+"Redmond, G.; Sutherland, H. und Wilson, M. (1998): „The Arithmetic of Tax and Social Security Reform: A User's Guide to Microsimulation – Methods and Analysis”, Cambridge: Cambridge University Press."
+"Sinn, H.-W.; Holzner, C.; Meister, W.; Ochel, W. und M. Werding (2002): „Aktivierende Sozialhilfe: Ein Weg zu mehr Beschäftigung und Wachstum“, ifo Schnelldienst 55(9), Sonderausgabe, S. 3–52."
+"Statistik der Bundesagentur für Arbeit (2006): „Grundsicherung für Arbeitsuchende: Wohnsituation und Wohnkosten.“ Nürnberg, Oktober 2006."
+"Statistisches Bundesamt (2005): „Wirtschaftsrechnungen, Einkommensund Verbrauchsstichprobe – Aufgabe, Methode und Durchführung der EVS 2003“, Fachserie 15, Heft 7."
+"Steiner, V. und P. Jacobebbinghaus (2003): „Reforming social welfare as we know it? A microsimulation study for Germany“, ZEW Discussion paper Nr. 03-33, Zentrum für Europäische Wirtschaftsforschung, Mannheim."
+"SVR – Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung (2006): „Arbeitslosengeld II reformieren – Ein zielgerichtetes Kombilohnmodell“, Wiesbaden."
+"Ivo H. Daalder/James M. Goldgeier, Putting Europe First, in: Survival, 43 (Frühjahr 2001) 1, S. 7191"
+"Peter van Ham, Europes Postmodern Identity: A Critical Appraisal, in: International Politics, 38 (Juni 2001) 2, S. 229251"
+"Martin Marcussen/Thomas Risse/Daniela Engelmann-Martin/Hans Joachim Knopf/Klaus Roscher, »Constructing Europe? The Evolution of French British and German Nation States Identities«, in: Journal of European Public Policy, Special Issue, 1999, S. 614633"
+"Philippe Moreau Defarges, Après Nice: vers un gouvernement fédéral?, in: Politique Etrangère, 66 (2001) 2, S. 277288"
+"Hans Stark, FranceAllemagne: quel aprèsNice?, in: Politique Etrangère, 66 (2001) 2, S. 289299"
+Adolph, L. (2000): Soziale Konflikte bei verschiedenen Formen industrieller Gruppenarbeit und ihre Auswirkungen, Frankfurt am Main.
+Antoni, C.H. (1994) (Hrsg.): Gruppenarbeit im Unternehmen, Weinheim 1994.
+Antoni, C.H. (1997): Soziale und ökonomische Effekte der Einführung teilautonomer Arbeitsgruppen, in: Zeitschrift für Arbeits- und Organisationspsychologie, 15, S. 131- 142.
+Benders, J./Huijgen, F./Pekruhl, U. 2000:Gruppenarbeit in Europa, in: WSI-Mitteilungen, 53, S. 365-374.
+Breisig, T. (1990): It’s Team Time, Köln.
+Bungard, W. (1995): Team- und Kooperationsfähikgeit, in: Sarges, W. (Hrsg.): Managementdiagnostik, 2. Auflage, Göttingen, S. 405- 415.
+Bungard, W./Antoni, C.H. (1995): Gruppenorientierte Interventionstechniken, in: Schuler, H. (Hrsg.): Organisationspsychologie, 2. Auflage, Bern u.a., S. 377-404.
+Bungard, W./Jöns, I. 1997: Gruppenarbeit in Deutschland. Eine Zwischenbilanz, in: Zeitschrift für Arbeits- und Organisationspsychologie, 15, S. 104-119.
+Cantor, N./Kihlstrom, J.F. (1987): Personality and Social Intelligence, Englewood Cliffs.
+Dahrendorf, R. (1956): Industrielle Fertigkeiten und soziale Schichtung, in: Kölner Zeitschrift für Soziologie und Sozialpsychologie, 8, S. 540-568.
+Davis, M.H. 1996: Empathy: A Social Psychological Approach, Boulder.
+Delhees, K.H. (1983): Personelle und gruppendynamische Voraussetzungen der Teamarbeit, in: Zeitschrift Führung und Organisation, 52, S. 370-373.
+Forster, J. (1978): Teams und Teamarbeit in der Unternehmung, Bern/Stuttgart 1978.
+Forster, J. (1981): Teamarbeit – Sachliche, personelle und strukturelle Aspekte einer Kooperationsform, in: Grunwald, W./Lilge, H.-G. (Hrsg.): Kooperation und Konkurrenz in Organisationen, Bern, S. 143-168.
+Hart, T. 1999: The Refinement of Empathy, in: Journal of Humanistic Psychology, 39, S. 111-125.
+Hofmann, M. (1983): Die 12 Kriterien gelingender Kooperation; in: Management Forum, 4, S. 14-17.
+Insko, C.A./Schopler, J. 1967: Triadic Consistency, in: Psychological Review, 74, S. 361- 376.
+Jochum, E. (1987): Gleichgestelltenbeurteilung, Stuttgart.
+Knebel, Heinz (1996): Wie Teamfähigkeit und Teamleistung beurteilen, in: Arbeit und Arbeitsrecht, 3, S. 79-82.
+Lowman, R.L./Leeman, G.E. 1988: The dimensionality of social intelligence, in: Journal of Psychology, 122, S. 279-290.
+Marr, R. (1992): Kooperationsmanagement, in: Gaugler, E./Weber, W. (Hrsg.): Handwörterbuch des Personalwesens, Stuttgart, Sp. 1154-1675.
+Martin, A. (2001): Kommuniktionsstrukturen und Entscheidungsprozesse, Schriften aus dem Institut für Mittelstandsforschung der Universität Lüneburg, Heft 2, Lüneburg 2001.
+Martin, A./Drees, V. (1999): Vertrackte Beziehungen, Darmstadt.
+Martin, A./Purwin, J. (1999):Soziale Fähigkeiten in der Gruppenarbeit, Schriften aus dem Institut für Mittelstandsforschung, Heft 8, Lüneburg.
+Schneider, B. (1987): The people make the place, in: Personnel Psychology, 40, S. 437- 453.
+Schneider, H. (1991): Team und Teamarbeit, Bergisch Gladbach.
+Sowarka, B. (1995): Soziale Intelligenz und soziale Kompetenz, in: Sarges, W. (Hrsg.): Managementdiagnostik, 2. Auflage, Göttingen u.a., S. 365-382.
+Spieß, E. (1996): Kooperatives Handeln in Organisationen - Theoriestränge und empirische Studien, München.
+Spitzberg, B.H./Cupach, W.R. 1989: Handbook of Interpersonal Competence Research, New York u.a.
+Thomas, A. (1992): Grundriß der Sozialpsychologie, Band 2: Individuum-Gruppe-Gesellschaft, Göttingen u.a.
+Yeatts, D.E./Hyten, C. (1998): High-Performing Self-Management Work Teams, Thousand Oaks/London/New Dehli.
+Amir, Y. (1994): The Contact Hypothesis in Intergroup Relations. In: Lonner, W. J. / Malpass, R. S. (Hg.): Psychology and Culture. Needham Heights: Allyn & Bacon, S. 231-237.
+Black, J. S. / Mendenhall, M. E. (1990): Cross-Cultural Training Effectiveness: A Review and a Theoretical Framework for Future Research. Academy of Management Review 15 (1), S. 113-136.
+Brislin, R. / Bochner, S. / Lonner, W. (Hg.) (1975): Cross-Cultural Perspectives on Learning. Beverly Hills: Sage Publications.
+Deller, J. (2000): Interkulturelle Eignungsdiagnostik – Zur Verwendbarkeit von Persönlichkeitsskalen. Waldsteinberg: Heidrun Popp.
+Dinges, N. / Baldwin, K. (1996): Intercultural Competence: A Research Perspective. In: Landis, D. / Bhagat, R. (Hg.): Handbook of Intercultural Training. Thousand Oaks: Sage Publications, S. 106-123.
+Fiedler, F. E. / Mitchell, T. / Triandis, H. C. (1971): The Culture Assimilator: An Approach to Cross-Cultural Training. Journal of Applied Psychology 55 (2), S. 95–102.
+Kammhuber, S. (2000): Interkulturelles Lernen und Lehren. Wiesbaden: Deutscher Universitätsverlag.
+Kolb, D. A. (1984): Experiental Learning. Englewood Cliffs: Prentice Hall.
+Kühlmann, T. M. (Hg.) (1993): Mitarbeiterentsendung ins Ausland. Göttingen: Verlag für Angewandte Psychologie.
+Landis, D. / Bennett J. / Bennett M. (Hg.) (2003): Handbook of Intercultural Training. Thousand Oaks: Sage Publications.
+Stahl, G. K. (1998): Internationaler Einsatz von Führungskräften. München: Oldenbourg.
+Stroebe, W. / Hewstone, M. / Stephenson, G. M. (Hg.). (1996): Sozialpsychologie. Berlin: Springer.
+Thomas, A. (1991): Grundriß der Sozialpsychologie. Bd. 1 und 2: Grundlegende Begriffe und Prozesse. Göttingen: Hogrefe.
+Thomas, A. (Hg.) (1996): Psychologie interkulturellen Handelns. Göttingen: Hogrefe.
+Thomas, A. (1999): Welche langfristigen Wirkungen haben internationale Schüleraustauschprogramme? In: Internationaler Jugendaustausch- und Besucherdienst der Bundesrepublik Deutschland e.V. (Hg.): Forum Jugendarbeit International – Südosteuropa. Münster: Votum Verlag, S. 193-209.
+Thomas, A. (2000a): Forschungen zur Handlungswirksamkeit von Kulturstandards. Kultur, Handlung, Interpretation – Zeitschrift für Sozial- und Kulturwissenschaften 9 (2), S. 231–279.
+Thomas, A. (2000b): Von der multikulturellen Gesellschaft zur interkulturellen Zusammenarbeit. In: Regnet, E. / Hoffmann, L. M. (Hg.): Personalmanagement in Europa. Göttingen: Hogrefe, S. 25–42.
+Thomas, A. (2003a): Interkulturelle Kompetenz. Grundlagen, Probleme und Konzepte. Erwägen, Wissen, Ethik (EWE) – Streitforum für Erwägungskultur 14 (1): Dritte Diskussionseinheit, S. 137-228.
+Thomas, A. (2003b): Psychologie interkulturellen Lernens und Handelns. In: A. Thomas (Hg.): Kulturvergleichende Psychologie. Göttingen: Hogrefe, S. 433- 485.
+Tjitra, H. W. (2000): Analyse von Synergiepotentialen und interkulturellen Problemen in der Zusammenarbeit deutsch-indonesischer Arbeitsgruppen. Wiesbaden: Deutscher Universitäts-Verlag.
+Triandis, H. C. (1984): A Theoretical Framework of the More Efficient Construction of Culture Assimilators. International Journal of Intercultural Relations 8(3), S. 301–330.
+Wierlacher, A. (Hg.) (1995): Das Fremde und das Eigene. Prolegomena zu einer interkulturellen Germanistik. München: iudicium.
+Wierlacher, A. / Hudson-Wiedenmann, U. (2000): Interkulturalität. In: Wierlacher, A. (Hg.): Kulturthema Kommunikation: Konzepte – Inhalte – Funktionen . Möhnesee: Résidence Verlag, S. 219–232.
+Zeutschel, U. (1999): Interkulturelle Synergie auf dem Weg: Erkenntnisse aus deutsch-US-amerikanischen Problemlösegruppen. Zeitschrift für Angewandte Psychologie 1999(2), S. 131–160.
+"BEHR, A. (1994): Konflikte und Defizite zwischen Denkmalpflege und Innenstadtentwicklung. In: Informationen zur Raumentwicklung, Heft 3, S. 223-228."
+Bundesforschungsanstalt für Landeskunde und Raumordnung (BfLR) (Hrsg.) (1996): Revitalisierung historischer Stadtkerne in den neuen Bundesländern – städtebaulicher Denkmalschutz. ExWoSt-Informationen zum Forschungsfeld Städtebauliche Erneuerung 10.14. Bonn.
+BMBau (Hrsg.) (1992): Förderprogramm Städtebaulicher Denkmalschutz in den neuen Ländern – Städteporträts. Bonn.
+"CANISIUS, P. (1996): Historische Städte als Teil des Weltkulturerbes. In: BMBau (1996): Dokumentation des 5. Quedlinburger Städtebaukongresses – Urbanität und Mobilität. Berlin/Bonn."
+"Deutsches Nationalkomitee für Denkmalschutz (Hrsg.) (1994): Denkmalpflege als Standort- und Wirtschaftsfaktor. Schriftenreihe des Deutschen Nationalkomitees für Denkmalschutz, Band 49. Bonn."
+"Die Zeit (1996): Ruin im Reichtum. Obwohl seit zwei Jahren als Weltkulturerbe anerkannt, verfällt Quedlinburg weiter. Die Zeit, 15.11.1996."
+"FAKHIM-HASCHEMI, S., J. NIPPER u. M. NUTZ (1992): Versorgungssituation und Städtekonkurrenz – Ergebnisse einer Projektarbeit im ehemaligen deutsch-deutschen Grenzraum. In: Standort, Heft 2, S. 19-24."
+"FARENHOLTZ, C. (1995): Nutzungsmischung und bauliche Gestaltung. In: Informationen zur Raumentwicklung, Heft 6/7, S. 435-442."
+"Frankfurter Allgemeine Zeitung (1995): Unterhalb des Stiftsbergs Fachwerkromantik – Aber dem „Erbe der Menschheit“ droht der Verfall. FAZ, 6.04.1995."
+ICOMOS (Hrsg.) (1994): World Heritage List – Quedlinburg. Bonn.
+"KIESOW, G. (1975): Restaurierung und moderne Nutzung historischer Profanbauten. In: Der Landkreis, Heft 8-9, S. 329-331."
+"KIESOW, G. (1989): Einführung in die Denkmalpflege. Darmstadt."
+"KOWALKE, H. (1996): Die Rolle der Städte beim wirtschaftlichen Transformationsprozess in Ostdeutschland. In: STEINECKE, A. (Hrsg.): Stadt und Wirtschaftsraum. = Berliner Geographische Studien, Band 44. Berlin."
+Landesamt für Denkmalpflege SachsenAnhalt (Hrsg.) (1996): Denkmalschutzgesetz des Landes Sachsen-Anhalt. Halle.
+"LANGHAMMER, R. (1995): Stadterneuerung in Quedlinburg. In: BBauBI, Heft 10, S. 748-750."
+"NIPPER,J. u. M. NUTZ (1995): Um-Bruch oder Um-Entwicklung? Veränderungen der Einzelhandelssituation in den Mittelstädten des Harzvorlandes sechs Jahre nach der Wende. In: Europa Regional 3, Heft/1995, S. 15-24."
+"OLLENIK, W. (1995): Denkmalschutz als weicher Standortfaktor. In: Städte- und Gemeinderat, Heft 7, S. 239-244."
+"PRESSOUYRE, L. (1996): The World Heritage Convention, twenty years later. UNESCO. Paris."
+"SACK, M. (1996): Bauen in der alten Stadt. In: Die alte Stadt, Heft 4, S. 332- 341."
+"SCHAUER, H. (1990): Quedlinburg. Das städtebauliche Denkmal und seine Fachwerkbauten. Berlin."
+"SCHAUER, H. (1998): Viele Hände regen sich für Quedlinburg. Zur Erhaltung einer Fachwerkstadt. In: Monumente, Sonderausgabe „Tag des offenen Denkmals“ 1998, S. 23-25."
+"Stadt Quedlinburg (1991): Örtliche Bauvorschrift über die Gestaltung für die Altstadt Quedlinburg gemäß § 12 und § 13 der Bauordnung vom 20.07.1990. In: Quedlinburger Zeitung, Amtliches Bekanntmachungsblatt der Stadt Quedlinburg, Extra-Ausgabe."
+Stadt Quedlinburg (1992): Quedlinburg – Sanierung eines Flächendenkmals. Quedlinburg.
+Stadt Quedlinburg (1993): Stadt Quedlinburg. Innenstadtsanierung – Städtebaulicher Rahmenplan Konzept – Nutzung. Bremen.
+Stadt Quedlinburg (1996a): Weltkulturerbestadt Quedlinburg. Stadtsanierung Quedlinburg. Quedlinburg.
+Stadt Quedlinburg – Amt für Wirtschaftsförderung (1996b): Tourismus-Konzeption der Stadt Quedlinburg. Quedlinburg.
+UNESCO (Hrsg.) (1996a): Operational Guidelines for the Implementation of the World Heritage Convention. Paris.
+"UNESCO (Hrsg.) (1996b): Convention concerning the protection of the world cultural and natural heritage – adopted by the General Conference at its seventeenth session, 16.11.1972. Paris."
+"UNESCO (Hrsg.)(1997): Report of the World Heritage Committee Meeting, Naples 1 – 6.12.1997. Paris."
+"VON DROSTE ZU HÜLSHOFF, B. (1995): Weltweiter Schutz des Kultur- und Naturerbes. Die Welterbekonvention der UNESCO von 1972. In: Geographische Rundschau 47, Heft 6, S. 336-342."
+Draper, Peter / Tom Wheeler / Phil Alves (2006): The Role of South Africa in Global Structural Policy, Bonn: Deutsches Institut für Entwicklungspolitik (Discussion Paper 7/2006).
+http://www.info.worldbank.org/governance/kkz2004/sc_chart.asp.
+The Economist (2006, 6): Chasing the Rainbow: A Survey of South Africa, 8 April 2006.
+Arora, Vivek / Athanasios Vamvakidis (2005): The Implications of South African Economic Growth for the Rest of Africa, Washington, DC: Internationaler Währungsfond (Working Paper WP/05/58).http//www.eia.doe.gov/cabs/safrenv.html.
+The Economist (2005); online: http://www.economist.com/displayStory.cfm?story_id=5283774.
+Engel, Ulf (2005): Deutschland, Afrika und die Entstehung gemeinsamer Interessen, in: Aus Politik und Zeitgeschichte 4/2005, 11–17.
+Biallas / Knauer (2006): Von Bandung zum Ölgeschäft: Indien und Inder in Afrika, Hamburg: German Institute of Global and Area Studies / Leibniz-Institut für Globale und Regionale Studien (GIGA Focus Afrika Nr. 1).
+OECD/DAC (2006): Peer Review of Germany: DAC’s main findings, Paris, 12.
+http://www.sozialstruktur.org
+http://www.sagaa.co.za/main.html.
+http://www.ipsterraviva.net/Europe/article.aspx?id=3560.
+Regeringskansliet (2004): Country Strategy for Development Cooperation South Africa, July 2004– December 2008, Stockholm.

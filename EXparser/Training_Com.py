@@ -154,7 +154,7 @@ ntag=[]
 atag=[]
 wtag=[]
 gtag=[]   #general
-fold="SEG"											#****************************************************************
+fold="./Dataset/SEG"											#****************************************************************
 fdir=os.listdir(fold)
 train_label=[]
 for u in range (len(fdir)):
@@ -191,8 +191,8 @@ for u in range (len(fdir)):
 
 llen=[]   #line length	
 tlen=[]	# length in terms of token 	
-fold="RefLD"	
-fold2="LYT"									#********************************************************************
+fold="./Dataset/RefLD"	
+fold2="./Dataset/LYT"									#********************************************************************
 fdir=os.listdir(fold)
 for u in range (len(fdir)):	
 	print 'File in prcossecing =  '+fdir[u]+'  . . .'

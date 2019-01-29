@@ -1,0 +1,50 @@
+U. Dayal, H. Garcia-Molina, M. Hsu, B. Kao, and M.- C. Shan. Third generation TP monitors: A database challenge. In ACM SIGMOD Conference on Management of Data, pages 393-397, Washington, D. C., May 1993.
+Ramadge, P., & Wonham, W. (1989). The Control of Discrete Event Systems. Proceedings of the IEEE, 77 (1), 81-98.
+E. Styer, "Improving Fast Mutual Exclusion", Proceedings of the Eleventh Annual ACM Symposium on Principles of Distributed Computing, 1992, pp. 159-168.
+Cleveland, W. S., and C. Loader, (1994). Computational Methods for Local Regression. Technical Report 11, Murray Hill, NJ: AT&T Bell Laboratories, Statistics Department.
+K. Smith, W. Appelbe, and K. Stirewalt. Incremental dependence analysis for interactive parallelization. In Proceedings of the 1990 ACM International Conference on Supercomputing, Amsterdam, The Netherlands, June 1990.
+L. G. Valiant. A Bridging Model for Parallel Computation. Communications of the ACM, 33(8), 103-111, 1990.
+Richter (Eds.), Topics in Case-Based Reasoning. Berlin: Springer-Verlag, pp. 167-181.
+Poole, David (1988). A logical framework for default reasoning. Artificial Intelligence, 36(1), 27-47 .
+Fikes, R. E., & Nilsson, N. J. (1971). STRIPS: A new approach to the application of theorem proving to problem solving. Artificial Intelligence, 2, 189-208. Also in (Allen et al., 1990). Planning for Contingencies: A Decision-based Approach
+Raab, F. H., "Remote object position locator". US patent 4 0054 881 October 18, 1977.
+Witten, I. H., Neal R. M., and Cleary J. G. (1987). Arithmetic coding for data compression. Communications of the ACM 30, 520-540.
+D. Borman, Editor, ``Telnet Encryption Option,'' Internet-Draft, Internet Engineering Task Force, Telnet Working Group (July 1991).
+Catlett, J. (1991b). Megainduction: Machine Learning on Very Large Databases. Ph.D. thesis, Basser Department of Computer Science, University of Sydney.
+Eifrig, J., Smith, S., Trifonov, V., and Zwarico, A. Application of OOP type theory: State, decid-ability, integration. In Proc. Conference on Object-Oriented Programming Systems, Languages, and Applications (Oct. 1994), pp. 16-30.
+J. Demmel, I. Dhillon, and H. Ren. On the correctness of parallel bisection in floating point. ETNA, 3 116-149, 1995. (See also LAPACK Working Note No.70).
+M. Wolfe, ``Optimizing supercompilers for supercomputers,'' Pitman Publishing Company, London, MIT Press, Cambridge, Massachusets, 1989.
+Selman, B., Levesque, H., & Mitchell, D. (1992). A new method for solving hard satisfiability problems. In Proceedings of AAAI-92, pp. 440-446. AAAI/MIT Press.
+McKinsey, J. C. C. (1943). The decision problem for some classes of sentences without quantifier. Journal of Symbolic Logic, 8 (3), 61-76.
+Baffes, P., & Mooney, R. (1993). Symbolic revision of theories with M-of-N rules. In Proceedings of the Thirteenth International Joint Conference on Artificial Intelligence, pp. 1135-1140, Chambery, France. Morgan Kaufmann.
+D. Lomet and Mark R. Tuttle. Redo Recovery after System Crashes. In Proc. of the 21st International Conference on Very Large Data Bases, Zurich, Sept. 1995.
+A. V. Aho, R. Sethi, and J. Ullman. Compilers: Principles, Techniques, and Tools. Addison-Wesley, Reading, MA, second edition, 1986.
+D. Padua and M. J. Wolfe. Advanced compiler optimizations for supercomputers. Communications of the ACM, 29(12) 1184-1201, December 1986.
+Friedman, J. H., & Stuetzle, W. (1981). Projection pursuit regression. Journal of the American Statistics Association, 76, 817-823.
+Hill, P. M. and Lloyd, J. W., The Godel Programming Language, MIT Press, Cambridge, Mass., 1994.
+A. Garvey and V. R. Lesser, "Design-to-time Real-Time Scheduling", IEEE Transactions on Systems, Man, and Cybernetics: Special Issue on Scheduling, Planning, and Control, 23(6), 1993.
+B. Ryder and M. Paull. Incremental data flow analysis algorithms. ACM Transactions on Programming Languages and Systems, 10(1) 1-50, January 1988.
+In Wrobel, S. (Ed.), Proceedings of the Fourth International Workshop on Inductive Logic Programming Bad Honnef/Bonn, Germany.
+J. Kim and P. Khosla, "Real-time obstacle avoidance using harmonic potential functions," Tech. Report COMPSI T-RA 8, pp. 338-349, 1992.
+Fikes, R. E., Hart, P. E., & Nilsson, N. J. (1972). Learning and executing generalized robot plans. Artificial Intelligence, 3, 251-288.
+Zhang, Z., & Faugeras, O. (1992). 3D Dynamic Scene Analysis. Springer-Verlag.
+VanLehn, K., Jones, R. M., & Chi, M. T. H. (1992). A model of the self-explanation effect. Journal of the Learning Sciences, 2 (1), 1-59.
+Alon Y. Levy, Divesh Srivastava, and Thomas Kirk. Data model and query evaluation in global information systems. Journal of Intelligent Information Systems, 1995. Special Issue on Networked Information Discovery and Retrieval (to appear).
+F. Allen, M. Burke, P. Charles, R. Cytron, and J. Ferrante. An overview of the PTRAN analysis system for multiprocessing. In Proceedings of the First International Conference on Supercomputing. Springer-Verlag, Athens, Greece, June 1987.
+Pryor, L., & Collins, G. (1993). Cassandra: Planning with contingencies. Technical report 41, Institute for the Learning Sciences, Northwestern University.
+Michael Stonebraker, Anant Jhingaran, Jef-frey Goh, and Spyros Potamianos. On rules, procedures, caching and views in databases. Technical Report UCB/ERL M90/36, University of California, Berkeley, April 1990.
+I. Koren and A. D. Singh, "Fault Tolerance in VLSI Circuits," Computer, Special Issue on Fault-Tolerant Systems, Vol. 23, No. 7, pp. 73-83, July 1990.
+R. Graham. Bounds on multiprocessing timing anomalies. SIAM Journal of Computing, 17 416 - 429, 1969.
+J. P. Callan, "Document Filtering With Inference Networks," Proceedings of SIGIR, 262-269, 1996.
+Y. Robert. The Impact of Vector and Parallel Architectures on the Gaussian Elimination Algorithm. Halsted Press, New York, 1990.
+Odlyzko, A. Asymptotic enumeration methods. In Handbook of Combinatorics, R. Graham, M. Grotschel, and L. Lovasz, Eds., vol. 2. Elsevier, 1995, pp. 1063-1229.
+Bergamaschi, S., & Sartori, C. (1992). On taxonomic reasoning in conceptual design. ACM Transaction on Database Systems, 17 (3), 385-422.
+Georgeff, M. P. (1987). Actions, processes, and causality. In Georgeff, M. P., & Lansky, A. L. (Eds.), Reasoning About Actions & Plans, pp. 99-122. Morgan Kaufmann Publishers, Inc., Los Altos, California.
+H. Johnson and P. Johnson, Designers-identified requirements for tools to support task analyses, INTERACT 90 Proceedings, August 1990, pp. 259-264.
+Asahiro, Y., Iwama, K., & Miyano, E. (1993). Random generation of test instances with controlled attributes. In Second DIMACS Challenge Workshop.
+Warren R. Greiff. Computationally tractable, conceptually plausible classes of link matrices for the inquery inference network. Technical Report CmpSci TR-96-66, University of Massachusetts, Amherst, Massachusetts, September 1996.
+A. V. Aho, J. E. Hopcroft, and J. D. Ullman, The Design and Analysis of Computer Algorithms, Addison-Wesley, Reading, MA, 1974.
+Sun Microsystems. Java (tm): Programming for the Internet. http://java.sun.com.
+Remler, Jane E. (1978). Some repairs on the notion of repairs in the interest of relevance. In Farkas, Donka, Jacobsen, Wesley M., and Todrys, Karol W., editors, Papers from the Fourteenth Regional Meeting of the Chicago Linguistic Society, Chicago, IL. Chicago Linguistic Society, pages 391-502.
+S. M. Robinson. Some continuity properties of polyhedral multifunctions. Mathematical Programming Study, 14 206-214, 1981.
+I. Lee, P. Bremond-Gregoire, and R. Gerber. A Process Algebraic Approach to the Specification and Analysis of Resource-Bound Real-Time Systems. IEEE Proceedings, 82(1), January 1994.

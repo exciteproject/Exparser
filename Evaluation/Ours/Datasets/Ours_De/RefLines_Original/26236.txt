@@ -1,0 +1,14 @@
+Statistisches Bundesamt (1978a): Volkszählung vom 27. Mai 1970. Methodische und praktische Vorbereitung sowie Durchführung der Volkszählung 1970. Fachserie 1 Heft 25. Stuttgart/Mainz: Kohlhammer.
+Statistisches Bundesamt (1978b): Volkszählung vom 27. Mai 1970. Untersuchungen zur Methode und Genauigkeit der Volkszählung 1970. Fachserie 1 Heft 26. Stuttgart/Mainz: Kohlhammer.
+"Statistisches Bundesamt (1972): Ausgewählte Strukturdaten für Bund und Länder. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 1."
+"Statistisches Bundesamt (1972): Zusammengefasste Daten über Bevölkerung und Erwerbstätigkeit für Bund und Länder. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 3."
+"Statistisches Bundesamt (1974): Bevölkerung und Bevölkerungsentwicklung nach Alter und Familienstand. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 5."
+"Statistisches Bundesamt (1974): Bevölkerung und Haushalte. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 8."
+"Statistisches Bundesamt (1974): Bevölkerung und Familien. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 9."
+"Statistisches Bundesamt (1974): Bevölkerung in Anstalten. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 11."
+"Statistisches Bundesamt (1974): Bevölkerung nach dem Ausbildungsstand, demographischen Merkmalen und Beteiligung am Erwerbsleben. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 13."
+"Statistisches Bundesamt (1974): Ausländer. Fachserie A: Bevölkerung und Kultur. Volkszählung vom 27. Mai 1970, Heft 23."
+"Bach, Walter (1979): Ziehung einer Stichprobe aus den Mikrodaten der Berufszählung 1970. Mannheim: VASMA-Arbeitspapier 9."
+"Bach, Walter/ Handl, Johann/Müller, Walter (1980): Volks- und Berufszählung 1970. Codebuch und Grundauszählung. Mannheim."
+"Schimpl-Neimanns, Bernhard/Frenzel, Hansjörg (1995): 1-Prozent Stichprobe der Volks- und Berufszählung 1970 – Datei mit Haushalts- und Familiennummern und revidierter Teilstichprobe für West-Berlin. Dokumentation der Datenaufbereitung. Mannheim: ZUMA-Technischer Bericht T95/06."
+"Frenzel, Hansjörg; Nau, Anke; Schimpl-Neimanns, Bernhard (1995): 1-Prozent Stichprobe der Volks- und Berufszählung 1970. Datei mit Haushalts- und Familiennummern und revidierte Teilstichprobe für West-Berlin. Codebuch und Grundauszählung."

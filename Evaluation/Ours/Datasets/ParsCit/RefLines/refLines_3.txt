@@ -1,0 +1,50 @@
+Schaal, S., & Atkeson, C. (1994). Robot juggling: An implementation of memory-based learning. Control Systems, 14, 57-71.
+A. Elmagarmid, editor. Transaction Models for Advanced Database Applications. Morgan-Kaufmann, 1992.
+P. Yang and J. H. Chern "Design for Reliability: The Major Challenge for VLSI," Proceedings of IEEE, Vol. 81, No. 5, pp. 730-744, May 1993.
+Pagallo, G., & Haussler, D. (1990). Boolean feature discovery in empirical learning. Machine Learning, 5 (1), 71-99.
+Langley, P., & Simon, H. A. (1995). Applications of machine learning and rule induction. Communications of the ACM, 38 (11), 55-64.
+Gmytrasiewicz, P. J., & Durfee, E. H. (1992). A logic of knowledge and belief for recursive modeling: Preliminary report. In Proceedings of the Tenth National Conference on Artificial Intelligence, pp. 628-634 San Jose, California.
+E. Dantsin and A. Voronkov. Complexity of query answering in logic databases with complex values. In S. Adian and A. Nerode, editors, Logical Foundations of Computer Science. 4th International Symposium, LFCS'97, volume 1234, of Lecture Notes in Computer Science, pages 56-66, Yaroslavl, Russia, July 1997.
+Barry Wilkinson, Digital System Design Prentice Hall 1987.
+Dempster, A. P., Laird, N. M., & Rubin, D. B. (1977). Maximum-likelihood from incomplete data via the EM algorithm. Journal of Royal Statistical Society B, 39, 1-38.
+J. Borenstein and Y. Koren, "Obstacle avoidance with ultrasonic sensors," IEEE J. Robotics Automation 4, pp. 213-218, 1988.
+W. Li. Linearly convergent descent methods for unconstrained minimization of convex quadratic splines. Technical Report TR93-3, Department of Mathematics and Statistics, Old Dominion University, Norfolk, VA 23529, 1993. Journal of Optimization Theory and Applications, to appear.
+Holte, R. C., Acker, L. E., & Porter, B. W. (1989). Concept learning and the problem of small disjuncts. In Proceedings of the Eleventh International Joint Conference on Artificial Intelligence, pp. 813-818 Detroit. Morgan Kaufmann. 415
+J. C. Butcher. Diagonally implicit general linear methods for ordinary differential equations. Technical report, University of Auckland, 1993. Submitted for publication.
+E. Mohr, D. A. Kranz, and R. H. Halstead. Lazy Task Creation: a Technique for Increasing the Granularity of Parallel Programs. In Proceedings of the 1990 ACM Conference on LISP and Functional Programming, pages 185-197, June 1990.
+Harandi, M. T., Ning, J. Q., (1990), Knowledge Based Program Analysis", IEEE Software.
+Narayana, K. T. and Aaby, A. A., "Specification of Real-Time Systems in Real-Time Temporal Interval Logic", Proceedings of Real-Time Systems Symposium, December 1988.
+Schaffer, C. (1992). Sparse data and the effect of overfitting avoidance in decision tree induction. In AAAI-92 Proceedings of the Tenth National Conference on Artificial Intelligence, pp. 147-152 San Jose, CA. AAAI Press.
+J. H. M. J. Daily and K. Reiser, "Detecting obstacles in range imagery," Proc. of [ARPA] Image Understanding Workshop, pp. 87-97, 1987.
+K. D. Cooper, ``Analyzing aliases of reference formal parameters'', Proc. Twelfth POPL, Jan. 1985.
+J. Adams, W. Brainerd, J. Martin, B. Smith, and J. Wagener. Fortran 90 Handbook. McGraw-Hill, New York, NY, 1992.
+P. Evripidou and J-L. Gaudiot, "The USC decoupled multilevel data-flow execution model," In Jean-Luc Gaudiot and Lubomir Bic, editors, Advanced Topics in Data-Flow Computing, pages 347-379. New Jersey: Prentice Hall, 1991.
+J. Anderson, "Composite Registers", Distributed Computing, 6(3), 1993, pp. 141-154.
+Tambe, M. (1996). Tracking dynamic team activity. In Proceedings of the National Conference on Artificial Intelligence (AAAI).
+Allen, James F. (1979). A Plan-Based Approach to Speech Act Recognition. PhD thesis, Department of Computer Science, University of Toronto, Toronto, Canada. Published as University of Toronto, Department of Computer Science Technical Report No. 131.
+R. B. Kieburtz, B. Agapiev and J. Hook. Three Monads for Continuations. In Proceedings of the ACM SIGPLAN Workshop on Continuations, Department of Computer Science, Stanford University, Report No. STAN-CS-92-1462, June 1992.
+Henderson, D. A. Jr. And Card, S. K. Rooms: The Use of Multiple Virtual Workspaces to Reduce Space Contention in a Window-Based Graphical User Interface, IEEE Transactions on Graphics, 5 (3), 211-243, 1987.
+Mooney, R. J., & Califf, M. E. (1995). Induction of first-order decision lists: results on learning the past tense of english verbs. Journal of Artificial Intelligence Research, 3, 1-24.
+Hooman, J., "Specification and Compositional Verification of Real-Time Systems", PhD Thesis, Eindhoven, the Netherlands, 1991.
+Neil Immerman (1989), Expressibility and Parallel Complexity, SIAM J. of Comput 18, 625-638.
+K. Decker and V. Lesser, "Designing a Family of Coordination Algorithms", in the Proceedings of 13th International Distributed Artificial Intelligence Workshop, Seattle, WA., July 1994.
+T. Carpenter, K. Driscoll, K. Hoyme, and J. Carciofini. ARINC659 acheduling: Problem definition. In Proceedings of the Real Time Systems Symposium, pages 165-169, December 1994.
+M. J. Zekauskas, W. A. Sawdon, and B. N. Bershad. Software write detection for distributed shared memory. In Proceedings of the First USENIX Symposium on Operating System Design and Implementation, pages 87-100, November 1994. 27
+In Bouma, H., & Elsendoorn, A. G. (Eds.), Working Models of Human Perception, pp. 391-410. Academic Press, London, England.
+McDermott, J. (1982). R1: A rule-based configurer of computer systems. Artificial Intelligence, 19.
+Thomas von Eicken, David E. Culler, Seth Copen Goldstein, and Karl Erik Schauser. Active messages: A mechanism for integrated communication and computation. In Proceedings of the 19th Annual International Symposium on Computer Architecture, pages 256-266, May 1992.
+Geddes, K., Czapor, S., and Labahn, G. Algorithms for Computer Algebra. Kluwer Academic Publishers, Boston, 1992.
+H. Wachter and A. Reuter. The ConTract model. In [24], chapter 7, pages 220-263. 1992.
+Whitley, D., & Gruau, F. (1993). Adding learning to the cellular development of neural networks: Evolution and the Baldwin effect. Evolutionary Computation, 1, 213-233.
+T. E. Hull and M. S. Cohen. Toward an ideal computer arithmetic. In M. J. Irwin and R. Stafanelli, editors, Proceedings of the 8th Symposium on Computer Arithmetic, pages 131-138. IEEE Computer Society, Los Angeles, 1987.
+J. M. Ponte and W. B. Croft, Text Segmentation by Topic, in Proceedings of the First European Conference on Research and Advanced Technology for Digitial Libraries, pp. 120-129, 1997.
+Dario Giarrizzo, Matthias Kaiserswerth, Thomas Wicki, and Robin C. Williamson. High-speed parallel protocol implementation. First IFIP WG6.1/WG6.4 International Workshop on Protocols for High-Speed Networks, pages 165-180, May 1989.
+V. Faber (1993): Global communication algorithms for hypercubes and other Cayley coset graphs. SIAM J. Discr. Math., to appear.
+Weigend, A. (1993). Measuring the effective number of dimensions during backpropagation training. In Proceedings of the 1993 Connectionist Models Summer School, pp. 335-342. Morgan Kaufmann, San Francisco, CA.
+Rubinstein, A. (1982). Perfect equilibrium in a bargaining model. Econometrica, 50 (1), 97-109.
+Flanagan, C., and Felleisen, M. Modular and polymorphic set-based analysis: Theory and practice. Technical Report TR-96-266, Rice University, 1996.
+Beeri, C. (1990). A formal approach to object-oriented databases. Data and Knowledge Engineering, 5, 353-382.
+Y. Sagiv and M. Yannakakis. Equivalence among relational expressions with the union and difference operators. In J. ACM 27(4) pp. 633-655, 1981.
+W. Chen. Declarative specification and evaluation of database updates. In Intl. Conference on Deductive and Object-Oriented Databases (DOOD), volume 566 of Lecture Notes in Computer Science, pages 147-166. Springer-Verlag, December 1991.
+D. Gannon, W. Jalby, and K. Gallivan. Strategies for cache and local memory management by global program transformation. Journal of Parallel and Distributed Computing, 5(5) 587-616, October 1988.
+Weiss, S., & Kapouleas, I. (1989). An empirical comparison of pattern recognition, neural nets, and machine learning classification methods. In Proceedings of the 11th International Joint Conference of Artificial Intelligence, pp. 781-787. Detroit, MI. Morgan Kaufmann.

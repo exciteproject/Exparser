@@ -1,0 +1,8 @@
+1. Furnas, G.W., et al.: The Vocabulary Problem in Human-System Communication. Communications of the ACM 30(11), 964–971 (1987)
+2. Hargittai, E.: Hurdles to information seeking: Spelling and typographical mistakes during users’ online behavior. Journal of the Association of Information Systems 7(1), 52–67 (2006)
+3. Kluck, M.: The GIRT Data in the Evaluation of CLIR Systems – from 1997 Until 2003. In: Peters, C., Gonzalo, J., Braschler, M., Kluck, M., et al. (eds.) CLEF 2003. LNCS, vol. 3237, pp. 376–390. Springer, Heidelberg (2004)
+4. Mitra, M., et al.: Improving automatic query expansion. In: Proceedings of the 21st Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 206–214. ACM, Melbourne (1998)
+5. Mutschke, P., et al.: Science models as value-added services for scholarly information systems. Scientometrics 89(1), 349–364 (2011)
+6. Petras, V.: How one word can make all the difference - using subject metadata for automatic query expansion and reformulation. In: Working Notes for the CLEF 2005 Workshop, Vienna, Austria, September 21-23 (2005)
+7. Petras, V.: Translating Dialects in Search: Mapping between Specialized Languages of Discourse and Documentary Languages. University of California (2006)
+8. Xu, J., Croft, W.B.: Query expansion using local and global document analysis. In: Proceedings of the 19th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, pp. 4–11. ACM, Zurich (1996)

@@ -1,0 +1,1790 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Historical Social Research</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.12759/hsr.41.2016.4.214-238</article-id>
+      <title-group>
+        <article-title>But Still Enthusiastic: The Unchanged Europeanness of the Spanish Parliamentary Elite During the Eurozone Crisis</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Juan Rodríguez-Teruel</string-name>
+          <email>juanrote@uv.es</email>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>José Real-Dato</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Miguel Jerez</string-name>
+          <email>mjerez@ugr.es</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Juan Rodríguez-Teruel, Department of Constitutional Law &amp; Political Science. Faculty of Law, University of Valencia</institution>
+          ,
+          <addr-line>Valencia, Avinguda Tarongers, s/n., 46071 Valencia</addr-line>
+          ,
+          <country country="ES">Spain;</country>
+          <institution>José Real-Dato, Department of Law, University of Almería Carretera de Sacramento</institution>
+          ,
+          <addr-line>s/n</addr-line>
+          ,
+          <institution>La Cañada de San Urbano</institution>
+          ,
+          <addr-line>04120 Almería</addr-line>
+          ,
+          <country country="ES">Spain</country>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2009</year>
+      </pub-date>
+      <volume>41</volume>
+      <issue>2016</issue>
+      <fpage>214</fpage>
+      <lpage>238</lpage>
+      <abstract>
+        <p>»Immer noch begeistert: Die unveränderte Europäizität der spanischen parlamentarischen Elite während der Eurozonen-Krise«. Since the adhesion of Spain to the EEC in 1986, the Spanish electorate has shown a high level of support for the European integration process. Even more enthusiastic than their fellow citizens, Spanish political elites also expressed a strong commitment to the European integration project, based in a pro-EU consensus beyond party and ideological divides. However, Spain has also been one of the countries most affected by the economic and financial crisis that has hit the EU (particularly the Eurozone) since 2010. The main questions we aim to answer in this paper is whether this crisis and its management by EU institutions has eroded the traditional support for the EU shown by Spanish domestic political elites and, if so, to what extent. To this end, we draw on survey data provided by the InTune and ENEC-2014 projects on the attitudes of Spanish MPs towards the EU in the years 2007, 2009, and 2014. Results show that the traditional pro-EU stance of Spanish MPs has remained mostly stable during the crisis, yet such stability has increased the representation gap with citizens in this area.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Political elites</kwd>
+        <kwd>European integration</kwd>
+        <kwd>attitudes</kwd>
+        <kwd>European Union</kwd>
+        <kwd>Euroscepticism</kwd>
+        <kwd>Europeanness</kwd>
+        <kwd>Spain</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>
+        Introduction1
+The financial crisis started in 2008 has produced enormous consequences in the
+political life of the Southern European democracies. Scholars have detected
+erosion of citizens’ support to political institutions and the main political actors,
+particularly, mainstream political parties
+        <xref ref-type="bibr" rid="ref14 ref22 ref24 ref29 ref35 ref37 ref8">(Mair 2013; Cordero and Simón 2015;
+Teixeira et al. 2016)</xref>
+        . As a consequence, an ‘electoral epidemic’ has profoundly
+altered party systems, damaging the social basis of traditional political parties and
+pushing new challenger actors to parliaments and governments at different levels
+        <xref ref-type="bibr" rid="ref1 ref12 ref16 ref21 ref23 ref29 ref30 ref37 ref5 ref6 ref9">(Bosco and Verney 2012; Hernández and Kriesi 2016)</xref>
+        . Spain has been one
+outstanding example of this transformation, which has brought new parties like
+Podemos or Ciudadanos to the political landscape
+        <xref ref-type="bibr" rid="ref14 ref24 ref27 ref28 ref29 ref30 ref35 ref8">(Rodríguez-Teruel and Barrio,
+2015; Rodriguez-Teruel et al. 2016)</xref>
+        . These changes have affected not only
+national institutions but also the traditional support to the European Union (EU),
+which in turn has fostered the raise of populist forces that question the role of
+states in the European integration. Hence, an increase of critical attitudes of the
+national political elites towards the EU in these countries could be spreading
+among voters, and damaging indeed the traditional elite consensus on Europe.
+      </p>
+      <p>
+        This article aims to analyse the consequences of this political turbulence on
+the Europeanness of the Spanish parliamentary elite. Spain has been traditionally
+one of the more pro-European countries even before its accession to the European
+Economic Community (EEC) in 1986
+        <xref ref-type="bibr" rid="ref33">(Sanchez-Cuenca 2001; Szmolka 2007)</xref>
+        .
+This consistency of political attitudes towards Europe has been particularly strong
+among domestic elites, beyond party and ideological divides
+        <xref ref-type="bibr" rid="ref18 ref19 ref20">(Jerez et al. 2010;
+Jerez et al. 2015a)</xref>
+        . However, Spain has also been one of the countries that has
+most dramatically experienced the consequences of both the economic and
+financial debt crisis since 2008. This has been accompanied by a deterioration of the
+support to the EU amongst the population. Previous works have suggested that
+this did not occur with the national political elite in the beginning of the crisis
+period
+        <xref ref-type="bibr" rid="ref14 ref24 ref29 ref35 ref8">(Sojka et al. 2015; Freire and Moury 2015)</xref>
+        . This article’s main question is
+whether things have changed with the subsequent deepening of the economic
+crisis. To check the evolution of the attitudes of Spanish political elites towards
+the EU, we will examine survey data collected at three different time points:
+2007, 2009 and 2014.
+      </p>
+      <p>
+        Our main expectation is that continuity might prevail over change during the
+observed period, in line with the continuity that has also characterised
+composition of the parliamentary elite
+        <xref ref-type="bibr" rid="ref21">(Jerez et al. 2016)</xref>
+        . Indeed, given the traditional
+      </p>
+    </sec>
+    <sec id="sec-2">
+      <title>1 The authors would like to thank the financial support from the Real Instituto Elcano and the</title>
+      <p>Department of Political Science of the University of Granada. Also, the authors thank Dr.
+Ignacio Molina, from the Real Instituto Elcano for facilitating the collaboration of this
+organization, and Rafael Camacho and Luis Blanca, for their competent work during the
+fieldwork of the ENEC project.</p>
+      <p>
+        HSR 41 (2016) 4 │ 215
+pro-EU consensus shared by the main political parties (the Popular Party, PP, and
+the Socialist Party, PSOE), the absence of relevant party system changes in the
+period we cover would contribute to keep the elite attitudes towards the EU under
+stable patterns. Despite the impact of the Eurozone crisis, until 2015 the main
+features of the Spanish party system were very stable. Although the 2011 general
+election produced a serious collapse of the PSOE vote (which led this party to
+lose the government to the PP), the concentration of the electoral vote and the
+parliamentary representation amongst mainstream parties did not change
+significantly, and those parties with soft Eurosceptic attitudes
+        <xref ref-type="bibr" rid="ref31">(Ruiz-Jiménez and Egea
+de Haro 2011)</xref>
+        remained a small minority in the national chamber. Consequently,
+we expect to find a stable pattern in the main Europeanness traits of the Spanish
+parliamentary elite, while potential changes in attitudes and opinions could obey
+to party variance rather to elite transformation. In this respect, the article assesses
+to what extent this elite consensus concerning the EU is affected by inter-party
+divisions existing due to the politicization of EU issues at the national level.
+Besides, since these mainstream positions regarding the EU within the elite
+contrast with the change in citizens’ attitudes, a resulting scenario would be an
+increase in the gap between elite’s opinions and those of the general population,
+eroding the traditional elite-mass congruence in Spain regarding the EU.
+      </p>
+      <p>The rest of this article is structured as follows. The second section reviews the
+main political facts that have shaped the political life in Spain in the last decade,
+paying particular attention to the main issues related to the EU. Then, the third
+section introduces the main concepts, expectations and the data employed in this
+research. Section four analyses the political attitudes regarding the EU in the
+parliamentary elite. And finally, the concluding section summarize the main
+findings and connects patterns observed in the previous section with the changes
+in the Spanish political system occurred since 2014.
+2.</p>
+      <sec id="sec-2-1">
+        <title>A Turbulent Political Time in Spain</title>
+        <p>Although the time span strictly covered by the data used in this paper
+(20072014) may look too short to expect relevant changes, the Spanish political and
+economic landscape experienced deep transformations. During this period,
+there were three different parliamentary terms with episodes of government
+change, economic instability and social turbulence. Along this time, the
+references to the EU in the Spanish political debate have evolved from the optimism
+during the referendum for the Constitutional treaty in 2005 to the controversy
+in 2012-13 about the policy conditions linked to the bailout of the Spanish
+financial system through the European Stability Mechanism.</p>
+        <p>The first government of José Luis Rodríguez Zapatero (2004-2008) was
+characterised by a period of strong economic development, in which Spain
+returned to its traditional support to Germany and France as leading actors in</p>
+        <p>HSR 41 (2016) 4 │ 216
+the EU, abandoning the transatlantic-oriented policy implemented by the
+previous prime minister, José Maria Aznar (Delgado et al. 2015). In this respect,
+Zapatero gave strong relevance to the Spanish role in the process of ratification
+of the Treaty establishing a Constitution for Europe. While in other countries
+the Constitutional Treaty raised eurocriticism and division within the elite, in
+Spain the vote was employed as a legitimacy device for the national
+government. Indeed, Spain was one of the few countries in consulting citizens through
+a referendum before the parliament ratified the document. Despite the clear
+victory of those supporting the project2, a low level of public debate about the
+text (with a resulting low turnout), and an image of consensus and
+complacen3
+cy amongst political elites weakened the political outcome of the referendum .</p>
+        <p>
+          The good results in terms of economic growth and unemployment lead the
+Spanish GDP per capita to surpass Italy by the end of 2007, and fostered good
+prospects to reduce distance between Spain and the main economies of the EU,
+Germany and France. In this context, the positions of soft Eurocriticism in the
+Spanish political elite were mainly related to two concerns
+          <xref ref-type="bibr" rid="ref31">(Ruiz-Jiménez and
+Egea de Haro 2011, 117)</xref>
+          . On the one hand, there was the criticism from small
+radical left parties regarding the lack of attention, from their point of view, to
+social matters in the EU. On the other hand, nationalist parties in Catalonia and
+the Basque country remained sceptical about the weak role of regional
+representation in the EU institutional framework. By 2007, the Spanish citizens
+showed the lowest levels of support to the idea that the Spain had not benefitted
+from belonging to the EU since the access to the CEE in 1986
+          <xref ref-type="bibr" rid="ref31">(Ruiz-Jiménez
+and Egea de Haro 2011, 122)</xref>
+          .
+        </p>
+        <p>The context changed dramatically during Zapatero’s second term
+(20082011). The burst of the US real-state bubble in autumn 2008, following the
+collapse of Lehman Brothers, had a tremendous effect on the internal situation
+of Spain and its own housing bubble. However, contrary to other European
+countries, the Spanish government adopted a moderate approach against the
+crisis, with discretionary counter-cyclical fiscal policies and a Keynesian
+strategy (increasing the budget deficit to 11.1% of GDP at the end of 2009), while it
+was reluctant to implement serious structural reforms. This helped to maintain
+the public’s confidence in a quick exit from the crisis. But the deterioration of
+the situation in Greece eventually forced the EU to intervene in order to hinder
+the spread of the risk of default to other Southern European countries. Hence,
+in May 2010 Zapatero announced a U-turn change in its policy agenda, with
+2 The referendum was held on the 20th of February 2015, with a turnout of 42,32%. The
+constitutional project was backed by 76,7% of the participants. Some weeks later the
+Congreso de los Diputados (the lower house of the parliament) approved the text by 311 votes
+against 10 (0 abstention) as well as the majority of the high chamber did (225 to six votes,
+and one abstention).</p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>3 “Spains’ mixed EU signals”, BBC news, February 21, 2015 &lt;http://news.bbc.co.uk/2/hi/eu</title>
+      <p>rope/4284607.stm&gt;.</p>
+      <p>HSR 41 (2016) 4 │ 217
+emergency cuts and structural reforms aimed at containing the public deficit
+and avoiding the risk of bailout. In August 2011, PSOE and PP approved an
+amendment to the Spanish Constitution (article 135) introducing a cap on the
+structural deficit of the state.</p>
+      <p>
+        While support for the PSOE’s in the opinion polls shrank following this
+Uturn in the government’s policies, the new agenda altered the role of the EU in
+the Spanish public debate. The EU institutions started to be identified as the
+promoters of the austerity policy implemented by the government, being also
+blamed as responsible for the consequences that arouse in the following
+months. Hence, some relevant intellectuals argued in favour of leaving the
+euro4, while support for democracy and to the main political institutions
+declined in parallel to what was happening in Southern European countries
+        <xref ref-type="bibr" rid="ref1">(Alonso 2013)</xref>
+        . Political dissatisfaction also fostered social mobilization against
+the government and the political class, like the massive demonstrations across
+Spain held in May 15th 2011, dubbed the 15-M movement, also known as the
+indignados
+        <xref ref-type="bibr" rid="ref13">(Fominaya 2015)</xref>
+        .
+      </p>
+      <p>
+        The collapse of the support for the government in the 2011 general election
+gave the victory to the PP and paved the way for a majority government headed
+by Mariano Rajoy. Despite the PSOE’s electoral setback, the two main parties
+achieved 73% of the total vote. The new executive did not alter the agenda of
+structural reforms, facing also major pressures from the EU to call for a bailout,
+after the downgrade of several Spanish banks’ credit ratings. Indeed, the
+housing bubble crisis was evolved to a financial crisis in the banking system,
+particularly in the local and regional semipublic saving banks (cajas de ahorro).
+Finally, the PP government accepted a bailout deal from the EU to the banking
+system under the form of a loan to recapitalize Spain’s weakest banks
+        <xref ref-type="bibr" rid="ref10 ref25">(De
+Guindos, 2016)</xref>
+        . In exchange, the government implemented new reforms and
+accepted European monitoring of Spanish banking reform. However, the state
+of the economy still experienced strong pressures during Rajoy’s first terms.
+Thus, public debt evolved from 69,5% (2011) to 99,3% of the GDP (2014),
+public deficit increased to -10,4% (2012), although budget cuts helped to
+reduce it to -5.9% (2014). In turn, unemployment peaked in 2013 to almost five
+million people, while the youth unemployment rate reached 56% by that time,
+although since 2014 it started to decrease slightly5.
+      </p>
+      <p>The poor economic performance during the first years of the Rajoy
+government, and the deepening of the social consequences of the austerity policies
+fuelled political disaffection and electoral volatility (Cordero and Montero</p>
+    </sec>
+    <sec id="sec-4">
+      <title>4 In this respect, Castells (2011) argued that the exit from the Eurozone was the only way for</title>
+      <p>
+        the recovery of the Spanish economy. Similarly,
+        <xref ref-type="bibr" rid="ref12">Fernández-Albertos and Sánchez-Cuenca
+(2013)</xref>
+        defended that Spain should leave the euro if the EU could not strengthen the
+political integration.
+      </p>
+    </sec>
+    <sec id="sec-5">
+      <title>5 The source for all data reported in this paragraph is Eurostat.</title>
+      <p>
+        HSR 41 (2016) 4 │ 218
+2015, 350;
+        <xref ref-type="bibr" rid="ref38">Urquizu 2015</xref>
+        ). In 2012 and 2013 several surveys detected a
+dramatic collapse of the support for the two main Spanish parties, while the
+existing small parties did not really benefited from this
+        <xref ref-type="bibr" rid="ref27">(Rodríguez-Teruel 2013)</xref>
+        ,
+suggesting a failure of the political supply in Spain
+        <xref ref-type="bibr" rid="ref11">(Fernández-Albertos 2015)</xref>
+        .
+In this context, the European election in May 2014 triggered an unprecedented
+electoral dealignment, with the appearance of new parties like Podemos and
+Ciudadanos on the EP, while the two main parties did not achieved even a 50%
+of the total vote. The electoral change came mainly from young, urban,
+politically-informed voters
+        <xref ref-type="bibr" rid="ref11 ref14 ref24 ref29 ref35 ref8">(Cordero and Montero 2015; Fernández-Albertos 2015)</xref>
+        .
+Amongst these voters, European attachment was significantly stronger
+compared to the older electorate, although they seemed to express less interest in
+the European election
+        <xref ref-type="bibr" rid="ref28">(Rodríguez-Teruel 2014)</xref>
+        . Interestingly, Spain remained
+the largest country in the EU without Eurosceptic and far-right parties.
+3.
+3.1
+      </p>
+      <sec id="sec-5-1">
+        <title>Theoretical Expectations and Data</title>
+        <sec id="sec-5-1-1">
+          <title>Expectations: Stability Rather than Change</title>
+          <p>
+            The financial crisis and its political consequences altered the position of Spain
+in the EU, as we have argued in the previous section. It changed from a story of
+economic success to a potential bailout, even though it would be ‘too big to
+fail’. This turn could not happen without affecting citizens’ perceptions of the
+political system and its legitimacy, although this negative effect should not
+necessarily be immediate
+            <xref ref-type="bibr" rid="ref14 ref24 ref29 ref35 ref8">(Freire and Moury 2015, 179)</xref>
+            . Some figures show
+that trust in government and its ability to manage the crisis steadily declined as
+the crisis hit the Spanish economy, in a more consistent way than in other
+European countries (Roth 2009, 22). According to previous studies, the way
+citizens perceive their national governments and institutions influences strongly
+their views and support for the EU
+            <xref ref-type="bibr" rid="ref2">(Anderson and Reichert 1995;
+SánchezCuenca 2000)</xref>
+            . From a utilitarian perspective, this support is also explained by
+citizens’ perceptions of welfare gains from integration policies
+            <xref ref-type="bibr" rid="ref15 ref34">(Gabel 1998;
+Scharpf 1999)</xref>
+            . Hence, a regression in policy outcomes and the subsequent
+deterioration of the perception of national institutions might erode the support
+for the EU amongst citizens.
+          </p>
+          <p>
+            However, these symptoms might not be necessarily appear among the
+political elite. Parliamentarians’ attitudes and perceptions are elaborated and sustained
+upon stronger cognitive support, since they are better informed about European
+issues and have a strongest attachment to the EU
+            <xref ref-type="bibr" rid="ref14 ref24 ref29 ref35 ref8">(Müller et al. 2012; Sojka et al.
+2015; Freire and Moury 2015)</xref>
+            . Indeed, as political representatives know better
+the limits in the EU’s room for manoeuvre, their expectations about the EU role
+are more in line with reality. In countries like Spain, where the potential for
+unilateral action is weaker, it might be even the case that such context of crisis could
+          </p>
+          <p>
+            HSR 41 (2016) 4 │ 219
+foster support for more integration, as the political elites might perceive that
+overcoming the current situation or avoiding new crisis in the future requires a
+supranational solution. Alternatively, an opposite evolution is also possible, since
+politicians could adopt more critic positions towards the EU in response to an
+increase of Euroscepticism among voters
+            <xref ref-type="bibr" rid="ref17">(Hooghe and Marks 2009)</xref>
+            .
+          </p>
+          <p>
+            The main theoretical expectation in this article is that the attitudes of
+Spanish MPs towards the EU have not significantly changed during the crisis. This
+hypothesis is in line with the above mentioned arguments about elites’ higher
+cognitive competence and the political stability in parliament during the
+observed period. Therefore, between 2004 and 2014, despite of the electoral
+changes mentioned in the previous section, the two main parties, both
+traditionally pro-EU, accounted for more than 80% of the seats at the lower house.6
+Yet this does not mean the disappearance of ideological and party differences.
+In fact, some studies
+            <xref ref-type="bibr" rid="ref31">(Ruiz Jiménez and Egea de Haro 2011; Vázquez et al.
+2014)</xref>
+            have found differences in the pro-EU positions of PSOE and PP. For
+instance, the PSOE has traditionally shown a more federalist stance, while the
+PP has supported a view centred on the coincidence between EU and national
+interests. Hence, a second theoretical expectation is stable interparty divisions
+along ideological divides in both main parties, even though we do not expect
+that these party differences respond to a high politicization of EU issues at the
+national level. Consequently, they should not alter the general pattern of strong
+Europeanness amongst Spanish elites.
+3.2
+          </p>
+        </sec>
+        <sec id="sec-5-1-2">
+          <title>Dimensions of Europeanness</title>
+          <p>
+            Our analysis focuses on the patterns of ‘Europeanness’ is defined here as a
+“composite set of perceptions and sentiments” that drives political elites
+decisions and behaviours in the European integration
+            <xref ref-type="bibr" rid="ref12 ref23 ref37 ref5 ref6">(Best, Lengyel and
+Verzichelli 2012, 8)</xref>
+            . In this sense, the concept departs from more generic uses in cultural
+and identity studies, and captures several aspects of attitudes and preferences
+towards European integration. Following those authors, Europeanness becomes
+a multidimensional concept including the emotive, cognitive-evaluative, and
+projective-conative dimensions (ibid. 8). The emotive dimension refers to
+feelings of attachment and thus towards the European integration. The
+cognitive-evaluative dimension includes attitudes dealing with the working of the
+EU and its scope of governance. Finally, the projective-conative dimension is
+based on the prospects and preferences for higher levels of European
+unification and integration in the future.
+          </p>
+          <p>Hence, the empirical data will be developed in the three sets of indicators
+corresponding to the dimensions previously mentioned. First, attitudes of
+sup</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-6">
+      <title>6 The proportion of seats at the Spanish low chamber by PSOE and PP was 89% (2004), 92%</title>
+      <p>(2008) and 84% (2011).</p>
+      <p>HSR 41 (2016) 4 │ 220
+port for the EU, related to the emotive dimension (trust in EU institutions,
+attachment to the EU, and general support to the integration process). Second,
+opinions and preferences on working of EU institutions and their scope of
+governance (related to the cognitive dimension), including issues about how
+the EU faced the financial crisis. Finally, options regarding the future of the
+EU, including expectations and threats (conative dimension).</p>
+      <p>MPs
+%</p>
+      <p>Interviews
+Freq.</p>
+      <p>Gender</p>
+      <p>Composition
+Women Men</p>
+      <p>Experience:</p>
+      <p>First Mandate
+Women Men</p>
+      <p>Experience:
+more than one term
+Women Men
+3.3</p>
+      <sec id="sec-6-1">
+        <title>Data</title>
+        <p>
+          The empirical basis for our analysis comes from the data gathered by the two
+waves of the elite survey of the IntUne project
+          <xref ref-type="bibr" rid="ref17">(2007 and 2009)</xref>
+          and the recent
+ENEC survey (2014) conducted amongst national parliamentarians from
+several European countries. This allows us to develop a comparative analysis across
+three parliamentary terms in Spain, covering the different periods described in
+the historical section. The content of the IntUne 2007 and 2009 elite surveys in
+Spain was presented and analysed in previous works
+          <xref ref-type="bibr" rid="ref14 ref18 ref19 ref20 ref24 ref25 ref29 ref35 ref6 ref8">(Jerez, Real-Dato and
+Vázquez 2010, 2015a)</xref>
+          . Regarding the 2014 ENEC survey, it basically repeated
+the structure and questions of the IntUne elite surveys, with some additional
+questions aimed at grasping the mood of national political representatives
+during the crisis. The sample consisted of 81 MPs, following the research design
+of the project (see Table 1). The fieldwork was implemented between October
+21st 2014 and February 18th 2015 – though almost all but three interviews
+were conducted before the end of 2014. Most of the interviews were
+face-toface (76.5%), while the rest were conducted by telephone. In this article, the
+sample is weighted by three criteria: parliamentary group, gender and past
+HSR 41 (2016) 4 │ 221
+4
+4
+1
+0
+1
+0
+parliamentary experience (Table 1). The deviation rate respect to the designed
+sample is 1.4% for party, 4.2% for sex (with a slight underrepresentation of
+female MPs), and 0.5% for experience.
+        </p>
+        <p>Data collection took place two years after the formation of the PP
+government with a strong parliamentarian majority. In this respect, the 2014 ENEC
+dataset differs from the two previous IntUne wages, conducted under PSOE
+governments. The party composition is indeed the main difference between
+both datasets. Our analysis controls for this factor when it comes to interpret
+significant differences across time, by distinguishing between PSOE and PP
+parliamentarians, or between left and right parties.
+4.</p>
+        <sec id="sec-6-1-1">
+          <title>Findings: The Stability of Spanish Parliamentary Elite’s</title>
+        </sec>
+        <sec id="sec-6-1-2">
+          <title>Europeanness</title>
+          <p>The empirical results are presented following the three sets of indicators
+employed to depict the patterns of Europeanness that we observed in the Spanish
+elite. Our analysis focus on the extent of change or stability detected in 2014
+compared to the previous survey waves. In those cases of where significant
+differences are found, we check whether party differences are responsible for
+these changes.</p>
+        </sec>
+      </sec>
+      <sec id="sec-6-2">
+        <title>The Emotive Dimension: Attitudes of Support to the EU</title>
+        <p>Most aspects dealing with the emotive dimension of Spanish parliamentarians’
+Europeanness does not show major changes during the period 2007-2014
+(Figure 1). This general stability confirms the high level of support for European
+integration among Spanish MPs. Only the level of trust in the European
+Parliament (EP) has experienced a statistically significant increase from 6.3 in
+2007 to 7.0 in 2014, while in the case of the European Commission (EC) and
+the Council of the EU levels of trust remain approximately the same along the
+observed period. No changes are also observed in the differences between
+parties except in 2014, where a significant difference appear in the levels of
+trust among socialist MPs and those of the PP (6.1 against 7.4 points).</p>
+        <p>
+          The general positive stance is also observable in the indicator of attachment
+to the EU. Despite having significantly stronger attachment to the nation and to
+the region
+          <xref ref-type="bibr" rid="ref35">(Sojka et al. 2015)</xref>
+          , Spanish representatives are amongst those with
+highest levels of attachment to the EU (nine out of ten MPs consider
+themselves somewhat or very attached). There has been a steady (but not
+significant) increase of four points between 2007 and 2014, mainly because of the
+evolution of those declaring being ‘very attached’ (ten points of differences),
+including the 53.1% of the whole group. Therefore, the hard times experienced
+by the Southern European countries and the controversy with the EU austerity
+        </p>
+        <p>HSR 41 (2016) 4 │ 222
+10,0
+5,0
+0,0
+100,0%
+95,0%
+90,0%
+85,0%
+80,0%
+policies do not seems to have eroded the emotive linkage between the Spanish
+elite and the idea of Europe. Yet, the strongest expression towards Europe is
+larger amongst the PSOE parliamentarians (61.5% are very attached) compared
+to the PP (45%).</p>
+        <p>
+          In turn, the perception that the country has benefit from EU membership has
+remained mainly unaltered along time (Figure 1), being the percentage higher
+than that for the level of attachment to the EU. This is congruent with the
+public opinion view, and confirms Spain as a country in which Europeanness
+seems clearly rooted on the positive assessment of EU membership. These data
+support the utilitarian explanation of attitudes towards the EU, explained
+mainly by the positive outcomes member states and their populations have
+experienced from EU membership
+          <xref ref-type="bibr" rid="ref3">(Aspinwall 2007)</xref>
+          .
+        </p>
+        <p>However, these signs of strong support to the European integration coincide
+with a moderate expression of criticism towards the democratic functioning of
+EU institutions. Thus, almost 40% of the Spanish MPs declare in 2014 to be
+somewhat or very dissatisfied with the democracy in the EU. In this respect,
+the extent of democratic dissatisfaction is mostly explained by party affiliation,
+as 57.6% of the PSOE MPs declares a negative assessment regarding the issue
+(figures are similar for the other minor political parties), while 87.5 of the PP
+representatives express the opposite view. Moreover, as Figure 2 shows,
+dissat</p>
+        <p>HSR 41 (2016) 4 │ 223
+isfaction with the democratic working of the EU has worsened compared to the
+initial years of the crisis. The group of individuals declaring in 2014 to be very
+dissatisfied with democracy in the EU decreased by 11 points with respect to
+2009. Changes were significant both for the PP and the PSOE, though they run
+in different directions (satisfied MPs increase in the PP and decrease in the
+PSOE). Therefore, this deterioration of the views of the democratic working of
+EU institutions among Spanish MPs belonging to opposition parties, expresses
+a deeper insatisfaction with the balance of power within the EU, which during
+the crisis has clearly turned to favour creditor countries. This is confirmed by
+the significant increase in 2014 of the percentage of respondents who agreed
+with the idea that EU decisions did not take into account the interests of Spain
+(27.2% in 2009, 50% in 2014) (see below).</p>
+        <p>
+          However, these criticisms have not influenced the high levels of support for EU
+integration among Spanish MPs. Figure 3 confirms this assertion, since the
+distribution of opinions concerning whether the EU integration process should
+be strengthened or stopped, and the corresponding average scores
+          <xref ref-type="bibr" rid="ref17 ref39 ref8">(8.1 in 2007
+and 2009, 8.0 in 2014)</xref>
+          , have hardly changed during the crisis. Party identity
+makes again a distinction here when explaining the distribution of opinions
+(average differences are not statistically significant): while 42,3% of PSOE
+MPs are totally in favour (a score of 10 in a 0-10 scale) of strengthening the
+EU, most of the conservatives parliamentarians express different degrees of
+moderate support to this political view, with only 15% totally in favour.
+45%
+        </p>
+      </sec>
+      <sec id="sec-6-3">
+        <title>The Cognitive-Evaluative Dimension: The Scope of EU</title>
+      </sec>
+      <sec id="sec-6-4">
+        <title>Governance</title>
+        <p>The evolution of MPs’ attitudes regarding the scope of governance that should
+be developed in the EU does not differ substantially from what has been
+observed for the emotive dimension in the previous section. The main trend is
+continuity, although some slight changes along these years suggest again the
+relevance of the influence of the party competition. For the vast majority of the
+Spanish parliamentary elite (Figure 4), the EC must become the true
+government of Europe (86.6%), while the powers of the EP should be strengthened
+(85.9%) as well as those of the European Central Bank (ECB) (71.1%).
+Reflecting a paradoxical position, an important proportion of respondents also
+supports the idea that states should remain central actors of the EU (65,5%).
+This contradictory position actually suggests an interesting evolution since the
+beginning of the crisis. Indeed, while in 2007 the support to a more
+parliamentarian view of the European Union seemed to predominate (with 25 points of
+differences between support to strengthen the EP powers and declaring that
+states should keep their central position in the European governance), the
+financial crisis has encouraged the support for a more executive view of the
+governance (based on the role of the EC) to the detriment of the role of states,</p>
+        <p>HSR 41 (2016) 4 │ 225
+with more than 20 points of difference between both statements (Figure 4). In
+this vein, it is interesting that the support for the ECB role7 is stronger than for
+the role of the member states. In contrast with these opinions, the support to the
+employment of referendum to be used as a tool to take most important EU
+decisions is much weaker (52.6%). It does not seem that the consequences of
+the financial crisis could have altered the view in favour of direct democracy at
+the European level. Overall, there is a prevailing view amongst Spanish
+political elites in favour of a state-like democracy for Europe, supported by the
+88.6% of the respondents.
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0</p>
+        <p>2007 2009
+Member states should remain the central actors of the EU
+2014
+European Commission should become the true government of the EU
+Powers of the European Parliament should be strengthened
+Powers of the ECB should be strengthened
+Most important decisions should be taken through a EU referendum
+EU level decisions do not take the interests of my country</p>
+        <p>Interest of some countries carry too much weight in EU decisions</p>
+        <p>Party affiliation also influences decisively the views about which institutions
+should be strengthened. While almost half of the PSOE MPs disagree with the
+idea of keeping the states as central actors of the EU decision-making (46.2%),
+only a minor fraction of the PP group (12.5%) does not agree. On the contrary,
+PP representatives are less convinced than those of the PSOE about the idea of
+strengthening the EP powers (75.6% vs 96.2%). Similarly, two thirds of the
+PSOE group (66.7%, and all the other left-wing MPs in the chamber) agrees in</p>
+      </sec>
+    </sec>
+    <sec id="sec-7">
+      <title>7 This item was not included in the IntUne surveys.</title>
+      <p>HSR 41 (2016) 4 │ 226
+that the most important decisions concerning the EU should be taken by a
+majority of all European citizens. In contrast, only 30.8% (most of them
+agreeing somewhat) of the PP representatives agrees in this democratic approach.</p>
+      <p>In contrast, the Eurozone crisis has clearly fuelled criticism regarding the
+role of states’ interest in the EU’s decision-making processes (Figure 4).
+Indeed, the amount of respondents arguing that the EU level decisions do not
+usually take Spain’s interest into account has expanded during the observed
+period, increasing from 17.1% (in 2007) to 49.4% (in 2014). This is congruent
+with the strong view, shared by almost all the MPs, of the idea that the interest
+of some countries carries too much weight in the EU (supported by 93.8% in
+2014). Overall, this is an indicator of how Spanish elites have perceived the
+erosion of the position of the country (as well as other Southern European
+countries) in the EU compared to the central role of the richest countries.</p>
+      <p>The financial crisis forced the EU and their state members to take action to deal
+with the economic consequences of the crisis. The experience during this
+period may have affected opinions about how the EU should approach such
+challenges. On the one hand, there is a general consensus about need of EU
+financial aid to countries in difficulty (backed by 96.3% of the MPs). On the other
+hand, of the different alternatives to deal with the crisis in the EU, during the
+observed period Spanish MPs have reinforced their opinion in favour of the
+intervention led by the EU, to the detriment of state actions or the role of
+international institutions (Figure 5). Between 2009 and 2014, the support for an</p>
+      <p>HSR 41 (2016) 4 │ 227
+intervention led by the EU increased (as a first or second choice amongst
+different alternatives) from 52.6% to 73.8%. In contrast, the choice for
+coordinated action by national governments decreased from 76.3% to 67.5%. This
+decline is mainly focused on those considering this option as their first choice
+compared to the other alternatives (51,3% in 2009). Besides, the alternative of
+an intervention by international financial institutions has lost credit, decreasing
+14 percentage points, while an autonomous action by national governments is
+the last choice for most of the parliamentarians.</p>
+      <p>These choices are somewhat influenced by party ideology, as PSOE MPs
+are less likely to back the 'states only' strategy compared to conservative
+representatives. In 2014, the autonomous action by national governments was
+preferred as first or second choice by right-wing MPs (difference +24.4) as well as
+coordinated action of national governments (difference +11.7), while left-wing
+MPs gave stronger support to the intervention by the EU (difference +20.2) and
+to the role of the international fiscal institutions (difference +13.8). Moreover,
+the effect of party ideology is particularly outstanding when the MPs come to
+assess the role of EU institutions in the management of the Eurozone crisis.
+While PP representatives give a positive assessment of the EU, the EC and the
+ECB (around an average of 6.3 points on a scale 0-10), left-wing
+parliamentarians express a worst opinion (average below 4 points). Finally, the ideological
+divide is more generally reflected in the MPs’ opinions about which should be
+the main aim of the EU. For left-wing representatives, this should be to provide
+better social security (83.9%), while conservative MPs conceive an EU focused
+on either making the European economy more competitive (31.8%) or on both
+economic and social aims (40.9%).</p>
+      <p>
+        The scope of governance also deals with multilevel policymaking, i.e., the
+changing relationship between actors situated at different territorial levels and
+how policy issues should be allocated amongst them
+        <xref ref-type="bibr" rid="ref18">(Jerez-Mir et al. 2010,
+49)</xref>
+        . In this respect, the preferences of political elites tend to follow the general
+pro-EU support pattern observed in previous pages, with some exceptions. In
+fact, while elites express more pro-EU positions in issues and policies dealing
+with transnational problems, they are less conclusive in those policies
+traditionally linked with domestic issues
+        <xref ref-type="bibr" rid="ref14 ref19 ref20 ref23 ref24 ref25 ref29 ref35 ref8">(Real-Dato et al. 2012; Real-Dato and
+Alarcón 2015)</xref>
+        . However, since 2009 there has been a an increase in the
+percentages of those respondents who prefer issues to be dealt at the EU level. We
+may interpret this as a consequence of the failure of national and subnational
+governments to respond to the main political challenges posed by the financial
+crisis. This effect is general (but not necessarily homogenous) across all kind of
+issues and policies, with two resulting patterns of evolution (see Figure 6).
+      </p>
+      <p>HSR 41 (2016) 4 │ 228
+80
+80
+60
+40
+20
+0
+80
+60
+40
+20
+0
+80
+60
+40
+20
+0
+80
+60
+40
+20
+0
+2009</p>
+      <p>2014
+EU level
+EU + national/regional levels
+National/regional levels</p>
+      <p>Environment
+2007
+2009</p>
+      <p>2014
+EU level
+EU + national/regional levels
+National/regional levels</p>
+      <p>Fight Against Crime
+2007
+2009
+2014
+2007
+2009
+2014
+EU level
+EU + national/regional levels
+National/regional levels
+Health Care Policy
+2007
+2009</p>
+      <p>2014
+EU level
+EU + national/regional levels</p>
+      <p>National/regional levels
+In those issues where political elites where divided regarding which level of
+policymaking should prevail (the EU, the national/regional level, or both),
+there has been an increasing gap in favour of the EU in immigration,
+environment, and fight against crime. Besides, in those policy areas where the
+preferred policymaking level was the nation or the region (fighting unemployment
+and health care policy), there has been a decline in support for those levels of
+government parallel with an increasing preference for the intervention of the
+EU (alone or in coordination with the other levels). One particular case is
+banking and finance regulation, where there is a strong consensus around the
+fundamental role of the EU in this policy area (84%).</p>
+      <p>
+        In some policy issues, preferences regarding which level must prevail in
+terms of policymaking are slightly affected by the party ideology
+        <xref ref-type="bibr" rid="ref14 ref19 ref20 ref24 ref25 ref29 ref35 ref8">(Real-Dato
+and Alarcón 2015)</xref>
+        . Therefore, left-wing MPs give stronger support to the EU
+level than the conservative representatives in issues like the unemployment
+policy (difference +33.8%), environment (+20.2%) or crime (+19.6%), while in
+other issues party differences are less relevant or non-existing.
+      </p>
+      <p>The main exception to this general trend to reinforce the preference for the EU
+as a central policymaking level is the security area, at least if we observe the
+declining support for a so-called European army (Figure 7). While in 2007 the
+preferences in this aspect were clearly in favour of European military
+coordination (with an EU army alone, or also in cooperation with national armies), only
+seven years later the situation is much less clear, with divided opinions
+amongst Spanish MPs. We might interpret these changes as a domestic reaction
+towards the rise of new threats to the national security, particularly the
+destabilization of the Northern African countries, like Libya or Egypt, since the start
+of the Arab Spring, or the crisis in Ukraine, and the failure of the EU to provide
+a unified strong response to these security issues. Party ideology might help to
+explain partially how this evolution has influenced the Spanish elite’s opinions.
+Even though the increase of the support for the national army is consistent in
+both left and right, the preferences for either an EU army alone or for the
+coexistence of armies (European and national) are substantively different along
+party lines: while the left-wing MPs are mostly in favour of a EU army
+compared to the conservatives (48% against 23.3%), the development of a EU army
+in cooperation with national armies is the preferred option for the conservatives
+compared to the socialdemocrats (48.8% against 20%).
+4.3</p>
+      <sec id="sec-7-1">
+        <title>The Projective-Conative Dimension: Perspectives on the Future of the EU</title>
+        <p>Our analysis of the conative dimension includes three aspects of how Spanish
+parliamentarians perceive the future of the European project and its institutions:
+which of the policies traditionally linked to the core of state sovereignty should
+be fully Europeanized, which threats may endanger European integration, and
+how MPs foresee the future of the EU in the long term. These attitudes are
+particularly relevant to understand how the financial crisis and its consequences
+may have changed what elites expect from European integration. As Best,
+Lengyel and Verzichelli state, “the willingness to transfer control over
+important policy areas to a supranational European level rests in a ‘progressive’
+perception of Europe’s destiny and future purpose” (2012, 9).</p>
+        <p>Regarding the Europeanization of core sovereign policies (foreign policy,
+social security, and taxation), the financial crisis has had an impact in how
+Spanish politicians view the political evolution in these specific areas (Figure
+8). Generally, Spanish MPs’ preferences in most of these areas remain stable
+compared with those in 2007 and 2009. It is the case of developing a single
+foreign policy for all the EU members regarding non-EU states (48,1% strongly
+in favour, 43,2% somewhat in favour), or setting a common social security for
+the EU members (28,8% strongly in favour, 58,8% somewhat in favour). There
+are not obviously strong differences along party lines in these policies. But in
+the taxation area, there has been a significant change during the observed
+period. Therefore, if in 2007 the proportion of those in favour of a unified tax
+system was slightly below 75%, in 2014 such percentage increased up to a 85.6%
+(40.5% strongly in favour, 45.6% somewhat in favour, including almost all
+left-wing MPs). In the same vein, there is a strong support for developing a
+system of collectivising the national debt through the issuance of Eurobonds</p>
+        <p>HSR 41 (2016) 4 │ 231
+(39.5% strongly in favour, 53.9% somewhat in favour). In these policies, party
+lines make some slight differences in the intensity of preferences (strongly vs
+somewhat in favour) rather than between supporting or opposing the
+alternatives, being left-wing MPs those who show a more favourable position for
+common European policies.</p>
+        <p>There are also some signs of change in the perceived threats to the EU. In
+particular, some threats have gained relevance since 2007. The more relevant is
+connected to the financial crisis itself and its political consequences: two thirds
+of the respondents think economic differences among states is a big threat to
+the sustainability of the European project in its current form, while the
+corresponding percentage was only 42.1% in 2007. The economic effects of the
+crisis may also spill over the political arena, in the form of the growth of
+nationalist and state-centred positions. Therefore, a 74.1% of the MPs consider a
+big threat that some countries put its national interest first, to the detriment of
+the collective view of the European project. This second indicator was already
+high in 2009 (unfortunately, it was not included in the 2007 survey). This view
+of economic inequalities and self-interested positions in states as threats to the
+EU is not corresponded when considering other issues. Therefore, only 39.2%
+of the interviewees considered the competition from the emerging countries as
+a threat; 25.6% thought the same about immigration from non EU countries,
+and 22.4% considered the enlargement of the EU to Turkey a likely danger.
+These positions clearly depend on the party affiliation of the respondent, with
+left-wing representatives being mostly concerned with economic inequality,
+state self-interest and competition from emerging countries, while right-wing
+MPs were more likely to be concerned with the other issues.</p>
+        <p>Conversely, almost all Spanish MPs dismiss the idea that the EU itself could
+become a potential threat for the national culture and identity (only 2.5%
+agreed), welfare state (13.9%), economic growth (12.7%) or the quality of
+democracy (4.9%).</p>
+        <p>Finally, Figure 9 shows the results concerning the views of Spanish MPs about
+the future general situation of the EU in 10 years. Opinions among Spanish
+MPs are definitely optimistic, though levels of optimism differ depending on
+the aspect of the future in consideration. Thus, while about 85% percent of
+respondents were confident that in 10 years the EU will be politically more
+integrated and its economy will be more robust, this percentages was lower</p>
+        <p>HSR 41 (2016) 4 │ 233
+when considering the future of the EU as a geopolitical power or that
+differences between citizens (60.3% and 68.4%, respectively, were optimistic about
+these issues).</p>
+        <sec id="sec-7-1-1">
+          <title>Conclusion: Stability in the Europeanness of Spanish</title>
+        </sec>
+        <sec id="sec-7-1-2">
+          <title>Parliamentary Elite during the Crisis</title>
+          <p>
+            This article has offered an overview of several aspects of the Spanish political
+elite’s attitudes towards the EU. We have employed the multidimensional
+concept of Europeanness to integrate these views into a common comparative
+analytical framework. The main results confirm that the longstanding
+proEuropean consensus among Spanish national representatives
+            <xref ref-type="bibr" rid="ref19 ref20">(Jerez-Mir et al.
+2015b)</xref>
+            has remained almost unalterable after the harsh period of financial
+crisis and political turbulence. And in those few cases where significant
+changes in the main patterns of perceptions and expectations are detected, these
+changes usually reveal a strengthening of the support to for a more federalist
+view of the European project. Therefore, in 2014 the average level of trust in
+the EP among Spanish MPs was significantly higher than in 2009. Similarly,
+the percentages of respondents who prefer that key policy areas of
+contemporary governance, particularly those that are at the core of the current European
+debate such as taxation, finance, immigration, and environment, are decided
+exclusively by EU institutions increased in 2014 with respect to 2009. Besides,
+this has also become the preferred alternative for a key policy area in the
+domestic arena such as fighting unemployment. In contrast, one of the more
+relevant changes comparing to previous results (in the 2007-2009 IntUne project
+data) is the deterioration of the support to the national/regional level of
+government as crucial reference points for decision-making
+            <xref ref-type="bibr" rid="ref18">(in contrast to what
+was observed by Jerez-Mir et al. 2010, 51)</xref>
+            . However, some negative
+perceptions have gained relevance during the last years, related to the perception that
+European decision-makers or the decision structure of the EU do not take
+enough into account the interests of those countries, such as Spain, more
+affected by the crisis, while the view that some countries carry too much weight
+on EU decision making still persists. This is in line with the perception of
+member states' self-interest and economic inequalities as the most important
+threats to European integration.
+          </p>
+          <p>The pro-EU positions among Spanish MPs is also evidenced when looking
+at their views of the future of the EU in 10 years, where a great majority
+believes Europe will be more integrated and prosperous; and the minority
+represented by those who think the EU constitutes a danger for the country's
+cultural, economic or political systems.</p>
+          <p>This Euro-optimism of the Spanish parliamentary elite may also have less
+positive reading if we look at it from the perspective of the representative role</p>
+          <p>
+            HSR 41 (2016) 4 │ 234
+played by Spanish parliamentary elites. As we have explained in previous
+pages, this pro-EU consensus was built upon the stability of the representation
+of the main political parties (even though some changes in the parliamentary
+balance between PSOE and PP). But this stability has run in parallel to a
+deterioration of some aspects of the (traditionally positive) attitudes of Spanish
+citizens towards the EU. Such deterioration has affected mostly to the levels of
+trust in EU institutions, support for European integration, or the benefits
+obtained from the EU membership
+            <xref ref-type="bibr" rid="ref19 ref20 ref24 ref25">(Real-Dato 2015)</xref>
+            . This differential evolution
+of the views of citizens seems to be producing an increasing gap between these
+and their political representatives. This gap might be partly caused by the
+cognitive differences between elites and the general public mentioned at the
+beginning of this article. But also, it could be an expression of what Peter Mair has
+called the dilemma between responsibility and responsiveness (2013, 140).
+According to this, the emphasis on responsibility by traditional parties to the
+detriment of responsiveness to the electorate might open a growing divide
+between “parties which claim to represent, but don’t deliver, and those which
+deliver, but are no longer seen to represent”
+            <xref ref-type="bibr" rid="ref22">(Mair 2013, 141)</xref>
+            . Unsurprisingly,
+the increasing gap between the positions of Euro-optimistic political elites and
+Euro-critical citizens has developed during a time when both PSOE and PP
+governments implemented very unpopular austerity policies. In this context,
+parties' emphasis on responsibility may have eroded the popular basis of the
+permissive consensus that has prevailed in Spain since its entry in the EEC in
+1986. It could also be argued that the persistence of this gap between parties
+and citizens could pave the way for new parties or political actors thriving on
+popular disatisfaction with the economic and political situation and with a
+nationalist or even Eurosceptic agenda. This might help to understand the
+electoral breakthrough of a new party like Podemos in the 2014 European election,
+which based its campaign in exploiting a highly critical discourse with the
+political class and the austerity policies imposed by the EU, and claiming the
+reinforcement of the role of the national institutions in Europe
+(RodríguezTeruel et al. 2016). This raises interesting prospects about the implications of
+party system change in Spain for the European project. Will the new MPs
+coming from the new parties – mostly from Podemos – accommodate to traditional
+patterns of Europeanness? Or will they transform them aiming to respond to
+dissatisfied voters if the EU’s output-oriented legitimacy continues to
+deteriorate?
+          </p>
+        </sec>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Alonso</surname>
+          </string-name>
+          , Sonia.
+          <year>2013</year>
+          .
+          <article-title>The growing economic and ideological breach between Northern and Southern EU countries is pushing Europe towards a perfect storm</article-title>
+          .
+          <source>Blog LSE Europp 22-7-2013</source>
+          . Available at: &lt;http://blogs.lse.ac.uk/europpblog/ 2013/07/22/the-growing
+          <article-title>-economic-and-ideological-breach-between-northernand-southern-eu-countries-is-pushing-europe-towards-a-perfect-</article-title>
+          <string-name>
+            <surname>storm</surname>
+          </string-name>
+          (
+          <issue>Accessed December 2</issue>
+          ,
+          <year>2016</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Anderson</surname>
+            ,
+            <given-names>Christopher J.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>M. Shawn</given-names>
+            <surname>Reichert</surname>
+          </string-name>
+          .
+          <year>1995</year>
+          .
+          <article-title>Economic Benefits and Support for Membership in the E.U.: A Cross-National Analysis</article-title>
+          .
+          <source>Journal of Public Policy</source>
+          <volume>15</volume>
+          :
+          <fpage>231</fpage>
+          -
+          <lpage>49</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Aspinwall</surname>
+          </string-name>
+          , Mark.
+          <year>2007</year>
+          .
+          <article-title>Government preferences on European integration: an empirical test of five theories</article-title>
+          .
+          <source>British Journal of Political Science</source>
+          <volume>37</volume>
+          :
+          <fpage>89</fpage>
+          -
+          <lpage>114</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Bellamy</surname>
+          </string-name>
+          , Richard.
+          <year>2010</year>
+          .
+          <article-title>Democracy without democracy? Can the EU's democratic “outputs” be separated from the democratic “inputs” provided by competitive parties and majority rule</article-title>
+          ?
+          <source>Journal of European Public Policy</source>
+          <volume>17</volume>
+          :
+          <fpage>2</fpage>
+          -
+          <lpage>19</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Best</surname>
+            , Heinrich,
+            <given-names>György</given-names>
+          </string-name>
+          <string-name>
+            <surname>Lengyel</surname>
+            , and
+            <given-names>Luca</given-names>
+          </string-name>
+          <string-name>
+            <surname>Verzichelli</surname>
+          </string-name>
+          .
+          <year>2012</year>
+          .
+          <article-title>Introduction: European integration as an elite project. In The Europe of Elites: A Study into the Europeanness of Europe's Political and</article-title>
+          Economic Elites, ed.
+          <source>Heinrich Best, György Lengyel and Luca Verzichelli</source>
+          ,
+          <fpage>1</fpage>
+          -
+          <lpage>13</lpage>
+          . Oxford: Oxford University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Bosco</surname>
+            , Anna and
+            <given-names>Susannah</given-names>
+          </string-name>
+          <string-name>
+            <surname>Verney</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          <year>2012</year>
+          .
+          <article-title>Electoral epidemic: the political cost of economic crisis in Southern Europe,</article-title>
+          <year>2010</year>
+          -
+          <fpage>11</fpage>
+          . South European Society and Politics,
+          <volume>17</volume>
+          (
+          <issue>2</issue>
+          ):
+          <fpage>129</fpage>
+          -
+          <lpage>54</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Castells</surname>
+          </string-name>
+          , Manel.
+          <year>2011</year>
+          .
+          <article-title>¿A quién sirve el euro? La Vanguardia</article-title>
+          ,
+          <source>November</source>
+          <volume>12</volume>
+          &lt;http://www.lavanguardia.com/opinion/articulos/20111112/54238067982/aquien-sirve
+          <article-title>-el-euro</article-title>
+          .html&gt;/&gt; (
+          <issue>Accessed December 2</issue>
+          ,
+          <year>2016</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Cordero</surname>
+          </string-name>
+          , Guillermo, and José Ramón Montero.
+          <year>2015</year>
+          . Against Bipartyism, Towards Dealignment?
+          <article-title>The 2014 European Election in Spain</article-title>
+          .
+          <source>South European Society and Politics</source>
+          <volume>20</volume>
+          :
+          <fpage>357</fpage>
+          -
+          <lpage>79</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Cordero</surname>
+            , Guillermo, and
+            <given-names>Pablo</given-names>
+          </string-name>
+          <string-name>
+            <surname>Simón</surname>
+          </string-name>
+          .
+          <year>2016</year>
+          .
+          <article-title>Economic Crisis and Support for Democracy in Europe</article-title>
+          .
+          <source>West European Politics</source>
+          <volume>39</volume>
+          :
+          <fpage>305</fpage>
+          -
+          <lpage>25</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>De Guindos</surname>
+          </string-name>
+          , Luis.
+          <year>2016</year>
+          .
+          <article-title>España amenazada</article-title>
+          . Barcelona: Península.
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Fernández-Albertos</surname>
+          </string-name>
+          ,
+          <year>José</year>
+          .
+          <year>2015</year>
+          . Los Votantes de Podemos: Del partido de los indignados al partido de los excluidos. Libros de la Catarata: Madrid.
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Fernández-Albertos</surname>
+          </string-name>
+          , José. and
+          <string-name>
+            <surname>Ignacio</surname>
+          </string-name>
+          Sánchez-Cuenca.
+          <year>2013</year>
+          .¿
+          <article-title>El euro a toda costa?</article-title>
+          <source>El País May 5</source>
+          ,
+          <year>2012</year>
+          &lt;http://elpais.com/elpais/2012/05/28/ opinion/133 8222442_364553.html&gt; (
+          <issue>Accessed December 2</issue>
+          ,
+          <year>2016</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Fominaya</surname>
+            ,
+            <given-names>Cristina F.</given-names>
+          </string-name>
+          <year>2015</year>
+          . Debunking Spontaneity: Spain's 15-M/Indignados as Autonomous Movement.
+          <source>Social Movement Studies</source>
+          <volume>14</volume>
+          :
+          <fpage>142</fpage>
+          -
+          <lpage>63</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Freire</surname>
+            , André, and
+            <given-names>Catherine</given-names>
+          </string-name>
+          <string-name>
+            <surname>Moury</surname>
+          </string-name>
+          .
+          <year>2015</year>
+          .
+          <article-title>Citizens' and elites' support for the EU, before and after the financial crisis: The Southern European Peripheries (Greece, Portugal, and Spain) in Comparative Perspective</article-title>
+          . In Iberian elites and the EU, ed.
+          <source>Miguel Jerez, José Real-Dato, and Rafael Vázquez</source>
+          ,
+          <fpage>155</fpage>
+          -
+          <lpage>82</lpage>
+          . Granada: Editorial Universidad de Granada.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Gabel</surname>
+          </string-name>
+          , Matthew.
+          <year>1998</year>
+          .
+          <article-title>Public Support for European Integration: An Empirical Test of Five Theories</article-title>
+          .
+          <source>The Journal of Politics</source>
+          <volume>60</volume>
+          :
+          <fpage>333</fpage>
+          -
+          <lpage>54</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Hernández</surname>
+            , Enrique, and
+            <given-names>Hanspeter</given-names>
+          </string-name>
+          <string-name>
+            <surname>Kriesi</surname>
+          </string-name>
+          .
+          <year>2016</year>
+          .
+          <article-title>The electoral consequences of the financial and economic crisis in Europe</article-title>
+          .
+          <source>European Journal of Political Research</source>
+          <volume>55</volume>
+          :
+          <fpage>508</fpage>
+          -
+          <lpage>22</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Hooghe</surname>
+            , Liesbet, and
+            <given-names>Gary</given-names>
+          </string-name>
+          <string-name>
+            <surname>Marks</surname>
+          </string-name>
+          .
+          <year>2009</year>
+          .
+          <article-title>A Postfunctionalist Theory of European Integration: From Permissive Consensus to Constraining Dissensus</article-title>
+          .
+          <source>British Journal of Political Science</source>
+          <volume>39</volume>
+          (
+          <issue>1</issue>
+          ):
+          <fpage>1</fpage>
+          -
+          <lpage>31</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <given-names>Jerez</given-names>
+            <surname>Mir</surname>
+          </string-name>
+          , Miguel,
+          <source>José Real-Dato &amp; Rafael Vázquez García</source>
+          .
+          <year>2010</year>
+          .
+          <article-title>The Perception of the European Union by Political and Economic Elites in Spain</article-title>
+          .
+          <source>South European Society and Politics</source>
+          ,
+          <volume>15</volume>
+          (
+          <issue>1</issue>
+          ):
+          <fpage>35</fpage>
+          -
+          <lpage>56</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <given-names>Jerez</given-names>
+            <surname>Mir</surname>
+          </string-name>
+          , Miguel, José Real-Dato, and Rafael Vázquez Garciía, eds. 2015a.
+          <article-title>Iberian elites and the EU</article-title>
+          .
+          <article-title>Perceptions towards the European integration process in political and socioeconomic elites in Portugal and Spain</article-title>
+          . Granada: Editorial Universidad de Granada.
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <given-names>Jerez</given-names>
+            <surname>Mir</surname>
+          </string-name>
+          , Miguel, José Real-Dato &amp;
+          <article-title>Rafael Vázquez Garciía</article-title>
+          . 2015b.
+          <article-title>Conclusion: Iberian Elites, the European Union and Its future</article-title>
+          .
+          <source>In Iberian elites &amp; the EU</source>
+          .
+          <article-title>Perceptions towards the European integration process in political and socioeconomic elites in Portugal</article-title>
+          and Spain, ed.
+          <source>Jerez Mir</source>
+          ,
+          <article-title>Miguel, José Real-Dato and Rafael Vázquez Garciía</article-title>
+          . Granada: Editorial Universidad de Granada.
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <surname>Jerez</surname>
+          </string-name>
+          , Miguel,
+          <source>José Real-Dato and Juan Rodríguez-Teruel</source>
+          .
+          <year>2016</year>
+          .
+          <article-title>Les élites politiques en Espagne</article-title>
+          . In La démocratie espagnole, ed.
+          <source>Hubert Péres and Christophe Roux</source>
+          ,
+          <fpage>135</fpage>
+          -
+          <lpage>50</lpage>
+          . Rennes: Presses Universitaires de Rennes.
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <surname>Mair</surname>
+          </string-name>
+          , Peter.
+          <year>2013</year>
+          .
+          <article-title>Ruling the void</article-title>
+          .
+          <source>The hollowing of Western Democracy. London: Verso.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>Real-Dato</surname>
+            , José, György Lengyel and
+            <given-names>Borbala</given-names>
+          </string-name>
+          <string-name>
+            <surname>Göncz</surname>
+          </string-name>
+          .
+          <year>2012</year>
+          .
+          <article-title>National elites' preferences on the Europeanization of policy-making. In The Europe of Elites: a Study into the Europeanness of Europe's Economic and</article-title>
+          Political Elites, ed.
+          <source>Heinrich Best, György Lengyel and Luca Verzichelli</source>
+          ,
+          <fpage>67</fpage>
+          -
+          <lpage>93</lpage>
+          . Oxford: Oxford University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>Real-Dato</surname>
+          </string-name>
+          , José and Francisco Javier Alarcón.
+          <year>2015</year>
+          .
+          <article-title>Iberian Elites and their Attitudes Towards the Europeanization of Policy Making. In Iberian elites and the EU, ed</article-title>
+          .
+          <source>Miguel Jerez, José Real Dato and Rafael Vázquez</source>
+          ,
+          <fpage>115</fpage>
+          -
+          <lpage>54</lpage>
+          . Granada: Editorial Universidad de Granada.
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <surname>Real-Dato</surname>
+          </string-name>
+          ,
+          <year>José</year>
+          .
+          <year>2015</year>
+          .
+          <article-title>Evolución de las percepciones sobre la UE de la ciudadanía española y sus representantes durante la crisis de la Eurozona. Unpublished manuscript &lt;www</article-title>
+          .ual.es/personal/jreal/ENEC-2014
+          <source>/ENEC%20España%20report %2020151202.pdf&gt; (Accessed December 2</source>
+          ,
+          <year>2016</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <surname>Real-Dato</surname>
+          </string-name>
+          ,
+          <year>José</year>
+          .
+          <year>2016</year>
+          .
+          <article-title>Proyecto 'European National Elites and the Eurozone Crisis' ENEC-</article-title>
+          <year>2014</year>
+          ).
+          <article-title>Informe de resultados para España en perspectiva comparada</article-title>
+          . Madrid: Real Instituto Elcano.
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <string-name>
+            <surname>Rodríguez-Teruel</surname>
+          </string-name>
+          ,
+          <year>Juan</year>
+          .
+          <year>2013</year>
+          .
+          <article-title>The decline of two-party politics</article-title>
+          .
+          <source>Policy Network November</source>
+          <volume>6</volume>
+          &lt;http://www.policy
+          <article-title>-network.net/pno_detail.aspx? ID=4513&amp;title= The-decline-of-two-party-politics&gt; (December 2,</article-title>
+          <year>2016</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <string-name>
+            <surname>Rodríguez-Teruel</surname>
+          </string-name>
+          ,
+          <year>Juan</year>
+          .
+          <year>2014</year>
+          .
+          <article-title>Spain's two-party system in disarray</article-title>
+          .
+          <source>Policy Network, May</source>
+          <volume>28</volume>
+          &lt;http://www.policy
+          <article-title>-network.net/pno_detail.aspx ?ID=4658 &amp;title=Spains-two-party-system-in-disarray&gt; (Accessed December 2</article-title>
+          ,
+          <year>2016</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <surname>Rodríguez-Teruel</surname>
+            , Juan and
+            <given-names>Astrid</given-names>
+          </string-name>
+          <string-name>
+            <surname>Barrio</surname>
+          </string-name>
+          .
+          <year>2015</year>
+          .
+          <article-title>Going National: Ciudadanos From Catalonia to Spain. South European Society</article-title>
+          and Politics. First published online &lt;http://tandfonline.com/doi/abs/
+          <pub-id pub-id-type="doi">10.1080/13608746.2015.1119646?journalCode=f</pub-id>
+          ses20&gt; (
+          <issue>Accessed December 2</issue>
+          ,
+          <year>2016</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <string-name>
+            <surname>Rodríguez-Teruel</surname>
+            , Juan, Astrid Barrio and
+            <given-names>Oscar</given-names>
+          </string-name>
+          <string-name>
+            <surname>Barberà</surname>
+          </string-name>
+          .
+          <year>2016</year>
+          .
+          <article-title>Fast and Furious: Podemos' Quest for Power in Multilevel Spain</article-title>
+          .
+          <source>South European Society and Politics</source>
+          . First published online &lt;http://www.tandfonline.com/doi/ full/10. 1080/13608746.
+          <year>2016</year>
+          .
+          <volume>1250397</volume>
+          &gt;/&gt; (
+          <issue>Accessed December 2</issue>
+          ,
+          <year>2016</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          <string-name>
+            <given-names>Ruiz</given-names>
+            <surname>Jiménez</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Antonia</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          and Antonio Egea de Haro.
+          <year>2011</year>
+          .
+          <article-title>Spain: Euroscepticism in a Pro-European Country?</article-title>
+          <source>South European Society and Politics</source>
+          <volume>16</volume>
+          (
+          <issue>1</issue>
+          ):
+          <fpage>105</fpage>
+          -
+          <lpage>31</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <string-name>
+            <surname>Sanchez-Cuenca</surname>
+          </string-name>
+          ,
+          <year>Ignacio</year>
+          .
+          <year>2000</year>
+          .
+          <article-title>The Political Basis of Support for European Integration</article-title>
+          .
+          <source>European Union Politics</source>
+          <volume>1</volume>
+          (
+          <issue>2</issue>
+          ):
+          <fpage>147</fpage>
+          -
+          <lpage>71</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          <string-name>
+            <surname>Sánchez-Cuenca</surname>
+          </string-name>
+          ,
+          <year>Ignacio</year>
+          .
+          <year>2001</year>
+          .
+          <article-title>Un análisis de la opinión pública española ante la integración europea</article-title>
+          .
+          <source>Unpublished manuscript</source>
+          . Madrid: Fundación Juan March.
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          <string-name>
+            <surname>Scharpf</surname>
+          </string-name>
+          , Fritz.
+          <year>1999</year>
+          . Governing in Europe: Effective and Democratic? Oxford: Oxford University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          <string-name>
+            <surname>Sojka</surname>
+            , Aleksandra, Rafael Vázquez-García and
+            <given-names>Miguel</given-names>
+          </string-name>
+          <string-name>
+            <surname>Jerez-Mir</surname>
+          </string-name>
+          .
+          <year>2015</year>
+          .
+          <article-title>Still eurooptimists? European identity among Spanish and Portuguese elites and public opinion</article-title>
+          .
+          <source>In Iberian elites &amp; the EU</source>
+          ,
+          <string-name>
+            <surname>ed</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Jerez</surname>
+            ,
+            <given-names>J. Real</given-names>
+          </string-name>
+          <string-name>
+            <surname>Dato</surname>
+            and
+            <given-names>R.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Vázquez</surname>
+          </string-name>
+          . Granada: Editorial Universidad de Granada.
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          <string-name>
+            <surname>Szmolka</surname>
+          </string-name>
+          , Inmaculada.
+          <year>2008</year>
+          . El apoyo de los españoles al proceso de
+          <article-title>integración europea: factores afectivos, utilitaristas y políticos</article-title>
+          .
+          <source>Revista Española de Investigaciones Sociológicas</source>
+          <volume>122</volume>
+          :
+          <fpage>55</fpage>
+          -
+          <lpage>88</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          <string-name>
+            <surname>Teixeira</surname>
+            ,
+            <given-names>Conceição P.</given-names>
+          </string-name>
+          , Emanouil Tsatsanis and
+          <string-name>
+            <surname>Ana M. Belchior</surname>
+          </string-name>
+          .
+          <year>2016</year>
+          .
+          <article-title>A “necessary evil” even during hard times? Public support for political parties in Portugal before and after the bailout (2008 and 2012</article-title>
+          ).
+          <source>Party Politics</source>
+          <volume>22</volume>
+          :
+          <fpage>719</fpage>
+          -
+          <lpage>31</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          <string-name>
+            <surname>Urquizu</surname>
+          </string-name>
+          , Ignacio.
+          <year>2015</year>
+          . La crisis de representación en España. Madrid: Los Libros de la Catarata.
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          <string-name>
+            <surname>Vázquez</surname>
+            , Rafael,
+            <given-names>Santiago</given-names>
+          </string-name>
+          <string-name>
+            <surname>Delgado</surname>
+            , and
+            <given-names>Alexandra</given-names>
+          </string-name>
+          <string-name>
+            <surname>Sojka</surname>
+          </string-name>
+          .
+          <year>2014</year>
+          .
+          <article-title>Spain. In Party Attitudes Towards the EU in the Member States: parties for Europe, parties against Europe, ed</article-title>
+          .
+          <source>Nicolò Conti</source>
+          ,
+          <fpage>99</fpage>
+          -
+          <lpage>114</lpage>
+          . London: Routledge.
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

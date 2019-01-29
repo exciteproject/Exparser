@@ -1,0 +1,8 @@
+"Chambers, R. L. (1996). Robust Case-Weighting for Multipurpose Establishment Surveys. Journal of Official Statistics, 12(1), 3-32."
+"Deming, E. & Stephan, F. (1940). On a Least Square Adjustment of a Sampled Frequency Table when Expected Marginal Totals are known. The Annals of Mathematical Statistics, 11, 427-444."
+"Hartung, J. & Elpelt B. (1986). Multivariate Statistik. Lehr- und Handbuch der angewandten Statistik. München, Wien: Oldenbourg."
+"Merz, J. (1993). ADJUST. Ein Programmpaket zur Hochrechnung von Mikrodaten nach dem Prinzip des minimalen Informationsverlustes. Programm-Handbuch. FFBDokumentation Nr. 1."
+"Merz, J. (2004). Kumulation von Mikrodaten – Konzeptionelle Grundlagen und ein Vorschlag zur Realisierung. Allgemeines Statistisches Archiv, 88, 451-472."
+"Rao, J. N. K. & Singh, A. C. (1997). A Ridge-Shrinkage Method for Range Restricted Weight Calibration in Survey Sampling. In Proceedings of the Section on Survey Research Methods (pp. 57-65). Alexandria, VA: American Statistical Association."
+"Rösch, G. (1994). Kriterien der Gewichtung einer nationalen Bevölkerungsstichprobe. In: S. Gabler et al. (Eds.), Gewichtung in der Umfragepraxis (pp. 7-26). Opladen: Westdeutscher Verlag."
+"Von der Heyde, C. (1999). Techniken und Möglichkeiten der Realisierung von RandomStichproben. In: ADM Arbeitskreis Deutscher Markt- und Sozialforschungsinistitute e.V./AG.MA Arbeitsgemeinschaft Media-Analyse e.V. (Eds.), Stichproben-Verfahren in der Umfrageforschung, Eine Darstellung für die Praxis (pp. 35-60). Opladen: Leske + Budrich."

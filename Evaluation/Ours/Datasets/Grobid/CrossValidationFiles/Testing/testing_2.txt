@@ -1,0 +1,10 @@
+1001_jgm0011-0486_J_Gene_Med_2009_Jun_11(6)_486-497.references.tei.xml
+1011_12308_2009_Article_48_J_Hematop_2009_Sep_26_2(4)_205-210.references.tei.xml
+1026_1476-9255-8-11_J_Inflamm_(Lond)_2011_May_3_8_11.references.tei.xml
+1037_1550-2783-8-7_J_Int_Soc_Sports_Nutr_2011_May_19_8_7.references.tei.xml
+1039_jksc-27-5_J_Korean_Soc_Coloproctology_2011_Feb_28_27(1)_5-12.references.tei.xml
+1066_239_2010_Article_9405_J_Mol_Evol_2011_Jan_18_72(1)_90-103.references.tei.xml
+110_cm0068-0001_Cytoskeleton_(Hoboken)_2011_Jan_10_68(1)_1-7.references.tei.xml
+123_427_2011_Article_354_Dev_Genes_Evol_2011_May_12_221(1)_1-16.references.tei.xml
+135_dme0028-0731_Diabet_Med_2011_Jun_28(6)_731-740.references.tei.xml
+148_dddt-5-241_Drug_Des_Devel_Ther_2011_May_2_5_241-254.references.tei.xml

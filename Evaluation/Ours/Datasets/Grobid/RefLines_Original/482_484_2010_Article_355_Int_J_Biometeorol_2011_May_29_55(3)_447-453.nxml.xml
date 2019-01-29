@@ -1,0 +1,15 @@
+[1] G. N. Hounsfield, “Computerized transverse axial scanning (tomography) .1. Description of system (reprinted from British-Journal-of-Radiology, vol 46, pg. 1016–1022, 1973),” The British Journal of Radiology, vol. 68, no. 815, pp. H166– H172, 1995.
+[2] D. Bharkhada, G. Wang, H. Yu, H. Liu, and R. Plemmons, “Line-source based X-ray tomography,” International Journal of Biomedical Imaging, vol. 2009, Article ID 534516, 8 pages, 2009.
+[3] L. Yang, Y. Lu, and G. Wang, “Compressed sensing based image reconstruction from overlapped proejctions,” International Journal of Biomedical Imaging, vol. 2010, Article ID 284073, 8 pages, 2010.
+[4] J. Zhang, G. Yang, Y. Lee, et al., “Multiplexing radiography for ultra-fast computed tomography: a feasibility study,” Medical Physics, vol. 34, no. 6, pp. 2527–2527, 2007.
+[5] B. De Man, N. J. Pelc, C. Dumoulin, and T. Bernstein, “Prop- agation of quantum noise in multiplexed x-ray imaging,” in Medical Imaging 2008: Physics of Medical Imaging, J. Hsieh and E. Samei, Eds., Proceedings of SPIE, San Diego, Calif, USA, 2008, Paper no. 69131U.
+[6] Y. Lu, “Multi-beam field emission x-ray system and its reconstruction algorithm,” Medical Physics, vol. 37, no. 7, pp. 3773–3781, 2010.
+[7] D. L. Donoho, “Compressed sensing,” IEEE Transactions on Information Theory, vol. 52, no. 4, pp. 1289–1306, 2006.
+[8] E. J. Candès, J. Romberg, and T. Tao, “Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information,” IEEE Transactions on Information Theory, vol. 52, no. 2, pp. 489–509, 2006.
+[9] C. G. Ji, H. Y. Yu, and G. Wang, “Compressive sensing CT reconstruction with distributed x-ray sources and very few projection views,” in draft, 2010.
+[10] L. Landweber, “An iteration formula for Fredholm integral equations of the first kind,” American Journal of Mathematics, vol. 73, pp. 615–624, 1951.
+[11] G. Wang and M. Jiang, “Ordered-subset simultaneous algebraic reconstruction techniques (OS-SART),” Journal of X- Ray Science and Technology, vol. 12, no. 3, pp. 169–177, 2004.
+[12] M. Jiang and G. Wang, “Convergence studies on iterative algorithms for image reconstruction,” IEEE Transactions on Medical Imaging, vol. 22, no. 5, pp. 569–579, 2003.
+[13] M. Jiang and G. Wang, “Development of iterative algorithms for image reconstruction,” Journal of X-Ray Science and Technology, vol. 10, no. 1-2, pp. 77–86, 2002.
+[14] I. Daubechies, M. Fornasier, and I. Loris, “Accelerated projected gradient method for linear inverse problems with sparsity constraints,” Journal of Fourier Analysis and Applications, vol. 14, no. 5-6, pp. 764–792, 2008.
+[15] I. Daubechies, M. Defrise, and C. De Mol, “An iterative thresholding algorithm for linear inverse problems with a sparsity constraint,” Communications on Pure and Applied Mathematics, vol. 57, no. 11, pp. 1413–1457, 2004.

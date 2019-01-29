@@ -1,0 +1,2259 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Empfohlene Zitierung / Suggested Citation:
+Abu Abdulla, Abdel Aziz M. ; Al Shobaki, Mazen J. ; Abu Naser, Samy S.: The Reality of Integrating the Dimensions of
+Computerized Health Information Systems in Dar Al-Shifa Medical Complex. In: International Journal of Engineering
+and Information Systems</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">2000-000X</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="urn">http://nbn-resolving.de/urn:nbn:de:0168-ssoar-55386-7</article-id>
+      <title-group>
+        <article-title>The Reality of Integrating the Dimensions of Computerized Health Information Systems in Dar Al-Shifa Medical Complex</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Abu Abdulla</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Abdel Aziz M.</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Al Shobaki</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Mazen J.</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Abu Naser</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Samy S.</string-name>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Veröffentlichungsversion / Published Version</string-name>
+        </contrib>
+      </contrib-group>
+      <pub-date>
+        <year>2000</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>2017</issue>
+      <fpage>80</fpage>
+      <lpage>104</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="./data/testing/2/55386.images/img_1_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data/testing/2/55386.images/img_1_2.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data/testing/2/55386.images/img_1_3.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data/testing/2/55386.images/img_1_4.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>Nutzungsbedingungen:
+Dieser Text wird unter einer CC BY Lizenz (Namensnennung) zur
+Verfügung gestellt. Nähere Auskünfte zu den CC-Lizenzen finden
+Sie hier:
+https://creativecommons.org/licenses/by/1.0/deed.de
+Terms of use:
+This document is made available under a CC BY Licence
+(Attribution). For more Information see:
+https://creativecommons.org/licenses/by/1.0</p>
+      <p>The Reality of Integrating the Dimensions of
+Computerized Health Information Systems in Dar
+Al</p>
+      <p>Shifa Medical Complex</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Abdel Aziz M. Abu Abdulla1, Mazen J. Al Shobaki2, Samy S. Abu Naser3</title>
+      <p>1Ahli Arab Hospital in Gaza, Gaza, Palestine
+2 3Department of Information Technology, Faculty of Engineering and Information Technology, Al-Azhar</p>
+      <p>University, Gaza, Palestine
+1azizmorshed793@gmail.com, 2mazen.alshobaki@gmail.com, 3abunaser@alazhar.edu.ps
+Abstract: The objective of the research is to identify the reality of integrating the dimensions of computerized health
+information systems in Dar Al-Shifa Medical Complex. The researchers used the questionnaire method to collect
+data. The researchers used the random stratified sample method, where 30 samples were distributed to test the
+internal consistency, structural validity and consistency of the questionnaire. After verifying the validity and
+reliability of the questionnaire for the test, (220) questionnaires were distributed to the study community. A total of
+197 responses were retrieved with a return rate equal to (89.5%).</p>
+      <p>The results showed that there were no statistically significant differences between the averages of the sample of the
+study on these areas and the domains combined due to the variables of (gender), (qualification), (place of work),
+(years of service), (Job title). The results showed that there were statistically significant differences between the
+mean of the sample of the study on these areas due to age for the benefit of those aged 40 years and over. The
+results confirmed that there are statistically significant differences between the averages of the sample estimates of
+the study on this field due to the nature of the work in favor of those whose nature is administrative. The results
+showed that there are statistically significant differences between the average of the sample of the study sample on
+these two fields due to the years of service in favor of those who have served for 10 years or more.
+The study reached a number of recommendations including: The need to establish a specialized department of
+computerized health information systems, with clear responsibilities, and includes technical and administrative
+specialists and health personnel in the number and efficiency required, working as a team to implement mechanisms
+of work in computerized health information systems and have direct contact with staff in clinics and divisions to
+provide services and technical support as soon as possible with the best quality. Increase the support provided by
+senior management to users by encouraging them to use computerized health information systems and
+understanding their different needs. Interest in providing the material resources of the equipment and equipment
+used in the computerized health information system. The need to use database systems in the administrative and
+medical decisions in clinics and sections that have an impact in raising the effectiveness of decisions by improving
+the quality.
+1. INTRODUCTION</p>
+      <p>Medical decisions face many challenges and difficulties because the volume of information and knowledge that
+doctors and decision-makers in hospitals and health care centers must deal with on an ongoing basis has grown to a
+point where it has become difficult to deal with them in purely traditional ways. Limits the intellectual capacity of
+the human being and increases the analytical and predictive capabilities necessary in decision-making processes,
+thereby increasing the efficiency and effectiveness of collection, storage, sorting and retrieval of information, and
+raising the analytical capacity to evaluate and process information and alternatives Different times help to save time
+and effort for making different decisions.</p>
+      <p>
+        Computerized health information systems have become a major issue of concern to all managers in health
+organizations. Health information systems and technology have brought distances far beyond human reach, and have
+enabled the storage of digital, text, audio and images. This helps to provide information that is very important to
+decision-makers. Health information systems play an important role in the practical life of health workers. They
+support them in identifying their training needs, continuing education and scientific research, Life, and the most
+important applications of health information systems are hospital information management systems, telemedicine
+and medical and administrative decision support systems
+        <xref ref-type="bibr" rid="ref37">(Tan, 2005)</xref>
+        .
+      </p>
+      <p>
+        The hospitals and specialized centers and health centers of the General Administration of Primary Care are the main
+provider of health services to the public of patients and citizens. The General Directorate of Hospitals is responsible
+for organizing the work of hospitals and monitoring the performance and providing the necessary means while
+regulating the relationship with other departments in the Ministry of Health and parallel departments. The aim is to
+integrate work among all hospitals, distribute competencies and manpower, and provide the service at a decent level
+to all citizens by the most accessible means (www.moh.gov.ps).
+2. PROBLEM STATEMENT
+The Ministry of Health is one of the most vital ministries for its services and for the important tasks of citizens such
+as hospital administration, treatment of citizens, primary care clinics, disease prevention and other tasks.
+        <xref ref-type="bibr" rid="ref7">(Abu Sabt,
+2005)</xref>
+        stressed the need to continue and enhance the development and upgrading of administrative information
+systems, according to modern technological developments, and study of Ahmed (2007), which studied the role of
+accounting information systems in rationalizing administrative decisions in Palestinian business establishments and
+its emphasis on the need to expand the use of information systems and their role in planning operations and
+administrative decisions. The study of
+        <xref ref-type="bibr" rid="ref23">(Al-Shurafa, 2004)</xref>
+        state that there is a need for planning programs to
+introduce medical information systems and benefit from technology.
+3. RESEARCH QUESTION
+4. RESEARCH OBJECTIVES
+Q1: What is the reality of integrating the dimensions of computerized health information systems in Dar Al-Shifa
+Medical Complex?
+The purpose of this study is to highlight the reality of the integration of the dimensions of computerized health
+information systems in Dar Al-Shifa Medical Complex, and from the problem of the study and its questions, the
+following objectives can be identified:
+ To highlight the importance of computerized health information systems Dar Al-Shifa Medical Complex.
+ Identification of differences between the responses of respondents attributed to the personal variables (gender,
+age, academic qualification, nature of work, place of work, years of service, job title) in Dar Al-Shifa Medical
+Complex.
+ Provide some suggestions and recommendations that may contribute to improving the use of computerized
+health information systems at Dar Al-Shifa Medical Complex.
+5. RESEARCH IMPORTANCE
+
+
+
+
+
+      </p>
+      <p>The importance of this study stems from the fact that it is an important beginning to identify the reality of
+integrating the dimensions of computerized health information systems in Dar Al-Shifa Medical Complex.
+This study may contribute to the results of the study in a number of practical aspects that concern the senior
+leaders, planners and officials, through providing them with reliable and documented data derived from field
+studies, in a more comprehensive and objective scientific manner.</p>
+      <p>This study is a serious contribution to the identification of the efficiency of computerized health information
+systems in the Dar Al-Shifa Medical Complex, which is an important topic for decision-makers and
+policymakers.</p>
+      <p>The importance of the study is practical in terms of its attempt to identify the weaknesses and deficiencies in
+computerized health information systems in Dar Al-Shifa Medical Complex.</p>
+      <p>The study may serve to open important research areas for researchers in the field of health information systems,
+which will have a good impact on the activation and development of this important field in the administrative
+sciences, so it is considered an important reference for the concerned and scholars in the research fields of
+professors and students.
+6. RESEARCH HYPOTHESIS
+In order to provide an appropriate answer to the questions posed, the study seeks to test the validity of the following
+assumptions:
+H01: There were statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of computerized health information systems due to the demographic variables
+(gender, age, academic qualification, nature of work, place of work, years of service, job title) Medical - Gaza
+It has the following sub-assumptions:
+H01-1: There are statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex due to gender.</p>
+      <p>H01-2: There are statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex due to age.</p>
+      <p>H01-3: There are statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex attributed to the scientific qualification.</p>
+      <p>H01-4: There are statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex due to the nature of the work.</p>
+      <p>H01-5: There are statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex attributed to the workplace.</p>
+      <p>H01-6: There were statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex due to the years of service.</p>
+      <p>H01-7: There are statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex attributed to the job title.
+7. RESEARCH LIMITS AND SCOPE
+
+
+
+
+</p>
+      <p>Subject Limit (Academic): The study was limited in its objective to study the reality of integrating the
+dimensions of computerized health information systems in Dar Al-Shifa Medical Complex.</p>
+      <p>Human Limit: The study was conducted on the staff of the Dar Al-Shifa Medical Complex in the Gaza Strip.
+Institutional Limit: The study was conducted at Dar Al-Shifa Medical Complex.</p>
+      <p>Spatial Limit: The study was conducted in the State of Palestine, and was confined to the Dar Al-Shifa Medical
+Complex in Gaza.</p>
+      <p>Timetable: The study was conducted in 2017.
+8. LITERATURE REVIEW
+
+</p>
+      <p>
+        Study of
+        <xref ref-type="bibr" rid="ref15">(Al-Gharabawy, 2014)</xref>
+        aimed at identifying computerized health information systems and their relation
+to job performance. A field study on UNRWA's primary health care centers in the Gaza Strip. The study
+reached several results, the most important of which is: Related to the use of computerized health information
+systems, applications of computerized health information systems used, and the level of functional performance
+of health center personnel. And the existence of a positive relationship between computerized health
+information systems and the level of functional performance of workers in health centers.
+      </p>
+      <p>
+        Study of
+        <xref ref-type="bibr" rid="ref2">(Abu Kareem, 2013)</xref>
+        , which aimed to identify the relationship of management information systems in
+improving the administrative performance in the NGOs in the Gaza Strip. The study concluded that the devices
+are the most information systems that improve administrative performance, the results indicated that the Board
+of Directors supervises and sets the policy for the institution. The results revealed that the IT department is
+responsible for the equipment for storing the data. There is an agreement by the managers that the respondents
+can identify and judge that there is an IT department in the organization. The results showed that the response
+from the system staff is high and that the response to maintenance by the system staff is high. The equipment
+used is currently one of the best and the latest technology available. The results showed that the management
+and operation of the databases have the ability to add and modify, and that the management and operation of
+databases are characterized by the ability to store, the existence of statistically significant differences between
+the relationships of administrative information systems in improving administrative performance due to variable
+years of service.
+      </p>
+      <p>
+        Study of
+        <xref ref-type="bibr" rid="ref14 ref16 ref20">(Al-Dweik, 2010)</xref>
+        aimed at determining the implications of the use of computerized health information
+systems on the decision-making processes of the European Gaza Hospital, and determining the differences
+between these effects on administrative decisions compared to medical decisions. The study also aimed at
+analyzing the actual reality of the use of computerized health information systems in various departments and
+the effects of using these systems on the fields of administrative and medical work. It also aimed to identify the
+main obstacles and problems that limit their effectiveness, and identify the most important types of these
+systems in terms of use. The study found that the number of members of the administrative and medical sample
+who use computerized health information systems in their work was 121 out of 128 individuals (94.5%). The
+descending order of types of computerized information systems used at the Gaza European Hospital is as
+follows: functional information systems, office automation systems, document management, decision support
+systems and top management information systems, messaging systems. The study showed that the computerized
+health information system currently used in the European Gaza Hospital has a good impact on the fields of
+medical and administrative work as well as medical and administrative decisions. There are differences between
+the levels of impact of computerized health information systems on administrative decisions compared to
+medical decisions and differences in favor of administrative decisions. The study also showed that there are
+obstacles that limit the effectiveness of health information systems, the most important of which are: weak
+funds required, lack of adequate training, lack of vision towards the need for comprehensive planning of
+electronic health applications.
+      </p>
+      <p>
+        Study of
+        <xref ref-type="bibr" rid="ref14 ref16 ref20">(Al-Halabi, 2010)</xref>
+        aimed at measuring the appropriateness of computerized information systems and
+their impact on decentralization in the Ministry of Finance in the Gaza Strip. In order to achieve the objectives
+of the study, a questionnaire was designed and developed for the purpose of collecting data and measuring study
+variables. The sample consisted of (104) employees, 79 of which were retrieved, and the statistical package
+(SPSS) was used to perform the statistical analysis of this study using the following statistical methods:
+descriptive statistics, Siperman correlation coefficient and analysis of variance. The study found that the
+requirements of computerized administrative information systems (physical, software, human, organizational)
+are highly efficient from the point of view of the respondents. There is also a statistically significant relationship
+between the computerized and decentralized administrative information systems in the Ministry of Finance in
+the Gaza Strip. The study indicates that there is no statistically significant relationship on "the impact of
+computerized administrative information systems on decentralization in the Ministry of Finance in the Gaza
+Strip" due to the demographic variables (gender, age, experience, job qualification, scientific level).
+Study of
+        <xref ref-type="bibr" rid="ref19 ref33 ref34 ref35">(Al-Omari, 2009)</xref>
+        , which aimed to identify the impact of Computerized Information Systems on the
+performance of the employees of the Palestinian Telecommunications Company. To achieve the objectives of
+the study, a questionnaire was designed and developed consisting of (60) paragraphs for the purpose of
+collecting data and measuring the variables of the study. The study reached a number of results, the most
+important of which were: The existence of a statistically significant effect on the operation and management
+requirements of the administrative information systems (physical, software, human, organizational) on the
+performance of the employees of the company, Respondents on the subject of the study are attributed
+Demographic variables (level of the scientific, years of experience, workplace, career level), and the presence of
+a good level of physical supplies, and the existence of a good level of human supplies and the presence of a
+good level of supplies software and the existence of a good level of regulatory requirements.
+      </p>
+      <p>
+        Study of
+        <xref ref-type="bibr" rid="ref26">(Arafat, 2007)</xref>
+        , the study aimed to assess the administrative requirements for the optimal use of
+decision support systems in the ministries of the Palestinian Authority - Gaza. Study population consisted of the
+largest two ministries operating in the Gaza Strip (Ministry of Education and Ministry of Health). The
+questionnaire was used as a tool for collecting study data. The study found several results, the most important of
+which are: There is a need to improve the perception regarding the main administrative areas in the
+governmental sector institutions in the Gaza Strip (Human resources - Organizational and administrative
+structure - Managing work processes - Controlling change - Discipline and inadequate human resources system
+in sector institutions Governmental organizations in the Gaza Strip) in order to facilitate the optimal use of the
+decision support system and the administrative structure of government sector institutions is reasonably
+acceptable, and with regard to facilitating the optimal use of decision support systems and OMS, the
+government sector is reasonably adequate in terms of facilitating the optimal use of decision support and
+discipline systems in government sector institutions, and there are differences in managers' attitudes towards
+assessing administrative requirements towards optimal use of decision support systems in relation to age, In
+order to facilitate the optimal use of decision support systems.
+
+
+
+
+
+      </p>
+      <p>
+        Study of
+        <xref ref-type="bibr" rid="ref22">(Al-Saudi, 2006)</xref>
+        , the aim of this study was to investigate the impact of Computerized Information
+Systems on the performance of employees in the Social Security Institution. Data were distributed to the 369
+members of the sample. The statistical methods were used to analyze the data. Statistical methods were used to
+determine the perceptions of the sample members of the dimensions of information systems and performance,
+the study model and the effect of independent variables on the dependent variable and the analysis of the single
+variance. The study reached several results, the most important of which are: The perceptions of the respondents
+regarding the requirements of operating the information system were high. The respondents' perceptions of the
+job performance came to a medium degree. The impact of the main requirements for the management and
+operation of the computerized, software, human, and organizational information system in the job performance.
+The study showed that there are statistically significant differences in respondents' perceptions of the
+requirements of operating the information system, due to the demographic variables (gender, age, academic
+qualification, experience, and career level).
+      </p>
+      <p>
+        Study of
+        <xref ref-type="bibr" rid="ref7">(Abu Sabt, 2005)</xref>
+        which aimed to assess the role of these systems in the decision-making process of
+decision makers in Palestinian universities in the Gaza Strip. The study reached a number of results, the most
+important of which is that the current information systems do not rise to expert systems where they do not
+provide solutions to problems. And not to provide external statistical information and lack of direct contact with
+the centers of statistics inside or outside the country. And that they have competence and managerial and
+technical expertise that are very commensurate with the work assigned to them. And that the devices used in
+universities are modern and highly efficient in Palestinian universities. And that there is a positive relationship
+between the quality of information and the use of information systems in the decision-making process. And that
+the programs used help to the flexible exchange of information among users of the system and the presence of
+modern techniques in the systems used, including technical. And that there is a strong relationship between the
+organizational level and the quality of decisions.
+      </p>
+      <p>
+        Study of
+        <xref ref-type="bibr" rid="ref30">(Ghoneim, 2004)</xref>
+        , which aimed to identify the role of Computerized Information Systems in the
+decision-making process in the municipalities of the Gaza Strip. The study consisted of (11) municipalities in
+the Gaza Strip. The study found several results, the most important of which are: a strong positive relationship
+between the availability of the computerized management information systems infrastructure and the production
+and use of information needed for decision making, the weak ability of the information system to cover aspects
+of work including the material potential, the organizational level is suitable for the beneficiaries of the system,
+The existence of clear plans for the functioning of the computerized administrative information system is a
+major obstacle that hinders the implementation and development of administrative information systems in the
+municipalities, and recommended the need for infrastructure, including human resources.
+9. COMPUTERIZED HEALTH INFORMATION SYSTEMS
+The World Health Organization (WHO) defined the computerized health information system as "the science of
+acquiring, preserving, retrieving and applying biomedical knowledge and information to improve patient care,
+education, research and management, as well as the WHO Regional Office for the Eastern Mediterranean" The use
+of computing, networking and communication technology methodologies to support health-related areas such as
+medicine, nursing and management (www.emro.who.int). This definition covers a wide range covering the
+following areas: conservation, processing, retrieval and exchange of information Administrative and medical
+decisions Support for administrative and medical decisions Save the radiological image analysis and clinical signs
+electronically Provide scientific models and telemedicine, defined in the Scientific Encyclopedia of Information
+Systems As information systems consisting of computer hardware, software, procedures and processes specifically
+designed to collect, process, store and manage information related to health care delivery, in order to support
+Medical Management
+        <xref ref-type="bibr" rid="ref39">(Wickramasinghe&amp; Geisler, 2008)</xref>
+        .
+      </p>
+      <p>
+        The health organizations exercise their functions in a specific organizational environment and within a framework or
+organizational structure with its characteristics and specifications. Within this regulatory framework, medical,
+therapeutic, preventive and various administrative aspects that serve the medical and health aspects Jad AL-Rab
+(2009), Al-Dweik (2010) defined it as a set of elements, procedures and means that record, process, save, retrieve
+and distribute information to support health care organizations where this information can be divided into health
+information and management information. "Health information systems in the scientific encyclopedia are defined as
+information systems Consisting of Computer hardware, software, procedures and processes specifically designed to
+collect, process, store, and manage information related to health care delivery, to support medical and administrative
+decisions
+        <xref ref-type="bibr" rid="ref39">(Geisler&amp; Wickramasinghe, 2008)</xref>
+        . Wager et al. Sub-systems consist of information, processes, people,
+and IT systems that interact with each other to support a health care organization.
+Dimensions of computerized health information systems:
+1. Types of health information systems used:
+      </p>
+      <p>A. Medical Information System (MIS)
+Jad AL-Rab (2009), is an important subsystem that makes the overall system of the hospital a meaningful social and
+human organization. Therefore, this system affects the overall performance of the hospital, without information that
+is not made, and without information, there is no communication the author is not overly efficient. He says that
+without information, there is no effective organization. The information is the clean blood flowing, which stimulates
+the arteries and veins of multiple and interconnected organizations, and the importance of medical information
+systems in raising the efficiency of medical and organizational performance in health organizations.</p>
+      <p>
+        B. Medical Records Information System and its benefits for health organizations:
+The concept of JAD AL-Rab (2009) is a concept developed in the field of information systems in general and in the
+area of health organization management in particular. It is defined as "one of the integrated information systems of
+the hospital-wide integrated information system Data on the disease as well as on the units and departments
+responsible for the provision of therapeutic and medical services in the hospital and then tabulation, operation,
+treatment, storage and retrieval of the data to be used primarily in the decision-making and medical use for the
+purposes of legal education and training and guidance of the Medical Authority and My research, medical and
+administrative studies in health organizations.
+2. Equipment and devices used:
+The devices as defined by
+        <xref ref-type="bibr" rid="ref19 ref33 ref34 ref35">(Kundalji and Al-Janabi, 2009)</xref>
+        include all the various types of physical components and
+media used in the processes in which the data and information pass. The hardware or hardware does not include
+computers and other devices, but also all the media and visible objects on which data are recorded Pages and pieces
+of paper to extract information onto magnetic or optical disks.
+3. The databases used
+Al-Najjar (2005) stated that databases are a logical organization of clusters of interconnected files where data are
+integrated and inter-related, making it easy to find information to achieve the desired objectives, and data are
+arranged and stored in a typical way Data avoidance is avoided.
+4. Networks:
+The networks include long-range communications and communications technologies, and various types of networks,
+such as the Internet, intranet, and extranets, which have become important in managing successful e-business and
+business operations of all kinds, through its Kundalji and Al- Janabi, (2009). Local networks use cables of various
+types, including dual-channel telephone wires, single or multichannel cable and high-performance fiber optics
+        <xref ref-type="bibr" rid="ref13 ref18 ref21">(AlSalmi and Al-Salmi, 2005)</xref>
+        .
+5. Supporting senior management:
+The effectiveness of the system depends on the support of the senior management of the organization served by the
+system, whether at the level of data inputs or the level of its policy outputs and without support at the level of either
+system does not lead
+        <xref ref-type="bibr" rid="ref17">(Al-Moghrabi, 2002)</xref>
+        6. Users of the system:
+The availability of human skills and competencies, training, development and motivation is one of the most
+important pillars for achieving the goals of the institution. Achieving success requires dedicating attention and care
+to individuals starting with the process of selection, appointment, performance evaluation, training and development
+programs, and motivational methods to seek to prove the differences in work, participation, For the purpose of
+achieving continuous improvement in performance
+        <xref ref-type="bibr" rid="ref31">(Hamoud, 2005)</xref>
+        , system users are the individuals who use the
+system or the information produced by the system
+        <xref ref-type="bibr" rid="ref19 ref33 ref34 ref35">(Kundalji and Al-Janabi, 2009)</xref>
+        . System users can also be defined
+here as specialists Technicians: Individuals, who develop, operate and manage the information system technically
+        <xref ref-type="bibr" rid="ref19 ref33 ref34 ref35">(Kundalji and Al-Janabi, 2009)</xref>
+        .
+10. FIELD STUDY
+First- Methodology of the study:
+In order to achieve the objectives of the study, the researchers used the descriptive analytical method in which he
+tries to describe the phenomenon of the subject of the study, analyzing its data, the relationship between its
+components and the opinions that are raised around it, the processes it contains and the effects it causes.
+Second- Society and Study Sample:
+The society of the study is defined as all the vocabulary of the phenomenon studied by the researchers. Based on the
+problem of the study and its objectives, the target community consists of the departments and departments
+responsible for the health information systems in the Dar Al-Shifa Medical Complex- Gaza (289) administratively.
+The sample was randomized to a sample of 30 samples to test the internal consistency, structural honesty and
+stability of the questionnaire. After confirming the validity of the questionnaire, 220 samples were distributed to the
+study population (89.5%).
+      </p>
+      <p>Third: The Study Tool:
+The instrument of study means that the tool measures what has been set for its measurement. The veracity of the
+questionnaire has been verified by the following methods:
+1. Validity from the point of view of the arbitrators:
+The questionnaire was presented to a number of specialized arbitrators in order to ascertain the accuracy of the
+linguistic language of the questionnaire, the clarity of the instructions of the questionnaire, the affiliation of the
+paragraphs to the dimensions of the questionnaire and the validity of this tool to measure the objectives associated
+with this study. The arbitrators looked.
+2. Internal Validity
+The consistency of the internal consistency of each paragraph of the questionnaire with the area in which this
+paragraph belongs is true. The researchers calculated the internal consistency of the questionnaire by calculating the
+correlation coefficients between each paragraph of the question domains and the total score of the field itself.
+Fourthly- Reliability of the study instrument Reliability:
+The questionnaire is consistently meant to "give the questionnaire the same results if repeated several times.
+The researchers investigated the stability using Alpha Cronbach's Coefficient equation. The researchers used the
+Alpha Cronbach method to measure the stability of the questionnaire. The results were as shown in Table 1.</p>
+      <p>Table 1: Alpha Cronbach coefficient to measure the stability of the questionnaire</p>
+      <p>The Field
+Equipment and equipment used.</p>
+      <p>Databases used.</p>
+      <p>Networks.</p>
+      <p>Support senior management.</p>
+      <p>Users of the system.</p>
+      <p>All fields together
+*Self-honesty = positive quadratic root of the Cronbach alpha factor
+It is clear from the results shown in Table (1) that the value of the alpha-cronbach coefficient is high for each field,
+ranging from (0.775, 0.949) to all the paragraphs of the questionnaire (0.960). As well as the value of self-honesty is
+high for each field, ranging between (0.880.0.974) and reached all the paragraphs of the questionnaire (0.980) this
+means that the coefficient of self-honesty is high.</p>
+      <p>Statistical treatments used:
+The questionnaire was dumped and analyzed through the Statistical Package for the Social Sciences (SPSS).
+Normality Distribution Test:
+The Kolmogorov-Smirnov Test (K-S) was used to test whether or not the data followed normal distribution and the
+results were as shown in Table 2.</p>
+      <p>Table 2: Demonstrates the results of the normal distribution test</p>
+      <p>The Field
+Equipment and equipment used.</p>
+      <p>Databases used.</p>
+      <p>Networks.</p>
+      <p>Support senior management.</p>
+      <p>Users of the system.</p>
+      <p>All fields together
+It is clear from the results shown in Table (2) that the probability value (Sig) for the fields of study is greater than
+the level of significance (α≤ 0.05). Thus, the distribution of data for these fields follows the natural distribution,
+where the scientific tests will be used to answer the hypotheses of the study. The following statistical tools were
+used:
+ Frequencies &amp; Percentages: To describe the sample of the study.
+
+
+
+
+
+
+</p>
+      <p>Arithmetic mean and relative arithmetic mean.</p>
+      <p>The Cronbach's Alpha test, to determine the persistence of the paragraphs of the questionnaire.
+K-S test: Kolmogorov-Smirnov Test to see whether the data follow normal distribution.</p>
+      <p>Pearson Correlation Coefficient to measure the degree of correlation: This test examines the relationship
+between two variables. It has been used to calculate internal consistency and structural honesty of the
+questionnaire, and the relationship between variables.</p>
+      <p>T test in the case of a single T-Test to determine whether the average response has reached the intermediate
+approval level (3) or increased or decreased. It has been used to ascertain the mean significance of each
+paragraph of the questionnaire.</p>
+      <p>T-Test (Independent Samples T-Test) to see if there are statistically significant differences between two sets of
+independent data.</p>
+      <p>One Way Analysis of Variance (ANOVA) was tested to determine whether there were statistically significant
+differences between three or more sets of data.
+11. ANALYSIS OF THE STUDY AXES
+And 35.0% of the study sample was under 30 years of age, 32.0% were aged 30-40 years and 22.3% were aged
+4050 years, 10.7% (50 years) and more. The researchers attribute this to the diversity of the average age, which
+indicates the availability of expertise. It is also noticed that 79.3% of the study population is less than (50) years old,
+and this is because the Palestinian society is young and young.
+(13.7%) have an average diploma, 60.9% have a bachelor's degree, 18.8% hold a master's degree, and 3.6% hold a
+PhD degree, Where the researchers note from the previous results that (74.6%) of the society of the study of holders
+of a bachelor's degree and diploma. The researchers attributed this to the fact that most jobs in Dar Al-Shifa require
+a minimum diploma for administrative, medical and medical support, and a bachelor's degree for medical posts.
+(33.0%) of the study respondents said that the nature of their work is administrative, while (67.0%) the nature of
+their work is a health administration. The researchers attribute this to the fact that Dar Al-Shifa Medical Complex is
+the largest medical and health center in the Gaza Strip, Central, and drug stores, so it is normal that the majority of
+the study group of health administrators.
+(12.7%) of the study sample work in outpatient clinics, while 87.3% work in the departments. The researchers
+attribute that the Dar Al-Shifa Medical Complex has the main sections that serve all the citizens of the Gaza Strip.
+All hospitals in the Gaza Strip, primary care centers, specialized surgeons, and specialist care departments and
+referral sections for patients who need clinical care. Outpatient clinics are for patients who complain of various
+diseases in the Gaza Strip.
+(27.9%) of the sample study years of service less than (5) years, (28.4%), the years of service ranging from (5) to
+less than (10) years, while (43.7%) years of service (10). The researchers attributed this to the fact that the largest
+percentage is for those with experience. The percentage of workers who have more than 5 years of employment is
+72.1%. This is due to the stability of the labor force provided by the Ministry of Health to its employees. The staff of
+the Palestinian Ministry of Health, which represents their safety compared to private clinics and civil centers.
+And (7.1%) of the sample of the study named their job title department manager and above, (45.7%) head of
+department, (7.6%) administrative head, while (39.6%) their administrative job title, And since the Dar Al-Shifaa
+complex is a medical complex, it is natural that the owners of the administrative functions of the medical and health
+personnel who hold managerial positions are more than the administrative staff.</p>
+      <p>Analysis of question paragraphs:
+To analyze the resolution paragraphs, a single sample T test was used to determine whether the average response
+score had reached the intermediate approval level (3) or not.</p>
+      <p>Zero Hypothesis: The mean response is equal to (3) and corresponds to the average degree of approval according to
+the Likert scale.</p>
+      <p>Alternative Hypothesis: The average response score is not equal to (3).</p>
+      <p>If Sig &lt;0.05 (Sig is greater than 0.05), the null hypothesis cannot be rejected. In this case, the average of the
+individuals' opinions on the phenomenon studied is not substantially different from the average degree of approval
+(3). 0.05), the null hypothesis is rejected and the alternative hypothesis is accepted that the average views of
+individuals differ substantially from the average approval level (3). In this case, it is possible to determine whether
+the average response substantially increases or decreases the degree of intermediate approval. By means of the value
+of the test. If the value of the test is positive, it means that the arithmetic mean of the answer exceeds the degree of
+intermediate approval and vice versa.</p>
+      <p>Analysis of paragraphs of the questionnaire
+First: Analysis of the "Types of Computerized Health Information Systems"
+The frequencies and percentages were used to determine the degree of approval and the results are shown in Table 4.</p>
+      <p>Table 4: Degree of Approval of Each Paragraph of the "Types of Computerized Health Information Systems"</p>
+      <p>Types of Computerized Health Information Systems</p>
+      <sec id="sec-2-1">
+        <title>Dar Al-Shifa Medical Complex has office automation and</title>
+        <p>document management systems.</p>
+        <p>Dar Al-Shifa Medical Complex has a patient registration system.</p>
+        <p>Dar Al-Shifa Medical Complex has medical records systems.</p>
+        <p>Dar Al-Shifa Medical Complex has blood bank records systems.</p>
+        <p>Dar Al-Shifa Medical Complex has radiation systems.</p>
+        <p>Dar Al-Shifa Medical Complex has pharmacy systems.</p>
+        <p>Yes</p>
+        <p>No
+K
+166
+177
+179
+130
+98
+102
+%
+84.3
+89.8
+90.9
+66.0
+49.7
+51.8</p>
+        <p>K
+31
+20
+18
+67
+99
+95
+7.
+8.
+9.
+10.
+11.
+12.</p>
+        <p>Dar Al-Shifa Medical Complex has laboratory systems.</p>
+        <p>Dar Al-Shifa Medical Complex has medical reporting systems.</p>
+        <p>Dar Al-Shifa Medical Complex has electronic reporting systems.</p>
+        <p>Dar Al-Shifa Medical Complex has internal department systems.</p>
+        <p>Dar Al-Shifa Medical Complex has outpatient clinics and an
+emergency department.</p>
+        <p>
+          Messaging systems such as e-mail and voice mail are available.
+99
+135
+122
+141
+167
+56
+information systems in the European Gaza Hospital such as information systems, Office and document management,
+decision support systems and management information systems , The systems of knowledge bases and expert
+systems, and the study
+          <xref ref-type="bibr" rid="ref36">(Ramadan, 2009)</xref>
+          , which showed the diversity of information systems that support decisions
+well.
+        </p>
+        <p>The reason for the agreement is that the studies were carried out in institutions and centers that have a special
+programming department that designs and prepares specialized programs, while the difference with studies
+conducted in government institutions is due to the existence of a central software unit of the government in general,
+which affects the design of specialized programs for each ministry or Foundation separately.</p>
+        <p>
+          These results differed with some studies
+          <xref ref-type="bibr" rid="ref30">(Ghoneim, 2004)</xref>
+          , which concluded that the information system was unable
+to cover various aspects of the work.
+        </p>
+        <p>Second: Analysis of the paragraphs of the "equipment and devices used"
+The T test was used to determine whether the average response was 3 or not. The results are shown in Table (5).
+Table 5: The arithmetic average and the probability value (Sig) for each paragraph of the "equipment and equipment
+used"
+No.
+10.</p>
+        <p>Item</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>Dar Al-Shifa Medical Complex has equipment to support its activities. Dar Al-Shifa Medical Complex has an IT department.</title>
+        <p>The appropriate computers are available to
+complete the required work.</p>
+        <p>The systems used provide sufficient space for
+information storage.</p>
+        <p>Data entry is available to suit business needs.</p>
+        <p>The means of information extraction are
+commensurate with the needs of the business.</p>
+        <p>The speed of the devices is commensurate with the
+volume of work to be performed.</p>
+        <p>The information network used provides adequate
+information systems capabilities.</p>
+        <p>Modern and highly efficient communication
+technologies are available.</p>
+        <p>High efficiency maintenance techniques are
+available in the event of hardware failure.</p>
+        <p>All paragraphs of the field together</p>
+        <p>SMA
+3.11
+3.34
+3.05
+3.09
+3.19
+* The arithmetic average is statistically significant at the level of significance (α= 0.05).</p>
+        <p>From Table (5) we can draw the following:
+- The arithmetic mean of the second paragraph "There is a 3.34 (total grade 5) in the Dar Al-Shifa Medical
+Complex. The relative arithmetic mean is 66.77%, the test value is 4.59 and the probability value (Sig) is
+0.000. Therefore, this paragraph is considered statistically significant at a level of significance (α= 0.05)
+indicating that the average response rate for this paragraph has exceeded the average approval level of 3,
+which means that there is considerable agreement by the respondents on this paragraph.
+- The arithmetic mean of the ninth paragraph "Modern and highly efficient communication techniques"
+equals 2.78, ie, the relative arithmetic average is 55.65%, the test value is -2.55, and the probability value
+(Sig) is 0.006. Therefore, this paragraph is considered statistically significant at a level of significance (α=
+0.05) indicating that the average response rate for this paragraph has fallen below the average approval
+level of 3, which means that there is little agreement by the respondents on this paragraph.
+- In general, the arithmetic average is equal to 3.04, the relative arithmetic average is 60.79%, the test value
+is 0.80, and the probability value (Sig) is 0.212. Therefore, the field of "used equipment and equipment" is
+not statistically significant at a level of significance (α= 0.05). The average response level for this field is
+not significantly different from the average approval score of 3, which means that there is moderate
+approval by the sample members in this field.</p>
+        <p>The researchers attributed this to the availability of adequate number of modern computers suitable for the number
+of staff and supported large storage areas and high speeds and provide the necessary protection to prevent cases of
+vandalism In contrast, the network used in health centers of the problems of interruption and low speed sometimes,
+despite the modernity and due to the enormous operations Which is at the same time.</p>
+        <p>
+          These findings were consistent with some studies
+          <xref ref-type="bibr" rid="ref30">(Ghoneim, 2004)</xref>
+          , the most important of which was the weak
+ability of the information system to cover aspects of work, including material potential.
+        </p>
+        <p>These results differed with some studies such as Abu Kareem (2013), which concluded that the devices are the most
+information systems that improve the administrative performance, Al-Omari (2009), which reached a good level of
+material requirements, -Saudi, 2006), which found the impact of the main requirements for the management and
+operation of the physical, software, human and organizational computer information system in job performance, and
+the study of Abu Sabt (2005) which concluded that the devices used in universities are modern and highly efficient.
+Third: Analysis of the paragraphs of the "databases used"
+The T test was used to determine whether the mean response was 3 or not. The results are shown in Table (6).
+Table 6: The arithmetic average and the probability value (Sig.) for each of the paragraphs of the "used databases"
+No.
+10.</p>
+        <p>Item</p>
+      </sec>
+      <sec id="sec-2-3">
+        <title>The software used is compatible with the devices used. Computer software and applications are easy to use.</title>
+        <p>Programs are controlled to ensure data
+integrity.</p>
+        <p>The databases are highly scalable.</p>
+        <p>The databases have the ability to retrieve
+data.</p>
+        <p>The databases have the ability to add and
+modify.</p>
+        <p>The databases in the systems take into
+account the non-repetition of stored data.</p>
+        <p>Helps databases to identify the problem and
+find solutions.</p>
+        <p>Software is updated to suit your business
+needs.</p>
+        <p>Instructions are available to run programs
+that I need to do in my work.</p>
+        <p>All paragraphs of the field together</p>
+        <p>SMA
+3.44
+3.27
+3.27
+* The arithmetic average is statistically significant at the level of significance (α= 0.05).</p>
+        <p>From Table (6) we can draw the following:
+- The computational average of the first paragraph "The software used with the devices used" corresponds to
+3.44 (the total score of 5), ie, the relative arithmetic mean (68.80%), the test value 5.27, and the probability
+value (Sig.) Equals 0.000. Thus this paragraph is statistically significant at a level of significance (α= 0.05),
+indicating that the average response rate for this paragraph has exceeded the average approval level of 3
+which means that there is a high degree of approval by the respondents to this paragraph.
+- The mathematical average of the tenth paragraph "The instructions needed to run the programs that I need
+to perform in action" equals 2.97, ie, the relative arithmetic mean is 59.48%, the test value is -0.29, and the
+probability value (Sig) is 0.386. Therefore, this paragraph is not statistically significant at the level (α=
+0.05), indicating that the average response rate for this paragraph is not substantially different from the
+average approval level of 3, which means that there is a moderate approval by the respondents on this
+paragraph.
+- In general, the arithmetic average is 3.15, the relative arithmetic average is 62.97%, the test value is 3.04,
+and the probability value (Sig) is 0.001. Therefore, the "used databases" field is statistically significant at
+the level (α= 0.05), the degree of response to this area has exceeded the average approval level of 3, which
+means that there is considerable agreement by the sample members on the paragraphs of this area.
+The researchers attribute this to the availability of databases used by the Palestinian Ministry of Health, in addition
+to providing the necessary instructions for running the programs.</p>
+        <p>
+          These results were agreed with Abu Kareem (2013), which concluded that the management and operation of the
+databases is highly capable of adding and modifying, and that the management and operation of the databases are
+highly capable of storage. Al-Halabi (2010)
+          <xref ref-type="bibr" rid="ref19 ref33 ref34 ref35">(Al-Omari, 2009)</xref>
+          , which found a statistically significant impact on the
+operational and management requirements of MIS (physical, software, human, organizational) On the performance
+of the operators of the telecommunications company, the existence of a good level of Supplies software, study
+(AlSaudi, 2006), which reached the presence of the impact of the main requirements for the management and operation
+of computerized information material and software, human and organizational system functionality.
+These results differed with some studies, such as Ghoneim (2004), which showed the weak ability of the information
+system to cover aspects of work.
+        </p>
+        <p>Fourth: Analysis of the paragraphs of the field of "networks"
+The T test was used to determine whether the average response rate reached the intermediate approval score of 3.
+The results are shown in Table (7).</p>
+        <p>Item</p>
+      </sec>
+      <sec id="sec-2-4">
+        <title>There is an internal computer network in Dar Al</title>
+        <p>Shifa.</p>
+        <p>Suit the computer network used with business needs.</p>
+        <p>The computer network has a fast connection speed.</p>
+        <p>The computer network is maintained periodically.</p>
+        <p>The computer network is protected from hacking and
+tampering with information.</p>
+        <p>The computer network can be developed flexibly in
+a technical way.</p>
+        <p>The computer network uses modern and efficient
+physical components.</p>
+        <p>The computer network reduces the time and effort
+required to implement the work.</p>
+        <p>There is a connection between the internal computer
+network of Dar Al-Shifa Medical Complex and the
+Internet.</p>
+        <p>All paragraphs of the field together</p>
+        <p>SMA
+3.66
+* The arithmetic average is statistically significant at the level of significance (α= 0.05).</p>
+        <p>From Table (7) we can draw the following:
+- The arithmetic average of the first paragraph "There is an internal computer network in the Dar Dar
+AlShifa Medical Complex” equals 3.66 (the total score of 5), ie, the relative arithmetic average is 73.16%, the
+test value is 7.26, and the probability value (Sig) is 0.000. Therefore, this paragraph is considered
+statistically significant at a level of significance (α= 0.05) indicating that the average response rate for this
+paragraph has exceeded the average approval level of 3, which means that there is considerable agreement
+by the respondents on this paragraph.
+- The arithmetic mean of the fourth paragraph "The computer network is maintained periodically" equals
+2.90, ie, the relative arithmetic average is 57.96%, the test value is -1.32, and the probability value (Sig) is
+equal to 0.095. Therefore, this paragraph is not statistically significant at the indication level (α= 0.05), the
+average response rate for this paragraph is not substantially different from the average approval level of 3,
+which means that there is a moderate approval by the respondents on this paragraph.
+- In general, the arithmetic average is 3.19, the relative arithmetic average is 63.84%, the test value is 3.72,
+and the probability value (Sig) is 0.000. Therefore, the "networks" field is statistically significant at the
+level (α= 0.05) indicating this area has exceeded the degree of approval of the medium of 3, which means
+that there is a high degree of approval by the respondents on the paragraphs of this area.</p>
+        <p>
+          The researchers attributed this to the existence of an internal computer network commensurate with the needs of the
+work, and characterized by speed of communication, and is maintained periodically, and is characterized by
+protection from penetration and tampering with information, and can be developed flexibly in terms of technical.
+These results were agreed with some studies such as the study
+          <xref ref-type="bibr" rid="ref36">(Ramadan 2009)</xref>
+          , which showed the availability of
+material and technical resources for the use of decision support systems in the Ministry of Education, and the study
+          <xref ref-type="bibr" rid="ref25">(Ammar, 2009)</xref>
+          which reached the availability of financial and technical requirements.
+        </p>
+        <p>Fifth: Analysis of the paragraphs of the "support of senior management"
+The T test was used to determine whether the average response was 3 or not. The results are shown in Table (8).</p>
+        <p>Table 8: The arithmetic average and the probability value (Sig) for each of the paragraphs of the "senior
+management support"
+No.</p>
+        <p>Item</p>
+      </sec>
+      <sec id="sec-2-5">
+        <title>Senior management is interested in developing</title>
+        <p>computerized health information systems.</p>
+        <p>Senior management is encouraged to use
+computerized health information systems.</p>
+        <p>The senior management follows the work process
+based on the use of information systems.</p>
+        <p>Senior management provides training programs
+and special courses on the use of computerized
+health information systems.</p>
+        <p>Senior management is interested in suggestions on
+the use of computerized health information
+systems.</p>
+        <p>Senior management provides the necessary
+requirements and financial support to improve the
+use of computerized health information systems.</p>
+        <p>Senior management provides the necessary staff to
+carry out the training process for its employees.</p>
+        <p>Senior management is interested in analyzing the
+problems that are facing them and prioritizing
+their solution.</p>
+        <p>All paragraphs of the field together</p>
+        <p>SMA
+3.24
+3.05
+2.99
+* The arithmetic average is statistically significant at the level of significance (α= 0.05).</p>
+        <p>From Table (8) we can draw the following:
+- The mean of the first paragraph "The senior management is concerned with the development of computerized
+health information systems" equals 3.24 (the total score of 5), ie, the relative arithmetic average is 64.82%, the
+test value is 2.66 and the probability value (Sig) is 0.004. Therefore, this paragraph is considered statistically
+significant at a level of significance (α= 0.05) indicating that the average response rate for this paragraph has
+exceeded the average approval level of 3, which means that there is considerable agreement by the respondents
+on this paragraph.
+- The arithmetic mean of the sixth paragraph, "senior management provides the necessary requirements and
+financial support to improve the use of computerized health information systems" equals 2.76, ie, the relative
+arithmetic average is 55.26%, the test value is 2.71 and the probability value (Sig) is 0.004. Therefore, this
+paragraph is considered statistically significant at a level of significance (α= 0.05) indicating that the average
+response rate for this paragraph has fallen below the average approval level of 3, which means that there is little
+agreement by the respondents on this paragraph.
+- In general, the arithmetic mean is 3.00, the relative arithmetic average is 60.07%, the test value is 0.06, and the
+probability value (Sig) is 0.466. Therefore, the area of "senior management support" is not statistically
+significant at a level of significance (α= 0.05), the degree of response to this area is not significantly different
+from the average approval level of 3, which means that there is a moderate approval by the sample members in
+this field.</p>
+        <p>The researchers note that the senior management is interested in the development of computerized health
+information systems, encourages the use of computerized health information systems, monitors the work process
+based on the use of information systems, provides training programs and special courses related to the use of
+computerized health information systems, And provide the necessary requirements and financial support to improve
+the use of computerized health information systems, provide the necessary cadres to carry out the training process
+for their employees, and analyze the problems that face them and prioritize their solution.</p>
+        <p>
+          These findings were agreed with
+          <xref ref-type="bibr" rid="ref14 ref16 ref20">(Al-Otaibi, 2010)</xref>
+          , which concluded that the Academy's management supports the
+transition to the use of information technology for human resources management and the study of
+          <xref ref-type="bibr" rid="ref36">(Ramadan, 2009)</xref>
+          ,
+which showed awareness and awareness among senior management regarding the use of decision support systems.
+These results differed with some studies such as
+          <xref ref-type="bibr" rid="ref26">(Arafat, 2007)</xref>
+          , which showed that there were differences in the
+attitudes of managers towards evaluating administrative requirements towards the optimal use of decision support
+systems.
+        </p>
+        <p>Sixth: Analysis of the paragraphs of the "users of the system"
+The T test was used to determine whether the average response was 3 or not. The results are shown in Table (9).</p>
+        <p>Table 9: The arithmetic mean and the probability value (Sig.) for each of the paragraphs of the "system users"
+No.</p>
+        <p>Item</p>
+      </sec>
+      <sec id="sec-2-6">
+        <title>Employees in existing systems have the ability to adapt to business requirements. Responding to the requirements of beneficiaries by high-system employees.</title>
+        <p>Maintenance and guidance for beneficiaries by
+high system employees.</p>
+        <p>Human cadres possess the necessary skills to
+operate and maintain computerized information
+systems.</p>
+        <p>The department concerned with the
+computerized systems shall abide by what is
+stated in the prescribed time.</p>
+        <p>The Computer Systems Department provides the
+same level of services at all times.</p>
+        <p>Employees in the Department of Computer
+Systems and System Users participate in system
+design and development.</p>
+        <p>Users are well qualified to use the network.</p>
+        <p>All paragraphs of the field together
+SMA
+3.48
+3.15
+3.14
+3.15
+* The arithmetic average is statistically significant at the level of significance (α= 0.05).</p>
+      </sec>
+      <sec id="sec-2-7">
+        <title>From Table (9) we can draw the following:</title>
+        <p>- The arithmetic average of the first paragraph "the workers in existing systems have the ability to adapt to
+business requirements" equals 3.48 (the total score of 5), i.e. the relative arithmetic average is 69.59%, the test
+value is 5.66 and the probability value (Sig) is 0.000. Therefore, this paragraph is considered statistically
+significant at a level of significance (α= 0.05) indicating that the average response rate for this paragraph has
+exceeded the average approval level of 3, which means that there is considerable agreement by the sample
+members on this paragraph.
+- The computational average of the sixth paragraph "The computer systems section provides the same level of
+services at all times" equals 2.92, ie, the relative arithmetic mean is 58.36%, the test value is -0.98 and the
+probability value (Sig) is 0.163, so this is not statistically significant at the level of significance (α= 0.05)
+indicating that the average response rate for this paragraph is not significantly different from the average
+approval level of 3, which means that there is a moderate approval by the respondents on this paragraph.
+- In general, the arithmetic mean is 3.12, the relative arithmetic average is 62.48%, the test value is 2.30, and the
+probability value (Sig) is 0.011. Therefore, the "system users" field is statistically significant at a level of
+significance (α= 0.05). This area differs substantially from the average approval level of 3, which means that
+there is considerable agreement by the sample members on the paragraphs of this area.</p>
+        <p>The researchers attributed this to the existence of the administration responsible for the computerized health system
+at the Dar Al-Shifa Health Complex in Gaza, and the opinion of the members of the community that the workers in
+the existing systems have the ability to adapt to the requirements of the work, Human cadres have the skills to
+operate and maintain computerized information systems.</p>
+        <p>
+          These results were agreed with some studies such as Abu Kareem (2013), which found that the response by the staff
+in the systems is high, and the study
+          <xref ref-type="bibr" rid="ref19 ref33 ref34 ref35">(Al-Omari, 2009)</xref>
+          , which found a good level of human inputs, and study
+          <xref ref-type="bibr" rid="ref25">(Ammar, 2009)</xref>
+          (2009), which showed the existence of human potential to a good degree, and study
+          <xref ref-type="bibr" rid="ref22">(Al-Saudi,
+2006)</xref>
+          , which reached to the existence of the impact of the main requirements for the management and operation of
+computerized information system and software, human and organizational performance, and study of
+          <xref ref-type="bibr" rid="ref7">(Abu Sabt,
+2005)</xref>
+          , which showed that there is a diversity of disciplines working in decision-support systems and that they have
+efficient administrative and technical expertise commensurate significantly with assigned business to them.
+These results differed with some studies such as Arafat (2007), which showed the inadequacy of the human
+resources system in the governmental sector in the Gaza Strip, and Ghoneim (2004), which recommended the
+availability of infrastructure, including human resources.
+        </p>
+        <p>Analysis of all paragraphs of the first axis "computerized health information systems"
+The T test was used to determine whether the average response was 3 or not. The results are shown in Table 10.</p>
+        <p>Table 10: The arithmetic mean and the probability value (Sig) of all the sections of "computerized health
+information systems"</p>
+        <p>The Field
+computerized health information systems</p>
+        <p>SMA
+3.10</p>
+        <p>Relative
+arithmetic
+mean
+62.06</p>
+        <p>Test value</p>
+        <p>“Sig.” value
+2.29
+*0.012
+* The arithmetic average is statistically significant at the level of significance (α= 0.05).</p>
+        <p>Table (10) shows that the arithmetic average of all the first axes is 3.10 (the total score of 5), ie, the relative
+arithmetic average is 62.06%, the test value is 2.29, and the probability value (Sig) is 0.012. Therefore, the first axis
+clauses are statistically significant Indicating that the average response rate has exceeded the average approval level,
+which is 3. This means that there is a great deal of agreement by the sample members on the first axis in general.
+The researchers attribute this to the work carried out by employees of Dar Al-Shifa Medical Complex Based mainly
+on the different applications of health information systems the ratio, the higher the efficiency of computerized health
+information systems led to improved performance of the administrative staff level.</p>
+        <p>
+          These results were agreed with
+          <xref ref-type="bibr" rid="ref15">(Al-Gharabawy, 2014)</xref>
+          , which found a high degree of approval for the use of
+computerized health information systems applications and the level of performance of health center staff.
+(ALArabi, 2012), which confirmed the existence of a statistically significant relationship between the use of information
+technology and the performance of the employees, and the study
+          <xref ref-type="bibr" rid="ref14 ref16 ref20">(Al-Otaibi, 2010)</xref>
+          , which reached There is clarity in
+the study sample of the importance of the use of information technology in the management of human resources, and
+the study
+          <xref ref-type="bibr" rid="ref13 ref18 ref21">(Al-Bashaabsha, 2005)</xref>
+          , which found a significant impact of the quality of management information
+systems in raising the level of performance.
+        </p>
+        <p>These results differed with some studies such as AL-Arabi (2012), which showed no statistically significant
+relationship between the use of information technology and the speed of achievement, and Al-Dweik (2010), which
+concluded that there are constraints that limit the effectiveness of health information systems.</p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>Test hypothesis study</title>
+      <p>H01: There were statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of computerized health information systems due to the demographic variables
+(gender, age, academic qualification, nature of work, place of work, years of service, job title) Medical - Gaza
+The T-test of two independent samples was used to determine whether there were statistically significant
+differences, a teacher's test to compare two sets of data. The "monotonous" test was also used to determine if there
+were statistically significant differences. This test is a teacher fit to compare 3 or more averages.
+H01-1: There are statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex due to gender.</p>
+      <sec id="sec-3-1">
+        <title>Equipment and equipment used.</title>
+        <p>Databases used.</p>
+        <p>Networks.</p>
+        <p>Support senior management.</p>
+        <p>Users of the system.</p>
+        <p>All Fields Together
+Of the results shown in Table (11) shows that the probability value (Sig) corresponding to the T test for two
+independent samples is greater than the α (α 0.05) for all domains and domains combined, so it can be concluded
+that there are no statistically significant differences Among the averages of the sample of the study on these areas
+and areas combined together are attributed to gender.</p>
+        <p>
+          The results were consistent with some studies
+          <xref ref-type="bibr" rid="ref42">(Zine El-Din and El-Ajrami, 2013)</xref>
+          , which showed no statistically
+significant differences at the level of significance (0.05) between the functional performance of the employees using
+electronic programs to support the gender variable and the scientific qualification and years of experience,
+ALArabi, 2012) showed that there were no statistically significant differences in the effect of the use of information
+technology on the performance of the functions of the variables (gender, educational level) and the study
+          <xref ref-type="bibr" rid="ref14 ref16 ref20">(Al-Otaibi,
+2010)</xref>
+          The perceptions of the respondents are based on the demographic variables (gender, qualification, experience,
+etc.) . The study of Al-Saudi, 2006, which found that there are statistically significant differences in respondents'
+perceptions of the requirements of operating the information system, due to the demographic variables (gender, age,
+scientific qualification, experience, and career level).
+        </p>
+        <p>These results differed with some studies such as Al-Halabi (2010), which found that there is no statistically
+significant relationship on the "impact of decentralized administrative information systems in the Ministry of
+Finance in the Gaza Strip" due to demographic variables (gender, age, experience, qualification, Career, scientific
+level).</p>
+        <p>H01-2: There are statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex due to age.</p>
+        <p>Table 12: Results of the "Single Contrast" test - Age</p>
+        <p>The Field</p>
+      </sec>
+      <sec id="sec-3-2">
+        <title>Equipment and equipment used. Databases used. Networks.</title>
+        <p>Support senior management.</p>
+        <p>Users of the system.</p>
+        <p>All Fields Together
+* The difference between the D averages statistically at the level of significance (α≤ 0.05)
+Of the results shown in Table (12), the following can be inferred:
+It was found that the probability value (Sig) corresponding to the "mono-variance" test was lower than the
+significance level (α≤ 0.05) for the areas "equipment and devices used, senior management support, computerized
+health information systems used", thus it can be concluded that there are statistically significant differences between
+The average of the sample of the study sample on these areas is attributed to age for the benefit of those aged 40
+years and over.</p>
+        <p>As for the other fields and fields together, the probability value (Sig) was found to be greater than the significance
+level (α ≤ 0.05) and thus it can be concluded that there are no statistically significant differences between the
+averages of the sample of the study on these areas and the domains combined due to age.</p>
+        <p>
+          These results were consistent with some studies
+          <xref ref-type="bibr" rid="ref12">(AL-Arabi, 2012)</xref>
+          , which showed that there are statistically
+significant differences in the effect of using IT on job performance, which is related to variables (age, financial
+seniority, occupational category),
+          <xref ref-type="bibr" rid="ref19 ref33 ref34 ref35">(Al-Omari, 2009)</xref>
+          which showed that there are differences in the attitudes of the
+managers towards evaluating the administrative requirements towards the demographic variables (scientific level,
+years of experience, work place, job level). The study of
+          <xref ref-type="bibr" rid="ref26">(Arafat, 2007)</xref>
+          , which showed that there are differences in
+the attitudes of managers towards assessing the administrative requirements towards the optimal use of decision
+support systems in terms of age, experience and qualification in the institutions of the government sector is
+acceptable in terms of facilitating the optimal use of decision support systems, Study of
+          <xref ref-type="bibr" rid="ref22">(Al-Saudi, 2006)</xref>
+          , which
+showed a statistically significant difference in respondents' perceptions of the requirements of operating the
+information system, due to the demographic variables (gender, age, scientific qualification). Study of Al-Bashaabsha
+(2005), which found statistically significant differences between the respondents' perceptions (age, qualification, and
+career level).
+        </p>
+        <p>
+          These results differed with some studies such as Al-Halabi (2010), which found that there is no statistically
+significant relationship on the "impact of decentralized administrative information systems in the Ministry of
+Finance in the Gaza Strip" due to demographic variables (gender, age, experience, qualification).
+          <xref ref-type="bibr" rid="ref14 ref16 ref20">(Al-Otaibi, 2010)</xref>
+          ,
+which found that there are no statistically significant differences between respondents' perceptions of demographic
+variables (gender, qualification, experience, level of career).
+        </p>
+        <p>H01-3: There are statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex attributed to the scientific qualification.</p>
+        <p>Table 13: Results of the "Single Contrast" test - Scientific qualification</p>
+        <p>Averages
+Diploma and below</p>
+        <p>Postgraduate
+Of the results shown in Table (13) shows that the probability value (Sig) corresponding to the "Mono-variance" test
+is greater than the significance level (α≤0.05) for all domains and domains combined, so it can be concluded that
+there are no statistically significant differences between the average estimates Sample study on these areas and areas
+combined together are attributed to the scientific qualification.</p>
+        <p>The researchers attributed this to the fact that the sample of the study included groups that include scientific
+qualifications at close rates, which showed the existence of differences in their responses.</p>
+        <p>
+          The results were consistent with some studies
+          <xref ref-type="bibr" rid="ref42">(Zine El-Din and El-Ajrami, 2013)</xref>
+          , which found that there were no
+statistically significant differences at the level of significance (0.05) between the functional performance of the
+employees using electronic programs in support of gender variable,
+          <xref ref-type="bibr" rid="ref12">(AL-Arabi, 2012)</xref>
+          , which showed no statistically
+        </p>
+        <p>The Field</p>
+      </sec>
+      <sec id="sec-3-3">
+        <title>Equipment and equipment used.</title>
+        <p>Databases used.</p>
+        <p>Networks.</p>
+        <p>Support senior management.</p>
+        <p>Users of the system.</p>
+        <p>
+          All Fields Together
+2.98
+significant differences in the effect of the use of information technology on the job performance attributed to
+variables (gender, educational level) and Al-Halabi (2010) "The Impact of Informed Administrative Information
+Systems on Decentralization in the Ministry of Finance in the Gaza Strip"
+          <xref ref-type="bibr" rid="ref14 ref16 ref20">(Al-Otaibi, 2010)</xref>
+          , which found that there
+are no statistically significant differences between respondents' perceptions of demographic variables (gender,
+qualification, experience, level) Career).
+        </p>
+        <p>These results differed with some studies such as Al-Omari (2009), which found that there were statistically
+significant differences between respondents' perceptions of the subject of the study due to the demographic variables
+(scientific level, years of experience, workplace, job level) , 2006). The study found that there are statistically
+significant differences in respondents' perceptions of the requirements of operating the information system, due to
+the demographic variables (gender, age, scientific qualification, experience, and career level), and the study
+(AlBashaabsha, 2005) Statistical significance between the respondents' perceptions attributed to (age, scientific
+qualification , Career Level).</p>
+        <p>H01-4: There are statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex due to the nature of the work.</p>
+        <p>Table 14: Results of T-test for two independent samples - Nature of work</p>
+        <p>The Field</p>
+      </sec>
+      <sec id="sec-3-4">
+        <title>Equipment and equipment used.</title>
+        <p>Databases used.</p>
+        <p>Networks.</p>
+        <p>Support senior management.</p>
+        <p>Users of the system.</p>
+        <p>All Fields Together
+* The difference between the two averages is statistically significant (α≤ 0.05)
+Of the results described in Table 14, the following can be inferred:
+It was found that the probability value (Sig) corresponding to the T-test for two independent samples is less than the
+(α≤0.05) for the field of "networks." It can thus be concluded that there are statistically significant differences
+between the average sample estimates for this field Work for the benefit of those who nature their administrative
+work.</p>
+        <p>For the other fields and fields together, the probability value (Sig) was greater than the(α≤ 0.05) Thus, it can be
+concluded that there are no statistically significant differences between the averages of the sample estimates of the
+study on these areas and areas combined due to the nature of the work.</p>
+        <p>
+          The researchers point out that computerized health information systems are easy-to-use systems that anyone who is
+good at dealing with the computer, and with a little training can use these systems and get their outputs, and
+therefore the nature of work on this field for the benefit of those whose nature is administrative.
+These findings were agreed with Al-Dweik (2010), which showed that the computerized health information system
+currently used in the European Gaza Hospital has a good impact on the fields of medical and administrative work as
+well as on medical and administrative decisions and Al-Omari (2009) which found statistically significant
+differences between the respondents' perceptions of the subject of the study due to the demographic variables
+(scientific level, years of experience, workplace, job level) and
+          <xref ref-type="bibr" rid="ref22">(Al-Saudi, 2006)</xref>
+          , which showed a significant
+statistical difference for the respondents' perceptions of the operating requirements Information system, attributable
+to demographic variables (Gender, age, academic qualification, experience, and career level).
+        </p>
+        <p>These results differed with some studies such as Al-Otaibi (2010), which found that there were no statistically
+significant differences, between respondents' perceptions of demographic variables (gender, qualification,
+experience, level of employment).</p>
+        <p>H01-5: There are statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex attributed to the workplace.</p>
+        <p>Table 15: Results of T-test for two independent samples - workplace</p>
+        <p>The Field</p>
+      </sec>
+      <sec id="sec-3-5">
+        <title>Equipment and equipment used.</title>
+        <p>Databases used.</p>
+        <p>Networks.</p>
+        <p>Support senior management.</p>
+        <p>Users of the system.</p>
+        <p>All Fields Together
+Of the results shown in Table (15) shows that the probability value (Sig) corresponding to the T-test for independent
+samples is greater than the (α ≤0.05) for all domains and domains combined, so it can be concluded that there are no
+statistically significant differences between The average sample study estimates on these areas and areas combined
+are attributed to the workplace, as the systems used are not affected by the different department, medical
+administration or workplace.</p>
+        <p>The researchers attributed this to the fact that all the work that takes place within Dar Al-Shifa Medical Complex is
+a medical health work and the target group is administrative and health administrators. Therefore, the work place is
+not different from one department to another, where there is similarity in the same health field. There is no
+difference in the working environment from one department to another.</p>
+        <p>
+          These results were consistent with
+          <xref ref-type="bibr" rid="ref14 ref16 ref20">(Al-Otaibi, 2010)</xref>
+          , which found no statistically significant differences between
+respondents' perceptions of demographic variables (gender, qualification, experience, level of employment).
+The results differed with some studies such as
+          <xref ref-type="bibr" rid="ref12">(AL-Arabi, 2012)</xref>
+          , which showed that there are statistically significant
+differences in the effect of the use of information technology on job performance, which is related to the variables
+(age, financial seniority, Which showed that the computerized health information system currently used in Gaza
+European Hospital has a good impact on the fields of medical and administrative work as well as on medical and
+administrative decisions. Al-Omari (2009) found that there are statistically significant differences between the
+respondents’ perceptions of the subject of the study due to demographic variables (scientific level, years).
+(AlBashaabsha, 2005), which found statistically significant differences between the respondents' perceptions attributed
+to age, academic qualification, and career level.
+        </p>
+        <p>H01-6: There were statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex due to the years of service.</p>
+        <p>Table 16: Results of the "Single Contrast" test - years of service</p>
+        <p>The Field</p>
+      </sec>
+      <sec id="sec-3-6">
+        <title>Equipment and equipment used.</title>
+        <p>Databases used.</p>
+        <p>Networks.</p>
+        <p>Support senior management.</p>
+        <p>Users of the system.</p>
+        <p>All Fields Together
+* The difference between the two averages is statistically significant (α≤ 0.05)
+From the results shown in Table (16), the following can be inferred:
+It was found that the probability value (Sig) corresponding to the "mono-variance" test was lower than the (α≤ 0.05)
+for the "equipment and devices used, senior management support" The two fields are attributed to years of service in
+favor of those who have served for 10 years or more.</p>
+        <p>
+          For the other fields and fields together, the probability value (Sig) was greater than the (α ≤0.05) Thus, it can be
+concluded that there are no statistically significant differences between the averages of the sample estimates of the
+study on these areas and the fields combined due to years of service.
+The researchers attributed this to the fact that the sample of the study included different groups of experienced
+people in close percentages, which showed differences in their responses in favor of the owners of the years of
+experience the highest, where we find that most of the middle age group most popular using modern technologies.
+The results were consistent with some studies
+          <xref ref-type="bibr" rid="ref2">(Abu Kareem, 2013)</xref>
+          , which showed statistically significant
+differences between the relationship between management information systems in improving administrative
+performance due to variable years of service, and study
+          <xref ref-type="bibr" rid="ref12">(AL-Arabi, 2012)</xref>
+          , which showed statistically significant
+differences The effect of the use of information technology on job performance is attributed to the variables (age,
+financial seniority, occupational category) and
+          <xref ref-type="bibr" rid="ref19 ref33 ref34 ref35">(Al-Omari, 2009)</xref>
+          , which found statistically significant differences
+between the respondents' perceptions of the subject of the study due to demographic variables , Workplace, Career
+Level), and the study
+          <xref ref-type="bibr" rid="ref26">(Arafat, 2007)</xref>
+          which showed that there are differences in the attitudes of managers towards
+evaluating the administrative requirements towards the optimal use of decision support systems in terms of age,
+experience and qualification in the institutions of the government sector is acceptable in terms of facilitating the
+optimal use of decision support systems, and study
+          <xref ref-type="bibr" rid="ref22">(Al-Saudi, 2006)</xref>
+          which showed statistically significant
+differences in respondents' perceptions of the requirements of operating the information system, due to the
+demographic variables (gender, age, academic qualification, experience, and career level).
+        </p>
+        <p>
+          The results differed with some studies such as
+          <xref ref-type="bibr" rid="ref42">(Zine El-Din and El-Ajrami, 2013)</xref>
+          , which showed no statistically
+significant differences at the level of significance (α≤0.05) between the functional performance of the emplo yees
+using electronic programs in support of the gender variable, Al-Otaibi, 2010) found that there were no statistically
+significant differences between respondents' perceptions of demographic variables (gender, academic qualification,
+experience, level of career).
+        </p>
+        <p>H01-7: There are statistically significant differences between the responses of the respondents at the level of
+significance (α ≤0.05) on the reality of the integration of dimensions of computerized health information systems in
+Dar Al-Shifa Medical Complex attributed to the job title.</p>
+        <p>Table 17: Results of the "Single Contrast" test - Job Title</p>
+        <p>Head of the
+Department</p>
+        <p>Administrative</p>
+        <p>Head
+Of the results shown in Table (17) show that the probability value (Sig) corresponding to the "Mono-variance" test
+is greater than the (α≤ 0.05) for all domains and domains combined, so it can be concluded that there are no
+statistically significant differences between the average estimates The study sample on these areas and areas
+combined together are attributed to the job title.</p>
+        <p>The researchers attributed this to the fact that computerized health information systems are modern systems and use
+computer technologies, communications, equipment and modern equipment that lead to the completion of the work
+quickly and accurately.</p>
+        <p>
+          These results were agreed with
+          <xref ref-type="bibr" rid="ref15">(Al-Gharabawy, 2014)</xref>
+          , which found a positive relationship between the
+computerized health information systems and the level of performance of the workers in the health centers, and the
+study of
+          <xref ref-type="bibr" rid="ref14 ref16 ref20">(Al-Halabi, 2010)</xref>
+          , which concluded that there was no significant relationship The impact of computerized
+administrative information systems on decentralization in the Ministry of Finance in the Gaza Strip is due to the
+demographic variables (gender, age, experience, job qualification, scientific level) and the study of
+          <xref ref-type="bibr" rid="ref14 ref16 ref20">(Al-Otaibi, 2010)</xref>
+          Statistical significance between respondents' perceptions of demographic variables (gender, gender) Whether
+scientific, experience, or career level).
+        </p>
+        <p>
+          These results differed with some studies such as
+          <xref ref-type="bibr" rid="ref19 ref33 ref34 ref35">(Al-Omari, 2009)</xref>
+          , which found that there were statistically
+significant differences between respondents' perceptions of the subject of the study due to demographic variables
+(scientific level, years of experience, workplace, 2006), which found that there are differences of statistical
+significance for the respondents' perceptions of the requirements of operating the information system, due to the
+demographic variables (gender, age, academic qualification, experience and level of employment). The study
+          <xref ref-type="bibr" rid="ref13 ref18 ref21">(Al
+Bashaabsha, 2005)</xref>
+          Statistical significance between the respondents' perceptions attributed to (age, scientific
+qualification, level career).
+12. CONCLUSIONS
+        </p>
+        <p>The results showed that 84.3% of the sample agreed to the availability of office automation systems and
+document management at Dar Al-Shifa Medical Complex. (89.8%) of the sample agreed to the availability of
+patient registration systems at Dar Al-Shifa Medical Complex. (90.9%) of the sample agreed to the availability
+of medical records systems at Dar Al-Shifa Medical Complex. (66.0%) of the sample agreed to the availability
+of blood bank records systems at Dar Al-Shifa Medical Complex. It also confirmed that (49.7%) of the study
+sample agreed to the availability of radiation systems at Dar Al-Shifa Medical Complex. (51.8%) of the sample
+agreed to the availability of pharmacy systems at Dar Al-Shifa Medical Complex. The results showed that
+(50.3%) of the study sample agreed to the availability of laboratory systems at Dar Al-Shifa Medical Complex.
+(68.5%) of the sample agreed to the availability of medical reporting systems at Dar Al-Shifa Medical Complex.
+(61.9%) of the sample agree on the study of electronic reporting systems at Dar Al-Shifa Medical Complex. The
+results showed that 71.6% of the study sample agreed on the availability of internal department systems at Dar
+Al-Shifa Medical Complex. (84.8%) of the study sample agreed to the availability of outpatient clinics and
+emergency department at Dar Al-Shifa Medical Complex. The results confirmed that (28.4%) of the sample of
+the study agree to the availability of messaging systems such as e-mail and voice mail at Dar Al-Shifa Medical
+Complex.</p>
+        <p>The results showed that the field of "used equipment and equipment" is not statistically significant at the level
+of (α≤0.05). This indicates that the average response rate for this field is not significantly different from the
+average approval level (3). By the respondents on this field. And that the field of "databases used" is
+statistically significant at the level of significance (α ≤0.05), indicating that the average response to this field
+has exceeded the average approval level (3). This means that there is considerable approval by the sample
+Paragraphs of this area. And that the field of "networks" is statistically significant at the level of significance (α
+≤0.05), indicating that the average response to this field has exceeded the degree of intermediate approval which
+is (3). This means that there is a high degree of approval by the respondents the field. And that the area of
+"senior management support" is not statistically significant at the level of significance (α≤0.05), indicating that
+the average response rate for this field is not significantly different from the average approval level (3). This
+means that there is moderate approval by individuals Sample on this field.</p>
+        <p>The results showed that there are no statistically significant differences between the mean of the sample of the
+study on these areas and the domains combined, which are attributed to the variables of gender, qualification,
+place of work, years of service, job title,
+The results showed that there were statistically significant differences between the average of the sample of the
+study sample on these areas due to (Age) for the benefit of those aged (40) years or more.</p>
+        <p>The results showed that there are statistically significant differences between the average estimates of the
+sample of the study on this field due to the nature of the work in favor of those whose nature is administrative.
+The results showed that there are statistically significant differences between the average of the sample of the
+study sample on these two fields due to the years of service in favor of those who have served for 10 years or
+more.
+13. RECOMMENDATIONS</p>
+        <p>The need to establish a specialized department of computerized health information systems, with clear
+responsibilities, and includes technical and administrative specialists and health personnel, and the number and
+efficiency required, working as a team work to apply the mechanisms of work computerized health information
+systems, and be in direct contact with staff in clinics and sections to provide services and technical support as
+soon as possible Best quality.</p>
+        <p>Increased support from senior management to users by encouraging them to use computerized health
+information systems and understanding their different needs.</p>
+        <p>The interest in providing the material resources of equipment and devices used in the computerized health
+information system.</p>
+        <p>www.ijeais.org</p>
+        <p>The use of database systems in administrative and medical decisions in clinics and departments that have the
+effect of raising the effectiveness of decisions by improving their quality.</p>
+        <p>Attention to the provision of modern networks characterized by rapid communication, and the problem of slow
+network, through the provision of a main server.</p>
+        <p>Provide a special e-mail to each employee using the computerized health information system, which facilitates
+the exchange of data between employees and increases communication with senior management.
+The need for the users of the system to participate in the process of design and evaluation of computerized
+systems, because it is important in reducing the causes of resistance to change and raise morale and notify
+employees of their functional importance.</p>
+        <p>The importance of implementing qualitative campaigns targeting health workers on the importance of
+computerized systems.
+www.ijeais.org</p>
+        <p>www.ijeais.org</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          [1]
+          <string-name>
+            <surname>Abdel-Kader</surname>
+            ,
+            <given-names>Magdy G</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wadongo Billy</surname>
+          </string-name>
+          (
+          <year>2011</year>
+          ).
+          <article-title>Performance Management in NGOs: Evidence from Kenya</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          [2]
+          <string-name>
+            <given-names>Abu</given-names>
+            <surname>Kareem</surname>
+          </string-name>
+          , Ayman Mohamed Ahmed (
+          <year>2013</year>
+          ).
+          <article-title>"The Relationship of Management Information Systems to Improving Administrative Performance - A Field Study on Application to NGOs in the Gaza Strip"</article-title>
+          ,
+          <source>Master Thesis (unpublished)</source>
+          ,
+          <source>Faculty of Economics and Administrative Sciences</source>
+          ,
+          <string-name>
+            <surname>Al-Azhar</surname>
+            <given-names>University</given-names>
+          </string-name>
+          , Gaza , Palestine.
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          [3]
+          <string-name>
+            <given-names>Abu</given-names>
+            <surname>Naser</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>S. S.</surname>
+          </string-name>
+          , &amp; Al Shobaki,
+          <string-name>
+            <surname>M. J.</surname>
+          </string-name>
+          (
+          <year>2016</year>
+          ).
+          <article-title>Computerized Management Information Systems Resources and their Relationship to the Development of Performance in the Electricity Distribution Company in Gaza</article-title>
+          .
+          <source>EUROPEAN ACADEMIC RESEARCH</source>
+          ,
+          <volume>6</volume>
+          (
+          <issue>8</issue>
+          ),
+          <fpage>6969</fpage>
+          -
+          <lpage>7002</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          [4]
+          <string-name>
+            <given-names>Abu</given-names>
+            <surname>Naser</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>S. S.</surname>
+          </string-name>
+          , &amp; Al Shobaki,
+          <string-name>
+            <surname>M. J.</surname>
+          </string-name>
+          (
+          <year>2016</year>
+          ).
+          <article-title>Enhancing the use of Decision Support Systems for Reengineering of Operations and Business-Applied Study on the Palestinian Universities</article-title>
+          .
+          <source>Journal of Multidisciplinary Engineering Science Studies (JMESS)</source>
+          ,
+          <volume>2</volume>
+          (
+          <issue>5</issue>
+          ),
+          <fpage>505</fpage>
+          -
+          <lpage>512</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          [5]
+          <string-name>
+            <given-names>Abu</given-names>
+            <surname>Naser</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>S. S.</surname>
+          </string-name>
+          , &amp; Al Shobaki,
+          <string-name>
+            <surname>M. J.</surname>
+          </string-name>
+          (
+          <year>2016</year>
+          ).
+          <article-title>The Impact of Management Requirements and Operations of Computerized Management Information Systems to Improve Performance (Practical Study on the employees of the company of Gaza Electricity Distribution)</article-title>
+          .
+          <source>Paper presented at the First Scientific Conference for Community Development.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          [6]
+          <string-name>
+            <given-names>Abu</given-names>
+            <surname>Naser</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S. S.</given-names>
+            , &amp;
+            <surname>Shobaki</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>M.</surname>
+          </string-name>
+          (
+          <year>2016</year>
+          ).
+          <article-title>Requirements of using Decision Support Systems as an Entry Point for Operations of Re-engineering in the Universities (Applied study on the Palestinian universities in Gaza Strip)</article-title>
+          .
+          <source>World Wide Journal of Multidisciplinary Research and Development</source>
+          ,
+          <volume>2</volume>
+          (
+          <issue>4</issue>
+          ),
+          <fpage>32</fpage>
+          -
+          <lpage>40</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          [7]
+          <string-name>
+            <given-names>Abu</given-names>
+            <surname>Sabt</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Sabri Fayek</surname>
+          </string-name>
+          Abdel-Jawad (
+          <year>2005</year>
+          ).
+          <article-title>"Evaluation of the Role of Management Information Systems in Administrative Decision Making in Palestinian Universities in the Gaza Strip"</article-title>
+          ,
+          <source>Master Thesis (unpublished)</source>
+          ,
+          <source>Faculty of Commerce</source>
+          , Islamic University, Gaza, Palestine.
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          [8]
+          <string-name>
+            <given-names>Al</given-names>
+            <surname>Shobaki</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M. J.</given-names>
+            , &amp;
+            <surname>Abu Naser</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>S. S.</surname>
+          </string-name>
+          (
+          <year>2016</year>
+          ).
+          <article-title>Decision support systems and its role in developing the universities strategic management: Islamic university in Gaza as a case study</article-title>
+          .
+          <source>International Journal of Advanced Research and Development</source>
+          ,
+          <volume>1</volume>
+          (
+          <issue>10</issue>
+          ),
+          <fpage>33</fpage>
+          -
+          <lpage>47</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          [9]
+          <string-name>
+            <given-names>Al</given-names>
+            <surname>Shobaki</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M. J.</given-names>
+            , &amp;
+            <surname>Abu Naser</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>S. S.</surname>
+          </string-name>
+          (
+          <year>2016</year>
+          ).
+          <article-title>Performance development and its relationship to demographic variables among users of computerized management information systems in Gaza electricity Distribution Company</article-title>
+          .
+          <source>International Journal of Humanities and Social Science Research</source>
+          ,
+          <volume>2</volume>
+          (
+          <issue>10</issue>
+          ),
+          <fpage>21</fpage>
+          -
+          <lpage>30</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          [10]
+          <string-name>
+            <given-names>Al</given-names>
+            <surname>Shobaki</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M. J.</given-names>
+            , &amp;
+            <surname>Abu Naser</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>S. S.</surname>
+          </string-name>
+          (
+          <year>2016</year>
+          ).
+          <article-title>The Dimensions of Organizational Excellence In The Palestinian Higher Education Institutions From The Perspective Of The Students</article-title>
+          .
+          <source>GLOBAL JOURNAL OF MULTIDISCIPLINARY STUDIES</source>
+          ,
+          <volume>5</volume>
+          (
+          <issue>11</issue>
+          ),
+          <fpage>66</fpage>
+          -
+          <lpage>100</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          [11]
+          <string-name>
+            <given-names>Al</given-names>
+            <surname>Shobaki</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M. J.</given-names>
+            , &amp;
+            <surname>Abu Naser</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>S. S.</surname>
+          </string-name>
+          (
+          <year>2017</year>
+          ).
+          <article-title>Usage Degree of the Capabilities of Decision Support System</article-title>
+          in Al-Aqsa University of Gaza.
+          <source>International Journal of Engineering and Information Systems (IJEAIS)</source>
+          ,
+          <volume>1</volume>
+          (
+          <issue>2</issue>
+          ),
+          <fpage>33</fpage>
+          -
+          <lpage>48</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          [12]
+          <string-name>
+            <surname>AL-Arabi</surname>
+          </string-name>
+          ,
+          <source>Attia</source>
+          (
+          <year>2012</year>
+          ).
+          <article-title>"The Effect of Information Technology on the Functioning of Employees in Local Governmental Bodies Field Study at the University of Ouargla, Algeria", Faculty of Economic and Commercial Sciences</article-title>
+          and Al-Tayseer University.
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          [13]
+          <string-name>
+            <surname>Al-Bashaabsha</surname>
+          </string-name>
+          ,
+          <source>Samer</source>
+          (
+          <year>2005</year>
+          ).
+          <article-title>"The Effect of Quality Management Information on Improving the Performance of the Jordanian Social Security Institution"</article-title>
+          ,
+          <source>Journal of Accounting</source>
+          , Management and Insurance, Amman, Volume
+          <volume>1</volume>
+          , Volume
+          <volume>10</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          [14]
+          <string-name>
+            <surname>Al-Dweik</surname>
+          </string-name>
+          ,
+          <source>Mesbah</source>
+          (
+          <year>2010</year>
+          ).
+          <article-title>"</article-title>
+          <source>Health Information Systems and Accounting - Applied Study on Gaza European Hospital"</source>
+          ,
+          <source>Master Thesis (unpublished)</source>
+          ,
+          <source>Faculty of Commerce</source>
+          , Islamic University, Gaza, Palestine.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          [15]
+          <string-name>
+            <surname>Al-Gharabawy</surname>
+          </string-name>
+          , Mahmoud
+          <string-name>
+            <surname>Hassan</surname>
+          </string-name>
+          (
+          <year>2014</year>
+          ).
+          <article-title>"Computerized Health Information Systems and their Relation to Job Performance - Field Study on UNRWA's Primary Health Relief Centers in the Gaza Strip"</article-title>
+          , MA (Unpublished), Al-Azhar University, Gaza, Palestine
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          [16]
+          <string-name>
+            <surname>Al-Halabi</surname>
+          </string-name>
+          , Diaa Al Haq (
+          <year>2010</year>
+          ).
+          <article-title>"Management Information Systems, Accountant and its Impact on Decentralization: An Empirical Study on the Ministry of Finance in the Gaza Strip"</article-title>
+          ,
+          <source>Master Thesis (unpublished)</source>
+          , Islamic University, Gaza, Palestine.
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          [17]
+          <string-name>
+            <surname>Al-Moghrabi</surname>
+          </string-name>
+          ,
+          <source>Abdelhamid</source>
+          (
+          <year>2002</year>
+          ).
+          <article-title>"Management Information Systems (Principles and Principles)"</article-title>
+          , Mansoura University, Modern Library, Mansoura, Egypt.
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          [18]
+          <string-name>
+            <surname>Al-Najjar</surname>
+          </string-name>
+          , Fayez Juma Saleh, (
+          <year>2005</year>
+          ).
+          <article-title>"Management Information Systems"</article-title>
+          , Dar
+          <string-name>
+            <surname>Al-Hamed Publishing</surname>
+          </string-name>
+          and Distribution Amman, Jordan.
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          [19]
+          <string-name>
+            <surname>Al-Omari</surname>
+          </string-name>
+          ,
+          <source>Ayman</source>
+          (
+          <year>2009</year>
+          ).
+          <article-title>"The Impact of Computerized Information Systems on the Performance of Workers in the Palestinian Telecommunications Company"</article-title>
+          ,
+          <source>Master Thesis (unpublished)</source>
+          , Islamic University, Gaza, Palestine.
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          [20]
+          <string-name>
+            <surname>Al-Otaibi</surname>
+          </string-name>
+          ,
+          <source>Aziza</source>
+          (
+          <year>2010</year>
+          ).
+          <article-title>"The Impact of Information Technology on Human Resource Performance at the Australian Academy in Melbourne, and its Impact on Functionality"</article-title>
+          , MA (unpublished),
+          <source>British-Arab Higher Education Academy</source>
+          , London.
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          [21]
+          <string-name>
+            <surname>Al-Salmi</surname>
+          </string-name>
+          , Alaa Abdel Razek, and
+          <string-name>
+            <surname>Al-Salmi</surname>
+          </string-name>
+          , Hussein
+          <string-name>
+            <surname>Alaa</surname>
+          </string-name>
+          (
+          <year>2005</year>
+          ).
+          <article-title>"Electronic Management Networks"</article-title>
+          ,
+          <string-name>
+            <surname>First</surname>
+            <given-names>Edition</given-names>
+          </string-name>
+          , Dar Wael Publishing, Amman, Jordan.
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          [22]
+          <string-name>
+            <surname>Al-Saudi</surname>
+          </string-name>
+          , Ahmed: (
+          <year>2006</year>
+          ).
+          <article-title>"The Impact of Management Information Systems on the Performance of Employees of the Social Security Institution"</article-title>
+          ,
+          <string-name>
+            <surname>Field</surname>
+            <given-names>Study</given-names>
+          </string-name>
+          ,
+          <source>Studies</source>
+          , Volume (
+          <volume>33</volume>
+          ),
+          <source>Issue (1).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          [23]
+          <string-name>
+            <surname>Al-Shurafa</surname>
+          </string-name>
+          ,
+          <source>Alaa</source>
+          (
+          <year>2004</year>
+          ).
+          <article-title>"Assessment of Information Systems in the Ministry of Health in the Gaza Strip"</article-title>
+          ,
+          <source>Master Thesis (unpublished)</source>
+          ,
+          <source>Faculty of Public Health</source>
+          , Al-Quds University, Abu Dis, Gaza, Palestine.
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          [24]
+          <string-name>
+            <surname>Al-Shurbagi</surname>
+          </string-name>
+          ,
+          <source>Najib</source>
+          (
+          <year>2001</year>
+          ).
+          <article-title>"Health and Medical Information in the Middle East Region - WHO", Regional Office for the Middle East</article-title>
+          , Cairo.
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          [25]
+          <string-name>
+            <surname>Ammar</surname>
+            ,
+            <given-names>Mohamed</given-names>
+          </string-name>
+          <string-name>
+            <surname>Gamal</surname>
+          </string-name>
+          (
+          <year>2009</year>
+          ).
+          <article-title>"The Extent of Applicability of E-Administration in the Gaza Regional Office and its Role in Improving the Performance of Workers"</article-title>
+          ,
+          <source>Master Thesis (unpublished)</source>
+          , Islamic University, Gaza, Palestine.
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          [26]
+          <string-name>
+            <surname>Arafat</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Mohamed</surname>
+          </string-name>
+          (
+          <year>2007</year>
+          ).
+          <article-title>"Obstacles of Decision Support Systems in the Ministries of the Palestinian National Authority - Gaza Strip"</article-title>
+          ,
+          <source>Master Thesis (unpublished)</source>
+          ,
+          <source>Faculty of Commerce</source>
+          , Islamic University, Palestine.
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          [27]
+          <string-name>
+            <surname>Beaver</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kevin</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>"Healthcare Information Systems"</article-title>
+          , Second edition, best practices series, CRC Press LLC, Florida, USA.
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          [28]
+          <string-name>
+            <surname>Berg</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Mrk</surname>
+          </string-name>
+          (
+          <year>2001</year>
+          ).
+          <article-title>"Health Information Management, Routledge"</article-title>
+          , London, UK.
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          [29]
+          <string-name>
+            <surname>Bos</surname>
+            ,
+            <given-names>Lodewijk</given-names>
+          </string-name>
+          &amp; Blobel,
+          <string-name>
+            <surname>Bernd</surname>
+          </string-name>
+          (
+          <year>2007</year>
+          ).
+          <article-title>"Medical And Care Compunetics 4"</article-title>
+          , eHelth Competence Center, University of Regensburg Medical Center, Germany, Volume
+          <volume>127</volume>
+          , IOS Press, Amestrdam, Netherland.
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          [30]
+          <string-name>
+            <surname>Ghoneim</surname>
+            ,
+            <given-names>Maher</given-names>
+          </string-name>
+          <string-name>
+            <surname>Ahmed</surname>
+          </string-name>
+          (
+          <year>2004</year>
+          ).
+          <article-title>"The Role of Computerized Information Systems in Decision Making in the Municipalities of the Gaza Strip in Palestine"</article-title>
+          ,
+          <source>Master Thesis (unpublished)</source>
+          , Islamic University, Gaza, Palestine.
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          [31]
+          <string-name>
+            <surname>Hamoud</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Khudair</surname>
+          </string-name>
+          (
+          <year>2005</year>
+          ).
+          <article-title>"Total Quality Management", 2nd edition, Dar Al Masirah for Publishing and Distribution</article-title>
+          , Amman, Jordan.
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          [32]
+          <string-name>
+            <surname>Hannah</surname>
+            ,
+            <given-names>Kathryn J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Ball</surname>
+            <given-names>Marion J.</given-names>
+          </string-name>
+          , (
+          <year>2003</year>
+          ).
+          <article-title>"Health Informatics"</article-title>
+          , Springer Inc., New York, Inc, USA.
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          [33]
+          <string-name>
+            <surname>Jad</surname>
+            <given-names>AL</given-names>
+          </string-name>
+          -Rab,
+          <source>Sayed</source>
+          (
+          <year>2009</year>
+          ).
+          <article-title>"Administrative Information Systems - The Basics and Administrative Applications"</article-title>
+          , Al-Ashri Press, Ismailia, Egypt.
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          [34]
+          <string-name>
+            <given-names>Jad</given-names>
+            <surname>Al-Rab</surname>
+          </string-name>
+          , Sayed
+          <string-name>
+            <surname>Mohamed</surname>
+          </string-name>
+          (
+          <year>2009</year>
+          ).
+          <article-title>"Development Strategies for Improving Performance - Methodological Frameworks and Practical Applications"</article-title>
+          , Suez Canal University, Egypt.
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          [35]
+          <string-name>
+            <surname>Kundalji</surname>
+          </string-name>
+          , Amer, Al-Janabi,
+          <source>Alaeddin</source>
+          (
+          <year>2009</year>
+          ).
+          <article-title>"</article-title>
+          <source>Management Information Systems", I 9</source>
+          ,
+          <string-name>
+            <given-names>Dar</given-names>
+            <surname>Al-Massirah for</surname>
+          </string-name>
+          <string-name>
+            <surname>Publishing</surname>
+          </string-name>
+          , Distribution and Printing, Amman, Jordan.
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          [36]
+          <string-name>
+            <surname>Ramadan</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Fadwa</surname>
+          </string-name>
+          (
+          <year>2009</year>
+          ).
+          <article-title>"The Effect of Using Decision Support Systems on Performance Development, An Empirical Study on the Ministry of Education - Gaza Strip Governorates"</article-title>
+          ,
+          <source>unpublished Master Thesis</source>
+          , Islamic University-Gaza-Palestine.
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          [37]
+          <string-name>
+            <surname>Tan</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Joseph</surname>
+          </string-name>
+          (
+          <year>2005</year>
+          ).
+          <article-title>"E- Health Care Information Systems - An Introduction for students and profetionals</article-title>
+          , Jhon Wiley &amp; Sons, Inc", San Fransisco, CA, USA.
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          [38]
+          <string-name>
+            <surname>Wager</surname>
+          </string-name>
+          , Karen, Lee, Frances, Glaser, John (
+          <year>2005</year>
+          ).
+          <article-title>"MANAGING HEALTH CARE INFORMATION SYSTEMS"</article-title>
+          , John Wiley &amp; Sons, Inc., San Francisco, CA, USA.
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          [39]
+          <string-name>
+            <surname>Wickramasinghe</surname>
+            ,
+            <given-names>Nilmini</given-names>
+          </string-name>
+          &amp; Geisler,
+          <string-name>
+            <surname>Eliezer</surname>
+          </string-name>
+          (
+          <year>2008</year>
+          ).
+          <article-title>"Encyclopedia of healthcare information systems, information scince reference (an imprint of IGI Global)</article-title>
+          , Hershey, New York, USA.
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>[40] www.emro.who.int</mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>[41] www.moh.gov.ps</mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          [42]
+          <string-name>
+            <given-names>Zine</given-names>
+            <surname>El-Din</surname>
+          </string-name>
+          , Osama and
+          <string-name>
+            <surname>El-Ajrami</surname>
+          </string-name>
+          ,
+          <source>Adnan</source>
+          (
+          <year>2013</year>
+          ).
+          <article-title>"The reality of the electronic programs used by the Deanship of Admission</article-title>
+          and Registration at Al-Azhar University-
+          <article-title>Gaza to improve the job performance of their employees from their point of view." , Arab Academy for Marine Science</article-title>
+          and Technology, Alexandria, Egypt.
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

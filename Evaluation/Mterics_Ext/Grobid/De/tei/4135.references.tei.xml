@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_1"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Asendorpf, Dirk, 2002: Die vermessene Welt. In den Aktenschränken der Behörden lagern 
+wertvolle geografische Daten, die sich in digitalen Karten miteinander verknüpfen ließen. 
+Doch noch ist der Milliardenschatz nicht gehoben. In: Die Zeit (27.3.2002), S. 35. 
+Bartelheimer, Peter, 1997: Risiken für die soziale Stadt. Erster Frankfurter Sozialbericht. Erstellt 
+im Auftrag des Sozialdezernats der Stadt Frankfurt am Main. Dissertationen, Diplomarbei-
+ten, Dokumentationen (DDD) 40. Frankfurt: Eigenverlag des Deutschen Vereins für öffent-
+liche und private Fürsorge.</ref>
+<ref>Feldmann, Ursula, 1986: Handbuch der örtlichen Sozialplanung, hrsg. vom Deutschen Verein für 
+öffentliche und private Fürsorge. Forschungsprojekt, finanziert durch das Bundesministeri-
+um für Jugend, Familie, Frauen und Gesundheit. Schriften des Vereins für öffentliche und 
+private Fürsorge. Schrift 265. Stuttgart u.a.: Kohlhammer.</ref>
+<ref>Frankfurter Sozialbericht. Risiken und Chancen des Frankfurter Arbeitsmarktes (Hrsg.), 2000: 
+Dezernent für Soziales und Jugend. Frankfurt (Reihe Soziales und Jugend, Bd. 20).</ref>
+<ref>Jeschkeit, Susanne, 2003: "Finanzierbare Lösungen gefragt. Ergebnisse einer bundesweiten 
+Kommunalumfrage zum Thema GIS und Geoinformation". In: GeoBit -Das Magazin für 
+raumbezogene Informationstechnologie. Heft 1-2, S. 21-23.</ref>
+<ref>Kassner, Uwe, 1999: "Integriertes Informationssystem für die dezentrale Steuerung -Einfüh-
+rung: Informationsmanagement im Neuen Steuerungsmodell". In: Stadtforschung und Sta-
+tistik, Heft 2, S. 38-49.</ref>
+<ref>Kraemer, Dieter; Kaufung, Harald, 2000: Bürgerämter sind nur der Anfang. In: Verwaltungs-
+rundschau. Heft 5, S. 200-206.</ref>
+<ref>Krechel, Clemens, 1999: Das numerische Bezugssystem der kleinräumigen Gliederung. In: 
+Stadtforschung und Statistik, Heft 2, S. 15-21.</ref>
+<ref>Rauschenbach, Thomas; Schilling, Matthias, 1997: Die Kinder und Jugendhilfe und ihre Statis-
+tik. 2 Bde. Analysen, Befunde und Perspektiven. Neuwied: Luchterhand.</ref>
+<ref>Renner, Mechthild; Walther, Uwe-Jens, 2000: Perspektiven einer sozialen Stadtentwicklung. In: 
+Raumforschung und Raumentwicklung, Heft 4, S. 326-336.</ref>
+<ref>Schäfer, Peter; Herrenbrück, Sabine, 1997: Jugendhilfestatistik im Validitätstest. Exemplarische 
+Prüfung der Erhebung stationärer Hilfen. In: Rauschenbach, Thomas; Schilling, Matthias 
+(Hrsg.), S. 493-510.</ref>
+<ref>Schmiese, Wulf, 2003: Der Kampf gegen die Stadtkernfäule. Leere Schaufenster und Bauruinen 
+-die Innenstädte verkommen. In der Not gründen Handel und die Politik Selbsthilfegrup-
+pen. In: Frankfurter Allgemeine Sonntagszeitung (3. August 2003) 31, S. 4.</ref>
+<ref>Schulz, Hajo; Sierig, Peter, 2003: Datendiener. Freie Datenbanken im Vergleich. In: c't Magazin 
+für Computertechnik. Heft 5, S. 142-147</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

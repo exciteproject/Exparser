@@ -1,0 +1,10 @@
+1018_1476-8518-9-3_J_Immune_Based_Ther_Vaccines_2011_Jan_18_9_3.references.tei.xml
+1049_jm101309g_J_Med_Chem_2011_May_12_54(9)_3163-3174.references.tei.xml
+1051_medethics38828_J_Med_Ethics_2011_May_25_37(5)_299-302.references.tei.xml
+1062_tmop56-1083_J_Mod_Opt_2009_May_15_56(9)_1083-1090.references.tei.xml
+115_13524_2010_Article_12_Demography_2011_Feb_3_48(1)_49-72.references.tei.xml
+119_DRP2011-506790_Dermatol_Res_Pract_2011_May_4_2011_506790.references.tei.xml
+127_desc0014-0402_Dev_Sci_2011_Mar_14(2)_402-416.references.tei.xml
+128_dmrr0027-0014_Diabetes_Metab_Res_Rev_2011_Jan_7_27(1)_14-27.references.tei.xml
+133_125_2011_Article_2062_Diabetologia_2011_May_6_54(5)_1212-1218.references.tei.xml
+141_10350_2008_Article_9360_Dis_Colon_Rectum_2008_Sep_7_51(9)_1367-1373.references.tei.xml

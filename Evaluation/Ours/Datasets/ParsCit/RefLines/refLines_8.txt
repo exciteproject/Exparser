@@ -1,0 +1,50 @@
+Marc Shapiro and Susan Horwitz. Fast and accurate flow-insensitive points-to analysis. In Proceedings of the 24th Annual ACM Symposium on Principles of Programming Languages, January 1997.
+W. H. Enright. Improving the efficiency of matrix operations in the numerical solution of stiff ordinary differential equations. ACM Trans. Math. Softw., 4(2), 127-136, June 1978.
+A. D. Kallis and D. Klappholz, ``Reaching definitions analysis on code containing array references,'' Conf. Rec. of the 4th Workshop on Languages and Compilers for Parallel Computing, Aug. 1991.
+P. T. Harker and J.-S. Pang. Finite-dimensional variational inequality and nonlinear complementarity problems: A survey of theory, algorithms, and applications. Mathematical Programming, 48(2), 161-220, September 1990.
+R. Chandra, S. Devine, B. Verghese, A. Gupta, M. Rosenblum, Scheduling and Page Migration for Multiprocessor Compute Servers. Proc. 6th Int'l. Conf. on Architectural Support for Programming Languages and Operating Systems (ASPLOS-VI), San Jose, CA, pp. 12-24, October 1994.
+Cheeseman, P., Kanefsky, B., & Taylor, W. (1991). Where the really hard problems are. 12th International Joint Conference on Artificial Intelligence, 163-169.
+Baader, F. (1991). Augmenting concept languages by transitive closure of roles: An alternative to terminological cycles. In Proc. of the 12th Int. Joint Conf. on Artificial Intelligence (IJCAI-91) Sydney, Australia.
+M. Herlihy and J. Wing, "Axioms for Concurrent Objects", Proceedings of the 14th ACM Symposium on Principles of Programming Languages, pp. 13-26, 1987.
+I. Meilijson and U. Yechiali, "On optimal right-of-way policies at a single-server station when insertion of idles times is permitted," Stoch. Proc. and their Appl. 6, 25-32, 1977.
+B. K. P. Horn. Robot Vision. MIT Press, Cambridge, MA, 1986.
+A. Gupta, V Harinarayan, D. Quass. "Aggregate-Query Processing in Data Warehousing Environments", Proceedings of the 21st VLDB Conference, Zurich, Swizerland, 1995.
+Scott, D., and de Souza, C. S. 1990. Getting the message across in RST-based text generation. In Dale, R.; Mellish, C.; and Zock, M., eds., Current Research in Natural Language Generation. New York: Academic Press. 47-73.
+S. Carr, K. S. McKinley, and C.-W. Tseng. Compiler optimizations for improving data locality. In Proceedings of the Sixth International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-VI), San Jose, CA, October 1994.
+Felleisen, M. Programming languages and lambda calculi. URL: www.cs.rice.edu/~matthias/411web/mono.ps.
+R. Harper and G. Morrisett. Compiling polymorphism using intensional type analysis. In Conference Record of the 22nd Annual ACM Symposium on Principles of Programming Languages, San Francisco, CA, Jan. 1995.
+Rees, J. and W. Clinger (Eds.). The revised 3 report on the algorithmic language Scheme. SIGPLAN Notices 21(12), 1986, 37-79.
+William G. Cochran. Sampling Techniques. John Wiley and Sons, Inc., New York, New York, 3 edition, 1977.
+Oded Shmueli. Decidability and expressiveness aspects of logic queries. In Proceedings of the Sixth Symposium on Principles of Database Systems (PODS), pages 237-249, San Diego, CA, March 1987.
+Howard Turtle and W. Bruce Croft. Inference networks for document retrieval. In Jean-Luc Vidick, editor, Proceedings of the 13th Annual International ACM-SIGIR Conference on Research and Development in Information Retrieval, pages 1-24, Brussels, Belgium, September 1990.
+Dwork, C., Kanellakis, P. C., and Mitchell, J. C., On the sequential nature of unification, Journal of Logic Programming 1 pp. 35-50 (1984).
+Shoham, Y. (1988). Reasoning about Change. Cambridge, MA: MIT Press. van Benthem, J. F. A. K. (1989). Semantic parallels in natural language and computation.
+H. Lu, S. Dwarkadas, A. Cox, and W. Zwaenepoel. Message passing versus distributed shared memory on networks of workstations. In Proceedings SuperComputing '95, Dec. 1995.
+Bennett, K. H., Bull, T. and Yang, H., "A Transformation System for Maintenance | Turning Theory into Practice", IEEE Conference on Software Maintenance-1992, Orlando, Florida, November, 1992.
+J. M. Lalouel. GEMINI a computer program for optimization of general nonlinear functions. Technical Report 14, University of Utah, Department of Medical Biophysics and Computing, Salt Lake City, Utah, 1979.
+Hawley, D. K., & McClure, W. R. (1983). Compilation and analysis of escherichia coli promoter DNA sequences. Nucleic Acids Research, 11 (8), 2237-2255.
+Reichman, R. (1985). Getting Computers to Talk Like You and Me: Discourse Context, Focus, and Semantics. Cambridge, MA: MIT Press.
+Kosslyn, S. M. (1994). Image and Brain: the resolution of the imagery debate. MIT Press.
+M. Burke and R. Cytron, ``Interprocedural dependence analysis and parallelization'', Proc. SIGPLAN 86 Symposium on Compiler Construction, SIGPLAN Notices 21(7), July 1986.
+C. Baru, O. Frieder, D. Kandlur, and M. Segal. Join on a cube: Analysis, simulation, and implementation. In M. Kitsuregawa and H. Tanaka, editors, Database Machines and Knowledge Base Machines. Kluwer Academic Publishers, 1987.
+Mark Friedell, Mark LaPolla, Sandeep Kochhar, Steve Sistare, and Janusz Juda. Visualizing the behavior of massively parallel programs. In Proceedings Supercomputing '91, November 1991.
+Stephen Lindell (1992), A Purely Logical Characterization of Circuit Uniformity, Seventh IEEE Structure in Complexity Theory, 185-192.
+Brieman, L., Friedman, J., Olshen, R., & Stone, C. (1984). Classification and Regression Trees. Monterey, CA: Wadsworth and Brooks.
+M. Holliday and M. Stumm. Performance evaluation of hierarchical ring-based shared memory mutliprocessors. Technical Report CS-1992-18, Computer Science Department, Duke University, 1992.
+A. J. Bernstein. Analysis of programs for parallel processing. IEEE Transactions on Electronic Computers, pages 757-763, October 1966.
+S. Hiranandani, K. Kennedy, and C. Tseng. Compiling Fortran D for MIMD distributed-memory machines. Communications of the ACM, 35(8) 66-80, Aug. 1992.
+Berlekamp, E. Algebraic coding theory. McGraw Hill, New York NY, 1968.
+Bourdoncle, F. Abstract debugging of higher-order imperative languages. In ACM SIGPLAN Conference on Programming Language Design and Implementation, pages 46-55, 1993.
+Bengio, Y., & Frasconi, P. (1995a). Diffusion of credit in Markovian models. In Tesauro, G., Touretzky, D. S., & Alspector, J. (Eds.), Advances in Neural Information Processing Systems 7. MIT Press.
+Card, S. K., Mackinlay, J. D. and Robertson, G. G. "The Design Space of Input Devices", in Proceedings of CHI 90 (Seattle, Washington, April 1-5, 1990). ACM, New York 1990, pp. 117-124.
+Rosenbloom, P. S., Laird, J. E., & Newell, A. (1988). The chunking of skill and knowledge.
+Hume, D., & Sammut, C. (1991). Using inverse resolution to learn relations from experiments. In Proceedings of the Eighth International Workshop on Machine Learning. Morgan Kaufmann.
+Puterman, M. L. (1994). Markov Decision Problems. Wiley, New York.
+J. McCarthy. Circumscription a form of non-monotonic reasoning. Artificial Intelligence, 13 27-39, 171-172, 1980.
+De Raedt, L., Lavrac, N., & Dzeroski, S. (1993). Multiple predicate learning. In Proceedings of the Third International Workshop on Inductive Logic Programming Bled, Slovenia.
+Wellman, M. (1985). Reasoning about preference models. Tech. rep. MIT/LCS/TR-340, Laboratory for Computer Science, MIT.
+Grosz, B. J., and Sidner, C. L. 1986. Attention, intention, and the structure of discourse. Computational Linguistics 12(3) 175-204 .
+Lewis, D. (1973). Counterfactuals. Harvard University Press, Cambridge, MA.
+Marinari, E. and Parisi, G. (1992) "Simulated tempering: A new Monte Carlo Scheme", Europhysics Letters, vol. 19, pp. 451-458.
+S. Lakshmanan and H. Derin, "Gaussian Markov Random Fields at Multiple Resolutions," in Markov Random Fields: Theory and Applications (R. Chellappa, ed.), pp. 131-157, Academic Press, 1993.
+Koppel, M., Feldman, R., & Segre, A. M. (1994b). Bias-driven revision of logical domain theories. Journal of Artificial Intelligence Research, 1, 159-208.

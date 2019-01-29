@@ -1,10 +1,10 @@
 
-if not os.path.isdir('LRT'):
+if not os.path.isdir('./Dataset/LRT'):
 	import patoolib
 	print 'Data being decompressed . . .'
-	patoolib.extract_archive("Data_Comp/Features.rar", outdir=".")
-	patoolib.extract_archive("Data_Comp/LRT.rar", outdir=".")
-	patoolib.extract_archive("Data_Comp/LYT.rar", outdir=".")
-	patoolib.extract_archive("Data_Comp/RefLD.rar", outdir=".")
-	patoolib.extract_archive("Data_Comp/SEG.rar", outdir=".")
-	patoolib.extract_archive("Data_Comp/Utils.rar", outdir=".")
+	patoolib.extract_archive("./Dataset/Data_Comp/Features.rar", outdir="./Dataset/")
+	patoolib.extract_archive("./Dataset/Data_Comp/LRT.rar", outdir="./Dataset/")
+	patoolib.extract_archive("./Dataset/Data_Comp/LYT.rar", outdir="./Dataset/")
+	patoolib.extract_archive("./Dataset/Data_Comp/RefLD.rar", outdir="./Dataset/")
+	patoolib.extract_archive("./Dataset/Data_Comp/SEG.rar", outdir="./Dataset/")
+	patoolib.extract_archive("./Dataset/Data_Comp/Utils.rar", outdir=".")

@@ -1,0 +1,289 @@
+Stansfeld CE Wallis DI Properties of visceral primary afferent neurons in the nodose ganglion of the rabbit J Neurophysiol 1985 54 245-260 
+Undem BJ Weinreich D Electrophysiological properties and chemosensitivity of guinea pig nodose ganglion neurons in vitro J Auton Nerv Syst 1993 44 17-33 
+Li B-Y Schild JH Electrophysiological and pharmacological validation of vagal afferent fiber type of neurons enzymatically isolated from rat nodose ganglia J Neurosci Methods 2007 164 75-85 
+Matsumoto S Okamura H Suzuki K Sugai N Shimizu T Inhibitory mechanism of CO2 inhalation on slowly adapting pulmonary stretch receptors in the anesthetized rabbit J Pharmacol Exp Ther 1998 279 402-409 
+Matsumoto S Takahashi T Tanimoto T Saiki C Takeda M Effects of potassium channel blockers on CO2-induced slowly adapting pulmonarstretch receptor inhibition J Pharmacol Exp Ther 1999 290 974-979 
+Matsumoto S Ikeda M Nishikawa T Effects of acetazolamide and 4-aminoprydine on the responses of deflationary slowly adapting pulmonary stretch receptors to CO2 inhalation in the rat Life Sci 2003 72 1757-1771 
+Matsumoto S Tanimoto T Yoshida S Effects of acetazolamide and 4-aminoprydine on CO2-induced slowly adapting pulmonary stretch receptor inhibition in rats Chem Sences 2004 29 351-361 
+Higashi H Ueda N Nishi S Gallagher JP Shinnnick-Gallagher P Chemoreceptors for serotonin (5-HT), acetylcholine (Ach), bradykinin (BK), histamine (H) and gamma-aminobutyric acid (GABA) on rabbit visceral afferent neurons Brain Res Bull 1992 8 23-32 
+McFarlane S Cooper E Kinetics and voltage dependence of A-type currents on neonatal rat sensory neurons J Neurophysiol 1991 66 1380-1391 
+Christian EP Togo J Naper KE Guinei pig visceral C-fiber neurons are diverse with respect to the K+ currents involved in action-potential repolarization J Neurophysiol 1994 71 561-574 
+Schild JH Clark JW Hay M Mendelowitz D Andresen MC Kunze DL A- and C-type rat nodose sensory neurons: Model interpretations of dynamic discharge characteristics J Neurophysiol 1994 71 2338-2358 
+Stansfeld CE Mersh SJ Halliwell JV Brown DA 4-aminoprydine and dendrotoxin induce repetitive firing in rat visceral sensory neurons by blocking a slow inactivating outward current Neurosci Lett 1986 64 299-304 
+Storm JF Intracellular injection of a Ca2+ chelator inhibits spike repolarization in hippocampal neurons Brain Res 1987 435 387-392 
+Coetzee WA Amarillo Y Chiu J Molecular diversity of K+ channels Ann NY Acad Sci 1999 868 233-285 
+Glazebrook P Ramirez AN Schild JH Shieh CC Doan T Wible BA Kunze DL Potassium channels Kv1.1, Kv1.2 and Kv1.6 influence excitability of rat visceral sensory neurons J Physiol 2002 541 467-482 
+Yoshida S Matsumoto S Effects of &#945;-dendrotoxin on K+ currents and action potentials in tetrodotoxin-resistant adult rat trigeminal ganglion neurons J Pharmacol Exp Ther 2005 314 437-445 
+McAlexander MA Undem BJ Potassium channel blockade induces action potential generation in guinea-pig airway vagal afferent neurons J Auto Nerv Syst 2000 78 158-164 
+Harper AA Similarities between some properties of the soma and sensory receptors of primary afferent neurons Exp Physiol 1991 76 369-377 
+Ikeda M Yoshida S Kadoi J Nakano Y Matsumoto S The effect of PKC activity on the TTX-R sodium currents from rat nodose ganglion neurons Life Sci 2005 78 47-53 
+Matsumoto S Ikeda M Yoshida S Tanimoto T Takeda M Nasu M Prostaglandin E2-induced modification of tetrodotoxin-resistant Na+ currents involves activation of both EP2 and EP4 receptors in neonatal rat nodose ganglion neurons Br J Pharmacol 2005 145 503-513 
+Matsumoto S Yoshida S Ikeda M Effect of 8-bromo-cAMP on the tetrodotoxin-resistant sodium (Nav 1.8) current in small-diameter nodose ganglion neurons Neuropharmacology 2007 52 904-92422 
+Yoshida S Takahashi M Kadoi J Kitagawa J Saiki C Takeda M Matsumoto S The functional difference between transient and sustained K+ currents on the action potentials in tetrodotoxin-resistant adult rat trigeminal ganglion neurons Brain Res 2007 1152 64-74 
+Mo ZL Davis RL Endogenous firing patterns of murine spinal ganglion neurons J Neurophysiol 1997 77 1294-1305 
+Tsutsui Y Ikeda M Takeda M Matsumoto S Excitability of small-diameter trigeminal ganglion neurons by 5-HT is mediated by enhancement of the tetrodotoxin-resistant sodium current due to the activation of 5-HT4 receptors and/or by the inhibition of the transient potassium current Neuroscience 2008 157 683-696 
+Gold MS Shuster MJ Levine JD Characterization of six voltage-gated K+ currents in adult rat sensory neurons J Neurophysiol 1996 75 2629-2646 
+Everill B Kocsis JD Reduction in potassium currents in identified cutaneous afferent dorsal root ganglion neurons after axotomy J Neurophysiol 1999 82 700-708 
+Takeda M Tanimoto T Ikeda M Kadoi J Matsumoto S Activation of GABAB receptor inhibits the excitability of rat small diameter trigeminal root ganglion neurons Neuroscience 2004 123 491-505 
+Ikeda M Matsumoto S Classification of voltagedependent Ca2+ channels in trigeminal ganglion neurons from neonatal rats Life Sci 2003 73 1175-1187 
+Maren TH Use of inhibitors in physiological studies of carbonic anhydrase Am J Physiol 1977 232 F291-F297 
+Lee HB Blaufox MD Blood volume in the rat J Neucl Med 1985 25 72-76 
+Wang EQ Lee W-I Brazeau D Fung H-L cDNA microarray analysis of vascular gene expression after nitric oxide donor infusion in rats: Implications for nitrate tolerance mechanisms AAPS Pharm Sci 2002 4 1-11 
+Puil E Miura RM Spigelman I Consequence of 4-aminoprydine application to trigenal root ganglion neurons J Neurophysiol 1989 62 810-820 
+Everill B Rizzo MA Kocsis D Morphologically identified cutaneous afferent DRG neurons express three different potassium currents in varying properties J Neurophysiol 1998 79 1814-1824 
+Seifert G Kuprijanova E Zhou M Steinh&#228;user C Developmental changes in the expression of Shaker- and Shab-related K(+) channels in neurons of the rat trigeminal ganglion Brain Res Mol Brain Res 1999 74 55-68 
+Everill B Rizzo MA Kocsis JD Morphologically identified cutaneous afferent DRG neurons express three different potassium currents in varying properties J Neurophysiol 1998 79 1814-1824 
+Rasband MN Park EW Vanderah TW Lai J Porreca F Trimmer JS Distinct potassium channels on pain-sensing neurons Proc Natl Acad Sci USA 2001 98 13373-13378 
+Winkelman DL Beck CL Ypey DL O&#8217;Leary ME Inhibition of the A-type K+ channels of dorsal root ganglion neurons by the long-duration anesthetic butamben J Pharmacol Exp Ther 2005 314 1177-1186 
+Takeda M Tanimoto T Nasu M Matsumoto S Tempromandibular joint inflammation decreases the voltage-gated K+ channel subtype 1.4-immunoreactivity of trigeminal ganglion neurons in rats Eur J Pain 2008 12 189-195 
+Tanimoto T Takeda M Nasu M Matsumoto S Immunohistochemical co-expression of carbonic anhydrase II with Kv 1.4 and TRPV1 in the rat small-diameter trigeminal ganglion neurons Brain Res 2005 1044 262-265 
+Ho CY Gu Q Lin YS Lee L-Y Sensitivity of vagal afferent endings to chemical irritants in rat lung Respir Physiol 2001 127 113-124 
+Zhang G Lin R-Y Wiggers M Snow DM Lee L-Y Altered expression of TRPV1 and sensitivity to capsaicin in pulmonary myelinated afferents following chronic airway inflammation in the rat J Physiol 2008 586 5771-5786 
+Kwong K Carr MJ Gibbard A Voltage-gated sodium channels in nociceptive versus non-nociceptive nodode vagal sensory neurons innervating guines pig lungs J Physiol 2008 586 1321-1336 
+Ma QP Expression of capsaicin receptor (VR1) by myelinated primary afferents neurons in the rat Neurosci Lett 2002 319 87-90 
+Sun H Li H-P Chen S-R Hittelnan WN Pan H-L Sensory of blood pressure induced by transient receptor potential vanilloid 1 receptors on baroreceptors J Pharmacol Exp Ther 2009 331 851-859 
+Dalence-Guzman MF Berglund M Skogvall S Sterner O SAR studies of capsazepinoid bronchodilators. Part1: The importance of the catechol moiety and aspects of the B-ring structure Bioorg Med Chem 2008 16 2499-2512 
+Skogvall S Berglund M Dalence-Guzm&#225;n MF Svensson K J&#246;nsson P Persson CG Sterner O Effects of capsazepine on human small airway responsiveness unravel a novel class of bronchorelaxants Pulm Pharmacol Ther 2007 20 273-280 
+Hasannejad H Takeda M Taki K Interactions of human organic anion transporters with diuretics J Pharmacol Exp Ther 2004 308 1021-1029 
+Faraci FM Mayhan WG Heistad DD Vascular effects of acetazolamide on the choroid plexus J Pharmacol Exp Ther 1990 254 23-27 
+Wang Q Paulson OB Lassen NA Indomethacin abolishes cerebral blood flow increase in response to acetazolamide-induced extracellular acidosis: A mechanism for its effect on hypercapnia? J Cereb Blood Flow Metab 1993 13 724-727 
+Pickkers P Hughes AD Russel FG Thien T Smits T In vivo evidence for K(Ca) channel opening properties of acetazolamide in the human vasculature Br J Pharmacol 2001 132 443-450 
+Tricarico D Lovaglio S Mele A Rotondo G Mancinelli E Meola G Camerino DC Acetazolamide prevents vacuolar myopathy in skeletal muscle of K+-depleted rats Br J Pharmacol 2008 154 183-190 
+Swenson ER Carbonic anhydrase inhibitors and ventilation: A complex interplay of stimulation and suppression Eur Respir J 1998 12 1242-1247 
+Teppema LJ Dahan A Low-dose acetazolamide reduces the hypoxic ventilatory response in the anesthetized cat Respir Physiol Neurobiol 2004 140 43-51 
+Lehmann-Horn F R&#252;del R Jurkat-Rott K Engel AG , Franzini-Armstrong C Altered excitability of the cell membrane: Myology 2004 46 3rd ed. USA McGraw-Hill Press 1257-1300 
+Clare BW Supuran CT A perspective on quantitative structure-activity relationships and carbonic anhydrase inhibitors Expert Opin Drug Metab Toxicol 2006 2 113-137 
+Venance SL Cannon SC Fialho D The primary periodic paralyses: Diagnosis, pathogenesis and treatment Brain 2006 129 8-17 
+Ades P Savage PD Tischler MD Poehlman ET Dee J Niggel J Determinants of disability in older coronary patients American Heart Journal 2002 143 151-156 
+American Heart Association Cardiovascular disease statistics 2006 Retrieved from
+Ayabe M Brubaker PH Mori Y Kumahara H Kiyonaga A Tanaka H Aoki J Self-monitoring moderate-vigorous physical activity versus steps/day is more effective in chronic disease exercise programs Journal of Cadiopulmonary Rehabiliation and Prevention 2009 39 12-18 
+Bandura A Self-efficacy: The exercise of control 1997 New York W.H. Freeman and Co 
+Bernier M Avard J Self-efficacy, outcome, and attrition in a weight-reduction program Cognitive Therapy and Research 1986 10 319-338 
+Borg G Perceived exertion and pain scales 1998 Champaign, IL Human Kinetics 
+Chao D Farmer DF Sevick MA Espeland MA Vitolins M Naughton MJ The value of session attendance in a weight-loss intervention American Journal of Health Behavior 2010 24 413-421 
+Clark BA Wade MG Massey BH Van Dyke R Response of institutionalized geriatric mental patients to a twelve-week program of regular physical activity Journal of Gerontology: Medical Sciences 1975 30 565-573 
+Clark MM Abrams DB Niaura RS Eaton CA Rossi JS Self-efficacy in weight management Journal of Consulting and Clinical Psychology 1991 59 739-744 
+Dansinger ML Gleason JA Griffith JL Selker HP Schaefer EJ Comparison of the Atkins, Ornish, Weight watchers, and Zone diets for weight loss and heart disease risk reduction Journal of the American Medical Association 2005 293 43-53 
+Expert Panel on Detection Executive summary of the third report of the national cholesterol education program Journal of the American Medical Association 2001 285 2486-2497 
+Fontaine KR Cheskin LJ Self-efficacy, attendance, and weight loss in obesity treatment Addictive Behaviors 1997 22 567-570 
+Jeffery RW Bjornsonbenson WM Rosenthal BS Lindquist RA Kurth CL Johnson SL Correlates of weight-loss and its maintenance over 2 years of follow-up among middle-aged men Preventive Medicine 1984 13 155-168 
+Linde JA Rothman AJ Baldwin AS Jeffery RW The impact of self-efficacy on behavior change and weight change among overweight participants in a weight loss trial Health Psychology 2006 25 282-291 
+MacKinnon DP Fairchild AJ Fritz MS Mediation analysis Annual Review of Psychology 2007 58 593-614 
+MacKinnon DP Fritz MS Williams J Lockwood CH Distribution of the product confidence limits for the indirect effect: Program PRODCLIN Behavior Research Methods 2007 39 384-389 
+Marsh AP Vance RM Frederick TL Hesselmann SA Rejeski WJ Objective assessment of activity in older adults at risk for mobility disability Medicine and Science in Sports and Exercise 2007 39 1020-1026 
+Perri MG Nezu AM McKelvey WF Shermer RL Renjilian DA Viegener BJ Relapse prevention training and problem-solving therapy in the long-term management of obesity Journal of Consulting and Clinical Psychology 2001 69 722-726 
+Rejeski WJ Blumenthal TD Miller GD Lobe M Davis C Brown L State craving, food availability, and reactivity to preferred snack foods Appetite 2010 54 77-83 
+Rejeski WJ Brawley LR Ambrosius W Brubaker PH Focht BC Foy CG Fox LD Older adults with chronic disease: The benefits of group mediated counseling in the promotion of physically active lifestyles Health Psychology 2003 22 414-423 
+Rejeski WJ Marsh AP Chmelo E Rejeski JJ Obesity, intentional weight loss and physical disability in older adults Obesity Reviews 2010 11 671-685 
+Richman RM Loughnan GT Droulers AM Steinbeck KS Caterson ID Self-efficacy in relation to eating behaviour among obese and non-obese women International Journal of Obesity 2001 25 907-913 
+SAS Insitute, Raleigh, NC.User note 23600: How can I compute the eta2, partial eta2, or emega2 statistics? Retrieved from:
+Savage PD Ades PA The obesity epidemic in the United States: Role of cardiac rehabilitation Coronary Artery Disease 2006 17 227-231 
+Schwarzer R Optimism, goals, and threats: How to conceptualize self-regulatory processes in the adoption and maintenance of health behaviors Psychology and Health 1998 13 759-767 
+Schwarzer R Renner B Social-cognitive predictors of health behavior: Action self-efficacy and coping self-efficacy Health Psychology 2000 19 487-495 
+Stotland S Zuroff DC Relations between multiple measures of dieting self-efficacy and weight change in a behavioral weight control program Behavior Therapy 1991 22 47-59 
+Stotland S Zuroff DC Roy M Situational dieting self-efficacy and short-term regulation of eating Appetite 1991 17 81-90 
+Wadden TA Osei S Wadden TA , Stunkard AJ The treatment of obesity: An overview Handbook of obesity treatment 2002 New York The Guilford Press 229-248 
+Warziski MT Sereika SM Styn MA Music E Burke LE Changes in self-efficacy and dietary adherence: The impact on weight loss in the PREFER study Journal of Behavioral Medicine 2008 31 81-92 
+Wenger NK Froelicher ES Smith LK Ades PA Berra K Blumenthal JA Cardiac rehabilitation 1995 Washington, DC U.S. Department of Health and Human Services 
+Nordin AJ Primary carcinoma of the fallopian tube: a 20-year literature review Obstet Gynecol Surv 1994 49 349-361 
+Tr&#233;tarre B Remontet L Menegoz F Mace-Lesec'h J Grosclaude P Buemi A Ovarian cancer: incidence and mortality in France J Gynecol Obstet Biol Reprod (Paris) 2005 34 154-161 
+Baekelandt M Jorunn Nesbakken A Kristensen GB Trope CG Abeler VM Carcinoma of the fallopian tube Cancer 2000 89 2076-2084 
+Moore KN Moxley KM Fader AN Axtell AE Rocconi RP Abaid LN Serous fallopian tube carcinoma: a retrospective, multi-institutional case-control comparison to serous adenocarcinoma of the ovary Gynecol Oncol 2007 107 398-403 
+Wethington SL Herzog TJ Seshan VE Bansal N Schiff PB Burke WM Improved survival for fallopian tube cancer: a comparison of clinical characteristics and outcome for primary fallopian tube and ovarian cancer Cancer 2008 113 3298-3306 
+Deffieux X Morice P Thoury A Camatte S Duvillard P Castaigne D Pelvic and para-aortic lymphatic involvement in tubal carcinoma: topography and surgical implications Gynecol Obstet Fertil 2005 33 23-28 
+Tavassoli FA Devilee P Pathology and genetics of tumours of the breast and female genital organs (IARC WHO classification of tumours, No 4) 2003 Lyon IARC Press 
+Pectasides D Pectasides E Economopoulos T Fallopian tube carcinoma: a review Oncologist 2006 11 902-912 
+Tamimi HK Figge DC Adenocarcinoma of the uterine tube: potential for lymph node metastases Am J Obstet Gynecol 1981 141 132-137 
+Cormio G Lissoni A Maneo A Marzola M Gabriele A Mangioni C Lymph node involvement in primary carcinoma of the fallopian tube Int J Gynecol Cancer 1996 6 405-409 
+di Re E Grosso G Raspagliesi F Baiocchi G Fallopian tube cancer: incidence and role of lymphatic spread Gynecol Oncol 1996 62 199-202 
+Leblanc E Querleu D Narducci F Occelli B Papageorgiou T Sonoda Y Laparoscopic restaging of early stage invasive adnexal tumors: a 10-year experience Gynecol Oncol 2004 94 624-629 
+Maxson WZ Stehman FB Ulbright TM Sutton GP Ehrlich CE Primary carcinoma of the fallopian tube: evidence for activity of cisplatin combination therapy Gynecol Oncol 1987 26 305-313 
+Muntz HG Tarraza HM Goff BA Granai GO Rice LW Nikrui N Combination chemotherapy in advanced adenocarcinoma of the fallopian tube Gynecol Oncol 1991 40 268-273 
+Morris M Gershenson DM Burke TW Kavanagh JJ Silva EG Wharton JT Treatment of fallopian tube carcinoma with cisplatin, doxorubicin, and cyclophosphamide Obstet Gynecol 1990 76 1020-1024 
+Barakat RR Rubin SC Saigo PE Lewis JL Jr Jones WB Curtin JP Second-look laparotomy in carcinoma of the fallopian tube Obstet Gynecol 1993 82 748-751 
+Peters WA 3rd Andersen WA Hopkins MP Results of chemotherapy in advanced carcinoma of the fallopian tube Cancer 1989 63 836-838 
+Pectasides D Pectasides E Papaxoinis G Andreadis C Papatsibas G Fountzilas G Primary fallopian tube carcinoma: results of a retrospective analysis of 64 patients Gynecol Oncol 2009 115 97-101 
+Roh MH Kindelberger D Crum CP Serous tubal intraepithelial carcinoma and the dominant ovarian mass: clues to serous tumor origin? Am J Surg Pathol 2009 33 376-383 
+Jarboe EA Folkins AK Drapkin R Ince TA Agoston ES Crum CP Tubal and ovarian pathways to pelvic epithelial cancer: a pathological perspective Histopathology 2008 53 127-138 
+Kindelberger DW Lee Y Miron A Hirsch MS Feltmate C Medeiros F Intraepithelial carcinoma of the fimbria and pelvic serous carcinoma: evidence for a causal relationship Am J Surg Pathol 2007 31 161-169 
+Carlson JW Miron A Jarboe EA Parast MM Hirsch MS Lee Y Serous tubal intraepithelial carcinoma: its potential role in primary peritoneal serous carcinoma and serous cancer prevention J Clin Oncol 2008 26 4160-4165 
+Crum CP Drapkin R Kindelberger D Medeiros F Miron A Lee Y Lessons from BRCA: the tubal fimbria emerges as an origin for pelvic serous cancer Clin Med Res 2007 5 35-44 
+Semmel DR Folkins AK Hirsch MS Nucci MR Crum CP Intercepting early pelvic serous carcinoma by routine pathological examination of the fimbria Mod Pathol 2009 22 985-988 
+Deligdisch L Penault-Llorca F Schlosshauer P Altchek A Peiretti M Nezhat F Stage I ovarian carcinoma: different clinical pathologic patterns Fertil Steril 2007 88 906-910 
+Mettlin CJ Murphy GP Rosenthal DS The National Cancer Data Base report on prostate carcinoma after the peak in incidence rates in the U.S. The American College of Surgeons Commission on Cancer and the American Cancer Society Cancer 1998 83 1679-84 
+Mettlin CJ Murphy GP McDonald CJ The National Cancer Data Base Report on increased use of brachytherapy for the treatment of patients with prostate carcinoma in the U.S Cancer 1999 86 1877-82 
+Shipley WU Thames HD Sandler HM Radiation therapy for clinically localized prostate cancer: a multi-institutional pooled analysis JAMA 1999 281 1598-604 
+D&#8217;Amico AV Chen MH Renshaw AA Loffredo B Kantoff PW Risk of prostate cancer recurrence in men treated with radiation alone or in conjunction with combined or less than combined androgen suppression therapy J Clin Oncol 2008 26 2979-83 
+Suzuki N Shimbo M Amiya Y Outcome of patients with localized prostate cancer treated by radiotherapy after confirming the absence of lymph node invasion Jpn J Clin Oncol 2010 40 652-7 
+Touma NJ Izawa JI Chin JL Current status of local salvage therapies following radiation failure for prostate cancer J Urol 2005 173 373-9 
+Zietman AL Bae K Slater JD Randomized trial comparing conventional-dose with high-dose conformal radiation therapy in early-stage adenocarcinoma of the prostate: long-term results from proton radiation oncology group/American College of radiology 95&#8211;09 J Clin Oncol 2010 28 1106-11 
+Crook JM Perry GA Robertson S Esche BA Routine biopsies following radiotherapy for prostate cancer: results for 226 patients Urology 1995 45 624-31 
+Siddiqui SA Mynderse LA Zincke H Treatment of prostate cancer local recurrence after radical retropubic prostatectomy with 17-gauge interstitial transperineal cryoablation: initial experience Urology 2007 70 80-5 
+Chin JL Lim D Abdelhady M Review of primary and salvage cryoablation for prostate cancer Cancer Control 2007 14 231-7 
+Finley DS Pouliot F Miller DR Belldegrun AS Primary and salvage cryotherapy for prostate cancer Urol Clin North Am 2010 37 67-82 
+Babaian RJ Donnelly B Bahn D AUA Best practice statement on cryosurgery for the treatment of localized prostate cancer J Urol 2008 180 1993-2004 
+Nguyen PL D'Amico AV Lee AK Suh WW Patient selection, cancer control, and complications after salvage local therapy for postradiation prostate-specific antigen failure: a systematic review of the literature Cancer 2007 110 1417-28 
+Spiess PE Lee AK Leibovici D Presalvage prostate-specific antigen and PSA doubling time as predictors of biochemical failure of salvage cryotherapy in patients with locally recurrent prostate cancer after radiotherapy Cancer 2006 107 275-80 
+Vergunst H Langenhuijsen JF Rebuttal from Authors re: J. Stephen Jones. Ten Misconceptions regarding cryotherapy for prostate cancer Eur Urol 2009 55 52-5 
+Chin JL Pautler SE Mouraviev V Results of salvage cryoablation of the prostate after radiation: identifying predictors of treatment failure and complications J Urol 2001 165 1937-42 
+Taille A Benson MC Bagiella E Cryoablation for clinically localized prostate cancer using an argon-based system: complication rates and biochemical recurrence BJU Int 2000 85 281-6 
+Izawa JI Madsen LT Scott SM Salvage cryotherapy for recurrent prostate cancer after radiotherapy: variables affecting patient outcome J Clin Oncol 2002 20 2664-71 
+Pisters LL Perrotte P Scott SM Patient selection for salvage cryotherapy for locally recurrent prostate cancer after radiation therapy J Clin Oncol 1999 17 2514-20 
+Spiess PE Katz AE Chin JL A pretreatment nomogram predicting biochemical failure after salvage cryotherapy for locally recurrent prostate cancer BJU Int 2009 106 194-8 
+Bahn DK Lee F Silverman P Salvage cryosurgery for recurrent prostate cancer after radiation therapy: a seven-year follow-up Clin Prostate Cancer 2003 2 111-4 
+Cheetham P Truesdale M Chaudhury S Long-term cancer-specific and overall survival for men followed more than 10 years after primary and salvage cryoablation of the prostate J Endo 2010 24 1123-9 
+Huang WC Kuroiwa K Serio AM The anatomical and pathological characteristics of irradiated prostate cancers may influence the oncological efficacy of salvage ablative therapies J Urol 2007 177 1324-9 
+Klossner DP Baust JM VanBuskirk RG Gage AA Baust JG Cryoablative response of prostate cancer cells is influenced by androgen receptor expression BJU Int 2008 101 1310-6 
+Eisenberg ML Shinohara K Partial salvage cryoablation of the prostate for recurrent prostate cancer after radiotherapy failure Urology 2008 72 1315-8 
+Abdelhady M Abusamra A Elmaadawi A Health related quality of life (HRQOL) outcome after salvage cryosurgery of the prostate: comparison with outcome after primary radiotherapy J Urol suppl 2007 177 3 
+Robinson JW Donnelly BJ Coupland K Quality of life 2 years after salvage cryosurgery for the treatment of local recurrence of prostate cancer after radiotherapy Urol Oncol 2006 24 472-86 
+Perrotte P Litwin M McGuire EJ Quality of life after salvage cryotherapy: the impact of treatment parameters J Urol 1999 162 398-402 
+Levy DA Correlation of thermocouple data with voiding function after prostate cryoablation Urology 2010 75 482-7 
+Taille A Hayek O Benson MC Salvage cryotherapy for recurrent prostate cancer after radiation treatment: the Columbia experience Urology 2000 55 79-84 
+Long JP Fallick ML LaRock DR Rand W Preliminary outcomes following cryosurgical ablation of the prostate in patients with clinically localized prostate carcinoma J Urol 1998 159 477-84 
+Anastasiadis AG Sachdev R Salomon L Comparison of health-related quality of life and prostate-associated symptoms after primary and salvage cryotherapy for prostate cancer J Cancer Res Clin Oncol 2003 129 676-82 
+Ismail M Ahmed S Kastner C Davies J Salvage cryotherapy for recurrent prostate cancer after radiation failure: a prospective case series of the first 100 patients BJU Int 2007 100 760-4 
+Pisters LL Rewcastle JC Donnelly BJ Salvage prostate cryoablation: initial results from the cryo on-line data registry J Urol 2008 180 559-64 
+Bucholz RW Nonallograft osteoconductive bone graft substitutes Clin Orthop Relat Res 2002 395 395 44-52 
+Burger EL Patel V Calcium phosphates as bone graft extenders Orthopedics 2007 30 11 939-942 
+Moore WR Graves SE Bain GI Synthetic bone graft substitutes ANZ J Surg 2001 71 6 354-361 
+Chang BS Lee CK Hong KS Youn HJ Ryu HS Chung SS Osteoconduction at porous hydroxyapatite with various pore configurations Biomaterials 2000 21 12 1291-1298 
+Groot K Bioceramics consisting of calcium phosphate salts Biomaterials 1980 1 1 47-50 
+Gauthier O Bouler JM Aguado E Pilet P Daculsi G Macroporous biphasic calcium phosphate ceramics: influence of macropore diameter and macroporosity percentage on bone ingrowth Biomaterials 1998 19 1&#8211;3 133-139 
+Holmes RE Brighton CT , Friedlaender G , Lane JM Osteoconduction in hydroxyapatite-based materials Bone formation and repair 1994 Rosemont American Academy of Orthopedic Surgeons 355-365 
+Ripamonti U Osteoinduction in porous hydroxyapatite implanted in heterotopic sites of different animal models Biomaterials 1996 17 1 31-35 
+Yuan H Bruijn JD Zhang X Blitterswijk CA Groot K Bone induction by porous glass ceramic made from Bioglass (45S5) J Biomed Mater Res 2001 58 3 270-276 
+Yuan H Kurashina K Bruijn JD Li Y Groot K Zhang X A preliminary study on osteoinduction of two kinds of calcium phosphate ceramics Biomaterials 1999 20 19 1799-1806 
+Habibovic P Gbureck U Doillon CJ Bassett DC Blitterswijk CA Barralet JE Osteoconduction and osteoinduction of low-temperature 3D printed bioceramic implants Biomaterials 2008 29 7 944-953 
+Habibovic P Kruyt MC Juhl MV Clyens S Martinetti R Dolcini L Comparative in vivo study of six hydroxyapatite-based bone graft substitutes J Orthop Res 2008 26 10 1363-1370 
+Anselme K Noel B Flautre B Blary MC Delecourt C Descamps M Association of porous hydroxyapatite and bone marrow cells for bone regeneration Bone 1999 25 2 Suppl 51S-54S 
+Bruijn JD Brink I Mendes S Dekker R Bovell YP Blitterswijk CA Bone induction by implants coated with cultured osteogenic bone marrow cells Adv Dent Res 1999 13 74-81 
+Goshima J Goldberg VM Caplan AI The osteogenic potential of culture-expanded rat marrow mesenchymal cells assayed in vivo in calcium phosphate ceramic blocks Clin Orthop Relat Res 1991 262 298-311 
+Ohgushi H Okumura M Tamai S Shors EC Caplan AI Marrow cell induced osteogenesis in porous hydroxyapatite and tricalcium phosphate: a comparative histomorphometric study of ectopic bone formation J Biomed Mater Res 1990 24 12 1563-1570 
+Roy DM Linnehan SK Hydroxyapatite formed from coral skeletal carbonate by hydrothermal exchange Nature 1974 247 438 220-222 
+White RA Weber JN White EW Replamineform: a new process for preparing porous ceramic, metal, and polymer prosthetic materials Science 1972 176 37 922-924 
+Lin FH Liao CJ Chen KS Sun JS Lin CY Preparation of betaTCP/HAP biphasic ceramics with natural bone structure by heating bovine cancellous bone with the addition of (NH(4))(2)HPO(4) J Biomed Mater Res 2000 51 2 157-163 
+Tancred DC McCormack BA Carr AJ A synthetic bone implant macroscopically identical to cancellous bone Biomaterials 1998 19 24 2303-2311 
+Rejda BV Peelen JG Groot K Tri-calcium phosphate as a bone substitute J Bioeng 1977 1 2 93-97 
+Sepulveda P Binner JG Rogero SO Higa OZ Bressiani JC Production of porous hydroxyapatite by the gel-casting of foams and cytotoxic evaluation J Biomed Mater Res 2000 50 1 27-34 
+Tamai N Myoui A Tomita T Nakase T Tanaka J Ochi T Novel hydroxyapatite ceramics with an interconnective porous structure exhibit superior osteoconduction in vivo J Biomed Mater Res 2002 59 1 110-117 
+Li SH Wijn JR Layrolle P Groot K Synthesis of macroporous hydroxyapatite scaffolds for bone tissue engineering J Biomed Mater Res 2002 61 1 109-120 
+Bouler JM Trecant M Delecrin J Royer J Passuti N Daculsi G Macroporous biphasic calcium phosphate ceramics: influence of five synthesis parameters on compressive strength J Biomed Mater Res 1996 32 4 603-609 
+Tsuruga E Takita H Itoh H Wakisaka Y Kuboki Y Pore size of porous hydroxyapatite as the cell-substratum controls BMP-induced osteogenesis J Biochem (Tokyo) 1997 121 2 317-324 
+Woyansky JS Scott CE Minnear WP Processing of porous ceramics Am Ceram Soc Bull 1992 71 1674-1682 
+Bloebaum RD Bachus KN Momberger NG Hofmann AA Mineral apposition rates of human cancellous bone at the interface of porous coated implants J Biomed Mater Res 1994 28 5 537-544 
+Eggli PS Muller W Schenk RK Porous hydroxyapatite and tricalcium phosphate cylinders with two different pore size ranges implanted in the cancellous bone of rabbits. A comparative histomorphometric and histologic study of bony ingrowth and implant substitution Clin Orthop Relat Res 1988 232 127-138 
+Hofmann AA Bloebaum RD Bachus KN Progression of human bone ingrowth into porous-coated implants. Rate of bone ingrowth in humans Acta Orthop Scand 1997 68 2 161-166 
+Hulbert SF Young FA Mathews RS Klawitter JJ Talbert CD Stelling FH Potential of ceramic materials as permanently implantable skeletal prostheses J Biomed Mater Res 1970 4 3 433-456 
+Karageorgiou V Kaplan D Porosity of 3D biomaterial scaffolds and osteogenesis Biomaterials 2005 26 5474-5491 
+Kuhne JH Bartl R Frisch B Hammer C Jansson V Zimmer M Bone formation in coralline hydroxyapatite. Effects of pore size studied in rabbits Acta Orthop Scand 1994 65 3 246-252 
+Schliephake H Neukam FW Klosa D Influence of pore dimensions on bone ingrowth into porous hydroxylapatite blocks used as bone graft substitutes. A histometric study Int J Oral Maxillofac Surg 1991 20 1 53-58 
+Hing KA Best SM Tanner KE Bonfield W Revell PA Mediation of bone ingrowth in porous hydroxyapatite bone graft substitutes J Biomed Mater Res A 2004 68 1 187-200 
+Jin QM Takita H Kohgo T Atsumi K Itoh H Kuboki Y Effects of geometry of hydroxyapatite as a cell substratum in BMP-induced ectopic bone formation J Biomed Mater Res 2000 52 4 491-499 
+Kuboki Y Takita H Kobayashi D Tsuruga E Inoue M Murata M BMP-induced osteogenesis on the surface of hydroxyapatite with geometrically feasible and nonfeasible structures: topology of osteogenesis J Biomed Mater Res 1998 39 2 190-199 
+Ripamonti U Ma S Reddi AH The critical role of geometry of porous hydroxyapatite delivery system in induction of bone by osteogenin, a bone morphogenetic protein Matrix 1992 12 3 202-212 
+Habibovic P Groot K Osteoinductive biomaterials&#8212;properties and relevance in bone repair J Tissue Eng Regen Med 2007 1 1 25-32 
+Hutmacher DW Scaffold design and fabrication technologies for engineering tissues&#8212;state of the art and future perspectives J Biomater Sci Polym Ed 2001 12 1 107-124 
+Yang S Leong KF Du Z Chua CK The design of scaffolds for use in tissue engineering. Part II. Rapid prototyping techniques Tissue Eng 2002 8 1 1-11 
+Hollister SJ Porous scaffold design for tissue engineering Nat Mater 2005 4 7 518-524 
+Chim H Schantz JT New frontiers in calvarial reconstruction: integrating computer-assisted design and tissue engineering in cranioplasty Plast Reconstr Surg 2005 116 6 1726-1741 
+Chu TM Orton DG Hollister SJ Feinberg SE Halloran JW Mechanical and in vivo performance of hydroxyapatite implants with controlled architectures Biomaterials 2002 23 5 1283-1293 
+Levy RA Chu TM Halloran JW Feinberg SE Hollister S CT-generated porous hydroxyapatite orbital floor prosthesis as a prototype bioimplant AJNR Am J Neuroradiol 1997 18 8 1522-1525 
+Chu TM Halloran JW Hollister SJ Feinberg SE Hydroxyapatite implants with designed internal architecture J Mater Sci Mater Med 2001 12 6 471-478 
+Dutta Roy T Simon JL Ricci JL Rekow ED Thompson VP Parsons JR Performance of hydroxyapatite bone repair scaffolds created via three-dimensional fabrication techniques J Biomed Mater Res A 2003 67 4 1228-1237 
+Seitz H Rieder W Irsen S Leukers B Tille C Three-dimensional printing of porous ceramic scaffolds for bone tissue engineering J Biomed Mater Res B Appl Biomater 2005 74 2 782-788 
+Wilson CE Bruijn JD Blitterswijk CA Verbout AJ Dhert WJ Design and fabrication of standardized hydroxyapatite scaffolds with a defined macro-architecture by rapid prototyping for bone-tissue-engineering research J Biomed Mater Res 2004 68A 1 123-132 
+Wilson CE Kruyt MC Bruijn JD Blitterswijk CA Oner FC Verbout AJ A new in vivo screening model for posterior spinal bone formation: comparison of ten calcium phosphate ceramic material treatments Biomaterials 2006 27 3 302-314 
+Geuze RE Kruyt MC Verbout AJ Alblas J Dhert WJ Comparing various off-the-shelf methods for bone tissue engineering in a large-animal ectopic implantation model: bone marrow, allogeneic bone marrow stromal cells, and platelet gel Tissue Eng Part A 2008 14 8 1435-1443 
+Kruyt M Bruijn J Rouwkema J Blitterswijk C Oner C Verbout A Analysis of the dynamics of bone formation, effect of cell seeding density, and potential of allogeneic cells in cell-based bone tissue engineering in goats Tissue Eng Part A 2008 14 6 1081-1088 
+Kruyt MC Dhert WJ Oner FC Blitterswijk CA Verbout AJ Bruijn JD Analysis of ectopic and orthotopic bone formation in cell-based tissue-engineered constructs in goats Biomaterials 2007 28 10 1798-1805 
+Kruyt MC Wilson CE Bruijn JD Blitterswijk CA Oner CF Verbout AJ The effect of cell-based bone tissue engineering in a goat transverse process model Biomaterials 2006 27 29 5099-5106 
+Nackaerts K Axelson O Brambilla E Bromen K Hirsch FR Nemery B Petit MR Sasco AJ van Meerbeeck J van Zandwijk N Epidemiology of lung cancer: a general update Eur Respir Rev 2002 12 112-121 
+Baker GL Barnes HJ Superior vena cava syndrome: etiology, diagnosis, and treatment Am J Crit Care 1992 1 54-64 
+Hyde L Hyde CI Clinical manifestations of lung cancer Chest 1974 65 299-306 
+Naschitz JE Yeshurun D Eldar S Lev LM Diagnosis of cancer associated vascular disorders Cancer 1996 77 1759-1767 
+Dyet JF Nicholson AA Cook AM The use of the wallstent endovascular prosthesis in the treatment of malignant obstruction of the superior vena cava Clin Radiol 1993 48 381-385 
+Takeda T Saiton M Takeda S Superior vena cava syndrome caused by an intravascular thrombosis due to underlying prostate carcinoma Intern Med 2008 47 2007-2010 
+Sack GH Jr Levin J Bell WR Trousseau's syndrome and other manifestations of chronic disseminated coagulopathy in patients with neoplasms: clinical, pathophysiologic, and therapeutic features Medicine 1977 56 1-37 
+Lin J Zhou KR Chen ZW Wang JH Yan ZP Wang YX Vena cava 3D contrast-enhanced MR venography: a pictorial review Cardiovasc Intervent Radiol 2005 28 795-805 
+Tanigawa N Sawada S Mishima K Clinical outcome of stenting in superior vena cava syndrome associated with malignant tumors: comparison with conventional treatment Acta Radiol 1998 39 669-674 
+Thony F Moro D Witmeyer P Endovascular treatment of superior vena cava obstruction in patients with malignancies Eur Radiol 1999 9 965-971 
+Smayra T Otal P Chabbert V Chemla P Romero M Joffre F Rousseau H Long-term results of endovascular stent placement in the superior caval venous system Cardiovasc Intervent Radiol 2001 24 388-394 
+Gauden SJ Superior vena cava syndrome induced by bronchogenic carcinoma: is this an oncological emergency? Australas Radiol 1993 37 363-366 
+Boardman P Ettles DF Cardiac tamponade: a rare complication of attempted stenting in malignant superior vena caval obstruction Clin Radiol 2000 55 645-647 
+Irving JD Dondelinger RF Reidy JF Schild H Dick R Adam A Maynar M Zollikofer CL Gianturco self-expanding stents: clinical experience in the vena cava and large veins Cardiovasc Intervent Radiol 1992 15 328-333 
+Geerts WH Bergqvist D Pineo GF Heit JA Samama CM Lassen MR Colwell CW American College of Chest Physicians Prevention of venous thromboembolism: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines Chest 2008 133 8 6 Suppl 381S-453S 
+Logemann J.A. Evaluation and Treatment of Swallowing Disorders 1998 Austin, TX Pro-ed
+Miller A.J. The Neuroscientific Principles of Swallowing and Dysphagia 1999 San Diego; London Singular Publishing Group 
+Miyaoka Y. Ashida I. Kawakami S. Miyaoka S. Igarashi A. Yamada Y. Age-related influences on activity patterns in the suprahyoid muscles during swallowing: preliminary analysis Journal of Sensory Studies 2007 22 394-402 
+Miyaoka Y. Ashida I. Kawakami S. Miyaoka S. Differentiation of activity patterns in the suprahyoid muscles during swallowing of umami tasting foods Journal of Sensory Studies 2006 21 572-583 
+Miyaoka Y. Ashida I. Inagaki D. Kawakami S. Differentiation of activity patterns in the suprahyoid muscles during swallowing of foods with five taste qualities Journal of Sensory Studies 2005 20 473-483 
+Ashida I. Iwamori H. Kawakami S. Miyaoka Y. Murayama A. Analysis of physiological parameters of masseter muscle activity during chewing of agars in healthy young males Journal of Texture Studies 2007 38 87-99 
+Taniguchi H. Tsukada T. Ootaki S. Yamada Y. Inoue M. Correspondence between food consistency and suprahyoid muscle activity, tongue pressure, and bolus transit times during the oropharyngeal phase of swallowing Journal of Applied Physiology 2008 105 791-799 
+Bourne M.C. Food Texture and Viscosity &#8211; Concept and Measurement &#8211; Food Science and Technology 2002 New York Academic Press 
+Ashida I. Miyaoka S. Miyaoka Y. Comparison of video-recorded laryngeal movements during swallowing by normal young men with piezoelectric sensor and electromyographic signals Journal of Medical Engineering &amp; Technology 2009 33 496-501 
+Miyaoka Y. Haishima K. Takagi M. Haishima H. Asari J. Yamada Y. Influences of thermal and gustatory characteristics on sensory and motor aspects of swallowing Dysphagia 2006 21 38-48 
+Bisch E.M. Logemann J.A. Rademaker A.W. Kahrilas P.J. Lazarus C.L. Pharyngeal effects of bolus volume, viscosity, and temperature in patients with dysphagia resulting from neurologic impairment and in normal subjects Journal of Speech and Hearing Research 1994 37 1041-1059 
+Dantas R.O. Dodds W.J. Massey B.T. Kern M.K. The effect of high-vs low-density barium preparations on the quantitative features of swallowing AJR American Journal of Roentgenology 1989 153 1191-1195 
+Dantas R.O. Kern M.K. Massey B.T. Dodds W.J. Kahrilas P.J. Brasseur J.G. Cook I.J. Lang I.M. Effect of swallowed bolus variables on oral and pharyngeal phases of swallowing American Journal of Physiology 1990 258 G675-681 
+Lazarus C.L. Logemann J.A. Rademaker A.W. Kahrilas P.J. Pajak T. Lazar R. Halper A. Effects of bolus volume, viscosity, and repeated swallows in nonstroke subjects and stroke patients Archives of Physical Medicine and Rehabilitation 1993 74 1066-1070 
+Dantas R.O. Dodds W.J. Effect of bolus volume and consistency on swallow-induced submental and infrahyoid electromyographic activity Brazilian Journal of Medical and Biological Research 1990 23 37-44 
+Department of Health 2007 HPV vaccine recommended for NHS routine immunisation programme Available at: accessed 14th December 2010 
+Department of Health 2010 HPV vaccination &#8211; who can use it? NHS Choices. Available at accessed 14th December 2010 
+International Agency for Research on Cancer (IARC) Monographs on the Evaluation of Carcinogenic Risks to Humans No. 63. Human Papillomaviruses IARC Lyon 1995 
+Mays RM Sturm LA Zimet GD Parental perspectives on vaccinating children against sexually transmitted infections Soc Sci Med 2004 58 1405-13 
+Hilton S Hunt K Petticrew M Gaps in parental understandings and experiences of vaccine-preventable diseases: a qualitative study Child: Care, Health and Development 2006 33 2 170-9 
+Brabin L Roberts SA Farzaneh F Kitchener HC Future acceptance of adolescent human papillomavirus vaccination: a survey of parental attitudes Vaccine 2006 24 3087-94 
+Waller J Marlow L Wardle J Mothers' attitudes towards preventing cervical cancer through human papillomavirus vaccination: a qualitative study Cancer Epidemiology Biomarkers Prev 2006 15 7 1257-61 
+Raffle AE Challenges of implementing human papillomavirus (HPV) vaccination policy BMJ 2007 335 375-7 
+Cooper Robbins SC Bernard D McCaffery K Brotherton J Garland S Skinner SR &#8216;Is cancer contagious?&#8217;: Australian adolescent girls and their parents: making the most of limited information about HPV and HPV vaccination Vaccine 2010 28 19 3398-408 
+Williams K Forster A Marlow L Waller J Adolescents attitudes towards human papillomavirus vaccination: an exploratory qualitative study J Fam Plann 2011 37 22-5 
+Klug SJ Hukelmann M Blettner M Knowledge about infection with human papillomavirus: a systematic review Preventive Medicine 2008 46 87-98 
+Kollar LM Kahn JA Education about human papillomavirus and human papillomavirus vaccines in adolescents Adolescent and Pediatric Gynecology 2008 20 5 479-83 
+Franco EL Cuzick J Hildesheim A Chapter 20: Issues in planning cervical cancer screening in the era of HPV vaccination. Vaccine 2006 171-177 
+Adams M Jasani B Fiander A Human papillomavirus (HPV) prophylactic vaccination: challenges of public health and implications for screening Vaccine 2007 25 3007-13 
+Department of Health 2010 NHS Cancer Screening Programmes. Cervical Screening Programme. Available at: accessed 14th December 2010 
+HPV Core Messages Group. Development and evaluation of a set of core Human Papillomavirus (HPV) messages to promote informed choice for both tests and vaccines for use in primary care and broader settings in the UKPoster presentation National Cancer Research Institute Conference, October 2009, Birmingham. Available at: accessed 14th December 2010 
+Glaser B Strauss A The Discovery of Grounded Theory New York Aldine Publishing 1967 
+Green J Thorogood N Qualitative Methods for Health Research London Sage 2004 
+Atlas.ti The Knowledge Workbench 1993 Berlin, Germany Atlas.ti Version 5.6.3 
+Nathan DM Buse JB Davidson MB Medical management of hyperglycemia in type 2 diabetes: a consensus algorithm for the initiation and adjustment of therapy: a consensus statement of the American Diabetes Association and the European Association for the Study of Diabetes Diabetes Care 2009 32 193-203 
+Akalin S Berntorp K Ceriello A Intensive glucose therapy and clinical implications of recent data: a consensus statement from the Global Task Force on Glycaemic Control Int J Clin Pract 2009 63 1421-1425 
+Albarrak AI Luzio SD Chassin LJ Playle RA Owens DR Hovorka R Associations of glucose control with insulin sensitivity and pancreatic beta-cell responsiveness in newly presenting type 2 diabetes J Clin Endocrinol Metab 2002 87 198-203 
+Heinemann L Chantelau EA Starke AA Pharmacokinetics and pharmacodynamics of subcutaneously administered U40 and U100 formulations of regular human insulin Diabete Metab 1992 18 21-24 
+Becker RH Insulin glulisine complementing basal insulins: a review of structure and activity Diabetes Technol Ther 2007 9 109-121 
+Becker RH Frick AD Clinical pharmacokinetics and pharmacodynamics of insulin glulisine Clin Pharmacokinet 2008 47 7-20 
+Becker RH Frick AD Burger F Potgieter JH Scholtz H Insulin glulisine, a new rapid-acting insulin analogue, displays a rapid time-action profile in obese non-diabetic subjects Exp Clin Endocrinol Diabetes 2005 113 435-443 
+Heise T Nosek L Spitzer H Insulin glulisine: a faster onset of action compared with insulin lispro Diabetes Obes Metab 2007 9 746-753 
+Luzio S Peter R Dunseath GJ Mustafa L Owens DR A comparison of preprandial insulin glulisine versus insulin lispro in people with type 2 diabetes over a 12-h period Diabetes Res Clin Pract 2008 79 269-275 
+Becker RH Frick AD Burger F Scholtz H Potgieter JH A comparison of the steady-state pharmacokinetics and pharmacodynamics of a novel rapid-acting insulin analog, insulin glulisine, and regular human insulin in healthy volunteers using the euglycemic clamp technique Exp Clin Endocrinol Diabetes 2005 113 292-297 
+Becker RH Frick AD Nosek L Heinemann L Rave K Dose-response relationship of insulin glulisine in subjects with type 1 diabetes Diabetes Care 2007 30 2506-2507 
+Danne T Becker RH Heise T Bittner C Frick AD Rave K Pharmacokinetics, prandial glucose control, and safety of insulin glulisine in children and adolescents with type 1 diabetes Diabetes Care 2005 28 2100-2105 
+Arnolds S Rave K Hovelmann U Fischer A Sert-Langeron C Heise T Insulin glulisine has a faster onset of action compared with insulin aspart in healthy volunteers Exp Clin Endocrinol Diabetes 2010 118 662-664 
+Porcellati F Rossetti P Busciantella NR Comparison of pharmacokinetics and dynamics of the long-acting insulin analogs glargine and detemir at steady state in type 1 diabetes: a double-blind, randomized, crossover study Diabetes Care 2007 30 2447-2452 
+Chow SC Liu JP Design and Analysis of Bioavailability and Bioequivalence Studies 2000 2nd edn. New York Marcel Dekker Revised and Expanded
+Sluzky V Tamada JA Klibanov AM Langer R Kinetics of insulin aggregation in aqueous solutions upon agitation in the presence of hydrophobic surfaces Proc Natl Acad Sci U S A 1991 88 9377-9381 
+Bakaysa DL Radziuk J Havel HA Physicochemical basis for the rapid time-action of LysB28ProB29-insulin: dissociation of a protein&#8211;ligand complex Protein Sci 1996 5 2521-2531 
+Bhatnagar S Srivastava D Jayadev MS Dubey AK Molecular variants and derivatives of insulin for improved glycemic control in diabetes Prog Biophys Mol Biol 2006 91 199-228 
+Vora JP Burch A Peters JR Owens DR Absorption of radiolabelled soluble insulin in type 1 (insulin-dependent) diabetes: influence of subcutaneous blood flow and anthropometry Diabet Med 1993 10 736-743 
+Vora JP Burch A Peters JR Owens DR Relationship between absorption of radiolabeled soluble insulin, subcutaneous blood flow, and anthropometry Diabetes Care 1992 15 1484-1493 
+Clauson PG Linde B Absorption of rapid-acting insulin in obese and nonobese NIDDM patients Diabetes Care 1995 18 986-991 
+ter Braak EW Woodworth JR Bianchi R Injection site effects on the pharmacokinetics and glucodynamics of insulin lispro and regular insulin Diabetes Care 1996 19 1437-1440 
+Bergenstal RM Johnson M Powers MA Adjust to target in type 2 diabetes: comparison of a simple algorithm with carbohydrate counting for adjustment of mealtime insulin glulisine Diabetes Care 2008 31 1305-1310 
+Parwani AV Kronz JD Genega EM Gaudin P Chang S Epstein JI Prostate carcinoma with squamous differentiation: an analysis of 33 cases Am J Surg Pathol 2004 28 5 651-7 
+Nabi G Ansari MS Singh I Sharma MC Dogra PN Primary squamous cell carcinoma of the prostate: a rare clinicopathological entity. Report of 2 cases and review of literature Urol Int 2001 66 4 216-9 
+Mohan H Bal A Punia RP Bawa AS Squamous cell carcinoma of the prostate Int J Urol 2003 10 2 114-6 
+Rahmanou F Koo J Marinbakh AY Solliday MP Grob BM Chin NW Squamous cell carcinoma at the prostatectomy site: squamous differentiation of recurrent prostate carcinoma Urology 1999 54 4 744 
+Okada E Kamizaki H Primary squamous cell carcinoma of the prostate Int J Urol 2000 7 9 347-50 
+Sarma DP Weilbaecher TG Moon TD Squamous cell carcinoma of prostate Urology 1991 37 3 260-2 
+Li W Cagle PT Botero RC Liang JJ Zhang Z Tan D Significance of overexpression of alpha methylacyl-coenzyme A racemase in hepatocellular carcinoma J Exp Clin Cancer Res 2008 27 2 
+Devaney DM Dorman A Leader M Adenosquamous carcinoma of the prostate: a case report Hum Pathol 1991 22 10 1046-50 
+Bassler TJ Jr Orozco R Bassler IC Boyle LM Bormes T Adenosquamous carcinoma of the prostate: case report with DNA analysis, immunohistochemistry, and literature review Urology 1999 53 4 832-4 
+Kanthan R Torkian B Squamous cell carcinoma of the prostate. A report of 6 cases Urol Int 2004 72 1 28-31 
+Miller VA Reuter V Scher HI Primary squamous cell carcinoma of the prostate after radiation seed implantation for adenocarcinoma Urology 1995 46 1 111-3 
+Wernert N Goebbels R Bonkhoff H Dhom G Squamous cell carcinoma of the prostate Histopathology 1990 17 4 339-44 
+Braslis KG Davi RC Nelson E Civantos F Soloway MS Squamous cell carcinoma of the prostate: a transformation from adenocarcinoma after the use of a luteinizing hormone-releasing hormone agonist and flutamide Urology 1995 45 2 329-3 
+John TT Bashir J Burrow CT Machin DG Squamous cell carcinoma of the prostate--a case report Int Urol Nephrol 2005 37 2 311-3 
+Little NA Wiener JS Walther PJ Paulson DF Anderson EE Squamous cell carcinoma of the prostate: 2 cases of a rare malignancy and review of the literature J Urol 1993 149 1 137-9 
+Uchibayashi T Hisazumi H Hasegawa M Squamous cell carcinoma of the prostate Scand J Urol Nephrol 1997 31 2 223-4 
+Di Pietro C Celia A De Stefani S Saredi G Bianchi G Squamous cell carcinoma of the prostate Arch Ital Urol Androl 2006 78 2 75-6 

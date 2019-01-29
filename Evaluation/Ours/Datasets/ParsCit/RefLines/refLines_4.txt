@@ -1,0 +1,50 @@
+M. Kitsuregawa, H. Tanaka, and T. Moto-oka. Application of hash to data base machine and its architecture. New Generation Computing, 1(1), 1983.
+Hinton, G. E., & Nowlan, S. J. (1987). How learning can guide evolution. Complex Systems, 1, 495-502.
+D. Ourston and R. J. Mooney. Changing the Rules: A Comprehensive Approach to Theory Refinement. In Proceedings of the Eighth International Conference on Machine Learning, pages 485-489, 1991.
+T. Fahringer, R. Blasko, and H. Zima. Automatic performance prediction to support parallelization of Fortran programs for massively parallel systems. In Proceedings of the 1992 ACM International Conference on Supercomputing, Washington, DC, July 1992.
+Feferman, S., Transfinite Recursive Progressions of Axiomatic Theories, J. Symbolic Logic, 27, 259-316 (1962).
+A. Gupta, I. Mumick, and V. Subrahmanian. Maintaining views incrementally. In Preceedings of the 1993 ACM SIGMOD International Conference on Management of Data, pages 157-166, Washington, D. C., May 1993.
+Rivest, R. L., & Schapire, R. E. (1989). Inference of Finite Automata Using Homing Sequences. In Proceedings of the 21th ACM Symp. on Theory of Computing, pp. 411-420.
+A. S. Acampora and M. J. Karol, "An Overview of Lightwave Packet Network." IEEE Network Mag. 3(1), pages 29-41, 1989.
+Tim Watson. A new representation technique for genetic algorithms. In Keane et al. [4], pages 233-246.
+Lars Ole Andersen. Program Analysis and Specialization for the C Programming Language. PhD thesis, DIKU, University of Copenhagen, May 1994.
+De Raedt, L., & Bruynooghe, M. (1990). Indirect relevance and bias in inductive concept learning. Knowledge Acquisition, 2, 365-390. desJardins, M., & Gordon, D. F. (Eds.). (1995).
+Deransart, P., Jourdan, M., and Lorho, B., Attribute Grammars: Definitions, Systems and Bibliography, Lecture Notes in Computer Science, Vol. 323, Springer-Verlag, New York, NY (1988).
+M. Herlihy and J. Wing, "Linearizability: A Correctness Condition for Concurrent Objects", ACM Transactions on Programming Languages and Systems, Vol. 12, No. 3, 1990, pp. 463-492.
+R. T. Snodgrass. The Temporal Query Language TQuel. ACM TODS, 12(2), 247-298, June 1987.
+MacWhinney, B. (1993). Connections and symbols: closing the gap. Cognition, 49 (3), 291-296.
+Laird, J. E., Jones, R. M., & Nielsen, P. E. (1994). Coordinated behavior of computer generated forces in tacair-soar. In Proceedings of the Fourth Conference on Computer Generated Forces and Behavioral Representation. Orlando, Florida: Institute for Simulation and Training, University of Central Florida.
+Rivest, R. L. (1987). Learning decision lists. Machine Learning, 2 (3), 229-246.
+Y. L. Chang and M. E. Marhic. Fiber-optic ladder networks for inverse decoding coherent CDMA. Journal of Lightwave Technology, 10(12) 1952-1962, December 1992.
+Kennedy, A. D. (1990) "The theory of hybrid stochastic algorithms", in P. H. Damgaard, et al. (editors) Probabilistic Methods in Quantum Field Theory and Quantum Gravity, New York: Plenum Press.
+B. Shneiderman. Tree visualization with tree-maps: A 2-d space filling approach. ACM Transactions on Graphics, 11(1) 1-39, Jan. 1992.
+Murthy, S. K., Kasif, S., Salzberg, S., & Beigel, R. (1993). OC 1 Randomized induction of oblique decision trees. In Proceedings of the Eleventh National Conference on Artificial Intelligence, pp. 322-327. Washington, D. C. MIT Press.
+Millroth, H., Reforming Compilation of Logic Programs, Ph.D. Thesis, Computing Science Department, Uppsala University, 1990.
+Wellman Kephart, J. O., Hogg, T., & Huberman, B. A. (1989). Dynamics of computational ecosystems. Physical Review A, 40, 404-421.
+R. Fikes, M. Cutkosky, T. Gruber, and J. V. Baalen. Knowledge Sharing Technology Project Overview. Technical Report KSL-91-71, Knowledge Systems Laboratory, Stanford University, 1991.
+Roland Wismuller. Debugging of globally optimized programs using data flow analysis. In Proceedings of the ACM/SIGPLAN Conference on Programming Language Design and Implementation, pages 278-289. ACM, June 1994. Available via WWW from http://wwwbode.informatik.tu-muenchen.de/~wismuell/publications.html
+Cherri M. Pancake and Sue Utter. Models for visualization in parallel debuggers. In Proceedings Supercomputing '89, November 1989.
+Amdur, E. S. On the Message Complexity of Byzantine Agreement. Master's Thesis, Department of Computer Science, University of Toronto, September 1988.
+K. Keeton, B. A. Mah, S. Seshan, R. H. Katz, and D. Ferrari. Providing Connection-Oriented Service to Mobile Hosts. In Proceedings of the First USENIX Symposium on Mobile and Location-Independent Computing, August 1993.
+C. Norris and L. Pollock, "A scheduler-sensitive global register allocator," In Proc. of Supercomputing, pages 804-813, 1993.
+A. Demers, S. Keshav, and S. Shenker. Analysis and simulation of a fair queueing algorithm. Internetworking:Research and Experience, 1 3-26 .
+Shoham, Y., & Tennenholtz, M. (1994). Co-learning and the evolution of social activity. Tech. rep. STAN-CS-TR-94-1511, Dept. of Computer Science, Stanford University.
+Krogh, A., & Vedelsby, J. (1995). Neural network ensembles, cross validation, and active learning. In Tesauro, G., Touretzky, D., & Leen, T. (Eds.), Advances in Neural Information Processing Systems, Vol. 7, pp. 231-238, Cambridge, MA. MIT Press.
+Whittaker, J. (1991). Graphical Models in Applied Multivariate Statistics. Chichester: Wiley.
+Hauptman, H., & Karle, J. (1953). Solution of the Phase Problem, 1. The Centrosymmetric Crystal, ACA Monograph No. 3. Wilmington: Polycrystal Book Service.
+Mooney, R. J. (1990). Learning plan schemata from observation: Explanation-based learning for plan recognition. Cognitive Science, 14, 483-509.
+P. Havlak and K. Kennedy. An implementation of inter procedural bounded regular section analysis. IEEE Transactions on Parallel and Distributed Systems, 2(3) 350-360, July 1991.
+Mark Keane, Padraig Cunningham, Mike Brady, and Ruth Byrne, editors. Proc. Seventh Irish Annual Conference of AI and Cognitive Science. Dublin University Press, 1994.
+D. Callahan, K. D. Cooper, K. Kennedy, and L. Torczon, ``Interprocedural constant propagation'', Proc. SIGPLAN 86 Symposium on Compiler Construction, SIGPLAN Notices, 21(7), July 1986.
+V. Guarna, D. Gannon, Y. Gaur, and D. Jablonowski. Faust: An environment for programming parallel scientific applications. In Proceedings of Supercomputing '88, Orlando, FL, November 1988.
+Strang, G. and G. Fix, A Fourier analysis of the finite element variational method, Constructive Aspects of Functional Analysis (G. Geymonat, ed.), C. I. M. E., 1973, pp. 793-840.
+D. Terzopoulos, "Image Analysis using Multigrid Relaxation Methods," IEEE Trans. Patt. Anal. Mach. Intell., Vol. 8, pp. 129-139, March 1986.
+K. Li and P. Hudak. Memory coherence in shared virtual memory systems. ACM Transactions on Computer Systems, 7(4) 321-359, November 1989.
+U. Kremer, H. Zima, H.-J. Bast, and M. Gerndt. Advanced tools and techniques for automatic parallelization. Parallel Computing, 7 387-393, 1988.
+J. S. Huang and Y. C. Chow. Parallel Sorting and Data Partitioning by Sampling. In Proceedings of the 7th Computer Software and Applications Conference, pages 627-631, November 1983.
+O. Shechory and S. Kraus. Feasible formation of stable coalitions among autonomous agents in general environments. Computational Intelligence Journal, 1995. Submitted.
+Abelson, H., G. J. Sussman and J. Sussman. Structure and Interpretation of Computer Programs. MIT Press, 1985.
+R. White, F. Muller, C. Healy, D. Whalley, and M. Harmon. Timing analysis for data caches and set-associative caches. In Proceedings of the IEEE Real-Time Technology and Applications Symposium, pages 192-202, June 1997.
+Jennings, N. (1994). Commitments and conventions: the foundation of coordination in multi-agent systems. The Knowledge Engineering Review, 8.
+M. C. Speer, L. H. Yamaoka, J. H. Gilchrist, C. P. Gaskell, J. M. Stajich, J. M. Vance, Z. Kazantsev, A. Lastra, C. S. Haynes, J. S. Beckmann, D. Cohen, J. L. Weber, A. D. Roses, and M. A. Pericak-Vance. Confirmation of genetic heterogeneity in limb-girdle muscular dystrophy: Linkage of an autosomal dominant form to chromosome 5q. Am. J. Hum. Genet., 50 1211-1217, 1992.
+van Benthem, J. F. A. K. (1989) Semantic parallels in natural language and computation. In Ebbinghaus, H. D., & al. (Eds.), Logic Colloquium'87, Granada, pp. 331-375. Amsterdam: North-Holland.

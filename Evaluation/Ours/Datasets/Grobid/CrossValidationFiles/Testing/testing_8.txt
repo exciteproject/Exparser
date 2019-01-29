@@ -1,0 +1,10 @@
+1009_S0022149X10000167a_J_Helminthol_2010_Dec_25_84(4)_441-446.references.tei.xml
+1021_uimt8-111_J_Immunotoxicol_2011_Jun_10_8(2)_111-121.references.tei.xml
+1032_031_J_Insect_Sci_2008_Sep_9_8_50.references.tei.xml
+1034_cjic25-091_J_Interprof_Care_2011_Mar_27_25(2)_91-97.references.tei.xml
+1052_jmedgenet85100_J_Med_Genet_2011_May_17_48(5)_327-333.references.tei.xml
+105_1742-6413-5-5_Cytojournal_2008_Mar_30_5_5.references.tei.xml
+1069_10735_2010_Article_9308_J_Mol_Histol_2011_Feb_4_42(1)_71-81.references.tei.xml
+1075_10974_2009_Article_9195_J_Muscle_Res_Cell_Motil_2010_Jul_5_31(1)_13-33.references.tei.xml
+109_cyt0020-0388_Cytopathology_2009_Dec_20(6)_388-394.references.tei.xml
+117_DRT2011-241386_Depress_Res_Treat_2011_Sep_5_2011_241386.references.tei.xml

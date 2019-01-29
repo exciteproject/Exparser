@@ -1,0 +1,359 @@
+Arellano, M. (1993). On the testing of correlated effects with panel data. Journal of Econometrics, 59(1/ 2), 87–97.
+Aturupane, C., Djankov, S., & Hoekman, B. (1999). Horizontal and vertical intra-industry trade between Eastern Europe and the European Union. Weltwirtschaftliches Archiv/Review of World Economics, 135(1), 62–81.
+Barro, R., & Lee, J. W. (1993). International comparisons of educational attainment. Journal of Monetary Economics, 32(2), 363–394.
+Benhabib, J., & Spiegel, M. (1994). The role of human capital in economic development: Evidence from aggregate cross-country data. Journal of Monetary Economics, 34(2), 143–173.
+Coe, D. T., & Helpman, E. (1995). International R&D spillovers. European Economic Review, 39(5), 859–887.
+Copeland, B. R., & Kotwal, A. (1996). Product quality and the theory of comparative advantage. European Economic Review, 40(9), 1745–1760.
+Crespo, N., & Fontoura, M. P. (2004). Intra-industry trade by types: What can we learn from Portuguese data? Review of World Economics/Weltwirtschaftliches Archiv, 140(1), 52–79.
+Davis, D. R. (1995). Intra-industry trade: A Heckscher-Ohlin-Ricardo approach. Journal of International Economics, 39(3), 201–226.
+Durkin, J. T., & Krygier, M. (2000). Differences in GDP per capita and the share of intra-industry trade: The role of vertically differentiated trade. Review of International Economics, 8(4), 760–774.
+Falvey, R. E. (1981). Commercial policy and intra-industry trade. Journal of International Economics, 11(4), 495–511.
+Falvey, R. E., & Kierzkowski, H. (1987). Product quality, intra-industry trade and (Im)perfect competition. From In H. Kierzkowski (Ed.), Protection and competition in international trade. Oxford: Basil Blackwell.
+Flam, H., & Helpman, E. (1987). Vertical product differentiation and North-South trade. American Economic Review, 77(5), 810–822.
+Fontagné, L., & Freudenberg, M. (1997). Intra-Industry Trade: Methodological Issues Reconsidered. (CEPII Working Paper No. 97-01). Paris: Centre D’Etudes Prospectives et d’Informations Internationales.
+Frees, E. W. (2001). Omitted variables in Longitudinal Data Models. Canadian Journal of Statistics, 29(4), 573–595.
+Frees, E. W. (2004). Longitudinal and panel data: analysis and applications in the social sciences. Cambridge: Cambridge University Press.
+Greenaway, D., Hine, R., & Milner, C. (1995). Vertical and horizontal intra-industry trade: A cross industry analysis for the United Kingdom. Economic Journal, 105(433), 1505–1518.
+Grubel, H. G., & Lloyd, P. J. (1975). Intra-industry trade: The theory and measurement of international trade in differentiated products. London: MacMillan Press.
+Gullstrand, J. (2002a). Does the measurement of intra-industry trade matter? Weltwirtschaftliches Archiv/ Review of World Economics, 138(2), 317–339.
+Gullstrand, J. (2002b). Demand patterns and vertical intra-industry trade with special reference to to North-South Trade. Journal of International Trade and Development, 11(4), 429–455.
+Hausman, J. A. (1978). Speciﬁcation tests in econometrics. Econometrica, 46(4), 1251–1271.
+Hausman, J. A., & Taylor, W. E. (1981). Panel data and unobservable individual effects. Econometrica, 49(6), 1377–1398.
+Hsiao, C. (2003). Analysis of panel data. Cambridge: Cambridge University Press.
+Jensen, L., & L üthje, T. (2008). Country speciﬁc effects of differences in factor endowments on intraindustry trade—illustrated by the Danish case. Global Business and Finance Review, 13(1), 35–46.
+Leamer, E. (1984). Sources of comparative advantage. Cambridge, MA: MIT Press.
+Liang, K., & Zeger, S. L. (1986). Longitudinal data analysis using generalized linear models. Biometrika, 73(1), 13–22.
+Linder, S. B. (1961). An essay on trade and transformation. Stockholm: Almqvist & Wiksell.
+L üthje, T. (2003). Is intra-industry trade in reality two-way trade? Global Business and Finance Review, 8(1), 89–102.
+Mart´ın-Montaner, J. A., & R´ıos, V. O. (2002). Vertical specialization and intra-industry trade: The role of factor endowments. Weltwirtschaftliches Archiv/Review of World Economics, 138(2), 340–365.
+Mora, C. D. (2002). The role of comparative advantage in trade within industries: A panel data approach for the European Union. Weltwirtschaftliches Archiv/Review of World Economics, 138(2), 291–316.
+Murphy, K. M., & Shleifer, A. (1997). Quality and trade. Journal of Development Economics, 53, 1–15.
+Nielsen, J. U.-M., & L üthje, T. (2002). Tests of the empirical classiﬁcation of horizontal and vertical intra-industry trade. Weltwirtschaftliches Archiv/Review of World Economics, 138(4), 587–604.
+Stokey, N. L. (1991). The volume and composition of trade between rich and poor countries. Review of Economic Studies, 58(1), 63–80.
+Venables, A. J., Rice, P. G., & Stewart M. (2003). Topics in Economic Analysis and Policy, 3(1):1–23.
+White, H. (1980). A hetroskedastictity-consistent covariance matrix estimator and a direct test for hetroskedasticity. Econometrica, 48(4), 817–838.
+Zhang, J., van Witteloostuijn, A., & Zhou, C. (2005). Chinese bilateral intra-industry trade: A panel data study for 50 countries in the 1992–2001 period. Weltwirtschaftliches Archiv/Review of World Economics, 141(3), 510–540.
+Block, R. A. (1990) Cognitive Models of Psychological Time. Hillsdale, NJ: Erlbaum.
+Boniwell, I. and Zimbardo, P. G (2003) ‘Time to Find the Right Balance’, The Psychologist 16: 129–31.
+Boniwell, I. and Zimbardo, P. G. (2004) ‘Balancing One’s Time Perspective in Pursuit of Optimal Functioning’, in P. A. Linley and S. Joseph (eds) Positive Psychology in Practice, pp. 165–78. Hoboken, NJ: Wiley.
+Brislan, R. W. and Kim, E. S. (2003) ‘Cultural Diversity in Peoples’ Understanding and Uses of Time’, Applied Psychology: An International Review 52: 363–82.
+Brown, K. W. and Ryan, R. M. (2003) ‘The Benefits of Being Present: Mindfulness and Its Role in Psychological Wellbeing’, Journal of Personality and Social Psychology 84(4): 822–48.
+Chubick, J. D., Rider, C. Y., Owen S. M. and Witherspoon, B. M. (1999) ‘Time Perspective of Female Prisoners Related to Success in a Training Programme’, DRAKE ET AL.: TIME PERSPECTIVE AND CORRELATES OF WELLBEING 59 Perceptual and Motor Skills 88(2): 648–50.
+Csikszentmihalyi, M. (1992) The Psychology of Happiness. London: Rider.
+De Volder, M. (1979) ‘Time Orientation: A Review’, Psychologica Belgica 19: 61–79.
+Diener, E. (1997) ‘Recent Findings on Subjective Well-being’, Indian Journal of Clinical Psychology. Available at: http://www.psych.uiuc.edu/~ediener/hotopic/paper1.html
+Diener, E. (2000) ‘Subjective Wellbeing: The Science of Happiness and a Proposal for a National Index’, American Psychologist 55: 56–67.
+Diener, E., Emmons, R. A., Larsen, R. J. and Griffin, S. (1985) ‘The Satisfaction with Life Scale’, Journal of Personality 49: 71–5.
+Duncan, E., and Grazzani-Gavazzi, I. (2004) ‘Positive Emotional Experiences in Scottish and Italian Young Adults: A Diary Study’, Journal of Happiness Studies 5: 359–84.
+Epel, E. S., Bandura A. and Zimbardo, P. G. (1999) ‘Escaping Homelessness: The Influence of the Self-efficacy and Time Perspective on Coping with Homelessness’, Journal of Applied Social Psychology 29: 575–96.
+Goldberg, J. and Maslach, C. (1996) ‘Understanding Time: Connections between the Past and Future’. Paper presented at the annual conference of the Western Psychological Association, San Jose, CA.
+Gonzalez A. and Zimbardo, P. G. (1985) ‘Time in Perspective: A Psychology Today Survey Report’, Psychology Today (May): 21–6.
+Guarino, A., De Pascalis, V. and Di Chiacchio, C. (1999) Breast Cancer Prevention, Time Perspective, and Trait Anxiety. Unpublished manuscript, University of Rome.
+Hamilton, J. M., Kives, K. D., Micevski, V. and Grace, S. L. (2003) ‘Time Perspective and Health-promoting Behaviour in a Cardiac Rehabilitation Population’, Behavioural Medicine 28(4): 132–9.
+Hanh, T. N. (1976) Miracle of Mindfulness. Boston, MA: Beacon.
+Harber, K. A., Zimbardo, P. G. and Boyd, J. N. (2003) ‘Participant Self-selection Biases as a Function of Individual Differences in Time Perspective’, Basic and Applied Social Psychology 25: 255–64.
+Hoornaert, J. (1973) ‘Time Perspective: Theoretical and Methodological Considerations’, Psychologica Belgica 13: 27–56.
+Hulbert, R. J. and Lens, W. (1988) ‘Time and Self-identity in Later Life’, International Journal of Aging and Human Development 27: 293–303.
+James, W. (1890/1950) The Principles of Psychology (Vol. 1). New York: St Martin’s Press.
+Kammann, R. and Flett, R. (1983) ‘Affectometer 2: A Scale to Measure Current Level of General Happiness’, Australian Journal of Psychology 35: 259–65.
+Kazakina, E. (1999) Time Perspective of Older Adults: Relationships to Attachment Style, Psychological Well-Being and Psychological Distress. Unpublished doctoral dissertation, Columbia University
+Keough, K. A., Zimbardo, P. G. and Boyd, J. N. (1999) ‘Who’s Smoking, Drinking and Using Drugs? Time Perspective as a Predictor of Substance Use’, Basic and Applied Psychology 21(2): 149–64.
+Klingeman, H. (2001) ‘The Time Game: Temporal Activity on Emotional Well-being Among Older Australian Women: Cross-sectional and Longitudinal Analysis’, Time & Society 10(2–3): 303–28.
+Lennings, C. J. (2000) ‘Optimism, Satisfaction, and Time Perspective in the Elderly’, International Journal of Aging and Human Development 51: 168–81.
+Lyubomirsky, S. (2001) ‘Why Are Some People Happier Than Others? The Role of Cog60 TIME & SOCIETY 17(1) nitive and Motivational Processes in Well-being’, American Psychologist 55: 56–7.
+Lyubomirsky, S. and Lepper, H. S. (1999) ‘A Measure of Subjective Happiness: Preliminary Reliability and Construct Validation’, Social Indicators Research 46: 137–55.
+Lyubomirsky, S. and Nolen-Hoeksema, S. (1995) ‘Effects of Self-focused Rumination on Negative Thinking and Interpersonal Problem Solving’, Journal of Personality and Social Psychology 69: 176–90.
+Oatley, K. and Duncan, E. (1994) ‘The Experience of Emotion in Everyday Life. Brief Report’, Cognition and Emotion 8(4): 369–81.
+Nolen-Hoeksema, S. and Morrow, J. (1993) ‘Effects of Rumination and Distraction on Naturally Occurring Depressed Mood’, Cognition and Emotion 7: 561–70.
+Nuttin, J. (with the collaboration of W. Lens) (1985) Future Time Perspective and Motivation: Theory and Research Method. Hillsdale, NJ: Erlbaum.
+Peterson, C. (2000) ‘The Future of Optimism’, American Psychologist 55: 44–55.
+Rothspan, S. and Read, S. J. (1996) ‘Present versus Future Time Perspective and HIV Risk among Heterosexual College Students’, Health Psychology 15(2): 131–4.
+Sagie, A., Elizur, D. and Yamauchi, H. (1996) ‘The Structure and Strength of Achievement Motivation: A Cross-cultural Comparison’, Journal of Organizational Behaviour 17: 431–44.
+Spangler, M. and Petrovich, O. (1978) ‘Future Time Perspective and Feeling and Tone: A Study in the Perception of the Days by Yugoslav and American Students’, Journal of Social Psychology 105: 189–93.
+Stratham, A., Gleicher, F., Boninger, D. S. and Edwards, C. S. (1994) ‘The Consideration of Future Consequences: Weighing Immediate and Distant Outcomes of Behaviour’, Journal of Personality and Abnormal Psychology 66: 742–52.
+Suddendorf. T. and Corballis, M. C. (1997) Mental Time Travel and the Evolution of the Human Mind. New York: Basic Books.
+Wallace, M. (1956) ‘Future Time Perspectives in Schizophrenia’, in K.A. Keough, P.G. Zimbardo and J.N. Boyd (1999) ‘Who’s Smoking, Drinking and Using Drugs? Time Perspectives as a Predictor of Substance Abuse’, Basic and Applied Social Psychology 21: 149–64.
+Wallace, M. and Rabin, A. I. (1960) ‘Temporal Experience’, Psychological Bulletin 57: 213–36.
+Wassarman, H. S. (2002) ‘The Role of Expectancies and Time Perspectives in Gambling Behaviour’, Dissertation Abstracts International: Section B: The Sciences and Engineering 62(8-B): 3818.
+Watson, D., Clark, L. A. and Tellegen, A. (1988) ‘Development and Validation of Brief Measures Positive and Negative Affect: The PANAS Scales’, Journal of Personality and Social Psychology 54: 1063–70.
+Wills, T. A., Sandy, J. M. and Yaeger, A. M. (2001) ‘Time Perspective and Early-onset Substance Use: A Model Based on Stress Coping Theory’, Psychology of Addictive Behaviours 15(2): 118–25.
+Zaleski, Z., Cycon, A. and Kurc, A. (2001) ‘Future Time Perspective and Subjective Well-being in Adolescent Samples’, in P. Schmuck and K. M. Sheldon (eds) Life Goals and Well-being: Towards a Positive Psychology of Human Striving. Ashland, OH: Hogrefe & Huber.
+Zimbardo, P. G. (2002) ‘Just Think About It: Time to Take out Time’, Psychology Today 35: 62.
+Zimbardo, P. G. and Boyd, J. N. (1999) ‘Putting Time in Perspective: A Valid, Reliable Individual-difference Metric’, Journal of Personality and Social Psychology 77: 1271–88.
+Zimbardo, P. G., Keough, K. A. and Boyd, J. N. (1997) ‘Present Time Perspective as a Predictor of Risky Driving’, Personality and Individual Differences 23: 1007–23.
+Adams, Michael (2004) Slayer Slang: A Buffy the Vampire Slayer Lexicon. Oxford: Oxford University Press.
+Amy-Chinn, Dee (2003) ‘Good Vampires Don’t Suck: Sex, Celibacy and the Body of Angel’, in Carla Kungl (ed.) Vampires: Myths and Metaphors of Enduring Evil. [Available at: http://www.interdisciplinary.net/publishing/idp/eBooks/vmmeeindex.htm]
+Auerbach, Nina (1995) Our Vampires, Ourselves. Chicago, IL: University of Chicago Press.
+Bacon-Smith, C. (1992) Enterprising Women: Television , Fandom and the Creation of Popular Myth. Philadelphia: University of Pennsylvania Press.
+Braidotti, Rosa (1994) Nomadic Subjects. New York: Columbia University Press.
+Burt, Richard (1998) Unspeakable Shaxxxspeares. London: Macmillan.
+Butler, Judith (2004) Undoing Gender. London: Routledge.
+Doty, Alexander (2000) Flaming Classics: Queering the Film Canon. London: Routledge.
+Espenson, Jane (2004) ‘Writing the Vampire Slayer’, in Roz Kaveney (ed.) Reading the Vampire Slayer, pp. 100–31. London: I.B. Tauris.
+Frith, Simon (1990) ‘Review Article’, Screen 31(2): 231–5.
+Gelder, Ken (1994) Reading the Vampire. London: Routledge.
+Hills, Matt (2002) Fan Cultures. London: Routledge.
+Jenkins, Henry (1992) Textual Poachers: Television Fans and Participatory Cultures. London: Routledge.
+Kaveney, Roz (2004) Reading the Vampire Slayer. London: I.B. Tauris.
+Lavery, David (2002) ‘Afterword: The Genius of Joss Whedon’, in Rhonda Wilcox and David Lavery (eds) Fighting the Forces, pp. 251–6. Lanham, MD: Rowman & Littlefield.
+Lavery, David (2004) ‘“I Wrote My Thesis on You!”: Buffy Studies as Academic Cult’, Slayage. The Online International Journal of Buffy Studies 13–14(October). [Accessed 11 October 2004: http://www.slayage.tv/ essays/slayage13–14/Lavery.htm]
+Le Fanu, Joseph Sheridan (1991[1872]) ‘Carmilla’, in Alan Ryan (ed.) The Penguin Book of Vampire Stories, pp. 71–187. London: Bloomsbury.
+Levine, Michael, P. and Steven Jay Schneider (2003) ‘Feeling for Buffy: The Girl Next Door’, in James South (ed.) Buffy the Vampire Slayer and Philosophy, pp. 294–308. Chicago, IL: Open Court.
+Lyotard, Jean-Francois (1984) The Postmodern Condition: A Report on Knowledge. Manchester: Manchester University Press.
+Michael, John (2000) Anxious Intellectuals: Academic Professionals, Public Intellectuals, and Enlightenment Values. Durham, NC: Duke University Press.
+South, James (ed.) (2003) Buffy the Vampire Slayer and Philosophy. Chicago, IL: Open Court.
+Turnbull, Sue (2004) ‘“Not Just Another Buffy Paper”: Towards an Aesthetics of Television’, Slayage. The Online International Journal of Buffy Studies 13–14(October). [Accessed 13 October 2004: http://www.slayage.tv/ essays/slayage13_14/Turnbull.htm]
+Wilcox, Rhonda (2002) ‘“Every Night I Save You”: Buffy, Spike, Sex and Redemption’, Slayage. The International Online Journal of Buffy Studies 5(May). [Accessed 7 August 2002: http://www.slayage.tv/essays/slayage5/ wilcox.htm]
+Wilcox, Rhonda and David Lavery (eds) (2002) Fighting the Forces. Lanham, MD: Rowman & Littlefield.
+Williamson, Milly (2005) The Lure of the Vampire: Gender, Fiction and Fandom from Bram Stoker to Buffy the Vampire Slayer. London: Wallflower Press.
+Aldrich R. J. (1997) ‘OSS CIA and European Unity: The American Committee on United Europe, 1948-1960’, Diplomacy and Statecraft, 8(1):184-227.
+Bottici C. (2009) ‘Myths of Europe’, Contexts. The Journal of Educational Media, Memory, and Society, Vol. 2, Num. 1, forthcoming
+Castoriadis C. (1976), ‘The Hungarian Source’, Telos, Fall 1976 (vol. 29): 4-22.
+--- (1986), Domaines de l’homme. Le carrefour du labyrinthe, Paris: Seuil.
+---- (1997) World in Fragments. Writings on Politics, Society, Psychoanalysis, and the Imagination. ed. & transl. by D. A. Curtis, Stanford: Stanford University Press.
+---- (1999), L’institution imaginaire de la société. Paris: Seuil.
+Challand B (2008) ‘From Sickle to Crescent. The Question of Religion for European Identity and a Political Europe’ in L. Leustean and J. Madeley (eds.), Religion, Politics and Policy in the European Union, Special issue of Religion, State and Society, 36 (4), forthcoming.
+Challand B (2009) ‘The sequences of Europe: Creating the European Self in History Textbooks (1950-2005)’, Contexts. The Journal of Educational Media, Memory, and Society, Vol. 2, Num. 1, forthcoming
+Delcour L. (2008) 1989, Bringing In a Global Europe? Working Paper, 1989 Network Series (forthcoming)
+DiMaggio P. J. and Powell W. (eds) (1991) The New Institutionalism in Organizational Analysis, Chicago: University of Chicago Press.
+Dinan D. (2006) ‘The Historiography of European Integration’, in: idem, ed., Origins and Evolution of the European Union, Oxford, 295-324.
+Domnitz C. (2008) ‘Europäische Vorstellungswelten in Ostblock. Eine Topologie con Europanarrationen im Staatssozialismus’, in: J. M. Faraldo, P. Gulińska-Jurgiel, C. Domnitz (Eds.) Europa im Ostblock. Vorstellungen und Diskurse 1941-1991, Köln, Böhlau, 61-81.
+Ganser D. (2005) NATO’s Secret Armies. Operation Gladio and terrorism in Western Europe, Abingdon : Frank Cass.
+Hann C.s & Dunn E. (eds.), 1996. Civil Society: Challenging Western Models, Routledge, London & New York.
+James, H. (2003) Europe reborn : a history, 1914-2000, Harlow & New York : Longman.
+Judt T. (2002) ‘The past is another country’ in J.-W. Müller, ed. Memory and Power in Post-War Europe. Studies in the Presence of the Past, Cambridge University Press, Cambridge.
+Judt T. (2005) Postwar : a history of Europe since 1945, London : William Heinemann.
+Kaiser, W. (2006) ‘From state to society? The historiography of European Integration’ in M. Cini, A. K. Bourne (eds) Palgrave Advances in European Union Studies, Houndmills, 190-208.
+Kaldor M (1990) The imaginary war : understanding the East-West conflict, Oxford & Cambridge, Mass.: Blackwell.
+Kattago S. (2008a) ‘Goodbye to Grand Narratives? The Conflict over the Soviet War Memorial in Tallin’ Constellations: An International Journal of Critical and Democratic Theory, forthcoming
+Kattago S. (2008b) Agreeing to Disagree: Memory, Pluralism and Europe after 1989, unpublished paper presented at the 10th Anniversary Conference of the European Journal of Social Theory, University of Sussex, Brighton, 20 June 2008.
+Laqueur, W. (2007) The last days of Europe: Epitaph for an old continent, New York : Thomas Dunne Books/St. Martin's Press.
+Larat F. (2005) ‘Present-ing the Past: Political Narratives on European History and the Justification of EU Integration’ German Law Journal Vol.6, N°2 - 1.
+Lipset S. M. (1959) ‘Some Social Requisites of Democracy: Economic Development and Political Legitimacy’, American Political Science Review, 53(1), May, 69-105
+Lipset S. M. (1960) Political man : the social bases of politics, Garden City, New York: Anchor Books, 1960
+Lundestad G. (2003) The United States and Western Europe since 1945 : from "empire" by invitation to transatlantic drift, Oxford : Oxford University Press,
+Malmborg M. af, and Stråth B. (2002) The Meaning of Europe. Variety and Contention within and among Nations, Berg: Oxford and New York
+Mendelson S. (2002) ‘Conclusion: The Power and Limits of Transnational Democracy Networks in Postcommunist Societies’, in Mendelson S. & Glenn J. (eds.), The Power and Limits of NGOs. A Critical Look at Building Democracy. Columbia University Press, New York, 232-251
+Messenger D. A. (2006) ‘Dividing Europe: The Cold War and European Integration’, in: D. Dinan, ed, Origins and Evolution of the European Union, Oxford UP, 29-54
+Melegh A. (2006) On the East-West Slope. Globalization, nationalism, racism and discourses on Central and Eastern Europe, Budapest & New York: Central European University Press.
+Rostow W. W. (1960) The Stages of Economic Growth: A non-communist manifesto, Cambridge University Press.
+Rousso H. (2004) ‘Das Dilemma eines europäischen Gedächtnisses’, Zeithistorische Forschungen/Studies in Contemporary History 1, 363-378.
+Schmitter P. C. (2000) ‚The Scope of Citizenship in a Democratized European Union: From Economic to Political to Social and Cultural?’, in K. Eder, B. Giesen (eds) European Citizenship between National Legacies and Postnational Projects, Oxford: Oxford University Press.
+Shore C. (2000) Building Europe. The Cultural Politics of European Integration, London & New York: Routledge.
+Stråth B. (ed.) (2000) Europe and the Other and Europe as the Other (Brussels, P.I.E. Peter Lang).
+Stråth B. (2005) ‘Methodological and Substantive Remarks on Myth, Memory and History in the Construction of a European Community’, German Law Journal Vol.6, N°2 – 1.
+Stråth B. (2007) ‘The Political, The Social and the Economic in a European Political Order’ in H.- A. Persson and B. Stråth (eds.) Reflections on Europe. Defining a Political Order in Time and Space (Brussels, P.I.E. Peter Lang), pp. 137-158
+Todorova M. (2005) ‘The Trap of Backwardness> Modernity, Temporality, and the Study of Eastern European Nationalism’, Slavic Review 64(1), 140-164
+Törnquist-Plewa B. (2002) ‘The Complex of an Unwanted child: The Meanings of Europe in Polish Discourse’ in Malmborg M. af, and Stråth B. (eds.) The Meaning of Europe. Variety and Contention within and among Nations, Berg: Oxford and New York
+Troesbt S. (2005) ‚Holodomor oder Holocaust?’ Frankfurter Allgemeine Zeitung, 4. Juli 2005, Gegenwart, p. 8
+---- 2006) ‚Am Anfang des GULag-Gedächtnisses’, Deutschland Archiv. Zeitschrift für das vereinigte Deutschland, 1, 19-26
+---- ‚Netzwerk Erinnerung und Solidarität’, Deutschland Archiv. Zeitschrift für das vereinigte Deutschland, 5, 791-798
+Wagner P. (2005) ‘Hat Europa eine kulturelle Identität?’ in H. Joas and K. Wiegandt (eds.) Die kulturelle Werte Europas (Frankfurt a.M., Fischer Verlag), pp. 494-511.
+Winand P. (1993) Eisenhower, Kennedy, and the United States of Europe (New York, St Martin’s Press).
+Winter J & Sivan E. eds. (1999) War and Remembrance in the twentieth century, Cambridge University Press
+Aderhold, J. et al. (1994): Von der Betriebs- zur Zweckgemeinschaft. Ostdeutsche Arbeits-und Managementkulturen im Transformationsprozeß. Berlin.
+Allen, P.T./Stephenson, G.M. (1983): Inter-Group Understanding and Size of Organisations. In: British Journal of Industrial Relations, 21: 312-329.
+Angle, H.L./Perry, J.L. (1986): Dual Commitment and Labor-Management Relationship Climates. In: Academy of Management Journal, 29(1): 31-50.
+Axelrod, R. (1990): The Evolution of Co-operation. London: Penguin (paperback edition).
+Bluhm, K. (1992): Vom gescheiterten zum nachholenden Fordismus? In: Senghaas-Knobloch, E./Lange, H. (Hg.): DDR-Gesellschaft von innen: Arbeit und Technik im Transformationsprozeß. Düsseldorf. Friedrich-Ebert-Stiftung: 44-56.
+Dastmalchian, A. et al. (eds.) (1991): The Climate of Workplace Relations. London.
+Dathe, D./Schreiber, T. (1993): Gewerkschaftliche Betriebspolitik und soziale Identitätsbildung der abhängig Beschäftigten in den neuen Bundesländern. Düsseldorf: Hans-Böckler-Stiftung (Projekt No. 93-446-2).
+David, V. (1992): Betriebsräte als Akteure im Strukturwandel in dem NBL. In: Erfahrungen und Perspektiven des Forschungsprogramms „Arbeit und Technik in den neuen Bundesländern“, Materialband Teil 2, 26/27.10.1992. Bad Schaudau: 129-136.
+Deshpande, S.P./Fiorito, J. (1989): Specific and general beliefs in union voting models. In: Academy of Management Journal, 32(4): 883-897.
+Ermischer, I./Preusche, E. (1992): Auswirkungen der Privatisierung auf die betriebliche Interessenvertretung im Prozeß der Neugestaltung industrieller Beziehungen in Chemnitzer Industriebetrieben. unpublished manuscript, WISOC. Chemnitz.
+Ermischer, I./Preusche, E. (1993): Betriebsräte zwischen Mitbestimmung und Abwicklungs- „Comanagement“. In: R. Schmidt (Hg.): Zwischenbilanz: Analysen zum Transformationprozeß der ostdeutschen Industrie. Berlin: Akademie Verlag: 169- 192.
+Ermischer, I./Preusche, E. (1995): East German Works Councils: Between Co-operation and Conflict. In: Hoffmann, R./Jacobi, O./Keller, B./Weiss, M. (eds.): German industrial relations under the impact of structural change, unification, and European integration. Düsseldorf: Hans-Böckler-Stiftung (Graue Reihe): 53- 61.
+Fiorito, J./Gallagher, D.G./Fukami, C.V. (1988): Satisfaction with Union Representation. In: Industrial and Labor Relations Review, 41(2): 294-307.
+Frege, C. (1996a) Workplace Relations in East Germany after Unification: Explaining Worker Participation in Trade Unions and Works Councils. Ph.D., London School of Economics and Political Science, London.
+Frege, C. (1996b) Union membership in post-socialist East Germany: who participates in collective activities? In: British Journal of Industrial Relations, 34 (3): 387-414.
+Gut, P./Heering, W./Rudolph, J./Schroeder, K. (1993): Normative Regulierung von Arbeit: Zum Wandel betrieblicher Arbeitsbeziehungen in Unternehmen der ehemaligen DDR. apt-paper (1/93), Freie Universität Berlin: 1-63.
+Hartley, J./ Jacobson, D./ Klandermans, B./van Vuuren, T. (eds.) (1991): Job Insecurity: Coping with Jobs at Risk. London. Sage.
+Heering, W./Schroeder, K. (1992): Hohe Motivation und verhaltener Optimismus: Ergebnisse einer Befragung von Belegschaften und Geschäftsleitungen ostdeutscher Betriebe. apt-paper (1/92), Freie Universität Berlin.
+Hürtgen, R. (1992): Der Wandel regionaler Organisationsstrukturen soziopolitischer Interessenvermittlung im Raum Frankfurt/Oder. Teil 2: Gewerkschaften und Betriebsräte in Frankfurt/Oder, KSPW. Halle.
+Jacoby, W. (1994): Industrial Relations in Eastern Germany: The Politics of Imitation. In: American Political Science Association Annual Meeting. New York, September 1994.
+Jander, M./Kädtler, J./Kottwitz, G./Lutz, S. (1992): Überforderung oder Chance? Betriebsräte in der „Zwickmühle“ zwischen betrieblicher Modernisierung und sozialer Interessenvertretung. unpublished manuscript.
+Jander, M./Lutz, S. (1991): Betriebsräte in der ehemaligen DDR – eine vernachlässigte Institution. Berliner Arbeitshefte und Berichte zur sozialwissenschaftlichen Forschung, no. 66, Zentralinstitut für sozialwissenschaftliche Forschung, Freie Universität Berlin.
+Jander, M./Lutz, S. (1993): Vor einer krisenhaften Veränderung der industriellen Beziehungen in der Bundesrepublik Deutschland? Unpublished draft, Zentralinstitut für sozialwissenschaftliche Forschung, Freie Universität Berlin.
+Kädtler, J. (1993): Arbeitnehmerinteressenvertretung durch Marktwirtschaft – oder: Kommt der Interessengegensatz in die Betriebe zurück? Proposal for the DFG-Schwerpunkt „Strukturwandel industrieller Beziehungen“, Workshop, Berlin, June: 1-13.
+Kädtler, J./Kottwitz, G. (1992): Wie kommt der Interessengegensatz in den Betrieb zurück? Entwicklungsprobleme der betrieblichen Arbeitnehmerinteressenvertretung in Ostdeutschland. Unpublished lecture manuscript: 1-14.
+Kädtler, J./Kottwitz, G. (1994): Industrielle Beziehungen in Ostdeutschland: Durch Kooperation zum Gegensatz von Kapital und Arbeit? In: Industrielle Beziehungen, 1(1): 13-38.
+Kern, H./Land, R. (1991): Der „Wasserkopf“ oben und die „Taugenichtse“ unten. Zur Mentalität von Arbeitern und Arbeiterinnen in der ehemaligen DDR. In: Frankfurter Rundschau, 13.2.1991: 16-17.
+Kirschner, L. (1991): Betriebliche Mitbestimmung und Interessenwahrnehmung im Osten Deutschlands – eine rechtssoziologische Interpretation der gegenwärtigen Transformationsprozesse. In: H. Meyer (Hg.). Soziologen-Tag Leipzig: Soziologie in Deutschland und die Transformation großer gesellschaftlicher Systeme. Berlin: Akademie Verlag: 1033-1042.
+Kirschner, L. (1992): Transformation von Interessenwahrnehmung und Mitbestimmung – Fallstudien aus Unternehmen und Betrieben der neuen Bundesländer. KPSW, Kommission für die Erforschung des politischen und sozialen Wandels in den neuen Bundesländern, Halle. Forschungsbericht No. 3/2.
+Kotthoff, H. (1981): Betriebsräte und betriebliche Herrschaft. Frankfurt a.M.: Campus.
+Kotthoff, H. (1994): Betriebsräte und Bürgerstatus. Mering: Rainer Hampp Verlag.
+Kottwitz, G. (1991): Betriebsratsgründungen in Leipzig und Dresden. In H. Meyer (Hg.). Soziologen-Tag Leipzig: Soziologie in Deutschland und die Transformation großer gesellschaftlicher Systeme. Berlin: Akademie Verlag: 417-423.
+Krieger, H. (1989): Arbeitsmarktkrise und Arbeitnehmerbewußtsein. Frankfurt a.M., New York: Campus.
+Küchle, H./Volkmann, G. (1993): Sanierungsverläufe ostdeutscher Textilunternehmen. Düsseldorf: Hans-Böckler-Stiftung, No. 92-369-2.
+Lippold, S./Lohr, K./Neudel, J./Schmidt, E. (1992): Anpassung oder Modifikation industrieller Beziehungen im Transformationsprozeß. KSPW, Humboldt Universität, Institut für Soziologie, Berlin.
+Lungwitz, R./Preusche, E. (1994): Mängelwesen und Diktator? Ostdeutsche Industriemanager als Akteure betrieblicher Transformationsprozesse. In: Industrielle Beziehungen, 1(1): 219-238.
+Mahnkopf, B. (1991): Vorwärts in die Vergangenheit? Pessimistische Spekulationen über die Zukunft der Gewerkschaften in der neuen Bundesrepublik. In A. Westphal et al. (Hg.): Wirtschaftspolitische Konsequenzen der deutschen Vereinigung. Frankfurt, New York. Campus.
+Mahnkopf, B. (1992): „Vom Ende der Erfolgsstory“ der deutschen Gewerkschaften. In: Frankfurter Rundschau, 9. Oktober 1992.
+Mahnkopf, B. (1993): The Impact of Unification on the German System of Industrial Relations. Berlin: WZB discussion paper no. FS I 93-102.
+Martens, H. (1992): Gewerkschaftlicher Organisationsaufbau und Mitbestimmung in Ostdeutschland – De-Modernisierung oder Modernisierungsimpulse? In: Arbeit, 1(4): 368-386.
+Mense-Petermann, U. (1996): Die Vertrieblichung der industriellen Beziehungen in Ostdeutschland. In: Industrielle Beziehungen, 3 (1): 65-79.
+Mickler, O./Engelhardt, N./Lungwitz, R./Walker, B. (1993): Die Modernisierung der ostdeutschen Automobilindustrie im Zeichen von lean production. unpublished manuscript, Universität Hannover, agis: 1-37.
+Mickler, O./Walker, B. (1992): Die ostdeutsche Automobilindustrie im Prozeß der Modernisierung und personellen Anpassung. In: M. Heidenreich (Hg.): Krisen, Kader, Kombinate. Berlin. edition sigma: 29-44.
+Mickler, O. et al. (1992): Ein Aufstieg wie Phönix aus der Asche? Nach Abriß nun Wiederaufbau der ostdeutschen Automobilindustrie. Die Betriebsräte im Konflikt zwischen Schutzinteressen und Modernisierungspartnerschaft. Unpublished manuscript, Universität Hannover.
+Nolte, D./Sitte, R. (1995): Ostdeutschland als Dependenzökonomie – einige Bermerkungen zur Qualität des Wachstums in den neuen Bundesländern. In: WSI Mitteilungen, 48(5): 300-307.
+Röske, V./Wassermann, W. (1991): Mitbestimmung im Osten – eine Aufbaupartnerschaft. In: Die Mitbestimmung, 2: 142-144.
+Spangenberg, A. (1993): Was ist vom „Kollektiv der Werktätigen“ geblieben? In: Die Mitbestimmung (1): 20-23.
+Voskamp, U./ Wittke, V. (1991): Industrial Restructuring in the Former GDR: Barriers to Adaptive reform become Downward Development Spirals. In: Politics & Society, 19(3): 341-371.
+Wiedenhofer, H. (1979): Probleme gewerkschaftlicher Interessenvertretung: Beispiel der Gewerkschaft Nahrung, Genuß, Gaststätten. Bonn: Verlag Neue Gesellschaft.
+Barrett, Alan (1999): Irish Migration: Characteristics, Causes and Consequences, IZA Discussion Paper no. 97, Bonn.
+Bengtson, Vern L., Timothy J. Biblarz and Robert E. L. Roberts (2002): How Families still Matter: A longitudinal study of youth in two generations, Cambridge.
+Bernstein, Basil (1996): Pedagogy, Symbolic Control, and Identity: Theory, Research, Critique, London.
+Bertaux, Daniel (1997): Les récits de vie. Perspective ethnosociologique, Paris.
+Bernstein, Basil (2000): Pedagogy, Symbolic Control, and Identity: Theory, Research, Critique, Lanham MD.
+Bertaux, Daniel and Paul Thompson (eds.) (1997): Pathways to social class: a qualitative approach to social mobility, Oxford.
+Bertaux, Daniel and Isabelle Bertaux-Wiame (1997): Heritage and its lineage: a case history of transmission and social mobility over five generations, in: Bertaux, Daniel and Paul Thompson (eds.): Pathways to social class: a qualitative approach to social mobility, Oxford, 63-97.
+Bourdieu, Pierre (1975): Outline of a theory of practice, Cambridge.
+Bourdieu, Pierre (1986): The forms of capital, in: Richardson, John E. (ed.): Handbook of Theory for Research in the Sociology of Education, Westport, 241-258.
+Bourdieu, Pierre (1990): The Logic of Practice, Cambridge.
+Brannen, Julia, Peter Moss and Ann Mooney (2004): Working and Caring over the Twentieth century: Change and continuity in four-generation families, ESRC Future of Work Series, Basingstoke.
+Brannen, Julia (2006): Cultures of intergenerational transmission in four generation families, in: Sociological Review 54:1, 133-155.
+Brannen, Julia and Ann Nilsen (2006): From Fatherhood to Fathering: Transmission and change among British Fathers in Four-generation Families, in: Sociology 40:2, 335-352.
+Brannen Julia, Ann Mooney and Valerie Wigfall (2011): Fatherhood, generation and migration, Community Work and Family conference, Tampere Finland, May.
+Brody, Hugh (1973): Inishkillane. Change and decline in the West of Ireland, London.
+Bruce, Steve, Tony Glendinning, Michael Paterson and Iain Rosie (2004): Sectarianism in Scotland, Edinburgh.
+Clegg, Hugh (1979): The changing system of industrial relations in Great Britain, London
+Delcroix, Catherine (2000): The transmission of life stories from ethnic minority fathers to their children. In: Attias-Donfut, Claudine and Sara Arber (eds.): The Myth of Generational Conflict: The Family and the State in Ageing Societies, London, 174-189.
+Denzin, Norman (1989): Interpretive biography, in: Qualitative research methods series 17, London.
+Dermott, Esther (2008): Intimate Fatherhood: A sociological analysis, London.
+Elder, Glen H., Monica Kirkpatrick Johnson and Robert Crosnoe (2006): The Emergence and Development of Life Course Research, in: Mortimer, Jeylan T. and Michael J. Shanahan (eds.): Handbook of the Life Course, New York, 3-22.
+Elder, Glen H. and Janet Z. Giele (2009): Life Course Studies: an evolving field, in: Elder, Glen H. and Janet Z. Giele (eds.): The Craft of Life Course, New York, 1-24.
+Garvey, Donal (1985): The history of migration flows in the Republic of Ireland, in: Population Trends 39, 22-30.
+Garvin, Tom (2004): Preventing the Future: Why was Ireland so poor for so long?, Dublin. Fatherhood in the Context of Migration: An Intergenerational Approach
+Giesen, Bernhard (2004): Noncontemporaneity, Asynchronicity and Divided Memories, in: Time and Society 13:1, 27-40.
+Hannan, Carmel (2008): The changing nature of family formation in Ireland, DPhil thesis, University of Oxford.
+Harding, S. and R. Balarajan (1996): Patterns of mortality in second generation. Irish living in England and Wales: Longitudinal Study, in: British Medical Journal 312, 1389-1392.
+Hickman Mary J. and Bronwen Walter (1997): Discrimination and the Irish community in Britain, Commission for Racial Equality, London.
+Kohli, Martin (1999): Private and public transfers between generations: linking the family and the state, in: European Societies 1:1, 81-104.
+Lewis, Suzan, Julia Brannen and Ann Nilsen (2009) (eds.): Work, Families and Organisations in Transition: European Perspectives, Bristol.
+Luescher, Kurt (2005): Looking at ambivalences: the contribution of a ‘new-old’ view of intergenerational relations to the study of the life course, in: Towards an interdisciplinary perspective on the life course, Advances in life course research 10, 93-128.
+Mannheim, Karl (1952): Essays on the Sociology of Knowledge, London.
+Mason, Jennifer (2008): Tangible affinities and the real life fascination of kinship, in: Sociology 42:1, 29-45.
+Mills, Charles W. (1959): The sociological imagination, New York.
+Mills, Charles W. (1963/1940): Situated Actions and Vocabularies of Motive, in: Horowitz, Irving L. (ed.): Power, Politics & People. The Collected Essays of C. Wright Mills, Oxford.
+Morgan, David H. J. (1999): Risk and family practices: accounting for change and fluidity in family life, in: Silva, Elizabeth B. and Carol Smart (eds.): The New Family?, London, 13-30.
+Nilsen, Ann, Maria das Dores Guerreiro and Julia Brannen (2002): ‘Most Choices Involve Money’: different pathways to adulthood, in: Brannen, Julia, Suzan Lewis, Ann Nilsen and Janet Smithson (eds.): Young Europeans, Work and Family: Futures in transition, London, 162-184.
+Phoenix, Ann (2008): Analysing narrative contexts, in: Andrews, Molly, Corinne Squire and Maria Tamboukuo (eds.): Doing narrative research, London, 64-77.
+Ryan, Louise (2004): Family Matters: (e)migration, familial networks and Irish women in Britain, Sociological Review 52:3, 351-370.
+Salt, John (2009): International migration and the United Kingdom. Report of the United Kingdom SOPEMI correspondent to the OECD. Retrieved November 2nd 2010 from: http://www.geog.ucl.ac.uk/reeach/mobility-identity-and-security/migration-researchunit/pdfs/Sop09
+Vincent Carol and Stephen J. Ball (2006): Childcare, Choice and Class Practice, London.
+Wacquant, Loïc (2008): Pierre Bourdieu, in: Stones, Rob (ed.): Key contemporary thinkers, London and New York, 261-277.
+Walter, Bronwen (1999): The Irish community in Britain – diversity, disadvantage and discrimination. Paper presented to the commission on the Future of Multi-ethnic Britain, 18 June 1999, http://www.runnymedetrust.org/bgIrishCommunity.html (retrieved October 24th 1010)
+Wengraf, Tom (2001): Qualitative Research Interviewing: Biographic narrative and semistructured methods, London.
+Williams, Rory and Russell Ecob (1999): Regional mortality and the Irish in Britain: findings from the ONS longitudinal study, in: Sociology of Health and Illness 21:3, 344-367.
+Dillman, D.A. (2000): Mail and Internet Surveys. The Tailored Design Method. 2. Edition. New York: Wiley.
+Harkness, J., Langfeldt, B. and Scholz, E. (2001): ISSP Study Monitoring 1996-1998, Reports to the ISSP General Assembly on monitoring work undertaken for the ISSP by ZUMA, Germany, Mai 2001. (available online with the 1996-1998 codebooks)
+Park, A. and Jowell, R. (1997): Consistencies and differences in a cross-national survey. The International Social Survey Programme (1995). (available online with the 1995 codebook)
+***, 2002. Tranzicija hrvatskog stambenog tr išta. Zagreb: Politièka kultura.
+Bezovan, G., 2004. Housing policy: free market, patchwork or the part of welfare state programmes. Paper presented at the ENHR Conference, Cambridge, UK, 2–6 July.
+Busuttil, S., 2002. “Negotiations on property explained” [online]. Aggornat, Special edition, No 7. Available from: [www.mic.org.mt/AGGORNAT/special_edition/AGGSE07e_Property.pdf].
+Cabrini, L., 2004. Global tourism trends [online]. Paper presented at the World Tourism Organization Seminar on destination marketing for the 21st century, Moscow, 23 March. Available from: [www.world-tourism.org/regional/europe/PDF/SPEECHES/2004- /moscow].
+Cariæ, H., 2003. Smjernice odr ivog razvoja opæine Jelsa. Zagreb: Odraz.
+CBS, 2003. “Census of population, households and dwellings”. Release 2. Zagreb: Central Bureau of Statistics. Available from: [www.dzs.hr].
+CIRIEC, 2002. Housing Statistics in the European Union 2002 [online]. Brussels: International Centre for Research and Information on the Public and Cooperative Economy. Available from: [http://mrw.wallonie.be/dgatlp].
+Creaco, S. and Querini, G., 2003. The role of tourism in sustainable economic development [online]. Paper presented at the 43rd Congress of the European Regional Science Association, Jyväskylä, Finland, 27–30 August. Available from: [www.jyu.fi/ersa2003].
+De Kadt, E., 1979. Tourism passport to development. Oxford: Oxford University Press.
+De Soto, H., 2000. The mystery of capital: why capitalism triumphs in the West and fails everywhere else? New York: Basic Books.
+Deutsche Bank Research, 2000. EU enlargement monitor [online]. Available from: [www.dbresearch.com].
+Diamond, P., 1969. “On the economics of tourism”. Eastern Africa Economic Review, 1 (December), 53-62.
+Dru iæ, I., 2001. “Macroeconomics of Housing Industry Market Transformation”. Ekonomski pregled, 52 (1-2), 219-233.
+Estudios Turisticos, 1988. “Inversiones extrajeras en imuebles: Provincias de Malaga y Alicante”. Estudios Turisticos, (99), 45-111.
+European Commission, 2001. Commission proposes transition periods for purchase of real estate in candidate countries [online]. Available from: [http://europa.eu.int/rapid/].
+Fröhlich, Z. (ed.), 2003. Stanovanje [online]. Studija izraðena u okviru projekta “Strategija razvitka republike Hrvatske “Hrvatska u 21. stoljeæu””. Available from: [http://www.hrvatska21.hr/stanovanje.htm].
+Government of Bulgaria, 2000. Negotiating position paper on Chapter 4 – free movement of capital [online]. Available from: [http://www.euractiv.com/ndbtext/enlarge/bulgaria_25.rtf].
+Government of Croatia, 2004. Uredba o ureðenju i zaštiti zaštiæenog obalnog podruèja mora [online]. Available from: [www.vlada.hr/Download/2004/09/09/38-01.pdf].
+Government of Romania, 2001. Romania’s position paper on Chapter 4 – free movement of capital” [online]. Available from: [http://www.mie.ro/Negocieri/English/position_doc/CAP04-DP%20eng.doc].
+Government of Spain, 1988. Ley 22/1988, de 28 de julio, de Costas [online]. Available from: [www.derecho.com].
+IZTZG, 2003. Turizam i razvoj Hrvatske [online]. Studija izraðena u okviru projekta “Strategija razvitka republike Hrvatske “Hrvatska u 21. stoljeæu””. Available from: [www.hrvatska21.hr].
+Keller, P., 2001. Tourism policy and economic growth: introductory remarks [online]. Paper presented at the OECD Seminar on tourism policy and economic growth, Berlin, 6–7 March 2001. Available from: [www.oecd.org/dataoecd/56/5/1867479.pdf].
+Kesner-Škreb, M. and Kuliš, D., 2001. Porezni vodiè za graðane. Zagreb: Institut za javne financije.
+Kranjèeviæ, J., 2005. “Accession to the European Union and physical (spatial) planning in Croatia” in: K. Ott, ed. Croatian accesssion to the European Union: facing the challenges of negotiations. Zagreb : Institute of Public finance : Friedrich Ebert Stiftung, 229-247.
+Kušen, E., 2002. Turistièka atrakcijska osnova. Zagreb: Institut za turizam.
+Ministerio de medio ambiente, 2004. Coastal legislation in Spain [online]. Presentation at Forum on ICAM Protocol, Cagliari, 28–29 May. Available from: [www.pap-thecoastcentre.org/ICAM_forum/cagliari/National]
+Mullins, P., 1991. “Tourism urbanization”. International journal of urban and regional research, 15, 326-342.
+MZOPU, 2003. Izvješæe o stanju u prostoru Republike Hrvatske [online]. Zagreb: Ministarstvo zaštite okoliša i prostornog ureðenja. Available from: [www.mzopu.hr].
+OECD, 2000. Guidelines on tourism satellite account. Paris: OECD.
+OECD, 2002. Housing finance in transition economies. Paris: OECD.
+Ott, K. (ed.), 2000. Javne financije u Hrvatskoj. Zagreb: Institut za javne financije.
+Papadimitriou, D., 2002. Negotiating the new Europe: the European Union and eastern Europe. Hunts: Ashgate.
+Petriæ, L., 2003. Constraints and possibilities of the rural tourism development with the special stress on the case of Croatia [online]. Paper presented at the 43rd Congress of the European Regional Science Association, Jyväskylä, Finland, 27–30 August. Available from: [www.jyu.fi/ersa2003 ].
+Petrin, O., 2004. Tourismus und Umwelt in Kroatien [online]. Unpublished PhD dissertation. Graz: Institut für Volkswirtschaftslehre und Volkswirtschaftspolitik, Karl-FranzensUniversität. Available from: [http://www.wifo.at/Stefan.Schleicher/down/diss/DISS_Petrin.pdf].
+Scottish Parliament Information Centre, 2002. The economics of tourism [online]. Available from: [http://www.scottish.parliament.uk/business/research/subject/economy].
+Sinclair, T., 1998. “Tourism and economic development: a survey”. Journal of development studies, 34 (5), 1-51.
+Syriopulous, T. and Sinclair, T., 1993. “An econometric study of tourism demand: the AIDS model of US and European tourism in Mediterranean countries”. Applied economics, 25 (12), 1541-1552.
+Syriopulous, T., 1995. “A dynamic model of demand for Mediterranean tourism”. International review of applied economics, 9 (3), 318-336.
+Tica, J., 2004. “The macroeconomic aspects of the Croatian housing market”. Ekonomski pregled, 55 (7-8), 641-659.
+United Nations Economic Commission for Europe, 2000. Developing real estate markets in transition economies [online]. Available from: [http://www.unece.org/press/specialevent/00rcmfd_documents/realestate.pdf].
+Wertheimer-Baletiæ, A., 2003. “Dugoroèni demografski procesi u Hrvatskoj u svjetlu popisa stanovništva 2001. godine”. Ekonomija, 10 (1), 97-114.
+Williams, A., 2001. “Tourism as an agent of economic transformation in Southern Europe” in: H. Gibson, ed. Economic transformation, democratization and integration into the European Union. London: Palgrave, 119-148.
+World Bank, 2004. Doing Business in 2005: Removing Obstacles to Growth. Data and analysis benchmarking the ease of doing business in 145 countries [online]. Available from: [http://rru.worldbank.org].
+World Travel and Tourism Council, 2004. Croatia: the impact of travel and tourism on jobs and the economy [online]. Available from: [www.wttc.org].
+Currie, J., & Madrian, B. (1999). Health, health insurance, and the labour market. In O. Ashenfelter & D. Card (Eds.), The handbook of labor economics, vol. 3 (p. 3309-3414). Amsterdam: Elsevier Science.
+Deolalikar, A. (1988). Nutrition and labor productivity in agriculture: Estimates for rural south India. The Review of Economics and Statistics, 70, 406-413.
+Dercon, S., & Hoddinott, J. (2003). Health, shocks, and poverty persistence. In S. Dercon (Ed.), Insurance against poverty. Oxford: Oxford University Press.
+Ettner, S. (1996). New evidence on the relationship between income and health. Journal of Health Economics, 15, 67-85.
+Fajnzylber, P., Maloney, W., & Rojas, G. (2006). Microenterprise dynamics in developing countries: How similar are they to those in the industrialized world? Evidence from Mexico. World Bank Economic Review, 20, 389-419.
+Gertler, P., & Gruber, J. (2002). Insuring consumption against illness. American Economic Review, 92, 51-70.
+Grossman, M. (1972). On the concept of health capital and the demand for health. Journal of Political Economy, 80, 223-255.
+Haveman, R., Wolfe, B., Kreider, B., & Stone, M. (1994). Market work, wages, and men’s health. Journal of Health Economics, 13, 163-182.
+Lee, L.-F. (1982). Health and wage: A simultaneous equation model with multiple discrete indicators. International Economic Review, 23, 199-221.
+Lindelow, M., & Wagstaﬀ, A. (2005). Health shocks in China: Are the poor and uninsured less protected? (World Bank Policy Research Working Paper No. 3740)
+Mincer, J. (1974). Schooling, experience and earnings. New York, NY: National Bureau of Economic Research.
+Pitt, M., & Rosenzweig, M. (1986). Agricultural prices, food consumption, and the health and productivity of Indonesian farmers. In I. Singh, L. Squire, & J. Strauss (Eds.), Agricultural household models: Extensions, applications, and policy (p. 153-182). Baltimore: Johns Hopkins University Press.
+Sandefur, J., Serneels, P., & Teal, F. (2006). African poverty through the lens of labour economics: Earnings and mobility in three countries. (CSAE Working Paper, November)
+Savedoﬀ, W., & Schultz, T. (2000). Earnings and the elusive dividends of health. In W. Savedoﬀ & T. Schultz (Eds.), Wealth from health. Washington, DC: Inter-American Development Bank. (Chapter 1)
+Schultz, T. (2002). Wage gains associated with height as a form of health human capital. American Economic Review, 92, 349-353.
+Schultz, T. (2003). Wage rentals for reproducible human capital: Evidence from Ghana and the Ivory Coast. Economics Of Human Biology, 1, 331-366.
+Schultz, T., & Tansel, A. (1997). Wage and labor supply eﬀects of illness in Cˆote d’Ivoire and Ghana: instrumental variable estimates for days disabled. Journal of Development Economics, 53, 251-286.
+Smith, J. (2003). Consequences and predictors of new health events. (NBER Working Paper No. 10063)
+S¨oderbam, M., Teal, F., & Wambugu, A. (2005). Unobserved heterogeneity and the relation between earnings and ﬁrm size: Evidence from two developing countries. Economic Letters, 87, 153-159.
+Strauss, J. (1986). Does better nutrition raise farm productivity? Journal of Political Economy, 94, 297-320.
+Strauss, J., & Thomas, D. (1998). Health, nutrition, and economic development. Journal of Economic Literature, XXXVI, 766-817.
+Thomas, D., & Strauss, J. (1997). Health and wages: Evidence on men and women in urban Brazil. Journal of Econometrics, 77, 159-185.
+Wagstaﬀ, A. (2006). The economic consequences of health shocks: evidence from Vietnam. Journal of Health Economics. (forthcoming, doi:10.1016/j.jhealeco.2006.07.001.)
+Andrewes, Sir Frederick (1928). The beginnings of bacteriology at St. Bartholomew's. St. Bartholomew's Hospital Journal, 35(7/8), 100-104 and 116-117.
+Bodley Scott, Ronald (1974). Medicine in the Twentieth Century. In Victor Cornelius Medvei & John L. Thornton (Eds.), The Royal Hospital of Saint Bartholomew 1123-1973 (pp.185-204). London: St. Bartholomew's Hospital.
+Bourne, Geoffrey (1963). We met at Bart's: The autobiography of a physician. London: Friedrich Muller Limited.
+Brown, G.H. (Compiler) (1955). Munk's roll, Volume IV: Lives of the fellows of the Royal College of Physicians of London, 1826-1925. London: Royal College of Physicians.
+Cambridge Parliamentary and Municipal Borough (1927). Maps Fiche 2164(33), 25 inches: mile. Sheet XLVIII 2. British Library reference: Cambridgeshire Revised Edition, 47.2.
+Cranefield, Paul F. (1957). The organic physics of 1847 and the biophysics of today. Journal of the History of Medicine and Allied Sciences, 12, 407-23.
+Daston, Lorraine, & Sibum, H. Otto (2003). Introduction: scientific personae and their histories. Science in Context, 16, 1-8.
+Elgaard Jensen, Torben (2007). Witnessing the future [59 paragraphs]. Forum Qualitative Sozialforschung / Forum: Qualitative Social Research [On-line Journal], 8(1), Art. 1. Available at: http://www.qualitative-research.net/fqs-texte/1-07/07-1-1-e.htm.
+Ferris, Paul (1965). The doctors. London: Victor Gollancz Ltd.
+Frank, Robert G. Jnr (1988). The Telltale Heart: Physiological instruments, graphic methods, and clinical hopes, 1854-1914. In William Coleman & Frederic L. Holmes (Eds.), The investigative enterprise: Experimental physiology in nineteenth-century medicine (pp.211-90). Berkeley, Los Angeles: University of California Press.
+Gee, Samuel (1915a). On the causes and forms of bronchitis. Lecture given before the Royal College of Physicians (no date). In Samuel Gee, Medical lectures and aphorisms with recollections by J. Wickham Legg (pp.60-75). London: Henry Frowde, Oxford University Press and Hodder and Stoughton.
+Gee, Samuel (1915b). Clinical aphorisms collected by Thomas Horder. In Samuel Gee, Medical lectures and aphorisms with recollections by J. Wickham Legg (pp.243-304). London: Henry Frowde, Oxford University Press and Hodder and Stoughton.
+Gee, Samuel (1915c). Sects in medicine. Read before the Abernethian Society on June 20, 1889. In Samuel Gee, Medical lectures and aphorisms with recollections by J. Wickham Legg (pp.216- 42). London: Henry Frowde, Oxford University Press and Hodder and Stoughton.
+Geison, Gerald L. (1978). Michael Foster and the Cambridge School of Physiology: The scientific enterprise in late Victorian society. Princeton, New Jersey: Princeton University Press.
+Geison, Gerald L. (1979). Divided we stand: Physiologists and clinicians in the American context. In Morris J. Vogel & Charles E. Rosenberg (Eds.), The therapeutic revolution: essays in the social history of American medicine (pp.67-90). Philadelphia: University of Philadelphia Press.
+Goffman, Erving (1969). The presentation of self in everyday life. London: Allen Lane, The Penguin Press.
+Hammonds, Evelynn Maxine (1999). Childhood's deadly scourge: The campaign to control diphtheria in New York City, 1880-1930. Baltimore: The Johns Hopkins University Press.
+Horder, Thomas (1924). Individuality in medicine. An address delivered to the students of Durham University Medical College at the Opening of the Winter Session, Oct. 6th, 1924. The Lancet, ii, 819- 24.
+Horder, Thomas (1937a). The doctor as humanist. An address at the opening of the Westminster Hospital Medical School, 28th September 1936. In Thomas Horder, Health and a day: Addresses by Lord Horder (pp.19-41). London: J.M. Dent & Sons Ltd.
+Horder, Thomas (1937b). The clinician's function in medicine. Read at the annual meeting of the Medical Society of the State of New York, 28th April 1936. In Thomas Horder, Health and a day: Addresses by Lord Horder (pp.164-184). London: J.M. Dent & Sons Ltd.
+Horder, Thomas & Gow, Alexander E. (1952). The essentials of medical diagnosis: A manual for students and practitioners, revised with the assistance of Ronald Bodley Scott. London: Cassell and Company Ltd.
+Howell, Joel D. (1987). "Machines" meanings: British and American use of medical technology, 1890-1930. Unpublished PhD thesis, University of Pennsylvania.
+Jacyna, L.S. (1988). The laboratory and clinic: The impact of pathology on surgical diagnosis in the Glasgow Western Infirmary, 1875-1910. Bulletin of the History of Medicine, 62, 384-406.
+Kontopodis, Michalis (2007). Fabrication of Times and Micro-Formation of Discourse at a Secondary School [88 paragraphs]. Forum Qualitative Sozialforschung / Forum: Qualitative Social Research [On-line Journal], 8(1), Art. 11. Available at: http://www.qualitative-research.net/fqstexte/1-07/07-1-11-e.htm.
+Lawrence, Christopher (1985). Incommunicable knowledge: Science, technology and the Clinical Art in Britain, 1850-1914. Journal of Contemporary History, 20, 503-520.
+Lawrence, Christopher (1998). Still incommunicable: Clinical holists and medical knowledge in interwar Britain. In Christopher Lawrence & George Weisz (Eds.), Greater than the parts: Holism in biomedicine, 1920-1950 (pp.94-111). New York: Oxford University Press.
+Lawrence, Christopher (1999). A tale of two sciences: bedside and bench in Twentieth-Century Britain. Medical History, 43, 421-449.
+Lawrence, Christopher (2000). Edward Jenner's jockey boots and the great tradition in English medicine 1918-1939. In Christopher Lawrence & Anna-K. Mayer (Eds.), Regenerating England: Science, medicine and culture in inter-war Britain (pp.45-65). Amsterdam: Rodopi.
+Legg, J. Wickham (1915). Recollections of Samuel Gee, physician to Saint Bartholomew's Hospital brought together by J. Wickham Legg. In Samuel Gee (Ed.), Medical lectures and aphorisms with recollections by J. Wickham Legg (pp.353-392). London: Henry Frowde, Oxford University Press and Hodder and Stoughton.
+Maulitz, Russell C (1979). "Physician versus bacteriologist": The ideology of science in Clinical Medicine. In Morris J. Vogel & Charles E. Rosenberg (Eds.), The therapeutic revolution: Essays in the social history of American medicine (pp.91-107). Philadelphia: University of Philadelphia Press.
+Moreira, Tiago (2007). How to investigate the temporalities of health [60 paragraphs]. Forum Qualitative Sozialforschung / Forum: Qualitative Social Research [On-line Journal], 8(1), Art. 13. Available at: http://www.qualitative-research.net/fqs-texte/1-07/07-1-13-e.htm.
+Motzkau, Johanna F. (2007). Matters of suggestibility, memory and time: Child witnesses in court and what really happened [42 paragraphs]. Forum Qualitative Sozialforschung / Forum: Qualitative Social Research [On-line Journal], 8(1), Art. 14. Available at: http://www.qualitativeresearch.net/fqs-texte/1-07/07-1-14-e.htm.
+Peterson, M. Jeanne (1978). The medical profession in Mid-Victorian London. Berkeley, Los Angeles: University of California Press.
+Porter, Roy (2001). Bodies politic: Disease and death and doctors in Britain, 1650-1900. Ithaca, New York: Cornell University Press.
+Rook, Arthur; Margaret Carlton & Cannon, W. Graham (1991). The history of Addenbrooke's Hospital, Cambridge. Cambridge: Cambridge University Press.
+Waddington, Ivan (1984). The medical profession in the Industrial Revolution. Dublin: Gill and Macmillan Ltd.
+Waddington, Keir (2003). Medical education at St. Bartholomew's Hospital 1123-1995. Woodbridge, Suffolk: The Boydell Press.
+Warner, John Harley (1997a). The therapeutic perspective: Medical practice, knowledge, and identity in America, 1820-1885. Princeton, New Jersey: Princeton University Press.
+Warner, John Harley (1997b). From specificity to universalism in medical therapeutics: Transformation in the 19th-Century United States. In Judith Walzer Leavitt & Ronald L. Numbers (Eds.), Sickness and health in America: Readings in the history of medicine and public health (pp.87-101). Madison, Wisconsin: University of Wisconsin Press.
+Weatherall, Mark W. (2000). Gentlemen, scientists and doctors: Medicine at Cambridge, 1880- 1940. Woodbridge, Rochester, New York: Boydell Press in association with Cambridge University Library.
+White Franklin, Alfred (1974). Medicine in the eighteenth and nineteenth centuries. In Victor Cornelius Medvei & John L. Thornton (Eds.), The Royal Hospital of Saint Bartholomew 1123-1973 (pp.126-184). London: St. Bartholomew's Hospital.
+Worboys, Michael (2004). Private clinical laboratories in Britain: The Clinical Research Association, 1894-1914. Unpublished paper presented at the American Association for the History of Medicine Annual Conference, Madison, Wisconsin.

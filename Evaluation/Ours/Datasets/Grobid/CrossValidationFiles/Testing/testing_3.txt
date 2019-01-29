@@ -1,0 +1,10 @@
+1000_10897_2010_Article_9303_J_Genet_Couns_2010_Oct_19_19(5)_447-462.references.tei.xml
+1022_JISP-15-55_J_Indian_Soc_Periodontol_2011_Jan-Mar_15(1)_55-58.references.tei.xml
+1055_1317_J_Med_Microbiol_2010_Nov_59(Pt_11)_1317-1323.references.tei.xml
+1058_13181_2010_Article_96_J_Med_Toxicol_2011_Mar_27_7(1)_16-23.references.tei.xml
+1060_232_2011_Article_9348_J_Membr_Biol_2011_May_6_241(1)_1-10.references.tei.xml
+10_pcns2-57_Cogn_Neurosci_2011_Mar_19_2(1)_57-65.references.tei.xml
+112_bar016_Database_(Oxford)_2011_May_9_2011_bar016.references.tei.xml
+137_DTE2011-468237_Diagn_Ther_Endosc_2011_May_11_2011_468237.references.tei.xml
+139_10620_2010_Article_1554_Dig_Dis_Sci_2011_May_9_56(5)_1535-1541.references.tei.xml
+14_396_2011_Article_2423_Colloid_Polym_Sci_2011_Jun_6_289(9)_993-1003.references.tei.xml

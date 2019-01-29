@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_9"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Benyera, Everisto (2014), Debating the Efficacy of Transitional Justice Mecha-
+nisms: The Case of National Healing in Zimbabwe, Phd thesis, University 
+of South Africa.</ref>
+<ref>Godwin, Peter (1996), Mukiwa: A White Boy in Africa, London: Macmillan.</ref>
+<ref>Ndlovu-Gatsheni, Sabelo, and Everisto Benyera (2015), Towards a Frame-
+work for Resolving the Justice and Reconciliation Question in Zim-
+babwe, in: African Journal of Conflict Resolution, 15, 2, 9-33.</ref>
+<ref>Ngwenya, Dumisani, and Geoff Harris (2015), The Consequences of 
+Not Healing: Evidence from the Gukurahundi Violence in Zimba-
+bwe, in: African Journal of Conflict Resolution, 15, 2, 35-55.</ref>
+<ref>Southall, Roger (2013), Liberation Movements in Power: Party and State in South-
+ern Africa, Woodbridge: James Currey; Scottsville: UKZN Press.</ref>
+<ref>Todd, Judith (2007), Through the Darkness: A Life in Zimbabwe, Cape Town: 
+Zebra Press.</ref>
+<ref>Tsvangirai, Morgan (with T. William Bango) (2011), At the Deep End, Johan-
+nesburg: Penguin.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

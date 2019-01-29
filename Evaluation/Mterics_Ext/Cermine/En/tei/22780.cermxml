@@ -1,0 +1,2486 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <article-id pub-id-type="doi">10.1177/1368430205053940</article-id>
+      <title-group>
+        <article-title>Keeping it to Ourselves: Effects of Audience Size and Composition on Reactions to Criticisms of the Ingroup</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Tracey J. Elder</string-name>
+          <email>t.j.elder@keele.ac.uk</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Robbie M. Sutton</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Karen M. Douglas</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Keele University</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2005</year>
+      </pub-date>
+      <fpage>231</fpage>
+      <lpage>244</lpage>
+      <abstract>
+        <p>Criticism is an important aspect of communication within and between groups, but reactions to criticism of groups have been little studied. Past research has shown that criticism elicits greater sensitivity when made by an outgroup member, compared to an ingroup member. Two experiments were conducted to examine how this intergroup sensitivity effect (ISE) is affected by the context of the criticism. Experiment 1 showed that the ISE occurs in a private context, but disappears when it is clear that the criticism is made to a large public audience. Experiment 2 investigated intragroup criticism and manipulated both audience size and audience composition. Results showed that ingroup criticism elicited greater sensitivity and less favorable evaluations of the speaker when made to an outgroup rather than an ingroup audience. The results highlight strategic considerations and tacit protocols governing the criticism of groups.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>audience</kwd>
+        <kwd>context</kwd>
+        <kwd>criticism</kwd>
+        <kwd>intergroup relations</kwd>
+        <kwd>reactions</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>
+        C O M M U N I C AT I O N is central to intergroup
+relations. Stereotypes are largely refined and
+propagated through it
+        <xref ref-type="bibr" rid="ref26 ref27 ref28">(Lyons &amp; Kashima, 2003;
+Maass, 1999; Maass, Salvi, Acruri, &amp; Semin,
+1989)</xref>
+        . Indeed new stereotypes may emerge
+from communication
+        <xref ref-type="bibr" rid="ref17 ref8">(Douglas &amp; Sutton, 2003;
+Higgins &amp; Rholes, 1978)</xref>
+        . Aspects of intergroup
+relations such as conflict, conflict resolution,
+and negotiation are intrinsically
+communicative. In this paper, we explore some of the
+strategic considerations surrounding an
+important communicative aspect of intergroup
+relations: criticism of groups. Extending recent
+research on how this criticism is received, we
+investigate the impact of the communicative
+context in which criticisms are made.
+      </p>
+      <p>
+        Social identity theory
+        <xref ref-type="bibr" rid="ref38 ref39">(Tajfel, 1978; Tajfel &amp;
+Turner, 1979)</xref>
+        and self-categorization theory
+        <xref ref-type="bibr" rid="ref44">(Turner, Hogg, Oakes, Reicher, &amp; Wetherell,
+1987)</xref>
+        state that people’s identity partly derives
+from their membership in social groups.
+      </p>
+    </sec>
+    <sec id="sec-2">
+      <title>Group Processes &amp; Intergroup Relations 8(3)</title>
+      <p>
+        Similarly, individuals’ self-esteem derives partly
+from their success in establishing and
+maintaining a positive distinction between their own
+group and others’
+        <xref ref-type="bibr" rid="ref40">(Tajfel &amp; Turner, 1986)</xref>
+        .
+Therefore, it is reasonable to infer that people
+will employ a range of strategies to establish
+and preserve this positive distinction. The
+welfare of groups themselves, and not just their
+constituent members, also depends critically on
+the esteem in which they are held
+        <xref ref-type="bibr" rid="ref45">(Van Vugt &amp;
+Hart, 2004)</xref>
+        .
+      </p>
+      <p>
+        Explicit criticism of the ingroup is a very
+direct and potent threat to the image of the
+group. However, until very recently researchers
+have largely ignored the important issue of how
+people respond to criticisms of their group.
+Theoretically, a key determinant of how group
+criticism is received ought to be its source:
+specifically whether it comes from an ingroup
+member (i.e. intragroup criticism) or an
+outgroup member (i.e. intergroup criticism).
+Intragroup criticism, although painful, helps
+the group to identify and rectify its weaknesses,
+facilitating growth, change, and improvement
+        <xref ref-type="bibr" rid="ref30">(see also Nemeth &amp; Owens, 1996)</xref>
+        . This kind of
+communication is analogous to intrapsychic
+processes such as considered reflection and
+self-criticism
+        <xref ref-type="bibr" rid="ref24 ref4">(Carver &amp; Scheier, 1999; Kurman,
+2003)</xref>
+        . Subjecting one’s group to reasonable
+criticism therefore may be a valuable means of
+furthering its interests. In kind, fellow ingroup
+members may be willing to entertain
+intragroup criticisms, regarding them as probably
+well-informed and well-intentioned. On the
+other hand, criticism from an outgroup
+member is more likely to be seen as a malicious
+attack, perhaps aimed at bolstering the
+outgroup’s relative status, and as such is likely
+to arouse hostility
+        <xref ref-type="bibr" rid="ref15 ref3 ref39">(e.g. Bourhis, Giles, Leyens,
+&amp; Tajfel, 1979; Grant, 1992)</xref>
+        .
+      </p>
+      <p>
+        There are other grounds to expect that
+ingroup criticisms will be preferred to outgroup
+criticisms. For example, leaders who are more
+prototypical of their group find it easier to
+achieve influence over their fellow group
+members, as they are seen to have their group’s
+interests at heart
+        <xref ref-type="bibr" rid="ref18">(Hogg &amp; van Knippenberg,
+2003)</xref>
+        . By analogy, ingroup members also tend
+to be more prototypical of the group than
+outgroup members. Also, when evaluating
+persuasive messages
+        <xref ref-type="bibr" rid="ref10 ref49">(Eagly, Wood, &amp; Chaiken,
+1978; Wood &amp; Eagly, 1981)</xref>
+        and attempts at
+ingratiation
+        <xref ref-type="bibr" rid="ref46 ref47">(Vonk, 1998, 2002)</xref>
+        , observers are
+strongly affected by what they perceive to be the
+target person’s motives. Indeed these findings
+are consistent with contemporary theories of
+communication in which the perception of
+speakers’ motives is crucial for successful
+comprehension and evaluation of their messages
+        <xref ref-type="bibr" rid="ref1 ref12 ref16 ref9">(Albright, Cohen, Malloy, Christ, &amp; Bromgard,
+2004; Douglas &amp; Sutton, 2004; Higgins, 1981)</xref>
+        .
+      </p>
+      <p>
+        Hornsey, Oppes, and Svensson (2002)
+conducted the first empirical investigation of these
+issues. They presented criticisms of ingroups
+(Australians, students), manipulating the
+source to which those criticisms were attributed
+—specifically, an ingroup member (i.e.
+intragroup criticism) or an outgroup member (i.e.
+intergroup criticism). Hornsey et al. found that
+intragroup criticisms were tolerated rather
+graciously; indeed ingroup speakers were judged
+as favorably when they criticized the group as
+when they praised it. However, whereas
+speakers who praised the ingroup were rated
+equally as favorably whether or not they
+belonged to the group, outgroup critics were
+judged more harshly than their ingroup
+equivalents. In short, criticisms were welcomed when
+made by ingroup members but met with
+sensitivity and defensiveness when made by
+outgroup members.
+        <xref ref-type="bibr" rid="ref20">Hornsey et al. (2002)</xref>
+        found this intergroup sensitivity effect (ISE)
+(p. 299) to be mediated by perceptions that
+intragroup criticism is better informed and
+intentioned than intergroup criticism.
+      </p>
+      <p>
+        These findings were mirrored by those
+published more or less simultaneously by O’Dwyer,
+Berkowitz, and Alfeld-Johnson (2002). These
+revealed greater hostility towards the critic,
+higher levels of anger, and less agreement with
+the criticism when the critic was a member of
+the outgroup rather than an ingroup member.
+Subsequently Hornsey, Trembath and
+Gunthorpe (2004) have shown that criticisms are
+only welcomed from ingroup members who are
+highly identified with or committed to their
+group. This result underscores the importance
+of the motives that are perceived to underlie
+criticisms. Similarly,
+        <xref ref-type="bibr" rid="ref19 ref21">Hornsey and Imani (2004)</xref>
+        found that outgroup critics were not tolerated
+even when they were as knowledgeable about
+the group as ingroup members, suggesting that
+motives and not experience are strongly
+predictive of sensitivity.
+      </p>
+      <sec id="sec-2-1">
+        <title>The importance of the context of communication</title>
+        <p>
+          Although internal criticism can be a valuable
+aspect of group functioning, it carries with it
+certain risks.
+          <xref ref-type="bibr" rid="ref20">Hornsey et al. (2002)</xref>
+          suggest that
+‘ingroup criticism will be tolerated to the extent
+that it is not making the group vulnerable to
+attack from other groups’ (p. 305). This
+suggests that if ingroup criticism is perceived to
+make the group susceptible to outgroup
+derogation, then it could evoke as much sensitivity
+as outgroup criticism. Such an instance might
+occur when the criticism appears in public to a
+large audience. The criticism is then available
+not only to ingroup members, who might make
+constructive use of it, but is also available to
+members of other groups whose impression of
+the ingroup may be adversely affected, and who
+may use the comments to their advantage.
+        </p>
+        <p>
+          This distinction between public and private
+communication has generated considerable
+research in the domain of individuals’
+presentations of themselves
+          <xref ref-type="bibr" rid="ref36 ref37 ref43">(e.g. Schlenker &amp; Wowra,
+2003; Sedikides, Herbst, Hardin, &amp; Dardis,
+2002; Tice, 1992)</xref>
+          . This research has shown that
+individuals are acutely aware of the strategic
+implications of communicating publicly as
+opposed to privately, and adjust their
+selfpresentations accordingly
+          <xref ref-type="bibr" rid="ref2 ref35">(e.g. Baumeister,
+1982; Schlenker, 1980)</xref>
+          . For instance,
+individuals consider the group membership of the
+audience before expressing prejudiced views or
+opinions
+          <xref ref-type="bibr" rid="ref23 ref6">(Crandall, Eshelman, &amp; O’Brien,
+2002; Klein, Licata, Azzi, &amp; Durala, 2003)</xref>
+          .
+Furthermore,
+          <xref ref-type="bibr" rid="ref42">Tetlock (1981)</xref>
+          showed that
+participants’ public attributions for their actions
+seemed tailor-made to create favorable
+impressions in others. In the group domain, group
+members represented themselves as less
+important than their colleagues in causing the
+group to succeed while privately they believed
+themselves to be just as important
+          <xref ref-type="bibr" rid="ref29">(Miller &amp;
+Schlenker, 1985)</xref>
+          .
+        </p>
+        <p>
+          Recent research suggests that as well as
+managing impressions of themselves, people
+manage impressions of their group, responding
+to the communicative context in doing so
+          <xref ref-type="bibr" rid="ref25 ref34 ref7">(Douglas &amp; McGarty, 2001; Lambert, Cronen,
+Chasteen, &amp; Lickel, 1996; Reicher, Spears, &amp;
+Postmes, 1995)</xref>
+          . One reason for this might be
+that people are aware of the representations of
+their group held by relevant outgroups; namely
+‘meta-stereotypes’
+          <xref ref-type="bibr" rid="ref48">(Vorauer, Main, &amp;
+O’Connell, 1998, p. 917)</xref>
+          . Individuals have a vested
+interest in these ‘meta-stereotypes’, because if
+they are negative, they threaten one’s valued
+social identity, self-esteem, and the material
+interests of the group. Individuals may also find
+it harder to create and maintain a positive
+public presentation of themselves when they
+are a member of a devalued group
+          <xref ref-type="bibr" rid="ref11 ref5">(Cialdini &amp;
+Richardson, 1981; Eidelman &amp; Biernat, 2003)</xref>
+          .
+Consistent with these concerns,
+          <xref ref-type="bibr" rid="ref22">Klein and Azzi
+(2001)</xref>
+          found that when meta-stereotypes were
+salient and when individuals thought that their
+responses would be available to outgroup
+members, they selected more positive traits and
+fewer negative traits as descriptors of the
+ingroup.
+        </p>
+        <p>
+          These findings raise an interesting and thus
+far unanswered question. Given the collective
+interest of members in the image of the group,
+does the tendency to present one’s group
+favorably in public settings take on something
+of the status of a prescriptive norm? That is, do
+people react adversely to criticism of their
+group by fellow group members when it occurs
+publicly? In sociological field studies of groups
+such as hotel workers,
+          <xref ref-type="bibr" rid="ref14">Goffman (1959)</xref>
+          noted a
+norm of refraining from criticizing each other
+in front of outgroup audiences such as hotel
+guests. He attributed this to a collective desire
+to cooperate in a dramaturgical presentation of
+the group to outsiders. According to Goffman,
+when intragroup criticisms were made publicly,
+one effect was ‘to provide the audience with a
+back-stage view’, and another was ‘to leave the
+feeling that something is surely suspicious
+about a performance when those who know
+best do not agree’ (p. 185).
+Group Processes &amp; Intergroup Relations 8(3)
+of the message (public/private) in a single,
+between-groups design.1 We reasoned that
+individuals may tolerate or even value intragroup
+criticism when it is not available to outsiders,
+but may resent it when the image of the group
+is potentially harmed by public criticism. Thus
+we expect that the ISE will occur for criticisms
+made in private but not in public contexts.
+        </p>
+        <sec id="sec-2-1-1">
+          <title>Method</title>
+          <p>Participants and design Participants were 203
+undergraduate students recruited on Keele
+University campus while at leisure (64 males,
+139 females, M = 19.09 years of age, SD = 1.42).</p>
+          <p>The experiment consisted of a 2 (source:
+ingroup/outgroup) 2 (context: private/
+public) between-groups design. Participants
+were randomly assigned to conditions.</p>
+          <p>
+            Analogously in social psychology, we have
+indirect evidence that by refraining from
+endorsing negative stereotypes before
+outgroup audiences, people exhibit at least a
+tacit awareness that their words and deeds will
+affect the image of their group
+            <xref ref-type="bibr" rid="ref22">(cf. Klein &amp;
+Azzi, 2001)</xref>
+            . They are likely to perceive that
+public criticism adversely affects the valued
+meta-stereotype
+            <xref ref-type="bibr" rid="ref48">(Vorauer et al., 1998)</xref>
+            .
+Therefore when people publicly criticize their group,
+fellow ingroup members may respond harshly.
+          </p>
+          <p>
+            In the present research, we examine the
+importance of the context of communication in
+shaping reactions to intragroup and intergroup
+criticisms. To date, no research has addressed
+this issue; manipulations have addressed the
+group membership of the speaker
+            <xref ref-type="bibr" rid="ref20">(Hornsey
+et al., 2002)</xref>
+            , the extent to which the speaker
+identifies with the group
+            <xref ref-type="bibr" rid="ref19 ref21">(Hornsey et al., 2004)</xref>
+            ,
+and the extent to which the speaker has
+personal experience of the group
+            <xref ref-type="bibr" rid="ref19 ref21">(Hornsey &amp;
+Imani, 2004)</xref>
+            . In these studies by Hornsey and
+colleagues, the context of criticisms has been
+ambiguous, described as taking place in an
+interview, but where the audience privy to the
+interview was not made explicit. In the study by
+O’Dwyer et al. (2002), stimulus criticisms had
+allegedly been published in the critic’s school
+newspaper. This meant that the criticisms were
+made publicly but to an inclusive ingroup
+audience (relative to the critic). Although the
+only intended manipulation was the source of
+the criticism, the audience differed across
+conditions as well. The current research aims to
+systematically examine the role of context in
+moderating reactions to criticism from ingroup
+and outgroup members. Specifically,
+Experiment 1 manipulates the context of the
+audience (criticism appears in private versus
+public domains) and the source of the criticism
+(ingroup or outgroup member). Experiment 2
+breaks down the context of the criticism by
+separating the size of the audience and the
+composition of the audience.
+          </p>
+          <p>Materials and procedure As in Hornsey and
+colleagues’ research (2002), participants were
+informed that the study was designed to
+examine people’s perceptions of personality
+types. On the first page participants received
+identical instructions in all four conditions,
+except for one line that was specific for the
+condition assigned, which read ‘these comments
+were spoken by an undergraduate [someone
+who didn’t go to university], in a private
+conversation [and appeared in a national
+newspaper]’.</p>
+          <p>The first line of the second page outlined
+the group membership of the critic and the
+context in which the comments were spoken.</p>
+          <p>For example, for the ingroup private condition
+participants read: ‘David Sanderson is a
+20-year-old second year undergraduate student
+[office manager who decided against going to
+university]. In a private conversation [in a
+national newspaper], he made these comments
+about students’ (alternative wording for
+outgroup critic and public context appears in
+parentheses).</p>
+          <p>Participants were then presented with
+comments attributed to the speaker which were
+Experiment 1 based on negative press comments from the
+media concerning students’ activities while at
+Here we manipulate both the source of the university. This criticism was used because of
+message (ingroup/outgroup) and the context the likelihood that it would tap a salient and
+commonly held stereotype. Comments from
+the ingroup member were presented as coming
+from a 20-year-old undergraduate student
+called David Sanderson, who said:
+‘Most of us are from privileged, middle-class
+backgrounds, but we expect the taxpayer to support us.</p>
+          <p>Many of us just drift into university because of
+parental pressure or simply because we want to get
+drunk and party. About 50% of students show up
+to the average lecture and seminar; much of the
+absenteeism is down to the fact that we’re either
+spending our time and money in the pub, or we’re
+hungover from the night before.’</p>
+          <p>Speaking about the current controversy on fees,
+Mr Sanderson said, ‘I strongly support top-up fees.</p>
+          <p>We benefit from our education, and so should pay
+for it. If fees were increased only those who are
+really serious about their studies would go to
+university. The universities would also be able to put
+on better classes’.</p>
+          <p>For the outgroup condition David Sanderson
+used third-person pronouns (‘them’ and
+‘they’) instead of first-person pronouns (‘us’
+and ‘we’). The outgroup critic was allocated the
+status of office manager in order to try and
+match his status with that of a university
+student. If his title would have been office
+worker or office cleaner then ingroup members
+may perceive the comments as ‘sour grapes’
+because his position in society is lower than
+what they would hope to achieve, making his
+criticism easier to dismiss.</p>
+          <p>Once participants read the comments, they
+were presented with Hornsey et al.’s (2002)
+sensitivity scale. Participants were asked ‘to
+what extent do you think the comments were’:
+(followed by the words) ‘threatening’,
+‘disappointing’, ‘irritating’, ‘offensive’, ‘insulting’,
+‘hypocritical’, ‘judgmental’ and ‘arrogant’.</p>
+          <p>Participants responded on a Likert scale (1 =
+not at all, 7 = very much). The sensitivity scale was
+reliable = .82.</p>
+          <p>In addition we also measured the anger felt
+by the participants after reading the comments,
+using the four-item scale by O’Dwyer et al.
+(2002), for example: ‘How annoyed do you feel
+after reading these comments?’ ( = .88). A
+single item was also included to assess
+participants’ agreement with the speaker’s comments.</p>
+          <p>This was measured by asking: ‘how much do</p>
+          <p>
+            Elder et al. audiences of group criticism
+you agree with the comments?’
+            <xref ref-type="bibr" rid="ref20">(Hornsey et al.,
+2002)</xref>
+            .
+          </p>
+          <p>Questions were then asked to tap into
+participants’ perceptions of the speaker. These
+questions related to the morality of the critic,
+the critic’s motive, competency of the critic, and
+the effect of the critic’s comments. Morality was
+measured because it may be possible that
+participants believe that by going public with
+criticism of their ingroup the speaker is breaking
+some form of moral code. The morality items
+were: ‘the speaker should make comments like
+these’, ‘it was wrong of the speaker to make
+these comments’ (reverse coded), and ‘by
+making these comments the speaker was doing
+the right thing’ ( = .68). Motive was assessed
+because when an ingroup member criticizes
+their group publicly their intentions may be seen
+as less honorable. Motive was measured using
+the following four questions: ‘this speaker had
+students’ interests at heart’, ‘this speaker’s
+intentions were honorable’, ‘this speaker’s
+comments were intended to benefit students’
+and ‘this speaker was trying to be constructive’
+( = .75). Competency was included because
+previous research has shown critics’ group
+membership to affect perceptions of how
+qualified they are to comment on the group.
+Competency was measured with the following items:
+‘the speaker’s comments were well-informed’,
+‘the speaker was qualified to make these
+comments’ and ‘this speaker has enough
+experience of students to make these
+comments’ ( = .80). The first two items were
+adapted from Hornsey et al.’s legitimacy scale.</p>
+          <p>The final scale was included to measure the
+perceived effect of the comments, given that
+public criticism could be perceived as having a
+more negative effect on the group than private
+criticism. The effect items were: ‘this speaker’s
+comments will positively affect students’ image’,
+‘this speaker’s comments will have a positive
+impact on university education’, and ‘this
+speaker’s comments will benefit students’ ( =
+.69). These scales appeared together, in
+random order, and participants responded on a
+Likert scale (1 = strongly disagree, 7 = strongly
+agree). Once participants completed these
+questions they were thanked and debriefed.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>Group Processes &amp; Intergroup Relations 8(3)</title>
+      <sec id="sec-3-1">
+        <title>Results and discussion</title>
+        <p>
+          Preliminary analyses To verify that our
+dependent measures assessed separate constructs, and
+to identify any problematic cross-mappings, we
+subjected our measures to factor analyses. To
+verify that sensitivity
+          <xref ref-type="bibr" rid="ref20">(Hornsey et al., 2002)</xref>
+          and
+anger
+          <xref ref-type="bibr" rid="ref31">(O’Dwyer et al., 2002)</xref>
+          are different
+constructs, we entered all items from both scales
+into a factor analysis. As these two constructs
+were interrelated (r = .516), we used oblique
+rotation. This produced a two-factor solution,
+with the first factor comprising the anger items
+(eigenvalue = 5.05, 42.10% of the variance
+explained) and the second factor including the
+sensitivity items (eigenvalue = 1.65, 13.75% of
+the variance explained). Therefore, these scales
+were treated as separate constructs.
+        </p>
+        <p>A similar analysis was used to determine
+whether motive, effect, competency, and
+morality scales assessed the intended
+constructs. Once more oblique rotation was used
+given that these constructs tended to be
+interrelated (r = .003 to .517 with the average
+correlation approximately .30). This revealed a
+three-factor solution, with the first factor
+comprising the motive and effect items (eigenvalue
+= 4.30, 33.09% of the variance explained) and
+the second factor the competency items
+(eigenvalue = 1.91, 14.72% of the variance explained).</p>
+        <p>Because both effect and motive loaded on the
+same factor, we combined these scales into a
+single scale we labelled consequences. This new
+scale combined the effect of the comments as
+estimated by the participants and as perceived
+to be intended by the speaker ( = .80). This
+close correspondence in motives and effect
+suggests that participants believe the speaker to
+have intended or at least to have been aware of
+the likely effect of his or her comments. The
+third factor comprised the morality items
+(eigenvalue = 1.30, 9.29% of the variance
+explained). We therefore analyzed results for
+consequences, competency, and morality.</p>
+        <p>Main effects and interactions for evaluations of
+the comments Results were entered into a 2
+(source: ingroup/outgroup) 2 (context:
+public/private) between-groups analysis of
+variance (ANOVA). Means and F values are
+presented in Table 1. Consistent with the ISE,
+ingroup members were more sensitive to
+comments if made by an outgroup critic (M =
+4.94) than an ingroup critic (M = 4.66) (p =
+.047, 2 = .020). As we predicted, this main</p>
+        <p>Elder et al. audiences of group criticism
+effect was qualified by an interaction between competency, but there were main effects for
+source and context (p = .010, 2 = .033). context where public critics (M = 2.66) were
+Planned comparisons revealed that the ISE seen to be more competent than private critics
+occurred in private contexts (F(1, 99) = 9.43, (M = 2.36) (p = .040, 2 = .021); and outgroup
+p = .003, 2 = .09), but not in public contexts critics (M = 1.96) were seen as less competent
+(F(1, 99) = .21, p = .65). Planned comparisons than ingroup critics (M = 3.07) (p = .001,
+also revealed that the ingroup critic’s comments 2 = .212). For consequences there was also no
+evoked greater sensitivity when spoken in interaction between context and source. There
+public than in private (F(1, 99) = 4.65, p = .033, was a main effect for source, such that the
+2 = .045). There was no such context effect for consequences of the ingroup critic’s comments
+the outgroup critic, although the means were, were perceived to be more positive (M = 2.73)
+if anything, in the opposite direction (p = .121, than the outgroup critic’s comments (M = 2.22)
+2 = .024). These results suggest that the (p = .001, 2 = .094).
+context of the comments is unimportant when
+the criticism is from an outgroup member but Experiment 2
+important when the criticism is from an
+ingroup member. The first experiment highlights the importance</p>
+        <p>
+          For agreement with the critic, there was an of context for people’s reactions to criticism. It
+interaction between source and context of the seems that when the comments are spoken in a
+comments (p = .03, 2 = .023). Follow-up small private setting, people prefer the criticism
+analyses revealed that in the private context, to come from within the group. However, when
+ingroup criticism received greater agreement the criticism is aired publicly, preference for
+than outgroup criticism (F(1, 97) = 7.13, p = ingroup criticism is no longer evident.
+.009, 2 = .068). For anger, the interaction Our research shows clearly that public versus
+between context and source was only margin- private contexts are important in shaping
+ally significant (p = .055, 2 = .018). Follow-up reactions to criticism, but leaves open the
+analyses revealed that for the outgroup critic, question of whether this happens because of
+participants were more angry when the criti- who public criticism reaches (i.e. probably
+cism was presented in private than in public outgroup as well as ingroup members), or how
+(F(1, 100) = 4.91, p = .029, 2 = .047). Perhaps many people it reaches (i.e. the sheer size of a
+ingroup members are angrier when outgroup public versus a private audience). Research
+members say negative things about their group suggests that when people rate the perceived
+in private than in public because it does not level of influence on others they respond to the
+allow them to refute, retort, or retaliate. composition of the audience and not the size of
+the audience. Groups that were most dissimilar
+Main effects and interactions for evaluations of to the self (i.e. outgroups) rather than groups
+the speaker For morality, there was no inter- that were largest (i.e. society) are seen to be the
+action between context and source, showing most influenced by threatening, persuasive
+that the context did not differentially affect messages
+          <xref ref-type="bibr" rid="ref12 ref9">(Elder, Douglas, &amp; Sutton, 2004)</xref>
+          .
+responses to ingroup versus outgroup criti- The importance of audience composition was
+cisms. However, there was a main effect such also revealed by
+          <xref ref-type="bibr" rid="ref22">Klein and Azzi (2001)</xref>
+          , who
+that private criticisms (M = 4.62) were per- manipulated audience by varying the alleged
+ceived as more moral than public criticisms (M nationality of the researchers conducting the
+= 3.40) (F(1, 201) = 58.41, p &lt; .001, 2 = .225). experiments. They found that even when the
+Also, there was a main effect of source such that audience consisted of only this very small
+the ingroup critic (M = 4.18) was perceived as group of researchers, participants still
+premore moral than the outgroup critic (M = 3.81) sented their group more favorably to the
+(p = .027, 2 = .024). Similarly, there was no ostensibly outgroup audience than the ingroup
+interaction between context and source for audience.
+        </p>
+      </sec>
+    </sec>
+    <sec id="sec-4">
+      <title>Group Processes &amp; Intergroup Relations 8(3)</title>
+      <p>In many instances the communicative
+context and the composition of the audience
+are naturally confounded. Private comments
+are often accessible only to ingroup members,
+whereas comments made publicly tend to be
+accessible to people from different groups.
+However context and composition are
+conceptually separable, and are separable in practice
+too. Given that we tend to belong to a
+multitude of social groups, it is probably quite
+common for people to talk about their own
+group, in private, to outgroup members. To
+illustrate, it is quite likely that students talk
+about other students when at home with their
+families. Further, some communicative settings
+are importantly public, but at the same time
+unlikely to be scrutinized by outgroup
+members. For example, internet sites for
+special interest groups are available to the
+public but not likely to be regularly inhabited
+by outgroup members. Comments made in
+such contexts are public but may well find a
+purely ingroup audience. So public
+communication does not always entail intergroup
+communication, even if public communication
+entails the possibility that outgroup members
+will receive the message.</p>
+      <p>It is the aim of this experiment to tease apart
+the variables of audience size and composition,
+which are somewhat confounded in the first
+experiment. Therefore, it manipulates both the
+size of the audience (context is public or
+private) and composition of the audience
+(audience consists of ingroup or outgroup
+members), in a fully between-groups design. As
+there was no effect of context for the outgroup
+critic in the first experiment, all criticism in the
+next experiment will be presented as
+intragroup criticism.</p>
+      <p>
+        There are also other methodological changes
+in this experiment. In both the pilot study1 and
+the first experiment the critic advocated
+increased tuition fees as part of their criticism
+of students. This issue of ‘top-up’ fees was
+particularly topical at the time and helped to
+contextualize the criticism. However, we were
+concerned that this suggested implementation
+of a policy that would hurt students’ interests
+could be responsible for increased sensitivity in
+public contexts. Therefore, the current
+experiment manipulated whether or not the
+comments about top-up fees were included in
+the criticisms. We also included an additional
+scale by
+        <xref ref-type="bibr" rid="ref20">Hornsey et al. (2002)</xref>
+        to examine
+whether perceptions of the speaker’s
+personality would differ depending on the context of
+the criticism.
+      </p>
+      <sec id="sec-4-1">
+        <title>Method</title>
+        <p>Participants and design Participants were 200
+undergraduate students (70 male, 130 female,
+M = 19.80 years of age, SD = 3.31). Of these, 100
+were psychology students who participated to
+fulfill course credits and the remainder
+recruited on Keele University campus while at
+leisure. The experiment consisted of a 2
+(audience composition: ingroup/outgroup)
+2 (audience size: small/large) between-subjects
+design. Participants were randomly assigned to
+the four conditions.</p>
+        <p>Materials and procedure Participants received
+identical instructions in all conditions except
+those specific to the condition assigned. For
+example, in the large ingroup audience
+condition it stated that: ‘These comments were spoken
+by an undergraduate student interviewed on student
+radio [Radio 2] where less than 1% of listeners are
+non-students [students]’. Alternatively, for the
+smaller ingroup audience condition the
+instructions were: ‘These comments were spoken by
+an undergraduate student, in a private conversation
+with only other students [non-students] present’.</p>
+        <p>Participants then turned the page and were
+informed of the audience size and composition.
+For example, in the small audience condition
+participants were informed that: ‘Whilst in a
+private conversation in his halls of residence with only
+other students present [with his family and friends
+who are not students], he made these comments about
+students’. In the large audience condition this
+read: ‘Whilst being interviewed on student radio
+[Radio 2], he made these comments about students’.</p>
+        <p>Participants then proceeded to read the same
+negative script about students as in Experiment
+1, except that for half the participants, the
+commentary concerning top-up fees was deleted
+from the criticism. Measures were also identical
+to Experiment 1 except for the inclusion of
+Hornsey et al.’s (2002) personality evaluation
+scale. This asked ‘to what extent do you think
+the speaker is’: (followed by the words)
+‘intelligent’, ‘trustworthy’, ‘friendly’, ‘open-minded’,
+‘likeable’, ‘nice’, ‘respected’, and ‘interesting’
+( = .88). Participants completed the same
+sensitivity ( = .90), anger ( = .96), motives
+( = .77), morality ( = .70), competency ( =
+.78), and effect ( = .66) scales, as well as the
+agreement item.</p>
+      </sec>
+      <sec id="sec-4-2">
+        <title>Results and discussion</title>
+        <p>Preliminary analyses Initial factor analyses
+also replicated the factor structures observed
+for Experiment 1 and showed Hornsey et al.’s
+(2002) personality evaluation scale to be
+distinct from other measures. In order to rule
+out the possibility that commentary concerning
+top-up fees in the script was altering reactions
+to the criticism, we also conducted initial
+ANOVAs including this factor (top-up fees:
+included/excluded). For sensitivity, there was
+no main effect of top-up fees (F(1, 192) = 3.29,
+Elder et al.
+p = .079), nor crucially any interaction with
+audience composition (F(1, 192) = .73, p = .39);
+or audience size (F(1, 192) = .11, p = .74); and
+no three-way interaction between top-up fees,
+audience composition, and size (F(1, 192) =
+.001, p = .98). Similarly, for personality
+evaluations, there was no main effect of top-up fees
+(F(1, 192) = .10, p = .75), nor any interaction
+with audience composition (F(1, 192) = 1.42,
+p = .24); or audience size (F(1, 192) = .002,
+p = .96); and no three-way interaction between
+top-up fees, audience composition, and size
+(F(1, 192) = 2.02, p = .16). Therefore, top-up
+fees as a variable was dropped from further
+analyses.</p>
+        <p>Audience
+composition</p>
+        <p>Audience
+size
+Group Processes &amp; Intergroup Relations 8(3)
+sensitive to criticism of their group when there
+was an outgroup audience (M = 4.67) than
+when there was an ingroup audience (M = 4.32)
+(p = .040, 2 = .022). Ingroup members do not
+want the group’s shortcomings to be heard by
+outsiders. However, for sensitivity there was no
+main effect of audience size. This suggests that
+the composition of the audience, and not its
+size, affects sensitivity. The results also show, as
+in Experiment 1, sensitivity is greatest when the
+outgroup critic speaks to a small outgroup
+audience, perhaps because ingroup members
+are not able to respond to the criticism.</p>
+        <p>
+          Participants were also more angered by
+the critic’s comments when they were spoken
+to the outgroup audience (M = 4.04) than to
+the ingroup audience (M = 3.54) (p = .039,
+2 = .022). For agreement, there were no main
+effects or interactions for audience
+composition and audience size. Thus, although the
+source of otherwise identical messages affects
+agreement
+          <xref ref-type="bibr" rid="ref20">(Experiment 1; also see Hornsey
+et al., 2002)</xref>
+          , characteristics of the perceived
+audience do not. Clearly, source and context
+have different effects on evaluative reactions to
+comments.
+        </p>
+        <p>Main effects and interactions for evaluations
+of the speaker As suggested by our factor
+analyses, motive and effect were combined into
+a single scale we labeled consequences ( = .83).
+For consequences of the criticism, there was a
+main effect of audience composition, with
+more positive consequences perceived when
+the speaker addressed an ingroup audience
+(M = 3.03) compared with an outgroup
+audience (M = 2.71) (p = .018, 2 = .029). In
+addition, when the critic spoke to the ingroup
+audience he was perceived as more moral (M =
+4.07) than when he spoke to the outgroup
+audience (M = 3.82), although this effect was
+marginal (p = .09, 2 = .014). For morality there
+was also a main effect of audience size with
+participants perceiving the speaker as
+possessing greater morality when speaking to a small
+audience (M = 4.38) than when speaking to a
+large audience (M = 3.52) (p = .001, 2 = .140).
+This supports the suggestion that the moral rules
+or norms governing intragroup communication
+are dependent on the social context in which
+the comments are expressed. If the speaker
+goes ‘on the record’ and speaks to a large
+audience then they may no longer be perceived
+as doing what is right for the group. The
+ingroup speaker was also perceived as more
+competent when criticizing the group to an
+ingroup audience (M = 3.74) than to an
+outgroup audience (M = 3.30) (p = .011, 2 =
+.033). This suggests that although the criticisms
+presented were identical, the speaker was
+perceived as having greater experience and
+qualifications to make these negative comments about
+their own group when they kept the criticism
+‘in house’. As predicted, there was a significant
+main effect of audience for ratings of
+personality evaluations. Finally, participants evaluated
+the ingroup critic’s personality more favorably
+when he criticized the group before ingroup
+members (M = 3.69) rather than outgroup
+members (M = 3.37) (p = .015, 2 = .030). Again,
+this is consistent with our rationale that
+participants will not perceive the speaker favorably
+when the criticism is taken beyond the confines
+of the ingroup.</p>
+        <sec id="sec-4-2-1">
+          <title>General discussion</title>
+          <p>
+            The current research is the first to assess the
+impact of communicative context on reactions
+to intergroup and intragroup criticism. Our
+first experiment manipulated both the source
+of the criticism (ingroup versus outgroup
+speaker) and the context of the criticism
+(public versus private) and showed that the ISE
+only occurred when criticisms were made in
+private. When the comments appeared in
+public they were no more welcomed from an
+ingroup member than from an outgroup
+member. The second experiment aimed to
+clarify whether the preference for private
+ingroup criticism was due to the smaller size of
+the audience or the fact that it was composed
+of ingroup rather than outgroup members. The
+findings demonstrated that increased sensitivity
+and derogation of the speaker was associated
+with taking the criticism to outsiders.
+Therefore, it seems that an ingroup critic speaking
+to an ingroup audience is seen as ‘clearing the
+air’ by highlighting the group’s weaknesses,
+thereby promoting growth and improvement
+            <xref ref-type="bibr" rid="ref30">(see Nemeth &amp; Owens, 1996)</xref>
+            , but when
+speaking to an outgroup audience, he or she
+is perceived to be ‘airing the group’s dirty
+laundry’.
+          </p>
+          <p>
+            Our replication of the ISE supports
+theoretical claims that there are norms governing
+intergroup criticism
+            <xref ref-type="bibr" rid="ref13 ref20">(Hornsey et al., 2002; see also
+Franco &amp; Maass, 1996)</xref>
+            . Our demonstration
+that this effect disappears in public, where
+ingroup critics are less well received, suggests
+that there are also norms governing intragroup
+criticism. The norms governing each kind of
+criticism appear to be somewhat different;
+while reactions to intergroup criticism were not
+greatly affected by the context in which it
+appeared, participants were clearly more
+piqued by intragroup criticism that could reach
+an outgroup audience. Indeed, intragroup
+criticism was judged to be less moral when made in
+public, showing that people are perceived to be
+less entitled to criticize their group in public
+than in private. Furthermore, intragroup
+criticism before an outgroup audience was
+perceived as having more negative consequences
+and the speaker was judged to be less
+competent than when the criticism was made to an
+ingroup audience.
+          </p>
+          <p>
+            These findings are consistent with a
+normative expectation that group members should
+collaborate to foster a desired public image of
+their group
+            <xref ref-type="bibr" rid="ref14 ref22">(Goffman, 1959; Klein &amp; Azzi,
+2001)</xref>
+            . Criticizing one’s own group in public
+may affirm negative meta-stereotypes to the
+detriment of the group
+            <xref ref-type="bibr" rid="ref48">(Vorauer et al., 1998)</xref>
+            .
+These findings also suggest that when people
+speak to outgroup members about their
+ingroup’s weaknesses, this can change our
+perceptions of the speaker’s motivations and
+personality. In this context we no longer see them
+as well-intentioned and well-informed.
+          </p>
+          <p>
+            The effects of context and source on
+reactions to criticism found in the present
+experiments demonstrate the impact of
+specifically communicative variables on reactions to
+group criticism. For example, people’s
+tolerance of criticism may differ depending on
+whether the critic is identifiable. Identifiability
+has a range of implications for how ingroup
+and outgroup members are perceived and
+treated. Intuitively, one might expect greater
+tolerance of identifiable critics on the grounds
+that they are prepared to be accountable for
+their comments, but in fact this may interact
+with source and context
+            <xref ref-type="bibr" rid="ref32 ref33 ref34 ref7">(Douglas &amp; McGarty,
+2001; Reicher &amp; Levine, 1994a, 1994b; Reicher
+et al., 1995)</xref>
+            .
+          </p>
+          <p>
+            Another potential moderating variable is the
+status of the outgroup speaker. In Experiment
+1 we described the ingroup critic as a
+20-yearold undergraduate student and the outgroup
+critic as a 20-year-old office manager who
+decided against going to university. The aim
+was to try and match the two critics in terms of
+both age and status. However, recent research
+suggests that speakers’ perceived status can
+moderate the ISE
+            <xref ref-type="bibr" rid="ref41">(Tarrant, 2005)</xref>
+            . We therefore
+acknowledge that it may have been
+advantageous in the first experiment to use multiple
+outgroup speakers of different status
+randomized across conditions.
+          </p>
+          <p>To conclude, the present findings show that
+reactions to intragroup and intergroup
+criticism depend importantly on the context in
+which criticism appears. Criticisms seem to be
+preferred from ingroup members rather than
+outgroup members, but not when taken into
+the intergroup domain. This preference strikes
+us as being, to a large degree, rational; making
+criticisms of one’s group in public contexts
+where they are available to outgroup members
+would indeed appear to put the group’s image
+at risk, with little benefit to the ingroup relative
+to more discreet forms of communication. Our
+results point to a rather subtle set of norms
+governing the criticism of groups, and
+highlight the interaction between communicative
+factors such as source and context. In doing so,
+they underscore the essentially communicative
+nature of group processes and intergroup
+relations.</p>
+        </sec>
+        <sec id="sec-4-2-2">
+          <title>Note</title>
+          <p>
+            1. Before conducting this study we ran a pilot using
+these materials and an ambiguous context as in
+            <xref ref-type="bibr" rid="ref20">Hornsey et al. (2002)</xref>
+            where the extent to which
+Group Processes &amp; Intergroup Relations 8(3)
+comments were public or private was not
+specified. The purpose of this was to ensure that
+our different intergroup and national context
+produced the same results as in the original ISE
+studies. Participants were 84 undergraduate
+students at Keele University (26 male, 58 female,
+M = 19.27 years of age, SD = 1.95). Results were
+analyzed as a two-group between-subjects design
+(source: ingroup/outgroup critic). As predicted,
+criticisms from an outgroup member resulted in
+greater sensitivity (M = 4.87) than when the same
+comments were made by an ingroup member
+(M = 4.34) (F(1, 82) = 4.76, p = .032, 2 = .06).
+This result shows that the present materials
+produce an ISE in ambiguous communicative
+contexts as found by
+            <xref ref-type="bibr" rid="ref20">Hornsey et al. (2002)</xref>
+            .
+          </p>
+        </sec>
+        <sec id="sec-4-2-3">
+          <title>Acknowledgments</title>
+          <p>We would like to thank Mark Tarrant, Scott Reid,
+and two anonymous reviewers for their astute and
+helpful comments on earlier versions of this paper.
+Elder et al. audiences of group criticism</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-5">
+      <title>Group Processes &amp; Intergroup Relations 8(3)</title>
+      <p>TRACEY J. ELDER is a doctoral student in psychology
+at Keele University. Her research examines
+people’s responses to intergroup and intragroup
+messages, and the norms and rules that govern
+individual and group communication.</p>
+      <p>ROBBIE M. SUTTON received his PhD in psychology
+from Victoria University, New Zealand in 2000,
+and is now a lecturer at Keele University. His
+research interests include social cognition,
+strategic communication, and lay people’s
+concerns with social norms and justice.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Albright</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Cohen</surname>
+            ,
+            <given-names>A. I.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Malloy</surname>
+            ,
+            <given-names>T. E.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Christ</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Bromgard</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ).
+          <article-title>Judgments of communicative intent in conversation</article-title>
+          .
+          <source>Journal of Experimental Social Psychology</source>
+          ,
+          <volume>40</volume>
+          ,
+          <fpage>290</fpage>
+          -
+          <lpage>302</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Baumeister</surname>
+            ,
+            <given-names>R. F.</given-names>
+          </string-name>
+          (
+          <year>1982</year>
+          ).
+          <article-title>A self-presentational view of social phenomena</article-title>
+          .
+          <source>Psychological Bulletin</source>
+          ,
+          <volume>91</volume>
+          ,
+          <fpage>3</fpage>
+          -
+          <lpage>26</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Bourhis</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Giles</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Leyens</surname>
+            ,
+            <given-names>J. P.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Tajfel</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          (
+          <year>1979</year>
+          ).
+          <article-title>Psycholinguistic distinctiveness: Language divergence in Belgium</article-title>
+          . In H. Giles &amp; R. St Clair (Eds.), Language and social psychology (pp.
+          <fpage>158</fpage>
+          -
+          <lpage>185</lpage>
+          ). Oxford, UK: Blackwell.
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Carver</surname>
+            ,
+            <given-names>C. S.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Scheier</surname>
+            ,
+            <given-names>M. F.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          ).
+          <article-title>Themes and issues in the self-regulation of behavior</article-title>
+          . In R. S. Wyer (Ed.),
+          <article-title>Perspectives on behavioral self-regulation: Advances in social cognition (Vol</article-title>
+          . XII, pp.
+          <fpage>261</fpage>
+          -
+          <lpage>302</lpage>
+          ). Hillsdale, NJ: Erlbaum.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Cialdini</surname>
+            ,
+            <given-names>R. B.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Richardson</surname>
+            ,
+            <given-names>K. D.</given-names>
+          </string-name>
+          (
+          <year>1981</year>
+          ).
+          <article-title>Two indirect tactics of image management: Basking and blasting</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>39</volume>
+          ,
+          <fpage>406</fpage>
+          -
+          <lpage>415</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Crandall</surname>
+            ,
+            <given-names>C. S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Eshelman</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>O'Brien</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ).
+          <article-title>Social norms and the expression and suppression of prejudice: The struggle for internalization</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>82</volume>
+          ,
+          <fpage>359</fpage>
+          -
+          <lpage>378</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Douglas</surname>
+            ,
+            <given-names>K. M.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>McGarty</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ).
+          <article-title>Identifiability and self-presentation: Computer-mediated communication and intergroup interaction</article-title>
+          .
+          <source>British Journal of Social Psychology</source>
+          ,
+          <volume>40</volume>
+          ,
+          <fpage>399</fpage>
+          -
+          <lpage>416</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Douglas</surname>
+            ,
+            <given-names>K. M.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Sutton</surname>
+            ,
+            <given-names>R. M.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>Effects of communication goals and expectancies on language abstraction</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>84</volume>
+          ,
+          <fpage>682</fpage>
+          -
+          <lpage>696</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Douglas</surname>
+            ,
+            <given-names>K. M.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Sutton</surname>
+            ,
+            <given-names>R. M.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ).
+          <article-title>When what you say about others says something about you: Language abstraction and inferences about describers</article-title>
+          .
+          <source>Manuscript under review.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Eagly</surname>
+            ,
+            <given-names>A. H.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wood</surname>
+            ,
+            <given-names>W.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Chaiken</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>1978</year>
+          ).
+          <article-title>Causal inference about communicators and their effect on opinion change</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>36</volume>
+          ,
+          <fpage>424</fpage>
+          -
+          <lpage>435</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Eidelman</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Biernat</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>Derogating black sheep: Individual or group protection</article-title>
+          ?
+          <source>Journal of Experimental Social Psychology</source>
+          ,
+          <volume>39</volume>
+          ,
+          <fpage>602</fpage>
+          -
+          <lpage>609</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Elder</surname>
+            ,
+            <given-names>T. J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Douglas</surname>
+            ,
+            <given-names>K. M.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Sutton</surname>
+            ,
+            <given-names>R. M.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ).
+          <article-title>Perceptions of social influence when messages favour 'us' versus 'them': A closer look at the social distance effect</article-title>
+          .
+          <source>Manuscript under review.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Franco</surname>
+            ,
+            <given-names>F. M.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Maass</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          ).
+          <article-title>Implicit versus explicit strategies of out-group discrimination: The role of intentional control in biased language use and reward allocation</article-title>
+          .
+          <source>Journal of Language and Social Psychology</source>
+          ,
+          <volume>15</volume>
+          ,
+          <fpage>335</fpage>
+          -
+          <lpage>359</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Goffman</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          (
+          <year>1959</year>
+          ).
+          <article-title>The presentation of self in everyday life</article-title>
+          . Oxford, UK: Doubleday.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Grant</surname>
+            ,
+            <given-names>P. R.</given-names>
+          </string-name>
+          (
+          <year>1992</year>
+          ).
+          <article-title>Ethnocentrism between groups of unequal power in response to perceived threat to social identity and valued resources</article-title>
+          .
+          <source>Canadian Journal of Behavioral Science</source>
+          ,
+          <volume>24</volume>
+          ,
+          <fpage>348</fpage>
+          -
+          <lpage>370</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Higgins</surname>
+            ,
+            <given-names>E. T.</given-names>
+          </string-name>
+          (
+          <year>1981</year>
+          ).
+          <article-title>The 'communication game': Implications for social cognition and persuasion</article-title>
+          . In E. T. Higgins,
+          <string-name>
+            <given-names>M. P.</given-names>
+            <surname>Zanna</surname>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>C. P. Herman</surname>
+          </string-name>
+          (Eds.),
+          <source>Social cognition: The Ontario Symposium</source>
+          (pp.
+          <fpage>343</fpage>
+          -
+          <lpage>392</lpage>
+          ). Hillsdale, NJ: Erlbaum.
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Higgins</surname>
+            ,
+            <given-names>E. T.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Rholes</surname>
+            ,
+            <given-names>W. S.</given-names>
+          </string-name>
+          (
+          <year>1978</year>
+          ).
+          <article-title>'Saying is believing': Effects of message modification on memory and liking for the person described</article-title>
+          .
+          <source>Journal of Experimental Social Psychology</source>
+          ,
+          <volume>14</volume>
+          ,
+          <fpage>363</fpage>
+          -
+          <lpage>378</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Hogg</surname>
+            ,
+            <given-names>M. A.</given-names>
+          </string-name>
+          , &amp; van
+          <string-name>
+            <surname>Knippenberg</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>Social identity and leadership processes in groups</article-title>
+          .
+          <source>Advances in Experimental Social Psychology</source>
+          ,
+          <volume>35</volume>
+          ,
+          <fpage>1</fpage>
+          -
+          <lpage>52</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Hornsey</surname>
+            ,
+            <given-names>M. J.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Imani</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ).
+          <article-title>Criticizing groups from the inside and the outside: An identity perspective on the intergroup sensitivity effect</article-title>
+          .
+          <source>Personality and Social Psychology Bulletin</source>
+          ,
+          <volume>30</volume>
+          ,
+          <fpage>365</fpage>
+          -
+          <lpage>383</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>Hornsey</surname>
+            ,
+            <given-names>M. J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Oppes</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Svensson</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ).
+          <article-title>'It's OK if we say it, but you can't': Responses to intergroup and intragroup criticism</article-title>
+          .
+          <source>European Journal of Social Psychology</source>
+          ,
+          <volume>32</volume>
+          ,
+          <fpage>293</fpage>
+          -
+          <lpage>307</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <surname>Hornsey</surname>
+            ,
+            <given-names>M. J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Trembath</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Gunthorpe</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ).
+          <article-title>'You can criticise because you care': Identity attachment, constructiveness, and the intergroup sensitivity effect</article-title>
+          .
+          <source>European Journal of Social Psychology</source>
+          ,
+          <volume>34</volume>
+          ,
+          <fpage>499</fpage>
+          -
+          <lpage>518</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <surname>Klein</surname>
+            ,
+            <given-names>O.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Azzi</surname>
+            ,
+            <given-names>A. E.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ).
+          <article-title>The strategic confirmation of meta-stereotypes: How group members attempt to tailor an out-group's representation of themselves</article-title>
+          .
+          <source>British Journal of Social Psychology</source>
+          ,
+          <volume>40</volume>
+          ,
+          <fpage>279</fpage>
+          -
+          <lpage>293</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>Klein</surname>
+            ,
+            <given-names>O.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Licata</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Azzi</surname>
+            ,
+            <given-names>A. E.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Durala</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>How European am I? Prejudice expression and the presentation of social identity</article-title>
+          .
+          <source>Self and Identity</source>
+          ,
+          <volume>2</volume>
+          ,
+          <fpage>251</fpage>
+          -
+          <lpage>264</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>Kurman</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>The role of perceived specificity level of failure events in self-enhancement and in constructive self-criticism</article-title>
+          .
+          <source>Personality and Social Psychology Bulletin</source>
+          ,
+          <volume>29</volume>
+          ,
+          <fpage>285</fpage>
+          -
+          <lpage>294</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <surname>Lambert</surname>
+            ,
+            <given-names>A. J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Cronen</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Chasteen</surname>
+            ,
+            <given-names>A. L.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Lickel</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          ).
+          <article-title>Private vs public expressions of racial prejudice</article-title>
+          .
+          <source>Journal of Experimental Social Psychology</source>
+          ,
+          <volume>32</volume>
+          ,
+          <fpage>437</fpage>
+          -
+          <lpage>459</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <surname>Lyons</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Kashima</surname>
+            ,
+            <given-names>Y.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>How are stereotypes maintained through communication? The influence of stereotype sharedness</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>85</volume>
+          ,
+          <fpage>989</fpage>
+          -
+          <lpage>1005</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <string-name>
+            <surname>Maass</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          ).
+          <article-title>Linguistic intergroup bias: Stereotype perpetuation through language</article-title>
+          .
+          <source>Advances in Experimental Social Psychology</source>
+          ,
+          <volume>31</volume>
+          ,
+          <fpage>79</fpage>
+          -
+          <lpage>121</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <string-name>
+            <surname>Maass</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Salvi</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Acruri</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Semin</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          (
+          <year>1989</year>
+          ).
+          <article-title>Language use in intergroup contexts: The linguistic intergroup bias</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>57</volume>
+          ,
+          <fpage>981</fpage>
+          -
+          <lpage>993</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <surname>Miller</surname>
+            ,
+            <given-names>R. S.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Schlenker</surname>
+            ,
+            <given-names>B. R.</given-names>
+          </string-name>
+          (
+          <year>1985</year>
+          ).
+          <article-title>Egotism in group members: public and private attributions of reponsibility for group performance</article-title>
+          .
+          <source>Social Psychology Quarterly</source>
+          ,
+          <volume>48</volume>
+          ,
+          <fpage>85</fpage>
+          -
+          <lpage>89</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <string-name>
+            <surname>Nemeth</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Owens</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          ).
+          <article-title>Making work groups more effective: The value of minority dissent</article-title>
+          . In M. A.
+          <string-name>
+            <surname>West</surname>
+          </string-name>
+          (Ed.),
+          <source>The handbook of work psychology</source>
+          (pp.
+          <fpage>125</fpage>
+          -
+          <lpage>141</lpage>
+          ). Chichester, UK: Wiley.
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          <string-name>
+            <surname>O'Dwyer</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Berkowitz</surname>
+            ,
+            <given-names>N. H.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Alfeld-Johnson</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ).
+          <article-title>Group and person attributions in response to criticism of the in-group</article-title>
+          .
+          <source>British Journal of Social Psychology</source>
+          ,
+          <volume>41</volume>
+          ,
+          <fpage>563</fpage>
+          -
+          <lpage>588</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <string-name>
+            <surname>Reicher</surname>
+            ,
+            <given-names>S. D.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Levine</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>1994a</year>
+          ).
+          <article-title>Deindividuation, power relations between groups and the expression of social identity: The effects of visibility to outgroups</article-title>
+          .
+          <source>British Journal of Social Psychology</source>
+          ,
+          <volume>33</volume>
+          ,
+          <fpage>145</fpage>
+          -
+          <lpage>163</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          <string-name>
+            <surname>Reicher</surname>
+            ,
+            <given-names>S. D.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Levine</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>1994b</year>
+          ).
+          <article-title>On the consequences of deindividuation manipulations for the strategic considerations of self: Identifiability and the presentation of social identity</article-title>
+          .
+          <source>European Journal of Social Psychology</source>
+          ,
+          <volume>24</volume>
+          ,
+          <fpage>511</fpage>
+          -
+          <lpage>524</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          <string-name>
+            <surname>Reicher</surname>
+            ,
+            <given-names>S. D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Spears</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Postmes</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          (
+          <year>1995</year>
+          ).
+          <article-title>A social identity model of deindividuation phenomena</article-title>
+          .
+          <source>European Review of Social Psychology</source>
+          ,
+          <volume>6</volume>
+          ,
+          <fpage>161</fpage>
+          -
+          <lpage>198</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          <string-name>
+            <surname>Schlenker</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          (
+          <year>1980</year>
+          ).
+          <article-title>Impression management: The self-concept, social identity and interpersonal relations</article-title>
+          . Monterey, CA: Brooks/Cole.
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          <string-name>
+            <surname>Schlenker</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Wowra</surname>
+            ,
+            <given-names>S. A.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>Carryover effects of feeling socially transparent or impenetrable on strategic self-presentation</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>85</volume>
+          ,
+          <fpage>871</fpage>
+          -
+          <lpage>880</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          <string-name>
+            <surname>Sedikides</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Herbst</surname>
+            ,
+            <given-names>K. C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hardin</surname>
+            ,
+            <given-names>D. P.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Dardis</surname>
+            ,
+            <given-names>G. J.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ).
+          <article-title>Accountability as a deterrent to self-enhancement: The search for mechanisms</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>83</volume>
+          ,
+          <fpage>592</fpage>
+          -
+          <lpage>605</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          <string-name>
+            <surname>Tajfel</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          (
+          <year>1978</year>
+          ).
+          <article-title>Differentiation between social groups: Studies in the social psychology of intergroup relations</article-title>
+          . London: Academic Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          <string-name>
+            <surname>Tajfel</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Turner</surname>
+            ,
+            <given-names>J. C.</given-names>
+          </string-name>
+          (
+          <year>1979</year>
+          ).
+          <article-title>An integrative theory of intergroup conflict</article-title>
+          . In W. G. Austin &amp; S. Worchel (Eds.),
+          <article-title>The social psychology of intergroup relations</article-title>
+          (pp.
+          <fpage>33</fpage>
+          -
+          <lpage>47</lpage>
+          ). Monterey, CA: Brooks/Cole.
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          <string-name>
+            <surname>Tajfel</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Turner</surname>
+            ,
+            <given-names>J. C.</given-names>
+          </string-name>
+          (
+          <year>1986</year>
+          ).
+          <article-title>The social identity theory of intergroup behavior</article-title>
+          . In S. Worchel &amp; W. G. Austin (Eds.), Psychology of intergroup relations (pp.
+          <fpage>7</fpage>
+          -
+          <lpage>24</lpage>
+          ). Chicago: Nelson-Hall.
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          <string-name>
+            <surname>Tarrant</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2005</year>
+          ).
+          <article-title>Effects of normative status on responses to intragroup communication</article-title>
+          .
+          <source>Manuscript in preparation.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          <string-name>
+            <surname>Tetlock</surname>
+            ,
+            <given-names>P. E.</given-names>
+          </string-name>
+          (
+          <year>1981</year>
+          ).
+          <article-title>The influence of self-presentational goals on attributional reports</article-title>
+          .
+          <source>Social Psychology Quarterly</source>
+          ,
+          <volume>44</volume>
+          ,
+          <fpage>300</fpage>
+          -
+          <lpage>311</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          <string-name>
+            <surname>Tice</surname>
+            ,
+            <given-names>D. M.</given-names>
+          </string-name>
+          (
+          <year>1992</year>
+          ).
+          <article-title>Self-concept change and self-presentation-The looking glass self is also a magnifying glass</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>63</volume>
+          ,
+          <fpage>435</fpage>
+          -
+          <lpage>451</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          <string-name>
+            <surname>Turner</surname>
+            ,
+            <given-names>J. C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hogg</surname>
+            ,
+            <given-names>M. A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Oakes</surname>
+            ,
+            <given-names>P. J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Reicher</surname>
+            ,
+            <given-names>S. D.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Wetherell</surname>
+            ,
+            <given-names>M. S.</given-names>
+          </string-name>
+          (
+          <year>1987</year>
+          ).
+          <article-title>Rediscovering the social group: A self-categorization theory</article-title>
+          . Oxford, UK: Basil Blackwell.
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          <string-name>
+            <surname>Van Vugt</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Hart</surname>
+            ,
+            <given-names>C. M.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ).
+          <article-title>Social identity as social glue: The origins of group loyalty</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>86</volume>
+          ,
+          <fpage>585</fpage>
+          -
+          <lpage>598</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          <string-name>
+            <surname>Vonk</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          ).
+          <article-title>The slime effect: Suspicion and dislike of likeable behavior towards superiors</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>74</volume>
+          ,
+          <fpage>849</fpage>
+          -
+          <lpage>864</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          <string-name>
+            <surname>Vonk</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ).
+          <article-title>Self-serving interpretations of flattery: Why ingratiation works</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>82</volume>
+          ,
+          <fpage>515</fpage>
+          -
+          <lpage>526</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          <string-name>
+            <surname>Vorauer</surname>
+            ,
+            <given-names>J. D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Main</surname>
+            ,
+            <given-names>K. J.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>O'Connell</surname>
+            ,
+            <given-names>G. B.</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          ).
+          <article-title>How do individuals expect to be viewed by members of lower status groups? Content and implications of meta-stereotypes</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>75</volume>
+          ,
+          <fpage>917</fpage>
+          -
+          <lpage>937</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>
+          <string-name>
+            <surname>Wood</surname>
+            ,
+            <given-names>W.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Eagly</surname>
+            ,
+            <given-names>A. H.</given-names>
+          </string-name>
+          (
+          <year>1981</year>
+          ).
+          <article-title>Stages in the analysis of persuasive messages: The role of causal attributions and message comprehension</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>40</volume>
+          ,
+          <fpage>246</fpage>
+          -
+          <lpage>259</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <mixed-citation>
+          <source>Paper received 30 January 2004; revised version accepted 28 January</source>
+          <year>2005</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <mixed-citation>
+          <string-name>
+            <surname>KAREN M.</surname>
+          </string-name>
+          <article-title>DOUGLAS received her PhD in psychology from The Australian National University in 2000, and is now a lecturer at Keele University. Her research interests lie broadly in the area of communication. Current research projects include: examining the influence of goals on language use, language abstraction and inferences about describers, communicator's capacity to inhibit biases and stereotypes, communication on the Internet, and intra/intergroup communication</article-title>
+          .
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

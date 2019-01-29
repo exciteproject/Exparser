@@ -1,0 +1,2253 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>Assessing the Migration Decision of Indian IT-Graduates: An Empirical Analysis * by Talat Mahmood and Klaus Schömann</article-title>
+      </title-group>
+      <contrib-group>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>JEL Classification: C35</institution>
+          ,
+          <addr-line>F22 and J61</addr-line>
+        </aff>
+      </contrib-group>
+      <abstract>
+        <p>Research hypotheses from various migration-theory approaches are tested through a study focusing on a sample of 1,560 IT university students in India, just prior to the completion of their studies. The representative survey was conducted across India during the summer of 2003. The effect of economic and socio-political factors on the students' willingness to migrate was examined by using variance analysis. The results show, on the one hand, a generally high willingness among those surveyed to migrate to industrialised countries, but on the other hand, a substantial number of IT-students want to stay in their home country, India. Economic factors tend to play a much greater role on their migration decisions, rather than say the sending or receiving country's institutional or socio-political aspects. The significance test of individual factors shows that economic as well as institutional considerations; such as good career opportunities, a high income, and a high living standard, are considerably more important than other socio-political as well as institutional factors. Indian IT graduates evaluated better career opportunities much higher in their home country as compared to other locations. In an explicit location comparison of Germany with India and the United States/Canada - the classic immigration countries - as one of the potential host countries, the respondents rated only language/culture significantly higher for the United States/Canada than for Germany. The remaining economic and socio-political factors were rated higher for USA/Canada but do not show any significant differences between Germany, India, and USA/Canada. Interestingly, a location comparison of India with Germany and United States/Canada shows that IT graduates evaluated (salary, career opportunity, self employment, language/culture and social networks) significantly higher for their native country than for Germany and United States/Canada. Hence, in an international competition for skilled labour/best IT specialists, India has also emerged as an attractive location.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>International migration</kwd>
+        <kwd>push and pull factors</kwd>
+        <kwd>variance analysis</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>Zur Bewertung der Migrationsentscheidung von IT-Hochschulabsolventen aus Indien: Eine Empirische Untersuchung</title>
+      <p>Wir testen Forschungshypothesen aus migrationtheoretischen Ansätzen
+anhand einer Stichprobe von 1,560 kurz von dem Studienabschluss stehenden
+IT-Hochschulabsolventen aus Indien. Die repräsentative Befragung wurde im
+Sommer 2003 landesweit in Indien durchgeführt. Mit Hilfe der Varianzanalyse
+wird die Wirkung der ökonomischen sowie gesellschaftspolitischen
+Einflussfaktoren auf die Migrationbereitschaft der Hochschulabsolventen
+untersucht. Die Ergebnisse zeigen einerseits eine hohe generelle
+Migrationbereitschaft der indischen IT-Absolventen in Industrieländer. Andererseits ist
+aber das Verbleiben in ihrem Heimatland Indien eine starke Alternative.
+Ökonomische Gründe spielen generell für die Migrationentscheidung eine viel
+wichtigere Rolle als andere institutionelle oder gesellschaftspolitische Aspekte
+im Herkunfts- und Empfängerland. Der Signifikanztest der einzelnen
+Einflussfaktoren bestätigt, dass ökonomische Gründe wie gute
+Karrieremöglichkeiten, hohes Einkommen und besserer Lebensstandard bei allen
+Empfängerländern signifikant wichtiger sind als die gesellschaftspolitischen Determinanten
+(wie Ausländerfeindlichkeiten, Aufenthalterlaubnis, Sprache und Soziale
+Netzwerke). Indische IT-Hochschulabsolventen bewerten gute
+Karrieremöglichkeiten höher in Ihrem Heimland als bei allen Empfängerländern. Bei einem
+konkreten Standortvergleich zwischen Deutschland, Indien und dem
+klassischen Immigrationsland USA bewerten die Befragten die Determinanten
+(wie Soziale Netzwerke, Karrieremöglichkeiten, Möglichkeit der
+Selbstständigkeit, das Gehalt und Sprache) signifikant wichtiger für Ihr Heimatland als für die
+USA und Deutschland. Im Wettbewerb um die besten IT-Experten ist Indien im
+Vergleich zu Nordamerikanischen Ländern und Deutschland ebenfalls ein
+attraktiver Standort.</p>
+      <sec id="sec-1-1">
+        <title>Introduction</title>
+        <p>The starting point of current discussions about foreign immigration into Germany has been
+skill shortages on the German labour market. Particularly for specialists in information and
+telecommunications technology, the mismatch on the German labour market has now
+reached the critical point where it is actually inhibiting growth. Both the increasing worldwide
+competition for highly qualified specialists and managers and globalisation trends, in general
+have resulted in increased emigration of German skilled workers and, at the same time,
+create the need for greater immigration into growth markets. The problem has recently been
+attracting growing attention from actors in industry and commerce, public policy and politics
+(Unabhängige Kommission Zuwanderung, 2001). The demand for information technology
+(IT) specialists is particularly strong with respect to specific types of technical knowledge
+(e.g. programming languages) and special “international skills”, such as opening up foreign
+product markets for companies and their partners.1</p>
+        <p>The most influential factors behind these trends are increasing globalisation and
+demographic changes. Stalker (2000) referred to the strong globalisation effect in connection
+with a heightened degree of labour mobility in the twenty-first century. Labour mobility —
+caused by growing pressure on the labour supply, increasing disparities in income between
+respective countries and, above all, the revolutionary development of information and
+communication technologies — will play an increasingly important role in the international
+dissemination of knowledge and technology. On the other hand, demographic changes over
+the last few decades have been leading to a population decline in Germany and are having
+unwelcomed side-effects on economic development and innovative capacity.</p>
+        <p>The consequences of these trends for Germany have become all too evident: more
+intense international competition for the most talented, a growing demand for well-qualified
+workers, an expansion of the markets, and a competitive disadvantage in the information and
+communication technology fields as a result of high wage costs.</p>
+        <p>
+          Two main reasons are given for the shortage of specialists in Germany: first, the
+constantly changing state of the computer technology and its continued rapid growth
+worldwide, and, second, the failure of German universities and polytechnic colleges to
+provide workers with training that is adequately geared to the needs of the labour market.
+Therefore, in order to roughly meet skill needs further training and retraining schemes for the
+available domestic labour force are necessary, as are efforts, already underway, to build up
+the number of students and graduates in these fields
+          <xref ref-type="bibr" rid="ref28">(Neugart, 2000)</xref>
+          .
+        </p>
+        <p>This long-term labour shortage is considered to be the overall cause for the
+emergence of so-called migration flows. To solve this problem, the German Federal
+1</p>
+        <p>According to the IZA International Employer Survey 2000 findings (IZA – Forschungsinstitut zur
+Zukunft der Arbeit [Institute for the Study of Labor], Bonn), for which 340 telephone interviews in
+Germany and 170 interviews each in France, the United Kingdom and the Netherlands were
+conducted (Winkelmann, 2001).
+Government, in cooperation with industry and commerce, has now established a “Green
+Card Emergency Programme to Meet the Demand for IT-Specialists” (Green Card
+Sofortprogramm zur Deckung des IT- Fachkräftebedarfs:
+http://www.bma.bund.de/download/broschueren/a232.pdf) which enables such specialists
+from non-EU countries to work in Germany for up to five years. In view of the prevailing
+domestic labour market problems, economic migration was not a desirable option. Most do
+agree, however, that a selective migration policy would bring overall economic benefits to
+recruitment countries (Zimmermann, 1996).</p>
+        <p>Migration research shows that the scale of international migration will increase
+overall. Little, however, is known about the determinants of past and present migratory
+movements, in particular those of IT specialists and highly educated persons, who could
+generate such migration flows (Regets, 2001). Current discussions still focus on whether a
+selective policy would bring overall economic benefits. What is more, the topic of immigration
+itself seems to be a controversial matter in Germany, both socially and politically.</p>
+        <p>
+          Particularly with regard to immigration from developing countries, no extensive
+empirical research has been carried out to date, which takes into consideration not only the
+economic and social aspects of migration but also the political and institutional factors.
+Vogler (1999) has analysed these factors using an aggregated panel data set of
+asylumseekers who migrated from developing countries. A study by
+          <xref ref-type="bibr" rid="ref16">Fiedler (2000)</xref>
+          deals with the
+question of the conditions for which highly qualified IT workers migrate from India to
+Germany. To conduct this study a questionnaire was used to interview 48 employees of an
+IT company: the results confirm the participants’ willingness to migrate based on
+migrationspecific factors.
+        </p>
+        <p>Most empirical studies carried out thus far discuss in detail the question of which
+factors influence decisions to migrate. The aim of these studies is to ascertain the best
+strategy for the countries involved from a migration-policy perspective, in order to control
+economically motivated migratory movements. The data basis of such research is for the
+most part, official statistics with the use of various methodological approaches. These studies
+place an emphasis on immigrants who have completed the migration process, whereas
+those remaining in their native country are not included in such studies. In the current
+economic environment the international labour market situation, as described above,
+requires a change in outlook: mutual mobility is desirable, especially in the case of high-tech
+workers.</p>
+        <p>The aim of this study is to ascertain, on the basis of information gained through
+surveys, the economic and socio-political determinants of the decision to migrate. While
+using variance analysis, we empirically analyse the effect of these determinants on migration
+decisions by IT university students in India, just prior to the completion of their studies, as if
+they would migrate to Germany or some other high-wage country.2 In addressing this
+question, we test existing theories from migration research and draw conclusions for the
+German case which pertain to the various decision factors.</p>
+        <p>In the second section of this paper we discuss several basic theoretical
+considerations from which the examined research hypotheses are derived. The survey data
+and the variables of the statistical analysis are then introduced. The fourth section presents
+both the descriptive findings and the test results from the variance analysis. The final section
+discusses implications of the research results and provides an outlook for further planned
+research.
+2.</p>
+      </sec>
+      <sec id="sec-1-2">
+        <title>Theoretical Considerations</title>
+        <p>
+          According to
+          <xref ref-type="bibr" rid="ref20">Han (2000)</xref>
+          , migration is a complex process, which, as far as its emergence and
+development is concerned, is continually determined through a multiplicity of causes and
+factors. As a rule the causes triggering this process are a mixture of objectively compelling
+exogenous factors (e.g. company contacts or attraction through foreign research laboratories
+and resources) and subjectively justified decisions (e.g. good career opportunities, starting a
+family). A classic approach to explaining the complex and multicausal determinants of
+migration can be found in the theory of so-called push and pull factors.
+        </p>
+        <p>
+          Push factors (migration factors) comprise all those conditions of the migrants’ country
+of origin that induce them to migrate or temporarily migrate, such as political or religious
+persecution, economic crises and international wars. Pull factors (factors that attract
+migrants) are those circumstances in the host country that motivate and encourage them to
+migrate. Factors that may attract migrants are, for example, political stability, a democratic
+social structure, economic prosperity, better education and wage/salary opportunities relative
+to those in one’s own country. It is generally assumed that with modern information, and
+communication and transportation capabilities, push and pull factors are becoming ever more
+important to individual migration decisions.
+          <xref ref-type="bibr" rid="ref19">Gatzweiler (1975)</xref>
+          pointed out that in the end
+every migration decision is the result of push factors from the source country and pull factors
+from the target country working together.
+        </p>
+        <p>An array of approaches in the migration-theory literature aim to identify and explicate
+important determining factors for an individual’s willingness to migrate or for aggregated
+migration flows. The starting point of most theoretical models attempting to explain individual
+migration decisions is the neo-classical approach. The majority of micro-economic models is
+based on this approach, which views migration as a form of investment that is worthwhile or
+2</p>
+        <p>After successful completion of this pilot study, other Asian countries and/or East European
+countries will be brought into the research project.
+“profitable” for some individuals, but not so for others. The human capital approach maintains
+that migration takes place when the cost directly incurred through it will be reimbursed or will
+“pay for itself” through higher income in the future. Because of unemployment and other
+economic and non-economic aspects, migration is often connected with financial and social
+risks. According to neo-classical models, possible reasons for the relatively low level of
+immigration from developing countries are a strong preference for one’s present
+environment, high migration costs, poor labour market chances, great uncertainty and the
+hope that developments in one’s native country might unexpectedly turn for the better.</p>
+        <p>
+          <xref ref-type="bibr" rid="ref11">Cobb-Clark and Crossley (2001)</xref>
+          state the family investment hypothesis for Australia,
+which would only be empirically tenable for “traditional” families, and not for non-traditional
+families in which both partners, the husband and the wife, are gainfully employed. On the
+other hand, the new economy of migration challenges the central role of relative income
+differences, because it views this difference as only one important point among others with
+regard to the decision for or against migration.
+        </p>
+        <p>
+          There are considerations on the macro-economic level as well, which in the end can
+be traced back to a micro-economic foundation. Among these are demographic trends,
+selfselection of migrants, self-sustaining migration and institutional restrictions on migration.
+Demographic trends are quite important: higher population figures in the sending country
+lead to per se greater migration flows. With regard to the causes of self-sustaining migration,
+so-called network effects command the greatest attention. These result from the fact that,
+apart from the contacts amongst themselves, migrants above all, maintain good contact with
+their native country. Through this exchange of information, the information and migration
+costs go down for all future migrants. People who have migrated in the past help the next
+ones with assimilation in the receiving country and also help reduce psychological costs that
+may arise through separation from one’s native country
+          <xref ref-type="bibr" rid="ref3">(Bauer, Epstein and Gang, 2000)</xref>
+          .
+        </p>
+        <p>The other approach is based on political as well as economic factors and holds that
+the cause is both the rapidly growing migration potential in developing countries in addition to
+the limited opportunities for immigration as a result of insufficient intake ability or a lack of
+receptiveness. Hence, when analysing migration flows the basic institutional conditions
+should also be taken into account (Vogler and Rotte, 2000).</p>
+        <p>
+          Relative to the large number of theoretical approaches
+          <xref ref-type="bibr" rid="ref7">(cf. Borjas, 1994; Vogler,
+1999)</xref>
+          , there are few empirical findings, particularly with regard to migration from developing
+countries. This is due, in part, to a lack of suitable or adequate data sets, in addition to the
+fact that no extensive national or international research has been carried out up to now. As
+well, there are hardly any studies available that analyse the determinants of international
+migration, which take into account not only the economic and social aspects of migration but
+also the political and institutional factors. Furthermore, very few of these studies deal with the
+question of why migrants, despite knowledge of the incentives, stay in their native country
+and do not emigrate.
+        </p>
+        <p>
+          An empirical study by
+          <xref ref-type="bibr" rid="ref26">Marr (1975)</xref>
+          analysed migratory movements from the United
+States, the United Kingdom and Germany to Canada from 1950 - 1967. According to him,
+relatively better working conditions and higher income played a significant role as pull factors
+towards Canada. A different study by
+          <xref ref-type="bibr" rid="ref12">DeVoretz and Maki (1983)</xref>
+          examined the migration of
+highly qualified workers from 16 developing countries to Canada from 1968 -1973. They
+found that occupation-specific employment opportunities were much more important for
+wellqualified workers than earnings opportunities. In contrast, Greenwood and McDowell (1991)
+gave differences in income as the most important push factor.
+        </p>
+        <p>
+          An empirical study by Zimmermann (1994) examined asylum-related emigration from
+four major regions — Africa, Asia, Eastern Europe and the Middle East — to the European
+Union during the years 1983–1992. He found that the level of unemployment in the individual
+countries had the expected negative impact on immigration, whereas the size of the
+respective labour market and the level of its relative wages exerted a positive influence.
+Huang (1987) chose to focus on the migration of well-educated workers from 1962–1976.
+The estimates reveal the expected influence that the respective wage differentials would
+have on a stay in the United States (i.e. push factor).
+          <xref ref-type="bibr" rid="ref18">Fleischer (1963)</xref>
+          studied migration from
+Puerto Rico to the United States and found that, here too, economic opportunities proved to
+be the most significant influence for migration across national borders.
+        </p>
+        <p>Whereas the research discussed up to this point is based on the analysis of
+crosssectional or longitudinal data, Vogler (1999) made use of a panel data set for his analysis of
+migration to Germany. It covers information on migration from 86 source countries for the
+period 1981–1995, including the number of asylum-seekers for the years 1984–1995.
+According to Vogler’s findings, the decision of an individual to migrate from a developing
+country to an industrialised nation can be interpreted as an investment. In making this
+decision the potential migrant compares the future income in his or her native country with
+that of the target region and also takes into consideration the costs associated with
+migration. Other factors to be taken into account include unemployment, social services and
+taxes, both in one’s native country and in the country of destination (i.e. push and pull
+factors).</p>
+        <p>
+          The German Economic Institute in Cologne
+          <xref ref-type="bibr" rid="ref22">(Institut der deutschen Wirtschaft Köln,
+2001)</xref>
+          has investigated companies’ and IT specialists’ previous experiences with the German
+Green Card. The study found that most of the reasons for taking up work in Germany were of
+an economic nature. First and foremost, it is especially important for almost all foreign
+specialists that they be given the opportunity to do “interesting work” in Germany. Foreign IT
+specialists next rank the advanced vocational training offered in second place. Good career
+and advancement opportunities are given as the next reasons for a stay in Germany.
+        </p>
+        <p>
+          <xref ref-type="bibr" rid="ref2">Bartel (1989)</xref>
+          studied the migration behaviour of different groups of migrants (Asians,
+Europeans and Hispanics) to the United States in 1980. His research shows that the network
+effects are very strong. Regions with a high number of residents belonging to a particular
+ethnic group are the preferred destination of migrants of that respective group. In both their
+micro-economic and macro-economic studies,
+          <xref ref-type="bibr" rid="ref4">Bauer and Zimmermann (1995)</xref>
+          found a high
+level of significance for network effects on migration. In a recent study Bauer, Epstein and
+Gang (2000) examined the influence of a migration network on migrants’ decisions based on
+location. They observed that the size of the Mexican network within the United States has a
+positive effect on the likelihood of migration.
+        </p>
+        <p>
+          From the perspective of the receiving country, there are essentially two types of
+studies on the differences in income between native residents and immigrants. Studies
+following the approaches of
+          <xref ref-type="bibr" rid="ref10">Chiswick (1978)</xref>
+          and
+          <xref ref-type="bibr" rid="ref6">Borjas (1987)</xref>
+          find an initial income
+disadvantage for immigrants when compared to native residents who are of the same sex,
+educational level and age and who work in the same industrial sector. However, according to
+their findings, the situation improves over time, and a gradual equalisation of earned income
+takes place. Other studies using the traditional decomposition method to calculate
+differences in income associate the unexplained remainder of differences in income between
+native residents and immigrants with statistical discrimination. Recently,
+          <xref ref-type="bibr" rid="ref29">Nielsen, Rosholm,
+Smith and Husted (2001</xref>
+          ) have attributed comparable orders of magnitude of income
+differences, to a deficiency in qualifications and work experience as well as incomplete
+assimilation.
+        </p>
+        <p>
+          A good deal of the public discussion, however, revolves around the fear, not yet
+empirically researched, that a German Green Card might give rise to entire waves of
+immigration comparable both to the recruitment of migrants in the 1950s and 1960s and to
+the consequences for the present form of the social system first and even second
+generations migrants
+          <xref ref-type="bibr" rid="ref11 ref15">(Fertig and Schmid, 2001)</xref>
+          . The PISA Study findings for Germany point
+to further pressure still surfacing with third generation immigrants. To bring more objectivity
+to this discussion, we have chosen to contribute new empirical results, which were gathered
+directly from a highly mobile group of IT specialists in an important potential source country.
+In this way one can speak of an ascertainment of an “upper benchmark” for potential
+migration from any one source country.
+3.
+        </p>
+      </sec>
+      <sec id="sec-1-3">
+        <title>Survey Data and Description of Variables</title>
+        <p>This study is based on a personal survey3 of university information and communications
+technology students in their final year of study in India. Around twenty IT institutions
+participated in the survey. Letters to the appropriate professors explained that a foreign
+organisation wished to carry out research on the topic of international labour mobility of
+3</p>
+        <p>
+          Survey data on migration intentions see,
+          <xref ref-type="bibr" rid="ref9">Burda, et al. (1998)</xref>
+          ,
+          <xref ref-type="bibr" rid="ref25">Liebig and Sousa-Poza(2004</xref>
+          ) and
+          <xref ref-type="bibr" rid="ref27">Mayda(2004</xref>
+          )
+university graduates. This organisation’s origin was not mentioned in order to avoid a
+country-specific bias in the results.
+        </p>
+        <p>Consistent with the survey design of this study, the university students were only
+questioned about their expectations for the future relating to possible migration decisions
+during this first stage of research. The students were information technology and electrical
+engineering students in their final academic year of a master’s and bachelor’s programme
+and, hence, possessed to the highest academic education equivalent to that of academically
+trained German engineers. In order to analyse actual immigration to Germany and other
+industrialised countries, we will make a second survey one year later to again interview both
+the graduates who migrated and those who remained in their native country. This step will
+enable us to compare their previous intentions to migrate with their actual decision.
+3.1.</p>
+      </sec>
+    </sec>
+    <sec id="sec-2">
+      <title>Questionnaire Design: Push and Pull Factors</title>
+      <p>The questionnaire has four main sections. In the first section, the students are questioned
+only about their personal characteristics. In the next section, they are only asked about
+individual determinants that might influence their migration decisions. In the third section, the
+students are asked to rank a number of alternative countries according to their preference. In
+the final section they are to explicitly assess, taking into account both the respective country
+and the importance of the various determinants, whether or not they might migrate to a
+particular country.</p>
+      <p>The relevant aspects to individual migration decisions are determined on the basis of
+general theories on migration behaviour, empirical research results and motives for migration
+already named in surveys. However, it would go beyond the scope of this project to take into
+account all possible push and pull factors. For this reason the analysis has been restricted to
+the most important factors, which are briefly presented below.
+3.2.</p>
+    </sec>
+    <sec id="sec-3">
+      <title>Social Networks, Chain Migration</title>
+      <p>
+        We start with the assumption that before a person makes a decision to migrate he or she
+makes a comparison of possible destinations, a task that requires relevant information about
+the sending and the receiving country. This information may come from different sources,
+such as various media and information agencies that deal with the systematic recruitment of
+labour, and private information channels
+        <xref ref-type="bibr" rid="ref14">(Feithen, 1985)</xref>
+        .
+      </p>
+      <p>
+        Whereas knowledge about the determinants of the sending country is based mainly
+on one’s own experiences, information about the receiving country can only be gathered
+through external sources
+        <xref ref-type="bibr" rid="ref19">(Gatzweiler, 1975)</xref>
+        . Personal relationships to relatives and friends
+are of utmost importance in obtaining such information
+        <xref ref-type="bibr" rid="ref14">(Feithen, 1985)</xref>
+        . The dominance of
+private information channels can be explained by the fact that the weight of social and
+emotional bonds can outweigh other factors when making a migration decision. Treibel
+(1999) has argued that one cannot always assess reliability of such information. This
+circumstance also helps explain the so-called chain migration phenomenon, which is the
+larger subsequent migration flows of people who have been informed by previous migrants
+        <xref ref-type="bibr" rid="ref20">(Han, 2000)</xref>
+        . Networks with continuing obligations and expectations may arise through the
+use of such personal relationships. The migrant networks resulting from this process help
+reduce risks and uncertainties by supplying valuable information (Faist, 1997). The relatively
+pronounced mobility of highly qualified workers can also be understood in this context:
+Because they have a comparatively high level of information available to them as well as a
+wide job-search range open to them, they often find it easier to migrate than do workers with
+average skills and education
+        <xref ref-type="bibr" rid="ref23">(Janssen, 1998)</xref>
+        .
+3.3.
+      </p>
+    </sec>
+    <sec id="sec-4">
+      <title>Career/Self-employment Opportunities and Improved Professional and</title>
+    </sec>
+    <sec id="sec-5">
+      <title>Social Status</title>
+      <p>
+        In principle, improvement of professional status can be grouped with the improvement of
+social status as one reason for migration, because the latter usually follows from the former
+as a result of an increase in income
+        <xref ref-type="bibr" rid="ref14">(Feithen, 1985)</xref>
+        . One push factor related to such
+professional concerns is the lack of advancement opportunities in those sending countries
+characterised as developing countries. In comparison, there is an opportunity to make gains
+in professional and social status through migration to developed countries
+        <xref ref-type="bibr" rid="ref5">(Blahusch, 1992)</xref>
+        .
+One pull factor is the possibility for relatively better on the job training/advanced vocational
+training in industrialised countries. According to Schipulle (1973), since highly qualified
+people have an especially strong desire to improve their status, it is hardly surprising that
+they often name professional career planning as a motive for migration (Körner, 1999).
+      </p>
+    </sec>
+    <sec id="sec-6">
+      <title>3.4. Salary / Income Situation and Standard of Living</title>
+      <p>
+        One complaint of highly qualified workers in sending countries relates to the poor wages
+received. This aspect represents an important push factor (Körner, 1999), whereas higher
+income in industrialised countries functions as a pull factor
+        <xref ref-type="bibr" rid="ref5">(Blahusch, 1992)</xref>
+        . The
+comparatively low income in their countries of origin, in contrast to the high income in
+industrialised countries together result in another cause of migration
+        <xref ref-type="bibr" rid="ref8">(Breidenbach, 1982)</xref>
+        .
+According to Schipulle (1973), as a rule, the difference in income between the developing
+and the industrialised country must be exceptionally large in order to induce migration. What
+is more, income frequently symbolises a person’s standing and abilities and, as such,
+represents a measure of his or her accomplishments and success. A high income also leads
+to more respect within one’s social sphere (e.g. standard of living).
+      </p>
+    </sec>
+    <sec id="sec-7">
+      <title>3.5. Hostility Towards Foreigners</title>
+      <p>
+        Social distance, which can lead to hostility towards foreigners in the receiving country,
+hinders migration
+        <xref ref-type="bibr" rid="ref19">(Gatzweiler, 1975)</xref>
+        . Through the rise of prejudices against foreigners,
+xenophobia can be found time and again in alarming situations for the economy, society,
+politics and culture
+        <xref ref-type="bibr" rid="ref1 ref11 ref15">(Bade, 1994; for an international comparison and evaluation, see
+Koopmanns 2001)</xref>
+        . Such a situation in the target country deters potential migrants, who fear
+that they might come to harm during their stay abroad (Thelen, 2000).
+      </p>
+    </sec>
+    <sec id="sec-8">
+      <title>3.6. Language/Culture</title>
+      <p>Fischer and Straubhaar (1998) were the first to describe the value of immobility in a
+systematic way by drawing from several new hypotheses. They argue that some skills and
+part of one’s abilities are location-specific. These internal, country-specific advantages are
+not just of an economic nature; rather, they are culturally, linguistically, socially and politically
+binding factors. The effect of these factors and of one’s native country on migration is like
+that of a “push factor” preceded by a minus sign. In addition, they deal with advantages
+specific to particular businesses, regions and societies.</p>
+      <p>
+        When the languages of the sending and receiving countries differ, language barriers
+arise, resulting in a smaller probability of migration
+        <xref ref-type="bibr" rid="ref14">(Feithen, 1985)</xref>
+        . Because mobility
+depends considerably on an individual’s language abilities, which in a figurative sense reflect
+one’s ability to integrate (Körner, 1999), highly qualified people tend to exhibit a relatively
+high probability of migration because of the additional linguistic proficiencies they often
+possess
+        <xref ref-type="bibr" rid="ref23">(Janssen, 1998)</xref>
+        .
+      </p>
+    </sec>
+    <sec id="sec-9">
+      <title>3.7. Duration of Stay</title>
+      <p>The permitted duration of stay in a receiving country is an important institutionally defined
+determining factor. The different immigration laws of countries can work to discourage or
+attract migrants. The United States, as the classic immigration country, is a good example of
+a pull factor in this regard, whereas Germany, with its non-immigration policies, can be
+considered a push factor. If migrants take this institutional factor into consideration in their
+decision-making process, the likelihood of migration may decrease.</p>
+      <sec id="sec-9-1">
+        <title>Empirical Results</title>
+      </sec>
+    </sec>
+    <sec id="sec-10">
+      <title>4.1. Evaluation of the Factors</title>
+      <p>In this section we investigate how individual factors might influence the decision of university
+students to migrate abroad (using several countries as possible choices). Of the 1,590
+Figure 1:</p>
+      <sec id="sec-10-1">
+        <title>Career Opportunities</title>
+        <p>Salary
+Standard of Living
+Self-employment</p>
+        <p>Culture</p>
+        <p>Residence of Family
+distributed questionnaires, 30 could not be included in the results, so that we used a net
+sample of N = 1,560. In the second section of the questionnaire the participants were asked
+to indicate on a scale of 1 to 6 the extent to which each of the determinants would influence
+their migration decisions (1 = negligible influence/unimportant criterion; 6 = large
+influence/important criterion). The six criteria were salary, language/culture, social networks,
+standard of living, opportunities for self-employment and career opportunities. The
+participants were first asked to judge the importance of the six criteria on their decision of
+whether or not to migrate, independent of the choice of countries in question.</p>
+        <p>Evaluation of Influencing Factors on Migration Decisions (India)
+(Irrespective of the effects of the choices of countries on the factors
+influencing the participants)
+As figure 1 clearly shows, the participants gave career opportunities the highest rating with a
+result of 5.8. With a mean value of 5.6, salary is then rated as the second most important
+factor. Standard of living follows in third place with a score of 5.3. As for the remaining
+criteria, opportunities for self-employment was placed fourth (4.7), language/culture came in
+next to last (3.9), with social networks/residence of family in last place (3.6). This last figure
+reveals that decisions about migration are determined mainly through economic
+considerations and the desire for greater professional and social status.
+4.2.</p>
+      </sec>
+    </sec>
+    <sec id="sec-11">
+      <title>Ranking of Countries</title>
+      <p>In this section of the questionnaire the students were asked to rank the preferred country of
+their choice. They were asked to evaluate the countries irrespective of the determinants
+already given, and to rate each one on a scale from 1 (lowest) to 6 (highest). A total of 1,560
+cases were available for our analysis; the remaining responses could not be taken into
+account because of missing information. As shown in figure 2, the respondents indicated that
+their preference lay first and foremost with their native country, India, with a mean value of
+4.7 — This indicates that the participants of the survey view their home country with a well
+developed IT sector. The USA/Canada with a mean value of 4.6 was found to be the next
+most preferred country.. In comparison with those who chose North American countries, a
+lower inclination to migrate is found for those individuals who chose Great Britain (3.8) or
+Australia (3.7). Finally, the participants’ rating of Germany put it into fifth place with 3.3,
+before “other countries (mostly the Middle East countries)”, which came in last place.</p>
+      <p>Evaluation of the Ranking of Preferred Countries
+(Irrespective of the effects of determinants on</p>
+      <p>participants' choice of countries)
+Great Britain</p>
+    </sec>
+    <sec id="sec-12">
+      <title>Consideration of Factors and Country Alternatives</title>
+      <p>As previously stated, the participants were at first only asked about the determining migration
+factors; in the next section only questions about the countries as possible alternatives were
+posed. The students were asked to decide both for a particular country and according to the
+2,73
+3,32</p>
+      <p>3
+3,82
+3,77</p>
+      <p>4,73
+4,60</p>
+      <p>Mean value
+importance of the different factors. Of the 1,590 surveyed, 1,560 decided for one of the six
+options, resulting in the weighting shown in figure 3.</p>
+      <p>Well over 42.82% would prefer to work in North America (United States/Canada),
+whereas another 32% do not wish to migrate at all, instead preferring to stay in India upon
+completion of their studies. All the same, 11.73% of those surveyed chose Australia after the
+United States/Canada, leaving Great Britain in third place among the target countries—only
+around one hundred respondents (6.54%) decided for Great Britain. Germany came in
+second to last place with 4.74% (73 respondents). Finally, 2.18% of the participants wished
+to migrate to “other countries”.</p>
+      <p>Consideration of factors and Countries as Alternatives (India)
+31,99
+42,82</p>
+      <p>Mean value
+In this sub-section we present a comparison of the mean values in order to show which of
+the eight factors were viewed by the surveyed participants as decisive in their choice of a
+particular host country. Table 1 provides the mean values of the eight factors for each of the
+six countries. The empirical standard deviations are given in parentheses.4</p>
+      <p>In the first column of table 1, one finds the mean values of the eight criteria for India.
+Here, career opportunities has the highest mean value with 5.839. If one then compares the
+4</p>
+      <p>The numbers given as the upper case indicate the ranking of the determinant’s. The standard
+deviations are in parentheses.
+mean values of the other countries, one discovers that career opportunities is regarded as
+the second most important decision-making factor for all of the foreign countries, except their
+native country, India. The second most important criterion found for the participants in India
+was salary. For all other remaining countries, they viewed salary as the most important
+determinant with the highest mean values. Standard of living was given third place for all
+countries, and as well played an equally important role for those deciding to stay in India.</p>
+      <p>For India, social networks ranked fourth place, whereas for all the other countries the
+participants viewed this factor as least important (except for Great Britain). Participants
+ranked opportunity for self-employment in India in fifth place and the fourth most important
+criterion for all other countries considered here.</p>
+      <p>Language/culture was ranked sixth for most countries except USA/Canada and other
+countries. For India, duration of stay was ranked seventh by the participants, whereas it was
+ranked at fifth place for Australia, Germany and Great Britain (USA and Canada at sixth
+place). Surprisingly, the influence by tolerance towards foreigners was found to be the least
+important factor not only for India but also for Great Britain. For all remaining countries
+(Germany, USA/Canada, Australia and other countries)it was ranked equally in seventh
+place.</p>
+      <p>In sum, it can be said that when a decision is made to go abroad, economic reasons
+(salary, career opportunities and standard of living) usually play a greater role than do
+institutional or socio-political criteria. In comparison, social networks play almost as important
+a role in the decision to stay in India.
+42 ,91
+,5 (
+23 ,91
+,4 (
+50 ,81
+,5 (
+32 ,91
+,4 (
+a
+i 4 5
+In ,575 ,(15
+d
+p m
+s
+e
+i
+t
+i
+n
+u
+t
+r
+o
+p
+p
+O
+r
+e
+e
+r
+a
+s
+e
+u
+l
+a
+V
+n
+a
+e
+M
+f
+o
+n
+o
+s
+i
+r
+a
+p
+m
+o
+C
+:
+1
+e
+l
+b
+a
+C
+r
+e
+1 e
+0 r
+1 a</p>
+      <p>a
+3 ts
+7
+3
+8 e
+1 th
+f
+o
+a
+99 ic
+4 d
+i
+n
+.
+s
+e
+s
+e
+h
+t
+n
+e
+r
+a
+p
+n
+i
+s
+n
+o
+i
+t
+a
+i
+v
+e
+d
+d
+r
+a
+d
+n
+e
+h
+T
+.
+’
+s
+t
+n
+a
+n
+i
+m
+r
+e
+t
+e
+d
+g
+n
+i
+k
+n
+a
+r
+e
+h
+t
+e
+t
+e
+s
+a
+c
+r
+e
+p
+p
+u
+e
+h
+t
+s
+a
+n
+e
+v
+i
+g
+s
+r
+e
+b
+m
+u
+n
+e
+h
+N T
+4
+1</p>
+    </sec>
+    <sec id="sec-13">
+      <title>Variance Analysis in Comparing Mean Values of Determinants within each Country</title>
+      <p>In this sub-section we investigate whether the mean values of the eight criteria differ
+significantly from one another. To this end, variance analyses were carried out for each of
+the six countries5 and the results are presented in table 2. The criterion salary was selected
+as the reference category. The coefficients of the remaining factors indicate the difference for
+the mean value of salary (X i − X salary ) . T-values are given in parentheses for the hypothesis
+that these differences are zero (H 0 : X i − X salary = 0). The F -value given in the last line of
+the table tests the hypothesis that all eight mean values are equal. This can be rejected for
+each of the six alternatives at the 1% level.</p>
+      <p>The first column of table 2 shows the comparison of the mean values of the variable
+salary with the other criteria for N = 499 individuals who chose India. The mean value for
+salary is µs = 5.75; whereas it is µco = 5.84 for career opportunities. The difference for salary
+is µco - µs = 0.085. With a t-value of 1.49, this difference is positive but insignificant. The
+positive sign means that those students who chose India evaluated career opportunities
+higher than salary.</p>
+      <p>In this connection it becomes evident that career position does not have the highest
+preference for the remaining countries (negative sign, also not significant). However, only for
+those individuals who chose India is the difference between career opportunities and salary
+not significant at the 1% level (see column 1). In all remaining countries career opportunities
+was viewed significantly lower than salary.</p>
+      <p>
+        This result is not consistent with a qualitative study conducted by
+        <xref ref-type="bibr" rid="ref16">Fiedler (2000)</xref>
+        . The
+interviewees cited better career prospects in their home country as important advantages
+over other countries. Furthermore, the participants judged their career prospects with
+German companies not so optimistically. A study by the “Institut der deutschen Wirtschaft
+Köln (2001)” found that it is especially important to almost all foreign IT specialists that they
+find interesting work in Germany. The questions of whether they may further join their
+education at new work place and if the company will offer them good career perspectives
+also played an important role.
+      </p>
+      <p>For those final-year students who chose Germany (column 3), the difference of
+standard of living from salary is –0.825. This is significant with a t-value (–3.60) at the 5%
+level. The minus sign means that these individuals rate standard of living significantly lower
+(at the 5% level) than career opportunities and salary. The standard of living factor is ranked
+third not only for India (see column 1 of Table 1) but also for the remaining countries.
+5
+8
+Model of the variance analysis: Y = µ salary + ∑=2 i β i Di + ε with Y = the vector of all eight
+criteria of a country option, Di = dummy for criterion i and β i = µ i − µ salary .
+This finding also corresponds with a hypothesis from Schipulle (1973), which states that for
+migrants, income frequently serves as an indication for the abilities of a person, that is, it
+represents a measure of one’s achievements and success. A higher income leads to more
+respect within one’s social sphere and/or to a higher standard of living.</p>
+      <p>
+        For Germany, the difference between the mean values of self-employment
+opportunities and salary amounts to –1.08, and is significant at the 10% level with a t-value
+of –5.28. This implies that the individuals who chose Germany evaluated possible
+selfemployment lower than they did salary, career opportunities and standard of living. For all
+the remaining countries, possible self-employment receives fourth place (except for India).
+This finding confirms the work of
+        <xref ref-type="bibr" rid="ref20">Han (2000)</xref>
+        , who referred to migrants’ observations about
+why they normally first venture to make the transition from salaried employee to
+selfemployed entrepreneur only after waiting some years. Reasons given include low wages and
+a lack of opportunities for advancement.
+      </p>
+      <p>Another factor which influences students’ decisions about migration, and which
+should not be underestimated, is institutional regulations such as the permitted length of
+stay. As table 2 shows, the difference between the mean values for duration of stay and
+salary comes to –1.292 for Germany, with a t-value of –4.79 indicating significance at the 1%
+level. This result shows that participants attributed less importance to duration of stay than to
+salary and other criteria.</p>
+      <p>
+        The difference between the mean values for language/culture and salary is –1.37.
+The t-value is significant at the 1% level. Those individuals who chose Germany assessed
+the importance of language/culture significantly lower than they did salary. Feithen’s
+hypothesis (1990) that the likelihood of migration decreases when different languages are
+spoken in the sending and the receiving countries, leading to a language barrier, was not
+confirmed through this analysis. With regard to the criteria language,
+        <xref ref-type="bibr" rid="ref23">Janssen (1998)</xref>
+        has
+argued that a relatively high probability of migration predominates among highly qualified
+persons. Our empirical evidence confirms this theory, for in our analysis the determinant
+language/culture received a quite low ranking.
+      </p>
+      <p>As expected for Germany, the influence of social networks is lowest in comparison
+with all other determinants (significant at the 1% level). There are only small groups of
+migrants from Southeast Asia in Germany. One noteworthy result for India is that the
+influence of social networks is viewed as important in comparison to salary, with the
+significance of these networks ranked fourth. Otherwise, social networks receives seventh
+place for Great Britain (see table 1) and last place for all other countries. For those
+individuals who wished to seek employment in India, the influence of social networks is not
+significantly smaller than that of salary or career opportunities. The remaining factors play a
+less important role here (significant at the 1% level). In Fiedler’s study (2001), none of those
+surveyed evaluated social contacts within Germany very highly. Up to now emigrants from
+India to Germany have had very little opportunity to rely on long-established social networks.</p>
+      <p>The factor with the least effect when reaching a decision to stay in India was,
+predictably, hostility towards foreigners. On the other hand, this criterion also had the
+smallest influence for Great Britain as well as for all remaining countries, including Germany,
+for which it was ranked next to last. Our findings do not confirm Gatzweiler’s hypothesis
+(1975) that social distance, which may lead to xenophobia within the receiving country, has a
+negative impact on migration.</p>
+      <p>In sum, it can be concluded that the individual criteria are evaluated at a significant
+level for each respective country. For India, career opportunities and salary are considerably
+more important in the decision-making process than the other criteria, whereas they are of
+less importance for the remaining countries. The remaining decision-making aspects were
+classified as significantly less important (negative co-efficients) for both Germany and the
+other country options. According to an f- test carried out, the null hypothesis that all mean
+values are equal can be rejected at the 1% level for all of the alternatives.
+4.6.</p>
+    </sec>
+    <sec id="sec-14">
+      <title>Comparison of Mean Values of the Deciding Factors between the Six</title>
+    </sec>
+    <sec id="sec-15">
+      <title>Countries</title>
+      <p>In this sub-section further variance analyses are carried out for each of the eight
+determinants in order to ascertain whether the mean values differ to a significant degree
+between the six countries.6</p>
+      <p>The results of the final-year students who chose Germany have been selected as the
+point of reference. The coefficients of the remaining criteria indicate the difference for the
+mean value for Germany (X i − X Germany ). T -values for the hypothesis that these differences
+are zero, are given in parentheses (H 0. : X i − X Germany = 0). The f- ratio given in the last line
+tests the hypothesis that all six mean values are equal, that is to say, that the preference
+structure (ranking of the evaluation of the determinants) of the students does not differ
+significantly from each other.</p>
+      <p>The first column of table 3 compares the mean values of the six alternatives for the
+factor salary. The mean value for Germany is 5.23; whereas for the United States/Canada it
+is 5.50. The difference comes to 0.270 with a positive but statistically insignificant t-value
+(0.04).. This suggests that those who chose the United States/Canada assessed the factor,
+salary, higher — by an amount of 0.270 — than those who chose Germany. In other words,
+for the former group, salary is more important than it is for the latter group.</p>
+      <p>This result confirms the well-known differences in income between Germany and the United
+States in the IT sector. It also confirms that, when comparing locations, the participants
+6
+6
+Model of the variance analysis: Y = µ Germany + ∑=2 i β i Di + ε
+with Y = vector of one criterion
+from six alternatives, Di = dummy for alternative I and β i = µ i − µ ´Germany .
+consider the determinant salary to be very important in reaching a decision. The positive
+effect of salary in a target country on migratory movement, set out numerous times in theory
+and confirmed by nearly all empirical studies to date, is found in this study as well.
+Furthermore, participants who decided for Great Britain evaluated salary higher (t-value not
+significant) than did those who chose Germany. Interesting is that this factor plays a very
+important role for India (positive and significant co-efficient). This means that those students
+who chose India evaluated salary higher than that for Germany by an amount of 0.52.
+Furthermore, Breidenbach’s theory (1982), which states that the comparatively low income in
+source countries and the correspondingly high income in industrialised countries together
+result in one cause for migration, is not confirmed by our findings.</p>
+      <p>Our analysis confirms the general assumption in Germany that the need to learn the
+German language might have a negative effect on the decision to migrate to Germany. The
+findings reveal that the determinant language/culture is rated considerably higher by those
+who chose the United States/Canada or “other countries” (significant at the 5% level),
+whereas the coefficient for Great Britain is insignificant for those who chose Germany. As
+expected, Germany has the lowest mean value in this connection (3.92, ranked sixth).
+What’s more, our results confirm Feithen’s hypothesis (1985) that different languages in the
+sending and the receiving countries lead to a language barrier and a decreased likelihood of
+migration to that country.</p>
+      <p>
+        The f-test for this criterion can not be rejected at a level of significance (f-test: 3.65).
+Hence, the equivalence of the mean values can be ruled out to a significant degree, and the
+university students have no significant preference structure for any particular country. This
+situation tallies with the conclusion reached by
+        <xref ref-type="bibr" rid="ref21">Hoffmann (2001)</xref>
+        and Wagener (2000) that
+the German language is to some extent viewed as a fundamental problem for those
+interested in the Green Card. Owing to this language barrier, Germany is to be regarded as
+the second to last choice after the English-speaking countries (except USA/Canada).
+        <xref ref-type="bibr" rid="ref16">Fiedler
+(2000)</xref>
+        , on the other hand, comes to the conclusion that the language barrier is actually quite
+modest on the whole, and suggests that the willingness to migrate is high, despite language
+barriers.
+      </p>
+      <p>As expected, social networks was evaluated the highest by those participants who
+wished to stay in their native India (t-value: 4.66 at the 1% level). Surprisingly, the positive
+values of the coefficients show that network effects are evaluated as more important in the
+United States/Canada, Great Britain and “other countries” than in Germany (t-values are
+insignificant). Only a negative value is found for Australia. Social networks play a smaller role
+for those individuals who selected Germany than they do for those who chose one of the
+D l
+rae tru
+C po
+p
+O</p>
+      <p>t
+s
+e n
+iittnu lf-eS yeom
+6 *
+9 4
+,6 ,3
+0 (2
+19 )98 36 33
+0 0</p>
+      <p>,
+0 0
+s
+e
+i
+r
+t
+n
+u )
+o G
+C
+r to
+1 (0</p>
+      <p>)
+6140 ,*635 .00072</p>
+      <p>(
+9 8 0
+3 4 0
+5 , 0
+1 (0
+0
+2
+G
+o
+t
+ia f.
+d if
+2
+d
+A N -F (P
+)
+other alternative. One should note here that with regard to the question on the presence of
+relatives or friends abroad, the United States/Canada, Great Britain and remaining countries
+were not viewed as significantly important at all.</p>
+      <p>
+        In general, the considerable importance of network effects on migration has been
+confirmed empirically by both micro- and macro-economic studies
+        <xref ref-type="bibr" rid="ref4">(see, for example, Bauer
+and Zimmermann 1995 for an overview)</xref>
+        . Network effects also proved to be an important
+influence on migration in a study by Vogler (1999). Furthermore,
+        <xref ref-type="bibr" rid="ref16">Fiedler (2000)</xref>
+        has shown
+that a large share of interviewees who migrated to Germany did not receive their information
+from relatives or friends, and has, therefore, concluded that there is a lack of personal
+contact to people living in Germany. After India, Great Britain is ranked second to last
+(ranked seventh, see table 1). Significant differences among the six alternatives can be
+found for this criterion (f-value: 19.16), showing that these university students in their final
+year evaluate this factor differently when comparing specific locations.
+      </p>
+      <p>
+        There are no significant differences between the countries with respect to tolerance
+shown towards foreigners. Thus, equivalence of mean values cannot be ruled out. Only
+those participants choosing Great Britain, the United States/Canada or “other countries”
+rated this criterion slightly higher (plus sign, but insignificant co-efficient) than did those who
+preferred Germany. Hence, the hypothesis from
+        <xref ref-type="bibr" rid="ref19">Gatzweiler (1975)</xref>
+        , discussed above, is not
+confirmed by our findings. As one might expect, university students remaining in India
+assessed this determinant better than did those deciding for Germany. Amazingly, this
+criterion shows a minus sign (statistically significant) for Australia as well. No significant
+differences between the six country options can be proven for tolerance towards foreigners.
+In addition, with the exception of India and Great Britain, this determinant was least important
+for all options considered here (ranked last, see table 1). For Germany, Australia and USA
+and Canada, it was ranked the second to last.
+      </p>
+      <p>The respondents who chose the United States/Canada rated the duration of a
+residence permit slightly higher (t-value: 0.73) than did those who decided in favour of
+Germany. With the restrictive immigration policy in effect until just recently, foreign university
+students in Germany, in particular those from developing countries, were obliged to return to
+their native country upon completion of their studies. These strict measures have now been
+relaxed, for reasons already discussed in this paper.</p>
+      <p>As expected, the duration of a residency permit for India is less important (t-value of –
+1.54) than it is for Germany. The participants evaluated this factor as equally important for
+Australia and the remaining countries in comparison with Germany. They did not rate the
+criterion significantly higher for Great Britain and “other countries” than for Germany. With an
+f-value of 5.09, the null hypothesis of equivalent mean values can be ruled out for this
+determinant. Therefore, not much of a difference for this criterion can be shown for the six
+country options.</p>
+      <p>
+        With regard to the criterion standard of living, it was evaluated as somewhat more
+important by the university students who picked India and all remaining countries (t-values
+positive, but insignificant). Hence, our results, to some extent, confirm Feithen’s hypothesis
+(1985) that an enhanced social status results from increased income, which in turn is
+achieved through improved occupational status in an industrialised country. A study by
+        <xref ref-type="bibr" rid="ref16">Fiedler (2000)</xref>
+        also demonstrates that the considerations of decision-makers with regard to
+leaving their native country, above all, have to do with the advantage of improved financial
+status. Yet the merits of better job opportunities and of a higher standard of living, which may
+come through emigration and which are closely connected with financial betterment (the
+former a precondition and the latter a consequence of one’s financial situation), also receive
+considerable attention. According to an f-test (f-value: 2.59), equivalence of the mean values
+for the criterion standard of living can be ruled out; that is, the determinant is evaluated
+differently for the countries under consideration.
+      </p>
+      <p>
+        According to the t-value (significant at 2.34), the criterion opportunities for
+selfemployment is relevant for India. In comparison with the results for Germany, it is also
+important for those university students who selected United States/Canada, Australia, Great
+Britain or “other countries”. Students who decided in favour of these countries found the
+possibility of self-employment somewhat more pertinent: (the co-efficients are positive, but
+statistically insignificant). According to
+        <xref ref-type="bibr" rid="ref20">Han (2000)</xref>
+        , empirical surveys show that
+selfemployed migrants generate higher incomes on average, than do those in dependent
+employment relationships.
+      </p>
+      <p>
+        Career opportunities in India are of importance: the IT-students, who wished to remain
+in their native country, found this attribute important (t-value: 2.31 at 5% level of
+significance). Those who chose Australia assessed the career opportunities there higher
+than they did those in Germany. The co-efficients are positive for all countries but statistically
+insignificant: these individuals rated the career opportunities there higher than they did those
+in Germany. This result confirms the hypothesis of Schipulle (1973) and
+        <xref ref-type="bibr" rid="ref24">Körner (1999)</xref>
+        ,
+which holds that highly qualified persons have a strong desire to improve their status and
+often experience their own career planning as a pull factor for migration. Equivalence of the
+mean values can be rejected for this criterion at a significance level of 0.000% (f-value: 4.09)
+and the effects of these determinants differ significantly between the various countries.
+      </p>
+      <p>In sum, those individuals who chose the United States/Canada evaluated
+language/culture significantly higher than those students who selected Germany. The other
+criteria depict positive but statistically insignificant coefficients indicating more importance for
+the North American countries than for Germany. Social networks, self-employment, career
+opportunities, salary, language/culture and duration of stay are found more important for
+India than for Germany. Social networks was ranked fourth by those who decided to stay in
+India, in comparison with the other options. Our country comparison showed significant
+differences for the criterion hostility towards foreigners; whereby the mean values for the
+other alternatives differ significantly at the 1% level. Hence, the null hypothesis of equivalent
+mean values can be rejected.</p>
+      <sec id="sec-15-1">
+        <title>Conclusion</title>
+        <p>In this study, we examined the expectations to migrate and the migration decisions among
+highly qualified IT university students in India. By carrying out variance analyses, we tested
+and analysed the information gained through this on-site survey, which was based on a
+questionnaire designed to evaluate the economic and socio-political factors pertaining to the
+students’ migration decisions.</p>
+        <p>Our findings reveal, on the one hand, a relatively high willingness, in general, to
+migrate to industrialised countries and on the other hand, a substantial amount of IT-students
+want to stay in their home country. In the detailed questionnaire on country preferences, the
+participants viewed, in addition to their home country, the North American countries (United
+States and Canada) as their first choice in every respect. Germany was placed second to
+last in the ranking of preferred countries, placed before other countries.</p>
+        <p>A comparison of the mean values for Germany reveals that economic aspects such
+as salary, career opportunities, standard of living and the possibility of self-employment are
+evaluated significantly higher than other institutional or socio-political factors. Particularly
+noteworthy is India’s first place ranking with regard to career opportunities, whereas this
+determinant is placed second for all remaining countries.</p>
+        <p>When evaluating particular factors for each respective country, economic aspects,
+such as career opportunities, salary and standard of living, are very significant factors for all
+countries. The remaining socio-political determinants, such as hostility towards foreigners,
+duration of residence permit, language and social networks, are viewed as less important
+both for Germany and the other countries considered.</p>
+        <p>The individuals who chose the United States/Canada and Great Britain evaluated
+language/culture significantly higher than did those students who chose Germany. There are
+no significant differences between these countries and Germany with respect to the
+remaining criteria (coefficients positive but insignificant).</p>
+        <p>Possibilities for self-employment, career opportunities, social networks, salary and
+language/culture were found to be important for India. For those who wish to stay in India,
+social networks take first place compared to all others. No significant differences were
+measured in our country comparison for the factor hostility towards foreigners and for the
+other factors the mean values differ significantly at the 1% level. For their home country India
+IT-students viewed career opportunities, salary and opportunity for self-employment, social
+networks and language/culture as the most decisive factors for their migration decision.</p>
+      </sec>
+      <sec id="sec-15-2">
+        <title>Outlook and Implications</title>
+        <p>In this analysis the quantification effects of the determinants or elasticities have not yet been
+estimated. In future research these effects will be carried out with the help of econometric
+techniques, such as discrete choice models.</p>
+        <p>One conclusion to be drawn for economic policy recommendations and implications is
+that salary, career opportunities, social networks and language are particularly important
+aspects for locations that attract potential migrants. In order to be internationally competitive
+and to attract special IT-high potentials, government authorities might also want to consider,
+in connection with wage policy, whether tax breaks and incentives for the newly arriving IT
+specialists, for example covering larger shares of language courses at least for the first
+years, might increase Germany’s attractiveness as a location relative to other industrialised
+countries. As a result of such measures, these highly qualified specialists would then have
+more income available. From the current starting salary of EUR 51,000 (a condition of the
+Green Card), immigrants must pay for further language courses and higher enrollment costs
+when placing their children in German language schools. As is well known, highly qualified IT
+specialists earn considerably more in the United States than in Germany. Hence, earned
+income alone provides little incentive for the top talents to come to Germany. On the other
+hand, business is expected to pay competitive wages like those in the United States, a
+situation which up to now would represent a location disadvantage in Germany for small and
+medium-sized businesses.</p>
+        <p>Career opportunities was also named as one of the most important reasons for
+migrating, but it has, as well, been found to be the most important factor for staying in India.
+Quick integration of persons living here is essential, particularly for those working in
+hightech industries. Prospects should be offered for career advancement in various branches of
+the economy so that the best specialists are motivated to produce innovative work for
+Germany and help create competitive products. Opportunities for advancement should be
+facilitated in both the private sector and public administrations, and furthermore, the
+transition to self-employment could be facilitated for these groups of applicants.</p>
+        <p>The university students who selected the United States/Canada said that they
+consider a permanent visa as an important factor in their decision to migrate. For those IT
+specialists who have already arrived in Germany through the Green Card scheme, this
+institutional barrier — that is, the five-year restriction currently in effect or recently introduced
+— should be eased for reasons of competitiveness and integration. With the possibility of an
+indefinite stay, immigrants in Germany will have a more long-term perspective and higher
+chances of integration. It would then also be possible to build up social networks. In addition,
+naturalisation could be made easier for foreigners, who have special knowledge and skills
+and already live in Germany, in order to ensure better integration.</p>
+        <p>Language and cultural barriers for new immigrants could be reduced by offering
+supplementary language courses at universities or Goethe-Institutes in the respective source
+countries. In this way, the migrants could acquire basic language skills early on and bring this
+knowledge along, thereby facilitating quick integration.</p>
+        <p>Although hostility towards foreigners was not found to be a significant factor, detailed
+information on the “Green Card” immigrants should be provided to native residents. This
+information should clearly explain to the public the predominantly economic reasons for the
+employment of IT specialists, and thereby also making the advantages of immigration more
+evident to native residents.</p>
+      </sec>
+      <sec id="sec-15-3">
+        <title>Literature</title>
+        <p>Regets, M. C. (2001), ‘Research and policy issues in high-skilled international migration: A
+perspective with data from the United States’, IZA Discussion Paper No. 366, Bonn:
+IZA.</p>
+        <p>Schipulle, H. P. (1973), Ausverkauf der Intelligenz aus Entwicklungsländern? Eine kritische</p>
+        <p>Untersuchung zum Brain Drain, Munich: Weltforum-Verlag.</p>
+        <p>Stalker, P. (2000), Workers without Frontiers: The Impact of Globalization on International</p>
+        <p>Migration, Boulder, CO: Rienner.</p>
+        <p>Thelen, S. (2000), Der eine braucht Muskeln, der andere Köpfchen. Ein Bildvergleich im Jahr
+der Greencard: Was verbindet Haranto Wijaya mit Amando Sa Rodrigues, in:
+Stuttgarter Zeitung, Nr. 179, 5. August 2000, S.37.</p>
+        <p>Treibel, A. (1999), Migration in modernen Gesellschaften. Soziale Folgen von Einwanderung,</p>
+        <p>Gastarbeit und Flucht, 2d ed., Weinheim/Munich: Juventa-Verlag.</p>
+        <p>Unabhängige Kommission Zuwanderung (2001), Zuwanderung gestalten – Integration
+fördern: Bericht der Unabhängigen Kommission “Zuwanderung”, 4 July 2001, Berlin:
+Bundesministerium des Innern.</p>
+        <p>Vogler, M. (1999), ‘Determinanten der Zuwanderung aus Entwicklungsländern’, Nomos</p>
+        <p>Universitätsschriften, Wirtschaft Band 47.</p>
+        <p>Vogler, M. and Rotte. R. (2000), ‘The effects of development on migration: Theoretical issues
+and new empirical evidence’, Journal of Population Economics, 13, 485–508.
+Wagener, H. W. (2000), ‘Indiens Aderlaß in Wissenschaft und Technik’, Frankfurter
+Allgemeine Zeitung, 67 (20 March 2000), p. 10.</p>
+        <p>Wimmex AG (2001), 6 Monate Greencard in Deutschland – Eine Zwischenbilanz, in
+collaboration with the Bundesanstalt für Arbeit, Munich:
+Winkelmann, R. (2001), ‘Why do firms recruit internationally? Results from the IZA</p>
+        <p>International Employer Survey 2000’, IZA Discussion Paper No. 331: Bonn, IZA.
+Zimmermann, K. F. (1994), ‘Ökonomische Konsequenzen der Migration für den heimischen
+Arbeitsmarkt’, Schweizerische Zeitschrift für Volkswirtschaft und Statistik, 129, 283–
+301.</p>
+        <p>Zimmermann, K. F. (1996), ‘Ein Zuwanderungsgesetz ist längst überfällig’, Handelsblatt, 15
+May 1996, B32–B33.
+Bücher des Forschungsschwerpunkts Markt und politische Ökonomie</p>
+        <p>Books of the Research Area Markets and Political Economy
+Sebastian Kessing
+Essays on Employment Protection
+2003, Freie Universität Berlin,
+http://www.diss.fu-berlin.de/2003/202
+Daniel Krähmer
+On Learning and Information in Markets and
+Organizations
+2003, Shaker Verlag
+Andreas Stephan
+Essays on the Contribution of Public
+Infrastructure to Private: Production and its Political
+Economy
+2002, dissertation.de
+Hans Mewis
+Essays on Herd Behavior and Strategic
+Delegation
+2001, Shaker Verlag
+Andreas Moerke
+Organisationslernen über Netzwerke – Die
+personellen Verflechtungen von
+Führungsgremien japanischer
+Aktiengesellschaften
+2001, Deutscher Universitäts-Verlag
+Silke Neubauer
+Multimarket Contact and Organizational Design
+2001, Deutscher Universitäts-Verlag
+Lars-Hendrik Röller, Christian Wey (Eds.)
+Die Soziale Marktwirtschaft in der neuen
+Weltwirtschaft, WZB Jahrbuch 2001
+2001, edition sigma
+Michael Tröge
+Competition in Credit Markets: A Theoretic
+Analysis
+2001, Deutscher Universitäts-Verlag
+Tobias Miarka
+Financial Intermediation and Deregulation:
+A Critical Analysis of Japanese
+Bank-FirmRelationships
+2000, Physica-Verlag
+Rita Zobel
+Beschäftigungsveränderungen und
+organisationales Lernen in japanischen
+Industriengesellschaften
+2000, Humboldt-Universität zu Berlin
+http://dochost.rz.hu-berlin.de/dissertationen/zobelrita-2000-06-19
+Jos Jansen
+Essays on Incentives in Regulation and
+Innovation
+2000, Tilburg University
+Ralph Siebert
+Innovation, Research Joint Ventures, and
+Multiproduct Competition
+2000, Humboldt-Universität zu Berlin
+http://dochost.rz.hu-berlin.de/dissertationen/siebertralph-2000-03-23/
+Damien J. Neven, Lars-Hendrik Röller (Eds.)
+The Political Economy of Industrial Policy in
+Europe and the Member States
+2000, edition sigma
+Jianping Yang
+Bankbeziehungen deutscher Unternehmen:
+Investitionsverhalten und Risikoanalyse
+2000, Deutscher Universitäts-Verlag
+Christoph Schenk
+Cooperation between Competitors –
+Subcontracting and the Influence of Information,
+Production and Capacity on Market Structure and
+Competition
+1999, Humboldt-Universität zu Berlin
+http://dochost.rz.hu-berlin.de/dissertationen/schenkchristoph-1999-11-16
+Horst Albach, Ulrike Görtzen, Rita Zobel (Eds.)
+Information Processing as a Competitive
+Advantage of Japanese Firms
+1999, edition sigma
+Dieter Köster
+Wettbewerb in Netzproduktmärkten
+1999, Deutscher Universitäts-Verlag
+Christian Wey
+Marktorganisation durch Standardisierung: Ein
+Beitrag zur Neuen Institutionenökonomik des
+Marktes
+1999, edition sigma
+Horst Albach, Meinolf Dierkes, Ariane Berthoin Antal,
+Kristina Vaillant (Hg.)
+Organisationslernen – institutionelle und
+kulturelle Dimensionen
+WZB-Jahrbuch 1998
+1998, edition sigma
+Lars Bergman, Chris Doyle, Jordi Gual, Lars
+Hultkrantz, Damien Neven, Lars-Hendrik Röller,
+Leonard Waverman
+Europe’s Network Industries: Conflicting
+Priorities - Telecommunications
+Monitoring European Deregulation 1
+1998, Centre for Economic Policy Research
+Manfred Fleischer
+The Inefficiency Trap
+Strategy Failure in the
+German Machine Tool Industry
+1997, edition sigma
+Christian Göseke
+Information Gathering and Dissemination
+The Contribution of JETRO to
+Japanese Competitiveness
+1997, Deutscher Universitäts-Verlag</p>
+        <p>DISCUSSION PAPERS 2002
+Human Capital Investment and Globalization in
+Extortionary States
+Merger Control in the New Economy
+Die Determinanten der Mirgrationsentscheidung
+von IT-Hochschulabsolventen aus Pakistan –
+Empirische Befunde zur Ausgestaltung der
+deutschen „Green Card“
+The Determinants of the Migration Decision of
+ITgraduates from Pakistan: Empirical Evidence for
+the Design of a German "Green Card"
+The Effects of Disclosure Regulation on Innovative
+Firms: Common Values
+The Effects of Disclosure Regulation on Innovative
+Firms: Private Values
+On the Politics of the Regulatory Reform:
+Econometric Evidence from the OECD Countries
+Contribution to Productivity or Pork Barrel? The
+Two Faces of Infrastructure Investment
+Unionization Structures and Firms’ Incentives for
+Productivity Enhancing Investments</p>
+        <p>Intermediation in Innovation</p>
+        <p>On the Effectiveness of Anti-Predation Rules
+Entry and Experimentation in
+Oligopolistic Markets for Experience Goods
+The Coevolution of Industries and National</p>
+        <p>Institutions: Theory and Evidence
+Fredrik Andersson</p>
+        <p>Kai A. Konrad
+Lars-Hendrik Röller</p>
+        <p>Christian Wey</p>
+        <p>Talat Mahmood
+Klaus Schömann</p>
+        <p>Talat Mahmood
+Klaus Schömann</p>
+        <p>Jos Jansen</p>
+        <p>Jos Jansen</p>
+        <p>Günter Franke</p>
+        <p>Harris Schlesinger
+Richard C. Stapleton</p>
+        <p>Tomaso Duso</p>
+        <p>Olivier Cadot
+Lars-Hendrik Röller</p>
+        <p>Andreas Stephan</p>
+        <p>Daniel Krähmer
+J. Peter Murmann
+FS IV 02 – 01
+FS IV 02 – 02
+FS IV 02 – 03
+FS IV 02 – 03a
+FS IV 02 – 04
+FS IV 02 – 05
+FS IV 02 – 06
+FS IV 02 – 07
+FS IV 02 – 08
+FS IV 02 – 09
+FS IV 02 – 10
+FS IV 02 – 11
+FS IV 02 – 12
+FS IV 02 – 13
+FS IV 02 – 14
+FS IV 02 – 15
+FS IV 02 – 16
+FS IV 02 – 17
+Johan Lagerlöf
+Paul Heidhues</p>
+        <p>On the Desirability of an Efficiency Defense in</p>
+        <p>Merger Control
+Kai A. Konrad</p>
+        <p>Terrorism and the State</p>
+        <p>Physician Reimbursement, Time-Consistency and
+the Quality of Care</p>
+        <p>Taxation and Education Investment in the Tertiary
+Sector
+‘Be nice, unless it pays to fight’: A New Theory of
+Price Determination with Implications for
+Competition Policy
+Altruism and Envy in Contests:
+An Evolutionarily Stable Symbiosis
+Delay in Contests
+Good Jobs, Bad Jobs and Redistribution
+On the Profitability of Collusion in Location Games
+FS IV 02 – 22
+Daniel Krähmer</p>
+        <p>Delegation versus Authority
+Kai A. Konrad
+Kai A. Konrad
+Helmut Bester</p>
+        <p>Kai A. Konrad
+Kjell Erik Lommerud</p>
+        <p>Bjørn Sandvik
+Odd Rune Straume</p>
+        <p>Steffen Huck
+Vicki Knoblauch</p>
+        <p>Wieland Müller
+Jürgen Bracht</p>
+        <p>Saul Lach</p>
+        <p>Eyal Winter
+Steffen Huck</p>
+        <p>Kai A. Konrad</p>
+        <p>Thomas Knaus
+Robert Nuscheler</p>
+        <p>Kurt R. Brekke</p>
+        <p>Robert Nuscheler
+Odd Rune Straume
+Sebastian Kessing
+Sebastian Kessing</p>
+        <p>Robert M. Adams
+Lars-Hendrik Röller</p>
+        <p>Robin C. Sickles</p>
+        <p>Tomaso Duso</p>
+        <p>Damien J. Neven
+Lars-Hendrik Röller</p>
+        <p>Tomaso Duso</p>
+        <p>Astrid Jung</p>
+        <p>A Note on the Determinants of Labour Share
+Movements
+Employment Protection and Product Market
+Competition
+Identification of Network Externalities in Markets
+for Non-Durables
+Market Power in Outputs and Inputs: An Empirical
+Application to Banking
+The Political Economy of European Merger
+Control: Evidence using Stock Market Data
+Market Conduct and Endogenous Lobbying:
+Evidence from the U.S. Mobile Telecommunications
+Industry
+Learning by Doing and Multiproduction Effects
+over the Life Cycle: Evidence from the
+Semiconductor Industry
+Modeling Oligopolistic Price Adjustment in Micro
+Level Panel Data
+Strategic Trade Policy and the Home Bias in Firm
+Ownership Structure
+Incomplete Risk Adjustment and Adverse
+Selection in the German Public Health Insurance
+System
+Quality and Location Choices under Price
+Regulation
+FS IV 02 – 19
+FS IV 02 – 20
+FS IV 02 – 21
+FS IV 02 – 23
+FS IV 02 – 24
+FS IV 02 – 25
+FS IV 02 – 26
+FS IV 02 – 27
+FS IV 02 – 28
+FS IV 02 – 29
+FS IV 02 – 30
+FS IV 02 – 31
+FS IV 02 – 32
+FS IV 02 – 33
+FS IV 02 – 34
+FS IV 02 – 35
+Annette Boom</p>
+        <p>Kai A. Konrad
+Wolfram F. Richter
+Investments in Electricity Generating Capacity
+under Different Market Structures and with
+Endogenously Fixed Demand
+Zur Berücksichtigung von Kindern
+bei umlagefinanzierter Alterssicherung
+Restraining the Genuine Homo Economicus:
+Why the Economy cannot be divorced from its
+Governance
+Insisting on a Non-Negative Price: Oligopoly,
+Uncertainty, Welfare, and Multiple Equilibria</p>
+        <p>Buyer Power and Supplier Incentives</p>
+        <p>Monopoly Pricing with Negative Network Effects:
+the Case of Vaccines</p>
+        <p>The Breakdown of Authority</p>
+        <p>Paul Heidhues
+Nicolas Melissas</p>
+        <p>Equilibria in a Dynamic Global Game: The Role of
+Cohort Effects
+Political Institutions and Income Inequality: The</p>
+        <p>Case of Decentralization
+Daniel Krähmer</p>
+        <p>Learning and Self-Confidence in Contests
+Sebastian Kessing</p>
+        <p>Delay in Joint Projects
+Ralph Siebert
+Tomaso Duso</p>
+        <p>Astrid Jung
+Thomas R. Cusack</p>
+        <p>Pablo Beramendi
+Kjell Erik Lommerud</p>
+        <p>Frode Meland
+Odd Rune Straume</p>
+        <p>The Introduction of New Product Qualities by
+Incumbent Firms: Market Proliferation versus
+Cannibalization
+Impact of Uncertainty and Sunk Costs on Firm
+Survival and Industry Dynamics
+Endemic Volatility of Firms and Establishments:
+Are Real Options Effects Important?
+Private Monitoring in Auctions
+Product Market Competition and Lobbying
+Coordination in the U.S. Mobile
+Telecommunications Industry
+Taxing Work: Some Political and Economic
+Aspects of Labor Income Taxation
+Globalisation and Union Opposition to
+Technological Change
+SP II 2003 – 01
+SP II 2003 – 02
+SP II 2003 – 03
+SP II 2003 – 04
+SP II 2003 – 05
+SP II 2003 – 06
+SP II 2003 – 07
+SP II 2003 – 08
+SP II 2003 – 09
+SP II 2003 – 10
+SP II 2003 – 11
+SP II 2003 – 12
+SP II 2003 – 13
+SP II 2003 – 14
+SP II 2003 – 15
+SP II 2003 – 16
+SP II 2003 – 17
+SP II 2003 – 18</p>
+        <p>Dan Anderberg</p>
+        <p>Fredrik Andersson
+Eugenio J. Miravete
+Lars-Hendrik Röller</p>
+        <p>Talat Mahmood
+Klaus Schömann</p>
+        <p>Talat Mahmood
+Klaus Schömann</p>
+        <p>Industry Trade-Balance and Domestic Merger
+Policy: Some Empirical Evidence from the U.S.</p>
+        <p>Stratification, Social Networks in the Labour
+Market, and Intergenerational Mobility
+Estimating Markups under Nonlinear Pricing
+Competition
+On the Migration Decision of IT-Graduates: A
+TwoLevel Nested Logit Model
+Assessing the Migration Decision of Indian
+ITGraduates: An Empirical Analysis
+SP II 2003 – 20
+SP II 2003 – 21
+SP II 2003 – 22
+SP II 2003 – 23
+Bestellschein
+Reichpietschufer 50
+Discussion paper(s):
+Bestell-Nr. / Order no.
+Autor/in, Kurztitel /Author(s) / Title(s) in brief</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Bade</surname>
+            ,
+            <given-names>K.J.</given-names>
+          </string-name>
+          (
+          <year>1994</year>
+          ),
+          <string-name>
+            <given-names>Homo</given-names>
+            <surname>Migrans</surname>
+          </string-name>
+          .
+          <article-title>Wanderungen aus und nach Deutschland</article-title>
+          .
+          <source>Erfahrungen und Fragen. Stuttgarter Vorträge zur Zeitgeschichte. Bd. 2</source>
+          ,
+          <string-name>
+            <surname>Essen</surname>
+          </string-name>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Bartel</surname>
+            ,
+            <given-names>A. P.</given-names>
+          </string-name>
+          (
+          <year>1989</year>
+          ), '
+          <article-title>Where do the new U.S. immigrants live?</article-title>
+          '
+          <source>Journal of Labor Economics</source>
+          ,
+          <volume>7</volume>
+          ,
+          <fpage>371</fpage>
+          -
+          <lpage>391</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Bauer</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Epstein</surname>
+            ,
+            <given-names>G. I.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Gang</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          ), '
+          <article-title>What are migration networks?' IZA Discussion Paper No</article-title>
+          .
+          <volume>200</volume>
+          , Bonn: IZA.
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Bauer</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Zimmermann</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>1995</year>
+          ), '
+          <article-title>Modelling international migration: Economic and econometric issues'</article-title>
+          , in: R. van der Arf and L. Heering (eds),
+          <source>Causes of International Migration. Proceedings of a Workshop</source>
+          , Luxembourg,
+          <fpage>14</fpage>
+          -
+          <lpage>16</lpage>
+          December 1994, Eurostat, pp.
+          <fpage>95</fpage>
+          -
+          <lpage>115</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Blahusch</surname>
+            ,
+            <given-names>F.</given-names>
+          </string-name>
+          (
+          <year>1992</year>
+          ),
+          <article-title>Zuwanderer und Fremde in Deutschland</article-title>
+          .
+          <source>Eine Einführung für soziale Berufe</source>
+          , Freiburg: Lambertus.
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Borjas</surname>
+            ,
+            <given-names>G. J.</given-names>
+          </string-name>
+          (
+          <year>1987</year>
+          ), '
+          <article-title>Self-selection and the earnings of immigrants'</article-title>
+          , American Economic Review,
+          <volume>77</volume>
+          (
+          <issue>4</issue>
+          ),
+          <fpage>531</fpage>
+          -
+          <lpage>553</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Borjas</surname>
+            ,
+            <given-names>G. J.</given-names>
+          </string-name>
+          (
+          <year>1994</year>
+          ), '
+          <article-title>The economics of immigration'</article-title>
+          ,
+          <source>Journal of Economic Literature</source>
+          ,
+          <volume>32</volume>
+          (
+          <issue>4</issue>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Breidenbach</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          von (
+          <year>1982</year>
+          ),
+          <article-title>Italiener und Spanier als Arbeitnehmer in der Bundesrepublik Deutschland</article-title>
+          .
+          <article-title>Eine vergleichende Untersuchung zur europäischen Arbeitsmigration</article-title>
+          , Munich: Kaiser, Mainz: Grünewald.
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Burda</surname>
+            ,
+            <given-names>M.C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Härdle</surname>
+            ,
+            <given-names>W.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Müller</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Werwatz</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          , (
+          <year>1998</year>
+          )
+          <article-title>Semiparametric analysis of German east-west migration intentions: facts and theory</article-title>
+          ,
+          <source>Journal of Applied Econometrics</source>
+          ,
+          <volume>13</volume>
+          ,
+          <fpage>525</fpage>
+          -
+          <lpage>541</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Chiswick</surname>
+            ,
+            <given-names>R. B.</given-names>
+          </string-name>
+          (
+          <year>1978</year>
+          ), '
+          <article-title>The effect of Americanization on the earnings of foreign-born men'</article-title>
+          ,
+          <source>Journal of Political Economy</source>
+          ,
+          <volume>86</volume>
+          (
+          <issue>5</issue>
+          ),
+          <fpage>81</fpage>
+          -
+          <lpage>87</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Cobb-Clark</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Crossley</surname>
+            ,
+            <given-names>T. F.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>'Gender, comparative advantage and labor market activity in immigrant families'</article-title>
+          ,
+          <source>IZA Discussion Paper No. 293</source>
+          , Bonn: IZA.
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>DeVoretz</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Maki</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>1983</year>
+          ), 'The immigration of Third World professionals to Canada:
+          <fpage>1968</fpage>
+          -
+          <lpage>1973</lpage>
+          ', World Development,
+          <volume>11</volume>
+          ,
+          <fpage>55</fpage>
+          -
+          <lpage>64</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <given-names>European</given-names>
+            <surname>Information Technology Observatory (EITO)</surname>
+          </string-name>
+          (
+          <year>2000</year>
+          ),
+          <source>EITO</source>
+          <year>2000</year>
+          , Frankfurt: Faist,
+          <string-name>
+            <surname>T.</surname>
+          </string-name>
+          (
+          <year>1997</year>
+          ), '
+          <article-title>Migration und der Transfer sozialen Kapitals oder: Warum gibt es relativ wenige internationale Migranten'</article-title>
+          , in: L. Pries (ed.), Transnationale Migration, BadenBaden:
+          <string-name>
+            <surname>Nomos-Verl</surname>
+          </string-name>
+          .-Ges., pp.
+          <fpage>63</fpage>
+          -
+          <lpage>83</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Feithen</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          (
+          <year>1985</year>
+          ),
+          <article-title>Arbeitskräftewanderungen in der Europäischen Gemeinschaft</article-title>
+          .
+          <source>Bestimmungsgründe und regionalpolitische Implikationen</source>
+          , Frankfurt/New York: Campus-Verlag.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Fertig</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Schmid</surname>
+            ,
+            <given-names>C. M.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ), '
+          <article-title>First- and second-generation migrants in Germany - What do we know and what do people think?' IZA Discussion Paper No</article-title>
+          .
+          <volume>286</volume>
+          , Bonn: IZA.
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Fiedler</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          ), '
+          <article-title>Elitenmigration- migrationsbedingungen für hochqualifizierte Informationstechnologische-Arbeitskräfte in Indien am Beispiel der Green-Card Initiative'</article-title>
+          , Dissertation, Lehrstuhl für Soziologie, Universität Hohenheim.
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Fischer</surname>
+            ,
+            <given-names>P. A.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Staubhaar</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          ),
+          <article-title>Migration and Economic Integration in the Nordic Common Labour Market. Anniversary Issue: 40 Years of the Nordic Common Labour Market</article-title>
+          . Copenhagen: Nordic Council of Ministers.
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Fleischer</surname>
+            ,
+            <given-names>B. M.</given-names>
+          </string-name>
+          (
+          <year>1963</year>
+          ),
+          <article-title>'Some economic aspects of Puerto Rican migration to the United States'</article-title>
+          ,
+          <source>Review of Economics and Statistics</source>
+          ,
+          <volume>45</volume>
+          ,
+          <fpage>245</fpage>
+          -
+          <lpage>253</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Gatzweiler</surname>
+            ,
+            <given-names>H. P.</given-names>
+          </string-name>
+          (
+          <year>1975</year>
+          ),
+          <article-title>Zur Selektivität interregionaler Wanderung. Ein theoretischempirischer Beitrag zur Analyse und Prognose altersspezifischer interregionaler Wanderung (vol. 1 of Forschungen zur Raumentwicklung series</article-title>
+          ),
+          <source>Bonn: Bundesforschungsanstalt für Landeskunde und Raumordnung.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>Han</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          ), Soziologie der Migration, Stuttgart: Lucius &amp; Lucius.
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <surname>Hoffmann</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ), '
+          <article-title>Schröder spielt die Red-Green Card</article-title>
+          .
+          <article-title>Kanzler schlägt Sondervisa für ausländische Fachkräfte vor'</article-title>
+          ,
+          <source>Süddeutsche Zeitung</source>
+          ,
+          <volume>46</volume>
+          (
+          <issue>25</issue>
+          <year>Feb</year>
+          .
+          <year>2001</year>
+          ), p.
+          <fpage>1</fpage>
+          <string-name>
+            <surname>Huang</surname>
+            ,
+            <given-names>W. C.</given-names>
+          </string-name>
+          (
+          <year>1987</year>
+          ),
+          <article-title>'A pooled cross-section and time series study of professional indirect migration to the United States'</article-title>
+          ,
+          <source>Southern Economic Journal</source>
+          ,
+          <volume>54</volume>
+          ,
+          <fpage>95</fpage>
+          -
+          <lpage>109</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <article-title>Institut der deutschen Wirtschaft Köln (</article-title>
+          <year>2001</year>
+          ), 'Green Card, Meist gut angekommen', Cologne: Author.
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>Janssen</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          ), '
+          <article-title>Mobilität Höherqualifizierter auf internationalen und grenzüberschreitenden Arbeitsmärkten. Ergebnisse einer empirischer Untersuchung in Deutschland und den Niederlanden'</article-title>
+          , in: P. de Gijsel (ed.),
+          <article-title>Mobilität und Kooperation auf grenzüberschreitenden Arbeitsmärkten: Deutschland - Niederlande, Osnabrück: Institut für Migrationsforschung und Interkulturelle Studien</article-title>
+          , pp.
+          <fpage>77</fpage>
+          -
+          <lpage>100</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>Körner</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>'“Brain Drain” aus Entwicklungsländern'</article-title>
+          , in: P. Marschalack (ed.), IMISBeiträge, Nr.
+          <volume>11</volume>
+          ,
+          <string-name>
+            <surname>Osnabrück</surname>
+            <given-names>:</given-names>
+          </string-name>
+          <article-title>Institut für Migrationsforschung und Interkulturelle Studien</article-title>
+          , pp.
+          <fpage>55</fpage>
+          -
+          <lpage>64</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <surname>Liebig</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Sousa-Poza</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ),
+          <article-title>Migration, Self-Selection and Income Inequality: An International Analysis</article-title>
+          ,
+          <string-name>
+            <surname>KYKLOS</surname>
+          </string-name>
+          , Vol.
+          <volume>57</volume>
+          ,
+          <fpage>125</fpage>
+          -
+          <lpage>146</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <surname>Marr</surname>
+            ,
+            <given-names>W. L.</given-names>
+          </string-name>
+          (
+          <year>1975</year>
+          ), '
+          <article-title>Economic determinants of migration</article-title>
+          ,
+          <year>Canada 1950</year>
+          -1967',
+          <source>Nebraska Journal of Economics</source>
+          ,
+          <volume>14</volume>
+          ,
+          <fpage>47</fpage>
+          -
+          <lpage>62</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <string-name>
+            <surname>Mayda</surname>
+            ,
+            <given-names>A. M.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ),
+          <article-title>Who Is Against Immigration? A Cross-Country Investigation of Individual Attitudes towards Immigrants, Discussion Paper 1115, Institute for Study of Labor (IZA-Bonn)</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <string-name>
+            <surname>Neugart</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          ), '
+          <article-title>The supply of new engineers in Germany'</article-title>
+          ,
+          <source>WZB Discussion Paper FS I 00-209</source>
+          , Berlin: Wissenschaftszentrum Berlin.
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <surname>Nielsen</surname>
+            ,
+            <given-names>H. S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Rosholm</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Smith</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Husted</surname>
+            <given-names>L.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>'Qualifications, discrimination, or assimilation? An extended framework for analysing immigrant wage gaps'</article-title>
+          ,
+          <source>IZA Discussion Paper No. 365</source>
+          , Bonn: IZA.
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <string-name>
+            <given-names>Bei</given-names>
+            <surname>Ihren</surname>
+          </string-name>
+          <article-title>Bestellungen von WZB-Papers schicken Sie bitte unbedingt einen an Sie adressierten Aufkleber mit sowie je paper eine Briefmarke im Wert von 0,51 Euro oder einen "Coupon Reponse International " (für Besteller aus dem Ausland)</article-title>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

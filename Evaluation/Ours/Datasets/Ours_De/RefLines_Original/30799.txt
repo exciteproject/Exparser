@@ -1,0 +1,5 @@
+"Bacher, Johann (1994): Clusteranalyse, München, Wien."
+"Blien, Uwe/Hirschenauer, Franziska/Arendt, Manfred/Braun, Hans Jürgen/Gunst, Dieter-Michael/Kilcioglu, Sibel/Kleinschmidt, Helmut/Musati, Martina/Roß, Hermann/Vollkommer, Dieter/Wein, Jochen (2004): Typisierung von Bezirken der Agenturen für Arbeit. In: Zeitschrift für Arbeitsmarktforschung 2, S. 146-175."
+"Blien, Uwe/Hirschenauer, Franziska (2005): Welche Agenturen sind vergleichbar? IAB-Kurzbericht 18, Nürnberg, online im Internet unter: http://doku.iab.de/kurzber/2005/kb1805.pdf"
+"Blien, Uwe/Hirschenauer, Franziska (2005a): Vergleichstypen 2005. Neufassung der Regionaltypisierung für Vergleiche zwischen Agenturbezirken. IABForschungsbericht 24, Nürnberg, online im Internet unter: http://doku.iab.de/forschungsbericht/2005/fb2405.pdf"
+"Wiedenbeck, Michael/Züll, Cornelia (2001): „Klassifikation und Clusteranalyse: Grundlegende Techniken hierarchischer und K-means-Verfahren“, ZUMA, online im Internet unter: http://www.gesis.org/Publikationen/Berichte/ZUMA_How_to/Dokumente/pdf/howto10mwcz.pdf"

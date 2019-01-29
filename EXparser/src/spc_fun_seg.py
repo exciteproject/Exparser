@@ -132,13 +132,15 @@ def preprocwt(ln):
 	ln=re.sub(r"([\,\:\)\}\]])(\w)", r"\1 \2", ln)
 	#remove space after "(" and before ")"
 	ln=re.sub(r"([\(\{\[])[\s]+(\w)", r"\1\2", ln)
-	ln=re.sub(r"(\w)[\s]+([\)\}\]])", r"\1\2", ln)
+	ln=re.sub(r"(\w)[\s]+([\)\}\]\,\.\:\;])", r"\1\2", ln)
+	ln=re.sub(r"(et)[\s]+(al\.)", r"\1\2", ln)
 	
 	#remove space between two given names A. B.
 	ln=re.sub(r"((?<![A-ZÄÜÖÏÈÉÇÂÎÔÊËÙÌÒÀÃÕÑÛa-zäüöïèéçâîôêëùìòàãõñûß0-9])[A-ZÄÜÖÏÈÉÇÂÎÔÊËÙÌÒÀÃÕÑÛ][\.])([\s]+[A-ZÄÜÖÏÈÉÇÂÎÔÊËÙÌÒÀÃÕÑÛ][\.](?![A-ZÄÜÖÏÈÉÇÂÎÔÊËÙÌÒÀÃÕÑÛa-zäüöïèéçâîôêëùìòàãõñûß0-9]))".decode('utf-8'), r"\1\2", ln)
 	
 	ln=re.sub(r"(pp\.|PP\.|S\.|SS\.|ss\.|[Pp]ages[\.])([0-9])", r"\1 \2", ln)
-	#clean page range
+	#clean page range  (removed for Grobid)
+	'''
 	tmp0=re.finditer(r'[\s\(\[\{][0-9]+[^0-9\.\(\)\[\]\{\}\,\:\.]+[0-9]+[\s\)\]\}\.\,]'.decode('utf-8'), ln)
 	tmp = [(m.start(0),m.end(0)) for m in tmp0]
 	tmp1=len(tmp)
@@ -146,6 +148,7 @@ def preprocwt(ln):
 		ln=ln[0:tmp[u][0]+1]+re.sub(r'[^0-9]+','-',ln[tmp[u][0]+1:tmp[u][1]-1])+ln[tmp[u][1]-1::]
 		tmp0=re.finditer(r'[\s\(\[\{][0-9]+[^0-9\.\(\)\[\]\{\}\,\:\.]+[0-9]+[\s\)\]\}\.\,]'.decode('utf-8'), ln)
 		tmp = [(m.start(0),m.end(0)) for m in tmp0]
+	'''
 	# add space before ( [ " ' ....
 	tmp0 = re.finditer(r'(?<=[0-9A-ZÄÜÖÏÈÉÇÂÎÔÊËÙÌÒÀÃÕÑÛa-zäüöïèéçâîôêëùìòàãõñûß])([\(\[\{])'.decode('utf-8'), ln)
 	tmp = [m.start(0) for m in tmp0]
@@ -219,6 +222,7 @@ def lateproc(ln):
 	
 def lateproc_wp(ln):   #without probability
 	#remove <empty>
+	ln=re.sub(r'[\,\;\:\.]\<','<',ln)
 	ln=re.sub(r'<empty>|</empty>'.decode('utf-8'),'', ln)
 	
 	#add first page and last page
@@ -327,7 +331,7 @@ def tagging(ln,label,prob):			#with probability
 				tmp=abv.index(label[i])
 				nln=nln+'</'+tag[a]+'>'+' <'+tag[tmp]+' prob="'+str(prob[i])+'">'+ln[i]
 				a=tmp				
-	if a==3:
+	if (a==3):
 		old=ln[i][tmp1[1]::]
 	nln=nln+'</'+tag[a]+'>'+old
 	return nln

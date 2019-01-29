@@ -1,0 +1,10 @@
+1006_jhpn0029-0009_J_Health_Popul_Nutr_2011_Feb_29(1)_9-13.references.tei.xml
+1015_esr036_J_Hered_2011_May_16_Jul-Aug_102(4)_409-415.references.tei.xml
+1019_ljii31-131_J_Immunoassay_Immunochem_2010_Apr_23_31(2)_131-147.references.tei.xml
+1025_jir035_J_Infect_Dis_2011_May_15_203(10)_1464-1473.references.tei.xml
+1073_1750-2187-6-3_J_Mol_Signal_2011_May_9_6_3.references.tei.xml
+1076_1477-3155-9-24_J_Nanobiotechnology_2011_May_27_9_24.references.tei.xml
+111_10616_2010_Article_9279_Cytotechnology_2010_Jun_25_62(3)_279-283.references.tei.xml
+140_tids33-1103_Disabil_Rehabil_2011_Jun_5_33(13-14)_1103-1109.references.tei.xml
+144_10633_2010_Article_9238_Doc_Ophthalmol_2010_Oct_13_121(2)_111-121.references.tei.xml
+146_udrd16-57_Drug_Deliv_2009_Jan_19_16(1)_57-65.references.tei.xml

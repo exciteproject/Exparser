@@ -1,0 +1,42 @@
+Achen, Christopher H. 2005. “Two-Step Hierarchical Estimation: Beyond Regression Analysis.” Political Analysis 13(4):447–56.
+Aigner, Dennis. J. and Glen G. Cain. 1977. “Statistical Theories of Discrimination in Labor Markets.” Industrial and Labor Relations Review 30(2):175–87.
+Allmendinger, Jutta. 1989. “Educational systems and labor market outcomes.” European Sociological Review 5:231–50.
+Barone, Carlo, and Herman G. Van de Werfhorst. 2011. “Education, Cognitive Skills and Earnings in Comparative Perspective.” International Sociology 26(4):483–502.
+Becker, Gary S. 1964. Human Capital. New York, NY: Columbia University Press.
+Bills, David B. 2003. “Credentials, Signals, and Screens. Explaining the Relationship between Schooling and Job Assignment.” Review of Educational Research 73 (4):441–69.
+Bills, David B., and David K. Brown. 2011. “New Directions in Educational Credentialism.” Research in Social Stratification and Mobility 29 (1):1–4.
+Bol, Thijs, and Herman G. Van de Werfhorst. 2011. “Signals and Closure by Degrees: The Education Effect across 15 European Countries.” Research in Social Stratification and Mobility 29 (1):119–32.
+________. 2013. “Educational Systems and the Trade-Off between Labor Market Allocation and Equality of Educational Opportunity.” Comparative Education Review 57 (2):285– 308.
+Bowles, Samuel and Gintis Herbert. 2000. “Does schooling raise earnings by making people smarter?” Pp. 118–36 in Meritocracy and Economic Inequality, edited by Kenneth Arrow, Samuel Bowles, and Steven Durlauf. Princeton, NJ: Princeton University Press.
+________. 2002. “Schooling in capitalist America revisited.” Sociology of Education 75 (1):1–18.
+Bryan, Mark L., and Stephen P. Jenkins. 2013. Regression Analysis of Country Effects Using Multilevel Data: A Cautionary Tale. Institute for Social and Economic Research. (https://www.iser.essex.ac.uk/publications/working-papers/iser/2013-14.pdf, retrieved September 3, 2013).
+Collins, Randall. 1979. The Credential Society. New York: Academic Press.
+Cialdini, Robert B. and Kenneth D. Richardson. 1980. “Two indirect tactics of image management: Basking and blasting.” Journal of Personality and Social Psychology 39:406–15.
+European Centre for the Development of Vocational Training. 2013. On the way to 2020: Data for vocational education and training policies. Country statistical overviews (Research paper Nr. 31). Luxembourg: Publications Office of the European Union.
+Gamoran Adam. 1986. “Instructional and institutional effects of ability grouping.” Sociology of Education 59:185–98.
+Gebel, Michael and Johannes Giesecke. 2011. “Labor Market Flexibility and Inequality: The Changing Skill-Based Temporary Employment and Unemployment Risks in Europe.” Social Forces 90 (1):17–39.
+Gesthuizen, Maurice, Heike Solga, and Ralf Künster. 2011. “Context Matters: Economic Marginalization of Low-Educated Workers in Cross-National Perspective.” European Sociological Review 27 (2):264–80.
+Hall, Peter A. and David Soskice. 2001. “An introduction to varieties of capitalism.” Pp. 1–68 in Varieties of capitalism: The institutional foundations of comparative advantage, edited by Peter A. Hall and David Soskice. Oxford: Oxford University Press.
+Hallinan, Maureen T. 1992. “The organization of students for instruction in the middle school.” Sociology of Education 65:114–27.
+Hanushek, Eric A., Woessmann, Ludger, and Lei Zhang. 2011. General education, vocational education, and labor-market outcomes over the life-cycle. NBER Working Paper Nr. 17504. Cambridge, MA: National Bureau of Economic Research.
+Hedström, Peter and Richard Swedberg. 1996. “Social Mechanisms.” Acta Sociologica 39 (3):281–308.
+Heisig, Jan Paul. 2011. “Who Does More Housework: Rich or Poor?” American Sociological Review 76 (1):74–99.
+Kerckhoff, Alan C. 1995. “Institutional Arrangements and Stratification Processes in Industrial Societies.” Annual Review of Sociology 15:323–47.
+Kirsch, Irwin. 2001. The International Adult Literacy Survey (IALS): Understanding What Was Measured. Princeton, NJ: Educational Testing Service. (www.ets.org/Media/Research/pdf/ RR-01-25-Kirsch.pdf, retrieved November 25, 2013).
+Lewis, Jeffrey B. and Drew A. Linzer. 2005. “Estimating Regression Models in Which the Dependent Variable Is Based on Estimates.” Political Analysis 13 (4):345–64.
+Marsden, David. 1990. “Institutions an labour mobility: Occupational and internal labour markets in Britain, France, Italy and West Germany.” Pp. 414–38 in Labour relations and economic performance, edited by Renato Brunetta and Carlo Dell’Aringa. Houndmills, England: Palgrave Macmillan.
+Marsh, Herbert W. 1987. “The big-fish-little-pond effect on academic self-concept.” Journal of Educational Psychology 79 (3):280–95.
+Meyer, John W. 1977. “The Effects of Education as an Institution.” American Journal of Sociology 83 (1):55–77.
+Müller, Walter. 1994. “The process and consequences of education differentiation: Summary report.” Pp. 207–13 in The determinants of transitions in youth. Conference Papers, edited by CEDEFOP (European Centre of the Development of Vocational Training). Berlin: CEDEFOP.
+OECD (Organization for Economic Co-operation and Development). 2000. From initial education to working life: Making transitions work. Paris: OECD.
+________. 2004. Learning for Tomorrow's World. Paris: OECD.
+________. 2005. School Factors Related to Quality and Equity. Paris: OECD. ________. 2007. PISA 2006. Volume 2: Data. Paris: OECD.
+________. 2010. Learning for jobs. Paris: OECD.
+________. 2011. Education at a Glance. Paris: OECD.
+________. 2013. OECD Skills Outlook 2013. Paris: OECD.
+Park, Hyunjoon and Pearl Kyei. 2011. “Literacy Gaps by Educational Attainment: A CrossNational Analysis.” Social Forces 89 (3):879–904.
+Shavit, Yossit and Walter Müller. 2000. “Vocational Secondary Education: Where Diversion and Where Safety Net?” European Societies 2 (1): 29-50.
+Snyder, C. R., Mary Anne Lassegard, and Carol E. Ford. 1986. “Distancing after group success and failure: Basking in reflected glory and cutting off reflected failure.” Journal of Personality and Social Psychology 51:382– 88.
+Sørenson, Aage B. 2000. “Toward a Sounder Basis for Class Analysis.” American Journal of Sociology 105 (6):1523–58.
+Spence, Michael. 1973. “Job Market Signaling.” Quarterly Journal of Economics 87 (3):355– 74.
+Van de Werfhorst, Herman G. 2011. “Skill and Education Effects on Earnings in 18 Countries: The Role of National Educational Institutions.” Social Science Research 40 (4):1078– 90.

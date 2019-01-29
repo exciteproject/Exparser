@@ -1,0 +1,14 @@
+1. Andrieu C, de Freitas N, Doucet A, Jordan M (2003) An intro- duction to MCMC for machine learning. Mach Learn 50:5–43
+2. Baluja S, Davies S (1997) Using optimal dependency-trees for combinational optimization. In: Proceedings of international conference of machine learning (ICML’97). Morgan Kaufmann, San Francisco, pp 30–38
+3. Campillo F, Rakotozafy R, Rossi V (2009) Parallel and interacting Markov chain Monte Carlo algorithm. Math Comput Simul 79(12):3424–3433
+4. Chow CK, Liu CN (1968) Approximating discrete probability distributions with dependence trees. IEEE Trans Inf Theory 14:462–467
+5. Corander J, Ekdahl M, Koski Timo (2008) Parallel interacting MCMC for learning of topologies of graphical models. Data Min Knowl Discov 17(3):431–456
+6. Doucet A, de Freitas N, Gordon N, (eds) (2001) Sequential Monte Carlo methods in practice. Springer, Berlin
+7. Drugan MM, Thierens D (2004) Evolutionary Markov chain Monte Carlo. In: Artificial evolution, LNCS 2936. Springer, Berlin, pp 63–76
+8. Drugan MM, Thierens D (2005) Recombinative EMCMC algorithms. In: Proceeding of IEEE congress of evolutionary computation, CEC’05. IEEE Press, Piscataway, pp 2024–2031
+9. Fearnhead P (2008) Special issue: adaptive Monte Carlo methods. Stat Comput 18(4):341–480
+10. Geraci J (2008) A new connection between quantum circuits, graphs and the ising partition function. Quantum Inf Process 7(5):227–242
+11. Geyer CJ (1991) Markov Chain Monte Carlo maximum likeli- hood. In: Computing science and statistics: proceeding of the 23rd symposium on the interface. pp 156–163
+12. Gilks WR, Richardson S, Spiegelhalter DJ, editors (1996) Markov Chain Monte Carlo in practice. Chapman & Hall, London
+13. Hastings WK (1970) Monte Carlo sampling methods using Markov chains and their applications. Biometrika 57:97–109
+14. Kirkpatrick S, Gelatt CD, Vecchi MP (1983) Optimization by simulated annealing. Science 220(4598):671–680

@@ -1,0 +1,19 @@
+1. Centers for Disease Control and Prevention (2012). National Health Interview Survey 2012 Questionnaires, English. Retrieved electronically on 20 December, 2013 from http://www.cdc.gov/nchs/nhis/quest_data_related_1997_forward.htm.
+2. Converse, J. M., and H. Schuman. 1974. Conversations at Random: Survey Research as Interviewers See It. Hoboken, NJ: John Wiley & Sons.
+3. Currivan, D., A. Nyman, C. F. Turner, and L. Biener. 2004. Does Telephone Audio Computer-Assisted Self-Interviewing Improve the Accuracy of Prevalence Estimates of Youth Smoking? Evidence from the UMass Tobacco Study. Public Opinion Quarterly 68:542-564.
+4. Fowler, F. J., and T. Mangione. 1990. Standardized Survey Interviewing: Minimizing Interviewer-Related Error. Newbury Park: Sage.
+5. Fowler, F. J. 1995. Improving Survey Questions: Design and Evaluation. Thousand Oaks, CA: Sage Publications.
+6. Geer, J. G. 1988. What Do Open-Ended Questions Measure? Public Opinion Quarterly 52: 365-367.
+7. Geer, J. G. 1991. Do Open-Ended Questions Measure “Salient” Issues? Public Opinion Quarterly 55: 360-370.
+8. Groves, R.M., F.J. Fowler, M. P. Couper, J. M. Lepkowski, E. Singer, and R. Tourangeau. 2009. Survey Methodology. Hoboken, NJ: John Wiley & Sons.
+9. Heckathorn, D. D. 1997. Respondent-Driven Sampling: A New Approach to the Study of Hidden Populations. Social Problems, 44:174-199.
+10. Pasek, J., and J. A. Krosnick. 2010. Optimizing Survey Questionnaire Design in Political Science: Insights From Psychology. In Oxford Handbook of American Elections and Political Behavior, ed. J. Leighley, 27-50. Oxford: Oxford University Press.
+11. Schober, M. F. 1998. Making Sense of Questions: An Interactional Approach. In Cognition and Survey Research, eds. M. G. Sirken, D. J. Herrmann, S. Schechter, N. Schwarz, J. M. Tanur, and R. Tourangeau. New York: Wiley.
+12. Schober, M. F., and F. G. Conrad. 1997. Does Conversational Interviewing Reduce Survey Measurement Error? Public Opinion Quarterly 61:576-602.
+13. Schober, M. F., and F. G. Conrad. 2002. A Collaborative View of Standardized Survey Interviews. In Standardization and Tacit Knowledge: Interaction and Practice in the Survey Interview, eds. D. Maynard, H. Houtkoop-Steenstra, N. C. Schaeffer, and J. van der Zouwen. New York: Wiley.
+14. Schaeffer, N. C., and D. W. Maynard. 2008. The Contemporary Standardized Survey Interview for Social Research. In Envisioning the Survey Interview of the Future, ed. F. G. Conrad and M. Schober. New York: Wiley.
+15. Smyth, J.D., D.A. Dillman, L. M. Christian, and M.J. Stern. 2006. Comparing Check-all and Forced-Choice Question Formats in Web Surveys. Public Opinion Quarterly, 70:66-77.
+16. Tourangeau, R. and Smith, T. W. 1996. Asking Sensitive Questions: The Impact of Data Collection Mode, Question Format, and Question Context. Public Opinion Quarterly, 60: 275-305.
+17. United States Census Bureau (2010). Current Population Survey Voting and Registration Supplement Questionnaire, November, 2010. Retrieved electronically on 20 December, 2013 from http://www.census.gov/cps/methodology/techdocs.html.
+18. Wilson, S. 2010. Cognitive Interview Evaluation of the 2010 National Health Interview Survey Supplement on Cancer Screenings & Survivorship: Results of interviews conducted October – December, 2008. National Center for Health Statistics. Hyattsville, MD.
+19. Willson, S. 2013. Cognitive Interview Evaluation of the Federal Statistical System Trust Monitoring Survey, Round 1: Results of interviews conducted in October, 2011. National Center for Health Statistics. Hyattsville, MD.

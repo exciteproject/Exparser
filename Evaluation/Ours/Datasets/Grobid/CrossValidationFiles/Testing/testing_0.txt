@@ -1,0 +1,10 @@
+1013_534_2007_Article_1275_J_Hepatobiliary_Pancreat_Surg_2008_Jan_16_15(1)_7-14.references.tei.xml
+1027_10545_2011_Article_9281_J_Inherit_Metab_Dis_2011_Jun_9_34(3)_811-818.references.tei.xml
+1040_jksc-27-99_J_Korean_Soc_Coloproctol_2011_Apr_30_27(2)_99-101.references.tei.xml
+1045_djmf24-628_J_Matern_Fetal_Neonatal_Med_2011_Apr_14_24(4)_628-635.references.tei.xml
+1047_285_2008_Article_205_J_Math_Biol_2009_Jun_14_58(6)_845-880.references.tei.xml
+1080_np100826q_J_Nat_Prod_2011_Mar_25_74(3)_537-545.references.tei.xml
+116_da0028-0471_Depress_Anxiety_2011_Jun_19_28(6)_471-477.references.tei.xml
+126_dev0052-0731_1_Dev_Psychobiol_2010_Dec_12_52(8)_731-739.references.tei.xml
+134_1758-5996-3-7_Diabetol_Metab_Syndr_2011_May_9_3_7.references.tei.xml
+150_ddr0071-0020_Drug_Dev_Res_2010_Feb_71(1)_20-32.references.tei.xml

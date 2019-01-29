@@ -1,0 +1,1902 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Rev World Econ</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1007/s10290-009-0022-5</article-id>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>JEL Classification</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>L. Jensen T. Lu ̈thje (&amp;) Department of Entrepreneurship and Relationship Management, University of Southern Denmark</institution>
+          ,
+          <addr-line>Odense</addr-line>
+          ,
+          <country country="DK">Denmark</country>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2009</year>
+      </pub-date>
+      <volume>145</volume>
+      <fpage>469</fpage>
+      <lpage>488</lpage>
+      <abstract>
+        <p>A common feature in the empirical literature of intra-industry trade is the analysis of trade between a given reference country and a set of partners. This article differs from previous studies by examining the bilateral trade among all trading partners within a set of partners. Using a panel data approach, we find that differences in factor endowments seem not to be important as a driving force behind vertical intra-industry trade for European countries over the chosen period. More important driving forces are production size, geographical proximity, average income per capita and income distribution overlap.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>European trade</kwd>
+        <kwd>Panel data</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>F10
+F14
+F15</p>
+    </sec>
+    <sec id="sec-2">
+      <title>1 Introduction</title>
+      <p>Trade between two countries within a product category is characterized as
+intraindustry trade (IIT) if both export and import exist, and IIT is characterized as
+horizontal (HIIT) if trade consists of varieties of the same quality, and as vertical
+(VIIT) if the varieties are of a different quality. Empirical research1 points out that
+VIIT is the dominant type of total IIT.</p>
+      <p>A common feature of the above mentioned investigations is the analysis of trade
+between a given reference country and a set of partners. The empirical results are
+not unambiguous with regard to the relationship between differences in factor
+endowments between trade partners on the one side and the two types of IIT on the
+other. It is possible that the estimated relationships depend on the reference country.
+Therefore, it is relevant to examine the bilateral trade among all partners within a set
+of partners. Such an analysis has not yet been conducted in the international
+literature. We conduct an econometric analysis of European VIIT in manufactured
+goods from 1996 to 2005. The countries are the EU-15 countries and four East
+European countries: Hungary, Slovakia, Poland and the Czech Republic. The choice
+of countries is determined by two considerations: (1) the availability of data for both
+trade flows and explanatory variables and (2) the countries should operate on a
+common market so that problems of trade barriers etc. can be left out of
+consideration. We also analyze the implications of geographical proximity. This
+determinant captures such factors as similarities in language and culture and thereby
+similarity of consumer patterns. Finally, we investigate the role of income
+distribution overlap between countries and the effect of production size.</p>
+      <p>In Sect. 2, theoretical foundations and empirical applications are discussed. The
+measurement of IIT is worked through in Sect. 3, and after some preliminary
+investigations in Sect. 4, explanatory variables and hypotheses are listed in Sect. 5.
+The results of the econometric estimations are shown in Sects. 6, and 7 concludes
+the article.</p>
+    </sec>
+    <sec id="sec-3">
+      <title>2 Theoretical foundations</title>
+      <p>In this section, we discuss theoretical foundations of determinants that may explain
+VIIT. We discuss the effect of income distribution overlap, difference in factor
+endowment, production size and geographical proximity. By capital endowment we
+mean physical capital, technological capital as well as human capital. In the
+analysis, we discuss both the demand side and the production side.</p>
+      <p>
+        The theoretical framework of VIIT is rooted in the work of
+        <xref ref-type="bibr" rid="ref26">Linder (1961)</xref>
+        although he did not use the term VIIT explicitly. Linder assumes that the individual
+demand for quality of a given variety is increasing with income. Considering two
+countries, an overlap in income distribution determines whether the demand for a
+given good will exist in both countries. Within this overlap, consumers with low
+incomes demand low-quality varieties, whereas high-income consumers demand
+high-quality varieties. However, the overlap in income distribution can be so small
+that low quality goods demanded in the low-income country are not demanded in
+the high-income country. The same applies to high-quality goods. Therefore, a
+variety on a given quality level is not demanded in both countries, and then VIIT in
+this good cannot exist2.
+        <xref ref-type="bibr" rid="ref11">Falvey and Kierzkowski (1987)</xref>
+        ,
+        <xref ref-type="bibr" rid="ref12">Flam and Helpman (1987)</xref>
+        ,
+        <xref ref-type="bibr" rid="ref32">Stokey (1991)</xref>
+        and
+        <xref ref-type="bibr" rid="ref6">Copeland and Kotwal (1996)</xref>
+        also assign a central role to income
+distributions. Moreover, the level of income per capita is determined by the capital
+intensity, thus the capital-abundant countries have a relatively high income per
+2
+        <xref ref-type="bibr" rid="ref26">Linder (1961)</xref>
+        ,
+        <xref ref-type="bibr" rid="ref11">Falvey and Kierzkowski (1987)</xref>
+        ,
+        <xref ref-type="bibr" rid="ref32">Stokey (1991)</xref>
+        ,
+        <xref ref-type="bibr" rid="ref6">Copeland and Kotwal (1996)</xref>
+        and
+        <xref ref-type="bibr" rid="ref30">Murphy and Shleifer (1997)</xref>
+        .
+capita, and the labor-abundant countries have a relatively low income per capita.
+Our first hypothesis is
+      </p>
+      <sec id="sec-3-1">
+        <title>H1: We expect VIIT to be more prominent among countries with a high degree of income distribution overlap.</title>
+        <p>
+          Turning to the production side, the quality level of a product variety increases
+with capital intensity. If a given good is produced in two countries, one of which is
+capital-abundant and the other is labor-abundant (or less capital-abundant), we may
+assume that the capital-abundant country produces high-quality varieties, whereas
+the labor-abundant (or the less capital-abundant) country produces low-quality
+varieties. Depending on the demand in the two countries, as discussed above, VIIT
+will arise3. Many authors in empirical analysis expect a positive relationship
+between VIIT and differences in factor endowments, see e.g.
+          <xref ref-type="bibr" rid="ref9">Durkin and Krygier
+(2000)</xref>
+          ,
+          <xref ref-type="bibr" rid="ref28">Mart´ın-Montaner and R´ıos (2002)</xref>
+          ,
+          <xref ref-type="bibr" rid="ref29">Mora (2002)</xref>
+          ,
+          <xref ref-type="bibr" rid="ref7">Crespo and Fontoura
+(2004)</xref>
+          and
+          <xref ref-type="bibr" rid="ref35">Zhang et al. (2005)</xref>
+          . However, it is not sufficient to look at the
+production side; the demand side needs to be included too as discussed above. Since
+a large difference in factor endowments between two countries also indicates a large
+difference in income per capita, we may even expect VIIT to be small in case of a
+too large difference in factor endowments.
+        </p>
+        <p>
+          When we turn to the empirical evidence of the effect of differences in factor
+endowments on VIIT,
+          <xref ref-type="bibr" rid="ref28">Mart´ın-Montaner and R´ıos (2002)</xref>
+          and
+          <xref ref-type="bibr" rid="ref29">Mora (2002)</xref>
+          use the
+three above mentioned variables as a proxy of capital: physical capital,
+technological capital and human capital.4
+          <xref ref-type="bibr" rid="ref28">Mart´ın-Montaner and R´ıos (2002)</xref>
+          find a positive
+relationship between VIIT and the three variables, whereas
+          <xref ref-type="bibr" rid="ref29">Mora (2002)</xref>
+          finds a
+negative relationship between VIIT and physical capital. The two other capital
+variables show a positive relationship, although not significant, as regards human
+capital.
+          <xref ref-type="bibr" rid="ref9">Durkin and Krygier (2000)</xref>
+          investigate HIIT and VIIT in relation to physical
+capital and use as a proxy of the latter, GDP per capita. They find a positive
+relationship with VIIT. One the one hand, some of the estimated relationships are
+insignificant, depending on how IIT is separated into HIIT and VIIT.
+          <xref ref-type="bibr" rid="ref7">Crespo and
+Fontoura (2004)</xref>
+          also use GDP per capita as a proxy of physical capital and find a
+positive relationship with VIIT. On the other hand, Gullstrand (2002b), who also
+uses GDP per capita as a proxy of physical capital, expects a negative relationship
+with VIIT. However, his empirical results do not support any explanatory power of
+differences in factor endowments. Finally, it cannot be ruled out that differences in
+factor endowments at industry level have a different impact on VIIT. Mora (2002:
+pp 308–310) finds that at industry level for some industries the relationship is
+positive and for other industries negative with regard to differences in factor
+endowments. Since we chose VIIT as an aggregated index over industries, the
+heterogeneity of industries in relation to a trading partner country has implications
+for the direction of the relationship between the absolute difference in factor
+endowments and VIIT. In other words the effect of differences in factor
+3
+          <xref ref-type="bibr" rid="ref10">Falvey (1981)</xref>
+          ,
+          <xref ref-type="bibr" rid="ref11">Falvey and Kierzkowski (1987)</xref>
+          ,
+          <xref ref-type="bibr" rid="ref12">Flam and Helpman (1987)</xref>
+          ,
+          <xref ref-type="bibr" rid="ref32">Stokey (1991)</xref>
+          ,
+          <xref ref-type="bibr" rid="ref8">Davis
+(1995)</xref>
+          ,
+          <xref ref-type="bibr" rid="ref6">Copeland and Kotwal (1996)</xref>
+          and
+          <xref ref-type="bibr" rid="ref30">Murphy and Shleifer (1997)</xref>
+          .
+4 More precisely,
+          <xref ref-type="bibr" rid="ref29">Mora (2002)</xref>
+          investigates high-quality VIIT.
+endowments is not equal for all countries. Therefore, country-specific effects of
+differences in factor endowments have to be investigated too. It appears that the
+empirical results are not unambiguous as regards the relationship between
+differences in factor endowments and VIIT. This is also confirmed in an analysis
+by
+          <xref ref-type="bibr" rid="ref23">Jensen and Lu¨thje (2008)</xref>
+          . Hence we can introduce our second hypothesis
+        </p>
+      </sec>
+      <sec id="sec-3-2">
+        <title>H2: The effect of differences in factor endowments on VIIT depends on trade</title>
+        <p>partners.</p>
+        <p>The size of an economy matters too. The greater the size of an economy is, the
+more industries will exist due to economies of scale. In order for VIIT to exist in a
+given good, both trading partners have to produce the good. A given good will more
+likely be produced in a large economy than in a small economy due to diversity of
+industries. Our third hypothesis is</p>
+      </sec>
+      <sec id="sec-3-3">
+        <title>H3: The larger the production size of the trading partners is, the larger VIIT will be.</title>
+        <p>
+          A pair of countries with very different industry structures and/or demand patterns
+will necessarily have a lower VIIT than a pair of countries with coincident industry
+structures and/or demand patterns. Since countries that are close to each other
+geographically will tend to have relatively similar industry structures and demand
+patterns due to e.g. linguistic and cultural similarities, VIIT may be larger among
+such pairs of countries
+          <xref ref-type="bibr" rid="ref26">(see also Linder 1961)</xref>
+          . Furthermore, the information costs
+increase with geographical distance thereby hampering VIIT. Finally, geographical
+proximity also reflects transportation costs. The smaller the transportation costs are,
+the larger is VIIT. In fact, a robust empirical finding is that IIT and accordingly
+VIIT decline with distance between trading partners (for further detai
+          <xref ref-type="bibr" rid="ref27">ls see
+Venables and Rice 2003</xref>
+          ). Accordingly, we can formulate our fourth hypothesis
+        </p>
+      </sec>
+      <sec id="sec-3-4">
+        <title>H4: A. The more similar industry structures between the pair of trading countries</title>
+        <p>are, the larger is VIIT.</p>
+      </sec>
+      <sec id="sec-3-5">
+        <title>B. The more similar demand patterns are between the pair of trading</title>
+        <p>countries are, the larger is VIIT.</p>
+      </sec>
+      <sec id="sec-3-6">
+        <title>C. The smaller the information and transportation costs between the pair of</title>
+        <p>trading countries are, the larger is VIIT.</p>
+      </sec>
+    </sec>
+    <sec id="sec-4">
+      <title>3 Measurement of intra-industry trade</title>
+      <p>
+        IIT between two countries of a product category j is measured by the
+        <xref ref-type="bibr" rid="ref17">Grubel and
+Lloyd (1975)</xref>
+        index:
+      </p>
+      <p>IITj ¼ 1
+where Xj and Mj are the value of export respectively import inside product category
+j, |Xj - Mj| the net trade, (Xj ? Mj) is the value of the total trade. Accordingly, the
+ð2Þ
+part of foreign trade characterized by being inter-industry is 1 - IITj. An aggregate
+index of total IIT between two countries can be attained as a weighted sum of IIT
+indices:</p>
+      <p>IIT ¼</p>
+      <p>X
+j
+1</p>
+      <p>
+        In order to split the IIT index into a horizontally and a vertically differentiated
+part
+        <xref ref-type="bibr" rid="ref16">Greenaway et al. (1995)</xref>
+        reformulate Grubel and Lloyd’s index, see Eq. 2, to
+where H refers to horizontally and V to vertically differentiated products, ‘‘j [ p’’
+refers to the products that are p differentiated (p = H or V).
+      </p>
+      <p>The products are split into horizontally or vertically differentiated products by
+the use of unit values as a proxy of quality. IIT is considered to consist of
+horizontally differentiated products if unit values satisfy the condition
+where UVjx and UVjm are the unit values of imports and exports of product category j,
+and d a chosen dispersion factor. Otherwise, IIT is considered to consist of vertically
+differentiated products.</p>
+      <p>
+        <xref ref-type="bibr" rid="ref13">Fontagne´ and Freudenberg (1997)</xref>
+        and
+        <xref ref-type="bibr" rid="ref16">Greenaway et al. (1995)</xref>
+        separate
+vertically differentiated products from horizontally differentiated products by the
+use of a dispersion factor of 15 or 25%. In order to evaluate the robustness of the
+results,
+        <xref ref-type="bibr" rid="ref16">Greenaway et al. (1995)</xref>
+        ,
+        <xref ref-type="bibr" rid="ref2">Aturupane et al. (1999)</xref>
+        ,
+        <xref ref-type="bibr" rid="ref9">Durkin and Krygier
+(2000)</xref>
+        , Gullstrand (2002a),
+        <xref ref-type="bibr" rid="ref29">Mora (2002)</xref>
+        and
+        <xref ref-type="bibr" rid="ref7">Crespo and Fontoura (2004)</xref>
+        conduct a
+regression analysis for both dispersion factors and find that the results are not
+particularly sensitive as regards the chosen dispersion factor. See
+        <xref ref-type="bibr" rid="ref31">Nielsen and Lu¨ thje
+(2002</xref>
+        ) and
+        <xref ref-type="bibr" rid="ref27">Lu¨ thje (2003</xref>
+        ) for a further discussion of this method.
+      </p>
+      <p>The index of IIT is calculated from data from OECD’s CD-ROM database
+International Trade by Commodities Statistics HS, 1996–2005 for manufactured
+goods at a 6-digit product level of the harmonized system (HS) nomenclature (see
+Table 5 in the Appendix).</p>
+    </sec>
+    <sec id="sec-5">
+      <title>4 Preliminary investigations</title>
+      <p>An IIT index measuring intra-industry trade between two countries should remain
+invariant if it is calculated from trade data reported by a certain country or by data
+reported from its trade partner due to the symmetry of the formulas. To see whether
+this is the case, correlations between IIT indices based on trade data reported by a
+country and data reported by its partner are shown in Table 1.
+aut
+deu
+dnk
+esp
+fin
+fra
+gbr
+grc
+irl
+ita
+nld
+prt
+swe
+bel
+cze
+hun
+pol
+svk
+166
+166
+166
+165
+166
+166
+166
+166
+165
+162
+165
+166
+167
+119
+165
+164
+166
+152
+Table 1 Correlations of indices
+based on a report country and
+partner countries as report
+country (d = 15%)</p>
+      <sec id="sec-5-1">
+        <title>Country</title>
+        <p>N</p>
+      </sec>
+      <sec id="sec-5-2">
+        <title>Correlations Correlations Correlations of VIIT indices of HIIT indices of IIT indices</title>
+        <p>With respect to Ireland, Greece and Hungary, the reported trade data are not in
+accordance with the figures reported by the partners as regards HIIT. The problem
+may be caused by erroneously reported trade quantities. These are used to calculate
+unit values that serve as a basis to separate horizontal trade from vertical. As regards
+IIT, only trade amounts are used and the two sets of reported indices seem to be
+reasonably in accordance for all countries. Since correlations of VIIT indices based
+on report country and partner countries are high, it is reasonable to use an average of
+the VIIT index of a report country and the partner country as the report country as
+our measure of VIIT. According to our data, VIIT is the more dominant type of IIT
+within European trade. Calculating the fraction of VIIT of total IIT, we found an
+average of 81%.</p>
+        <p>In Table 2, the average bilateral VIIT from 1996 to 2005 is shown. On the
+one hand, countries such as Germany, France and Great Britain have a relatively
+high VIIT with the European countries as a whole. These countries are
+characterized by being at the same economic and cultural level and by being
+large economies. The bilateral VIIT between these countries is at a higher level
+than with other countries. On the other hand, countries such as Greece, Portugal,
+Finland, Ireland, Poland and Slovakia have a relatively low bilateral VIIT.
+Furthermore, it appears from Table 2 that geographical proximity matters.
+Countries far from each other have lower VIIT than countries close to each
+other.</p>
+        <p>9 2 4 1 7 3 3 6 1 2 4 7 1 4 1 5 1 2
+vk .1 .1 .2 .2 .0 .1 .0 .1 .1 .0 .1 .0 .1 .1 .1 .0 .1 .1
+s 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</p>
+        <p>9 4 8 1 8 6 3 2 4 3 5 4 3 2 4 5 6 0
+tr .0 .1 .0 .2 .0 .2 .0 .2 .1 .0 .0 .0 .1 .1 .0 .0 .0 .1
+p 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</p>
+        <p>2 9 3 5 0 6 9 8 3 3 9 2 9 5 4 7 0 2
+1 2 8 1 6 6 2 6 1 3 9 0 1 9 3 3 0 1</p>
+        <p>8 6 9 2 0 8 7 0 2 5 3 8 0 9 8 4 3 8
+lV ze .2 .1 .3 .1 .2 .0 .2 .2 .0 .1 .1 .1 .2 .1 .0 .2 .1 .1
+a c 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+r
+e
+t
+a
+l
+i 9 6 6 1 4 2 4 9 5 1 9 4 5 2 4 2 2 0
+b le .1 .1 .3 .2 .2 .1 .3 .2 .0 .1 .0 .2 .3 .1 .1 .1 .2 .2
+e b 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+g
+a
+r
+e
+v</p>
+      </sec>
+    </sec>
+    <sec id="sec-6">
+      <title>5 Explanatory variables and hypothesis</title>
+      <p>In this section, we operationalize the following explanatory variables: factor
+endowment, production size, proximity, income distribution overlap and average
+GDP.
+5.1 Explanatory variables</p>
+      <sec id="sec-6-1">
+        <title>5.1.1 Income distribution overlap</title>
+        <p>A measure of the income distribution overlap between two countries is calculated
+as follows: Let p1 denote the proportion of the population in the poorer country
+that has an income below the 20% quintile of the income distribution of the richer
+country. Furthermore, let p2 denote the proportion of the population in the richer
+country that has an income above the 80% quintile of the income distribution in
+the poorer country. If the income distribution overlap is small, then both p1 and p2
+will be large. If income distributions are identical, i.e. with full overlap, then both
+p1 and p2 will be 20%. As a measure of income distribution overlap, INCO, we
+calculate
+p1þp2
+2</p>
+        <p>0:2
+INCO ¼ 1
+0:7</p>
+        <p>The factor 0.7 in the denominator is due to the calculation of p1 and p2 from
+income distribution data that are in the form of deciles. Then the maximum of p1
+and p2 is 0.9. In practice, the minimum value of INCO is 0 indicating virtually
+no overlap in income distributions. If income distributions are identical, then
+INCO is 1.</p>
+        <p>
+          Income distribution data for the European countries are calculated partly from
+income share data (household disposal income earned within each decile) in World
+Income Inequality Database (WIID 2C) for a single year (around 1999 for most
+countries) and partly from GDP per capita data from OECD in 2000 dollars and
+purchasing power parties (PPP). From the two sources deciles of income
+distribution can be interpolated. A similar calculation is used by
+          <xref ref-type="bibr" rid="ref9">Durkin and
+Krygier (2000)</xref>
+          .
+        </p>
+      </sec>
+      <sec id="sec-6-2">
+        <title>5.1.2 Factor endowment</title>
+        <p>
+          As in
+          <xref ref-type="bibr" rid="ref28">Mart´ın-Montaner and R´ıos (2002)</xref>
+          and
+          <xref ref-type="bibr" rid="ref29">Mora (2002)</xref>
+          , we decompose capital
+into three variables: physical capital, technological capital and human capital.
+        </p>
+        <p>
+          We measure the endowment of human capital by the fraction of the population,
+25–64 years of age that has attained at least upper secondary education. This is a
+commonly used measure of human capital; see e.g.
+          <xref ref-type="bibr" rid="ref3">Barro and Lee (1993)</xref>
+          ,
+          <xref ref-type="bibr" rid="ref29">Mora
+(2002)</xref>
+          and Gullstrand (2002a, b). Data is from Eurostat’s Internet database for the
+period from 1996 to 2005. Accordingly, the difference in the endowment of human
+capital, DHKL, is measured by the absolute difference between the fraction of the
+population that has attained at least upper secondary education.
+        </p>
+        <p>
+          Technological capital, TK, is measured by the cumulated value of R&amp;D
+expenditures, see e.g.
+          <xref ref-type="bibr" rid="ref5">Coe and Helpman (1995)</xref>
+          and
+          <xref ref-type="bibr" rid="ref29">Mora (2002)</xref>
+          , and is calculated
+by the use of the perpetual inventory method as follows
+        </p>
+        <p>TKt ¼ ð1</p>
+        <p>dÞTKt 1 þ RDEt 1</p>
+        <p>TKt is the technological capital for the year t, and d is the depreciation rate which
+is assumed to be 15%.5 RDE is R&amp;D expenditure estimated in 2000 US$ and PPP
+and is based on data from the OECD. The initial technological capital stock, TK0, is
+calculated as</p>
+        <p>TK0 ¼ RDE0=ð1 þ dÞ
+where RDE0 is R&amp;D expenditure in the first year, and l is the average annual
+logarithmic growth rate of R&amp;D expenditures over the analyzed period. The
+technological capital for each year is divided by the level of employment to obtain
+the technological capital stock per worker, TKL. Thereby, the difference in the
+endowment of technological capital can be measured by the absolute difference in
+technological capital per worker, DTKL.</p>
+        <p>
+          The physical capital per worker, PKL, is in 2000 US$ and PPP. As in
+          <xref ref-type="bibr" rid="ref24">Leamer
+(1984)</xref>
+          the physical capital is measured by the depreciated sum of cumulated gross
+domestic investment using the perpetual inventory method. We use data from 1970
+to 2007 from the OECD, and the depreciation rate is 7%.6 Thereby, the difference in
+the endowment of physical capital can be measured by the absolute difference in
+physical capital per worker, DPKL.
+        </p>
+      </sec>
+      <sec id="sec-6-3">
+        <title>5.1.3 Production size</title>
+        <p>
+          The production size of a country is normally measured by the country’s GDP, see
+e.g.
+          <xref ref-type="bibr" rid="ref7">Crespo and Fontoura (2004)</xref>
+          , but, as the focus of the analysis is on the industrial
+production, GDP is too broad a measure. A more suitable measure of a country’s
+production size in relation to its trading partners seems to be the country’s share of
+the total industrial production of all the analyzed countries, p. Accordingly, we
+measure the production size of a country by the country’s share of the total
+industrial production of the analyzed European countries. We use OECD data for
+the year 2001.The logarithm of the average share of production between partner
+countries is denoted ASP.
+        </p>
+        <p>
+          ASP ¼ log
+p1 þ p2
+2
+where pi is country i’s share of production.
+5 See
+          <xref ref-type="bibr" rid="ref5">Coe and Helpman (1995)</xref>
+          . Alternative measures of technological capital were also calculated
+assuming d to be 5 and 10% with similar results
+          <xref ref-type="bibr" rid="ref5">(Coe and Helpman 1995: pp 883–886)</xref>
+          .
+          <xref ref-type="bibr" rid="ref29">Mora (2002)</xref>
+          assumes 15% too.
+6 See
+          <xref ref-type="bibr" rid="ref4">Benhabib and Spiegel (1994)</xref>
+          . Depreciation rates of 4 and 10% give very similar results
+          <xref ref-type="bibr" rid="ref4">(Benhabib
+and Spiegel 1994: p 167)</xref>
+          .
+          <xref ref-type="bibr" rid="ref29">Mora (2002)</xref>
+          and
+          <xref ref-type="bibr" rid="ref7">Crespo and Fontoura (2004)</xref>
+          assume 7% too.
+        </p>
+      </sec>
+      <sec id="sec-6-4">
+        <title>5.1.4 Geographical proximity</title>
+        <p>In a European context, geographical proximity captures similarities in partly
+language and culture, and thereby similarity of consumer patterns, and partly
+industry structures. Furthermore, geographical proximity also reflects information
+and transportation costs. The more similar countries are and the smaller the
+transportation costs are, the larger is VIIT. We measure geographical proximity by
+DISTANCE: distance between capitals.7</p>
+      </sec>
+      <sec id="sec-6-5">
+        <title>5.1.5 Average GDP</title>
+        <p>In the analysis, we also include the average GDP per capita between two countries,
+AGDPC, i.e. between country a and country b as</p>
+        <p>AGDPC ¼</p>
+        <p>GDP GDP
+CAPITAa þ CAPITAb
+2</p>
+        <p>
+          A higher standard of living will lead to a higher demand for differentiated
+products and thereby a higher VIIT
+          <xref ref-type="bibr" rid="ref18 ref19">(see Gullstrand 2002a: pp 328–331)</xref>
+          .
+        </p>
+        <p>
+          Furthermore, since Gullstrand (2002b) and
+          <xref ref-type="bibr" rid="ref7">Crespo and Fontoura (2004)</xref>
+          find an
+interaction between difference in income distribution within countries (measured as
+difference in GINI coefficients) and difference in GDP per capita, we may suspect
+the effect of AGDPC to depend on INCO. The sign of the interaction will be
+determined empirically.
+5.2 Model
+Some of the explanatory variables from the present panel data set are
+timedependent (DPKL, AGDPC, INCO, DHKL and DTKL) while others are
+timeinvariant (ASP and DISTANCE). Since VIIT is bounded between 0 and 100%, a
+linear model will not guarantee expected values between these limits. Consequently,
+a logistic transformation of VIIT is employed. The data are analyzed by means of
+(mixed) linear models of the form
+          <xref ref-type="bibr" rid="ref15">(see e.g. Frees 2004)</xref>
+          :
+ln
+        </p>
+        <p>VIITit
+1</p>
+        <p>VIITit
+¼ yit ¼ X1itb1i þ X2ib2 þ ai þ eit
+ð5Þ
+in which i is an index of country pair and t is an index of time. X1 is a row
+vector of the time dependent variables, and X2 is a row vector of the time
+independent variables (including a constant to capture an intercept). ai captures
+country pair-specific effects (omitted time-invariant explanatory variables), and e
+is a stochastic residual. The models cannot handle the extreme values 0 and 100%,
+but such values do not occur in the data set. According to the model, the
+regression coefficients in b1i may eventually depend on the variable country pair.
+Hence, the model permits interaction between country pair and the time-dependent
+explanatory variables.
+7 In the case of Germany, we use Frankfurt am Main.</p>
+      </sec>
+    </sec>
+    <sec id="sec-7">
+      <title>6 Econometric estimations</title>
+      <p>
+        A problem with panel data models, as specified in model (5), is the possible
+correlation between a and the explanatory variables
+        <xref ref-type="bibr" rid="ref21">(see e.g. Hausman and Taylor
+1981)</xref>
+        . Treating a as a random variable (a variance component), generalized least
+squares (GLS), in the case of correlation between a and the explanatory variables,
+results in biased and inconsistent estimates of regression coefficients
+        <xref ref-type="bibr" rid="ref21">(Hausman and
+Taylor 1981)</xref>
+        . A possible solution to overcome such a problem is to use so-called
+‘‘within’’ estimates of regression coefficients where the ai’s are treated as fixed
+constants that enter the model in the form of dummy variables. These ‘‘within’’
+estimates are unbiased and consistent even in the presence of correlation between a
+and the explanatory variables. However, by this procedure it is not possible to
+estimate effects of the time-invariant explanatory variables. Then if the analysis
+indicates correlation between a and the explanatory variables, a robust estimation
+procedure has to be sought out. Yet another problem with panel data models of type
+(5) is the possibility of heteroscedasticity of the residual e as well as correlations of
+some form among country pair residuals. We address this problem by using robust
+standard errors
+        <xref ref-type="bibr" rid="ref25 ref34">(White 1980; Liang and Zeger 1986)</xref>
+        in the estimation of standard
+errors. In some of the models, we allow for serial correlation. All the models are
+estimated by maximum likelihood.
+      </p>
+      <p>
+        The results of the econometric estimations are shown in Table 3 with a dispersion
+factor d = 15%, and in Table 4 with a dispersion factor d = 25%. In column (1) in
+Table 3, a model neglecting the variance component a is estimated by OLS. In case
+of no correlation between a and the explanatory variables, OLS will result in
+unbiased and consistent estimates of regression coefficients, although standard
+errors of the estimates are upward biased and thus not reliable. In case of correlation
+between a and the explanatory variables, the estimates are biased and inconsistent
+        <xref ref-type="bibr" rid="ref21">(Hausman and Taylor 1981)</xref>
+        . In column (2) ‘‘within’’ estimates are displayed. The
+large discrepancies between the two sets of estimates indicate a problem with
+correlation between a and the explanatory variables. In column (3) GLS estimates
+are shown. A Hausman specification test
+        <xref ref-type="bibr" rid="ref20">(Hausman 1978)</xref>
+        based on a model (fixed
+effect and random component) with homoscedacity and no serial correlation has a
+v2-value of 15.29. With 6 degrees of freedom the p-value is 0.018 thus indicating a
+problem with correlation between a and the explanatory variables. Accordingly, the
+models (1) and (3) can not serve as reference for inference concerning effects of the
+explanatory variables.
+      </p>
+      <p>Since model (2) does not permit time-invariant explanatory variables, we
+estimate an ‘‘augmented’’ regression model (4)</p>
+      <p>
+        yit ¼ X1itb1 þ X2ib2 þ mi þ X1ic þ eit
+where X1i is a row vector of averages with respect to time of the time-dependent
+explanatory variables
+        <xref ref-type="bibr" rid="ref1 ref14 ref15">(Frees 2001, 2004, see also Arellano 1993)</xref>
+        . One may interpret
+this model as a model that specifies the dependency of a on the time-dependent
+variables as ai ¼ X1ic þ mi.
+        <xref ref-type="bibr" rid="ref22">(See also Hsiao 2003)</xref>
+        . Using GLS estimation in this
+model results in estimators that are robust to time constant omitted variables bias
+        <xref ref-type="bibr" rid="ref15">(Frees 2004)</xref>
+        . Testing the hypothesis c = 0 is an alternative to the Hausman
+s v
+.)guSLAG ..()53077087- .9*7*1*0 ..()0069*40**70 ..()0056*78**40 ..()0022*92**10 ..()5054*36**13 ..()0024*82**10 ..()40703064 ..()10570014 ..()51169088- ..()2167330**3- ..()00510071- ..()50802094 ..()20291019 ..()91832106 ..()0058021**0 .0051 .068 .4390 ,tirsaevon04ob31 tittsaeeeadhdnm
+(4 -
+n
+o
+n
+(
+d
+e
+x
+fi
+n
+o
+y
+f
+o
+)
+i
+(
+C
+P
+D
+n
+o
+n
+(
+d
+e
+x
+fi
+n
+o
+y
+f
+o
+s v
+)7 )7 )4 )4 )5 )6 )9 )1 )3 )5 )0 )8 )2 )2 )7 ion ted
+.guSLAG ..(4368034 .***4610 ..(006***3460 ..(005***4540 ..(002***0310 ..(509***6303 ..(002***7210 ..(4068360 ..(1060900- ..(6177411- ..(215**8903- ..(0051700- ..(5063210- ..(2036120 ..(0267351 ..(005**4210 .0550 .067 .1565 ,trsaevbo0431 ittsaeeahdnm
+      </p>
+      <p>o
+5 it
+0 a
+. l
+0 e</p>
+      <p>r
+, r
+0 o
+1 c
+.
+049 .093 .697 e re</p>
+      <p>
+        0 d
+. h a
+0 5 t u
+t q
+a s
+227 .066 .777 * o
+. * (c in
+0 8 s l
+1 nd t e
+a c v
+e e
+j l
+y
+r
+t
+s
+u
+d
+n
+i
+)
+5
+(
+)
+4
+(
+)
+i
+(
+C
+P
+specification test. Furthermore, since we use robust standard errors in the estimation
+of c, this test is more robust to violation of model assumptions (homoscedasticity
+and no serial correlation). Clearly, from Table 3 the c-vector can not be assumed to
+be the zero vector. We further note that the ‘‘within’’ estimate and the ‘‘augmented’’
+estimate of the vector b1 are equal
+        <xref ref-type="bibr" rid="ref14 ref15">(Frees 2001, 2004)</xref>
+        . Some minor discrepancies in
+Table 3 are due to the estimation routine.
+      </p>
+      <p>Judged from model (4) in Table 3, DISTANCE has a negative effect on VIIT.
+Thus hypothesis H4 is supported by the data. As regards the effect of ASP and
+INCO on VIIT, the signs of the coefficients are as expected and also significant in
+these models and thereby offering support for hypothesis H1 and H3. The effect of
+AGDPC on VIIT is also significant and positive. On the one hand, AGDPC interacts
+significantly with our measure of income distribution overlap, INCO. The negative
+interaction implies that the positive effect on VIIT of a larger income distribution
+overlap between a country pair levels off when average income of the country pair
+increases. On the other hand, the positive effect of AGDPC decreases with larger
+income distribution overlap. In fact, since the regression coefficients for AGDPC
+and the interaction between INCO and AGDPC are of the same size but of a
+different sign, a maximum value of INCO (=1) implies no effect of AGDPC. As
+regards the effects of differences in factor endowments these are positive except the
+effect of DPKL but not significant. The results of models (2) and (4) indicate that
+differences in factor endowments have a minor influence on VIIT.</p>
+      <p>In order to further investigate the effects of differences in factor endowments we
+set up a model allowing for serial correlation (AR (1)) and variable slopes (random
+coefficients) as regards DTKL and DPKL. The random slopes can be expressed as
+b ? di with b as the fixed part and di as a random component with mean zero. Thus
+b is the average slope and di is the difference between the average slope and
+the slope for country pair i. None of the variance components are significant (results
+not shown). Hence we do not find support for hypothesis H2, i.e. the effect of
+differences in factor endowments on VIIT does not depend on trade partners.
+Model (5) takes account of serial correlation and reveals practical identical results
+as model (4).</p>
+      <p>In Table 3, some fit-measures are supplied in order to choose the ‘‘best’’ model
+for inference. R2 is a pseudo coefficient of determination, calculated as the squared
+correlation between the dependent variable y and the estimated values of y based on
+fixed (non-random) effects. Since the country pair level in model (2) is included, the
+value of R2 is very high but at the expense of many parameters. Without the country
+pair level the value is 0.026. This shows that the included time-dependent
+explanatory variables have only a small effect on VIIT. As a fit measure that also
+takes into account the number of parameters of the fitted model is Baysian
+information criterion (BIC), calculated as</p>
+      <p>BIC ¼</p>
+      <p>2 log likelihood þ number of parameters logðN*Þ
+where N* is the number of subjects or country pairs (=153). A smaller value
+indicates a better and more parsimonious model. In this sense, model (5) in Table 3
+is the best model among the relevant models (2), (4) and (5) indicating that
+inference concerning effects should be performed in model (5).</p>
+      <p>In order to investigate the robustness of the conclusions to different choices of
+dispersion factor, results for d = 25% are shown in Table 4. The conclusions
+regarding the effect of the explanatory variables are the same as with d = 15%.</p>
+    </sec>
+    <sec id="sec-8">
+      <title>7 Conclusions</title>
+      <p>Using panel data methods, we conducted an econometric analysis of intra-industry
+trade with vertically differentiated products among the EU-15 countries and four
+East European countries: Hungary, Slovakia, Poland and the Czech Republic. We
+investigated the effect of differences in factor endowments and other determinants
+that emerge from theory: income distribution overlap, average income, share of the
+total industrial production and geographical proximity.</p>
+      <p>We find that differences in factor endowments seem not to be important as a
+driving force behind VIIT for European countries in the period 1996–2005. More
+important driving forces are production size, geographical proximity, average
+income per capita and income distribution overlap. Countries characterized by being
+on a high economic level and by being large economies have a higher bilateral VIIT
+with each other than with other countries. Furthermore, countries with large income
+distribution overlap tend to have a large VIIT. Finally, countries far from each other
+have lower VIIT than countries close to each other.</p>
+      <p>Acknowledgments</p>
+      <p>We acknowledge helpful suggestions and comments by the anonymous reviewer.</p>
+    </sec>
+    <sec id="sec-9">
+      <title>Appendix</title>
+      <p>See Tables 5 and 6.
+29 Organic chemicals
+30 Pharmaceutical products
+31 Fertilizers
+28 Inorgn chem; compds of prec met, radioact elements etc
+32 Tanning/dyeing extract; tannins and derivs; pigm etc
+33 Essential oils and resinoids; perf, cosmetic/toilet prep
+34 Soap, organic surface-active agents, washing prep, etc
+35 Albuminoidal subs; modified starches; glues; enzymes
+36 Explosives; pyrotechnic prod; matches; pyrop alloy; etc
+37 Photographic or cinematographic goods
+63 Other made up textile articles;</p>
+      <p>sets; worn clothing etc
+64 Footwear, gaiters and the like;</p>
+      <p>parts of such articles
+65 Headgear and parts thereof
+66 Umbrellas, walking-sticks,
+seat</p>
+      <p>sticks, whips, etc
+67 Prepr feathers and down; arti</p>
+      <p>flower; articles human hair
+68 Art of stone, plaster, cement,</p>
+      <p>asbestos, mica/sim mat
+69 Ceramic products
+70 Glass and glassware
+71 Natural/cultured pearls, prec</p>
+      <p>stones and metals, coin etc
+72 Iron and steel
+Table 5 continued
+38 Miscellaneous chemical products
+39 Plastics and articles thereof
+40 Rubber and articles thereof
+41 Raw hides and skins (other than furskins) and</p>
+      <p>leather
+42 Articles of leather; saddlery/harness; travel</p>
+      <p>goods etc
+43 Furskins and artificial fur; manufactures thereof 79 Zinc and articles thereof
+44 Wood and articles of wood; wood charcoal
+80 Tin and articles thereof
+45 Cork and articles of cork
+46 Manufactures of straw, esparto/other plaiting</p>
+      <p>mat; etc
+47 Pulp of wood/of other fibrous cellulosic mat;
+waste etc
+81 Other base metals; cermets; articles thereof
+82 Tool, implement, cutlery, spoon and fork, of</p>
+      <p>base met etc
+83 Miscellaneous articles of base metal
+48 Paper and paperboard; art of paper pulp, paper/ 84 Nuclear reactors, boilers, mchy and mech
+paperboard appliance; parts
+49 Printed books, newspapers, pictures and other
+product etc
+85 Electrical mchy equip parts thereof; sound
+recorder etc
+73 Articles of iron or steel
+74 Copper and articles thereof
+75 Nickel and articles thereof
+76 Aluminium and articles thereof
+78 Lead and articles thereof
+50 Silk
+52 Cotton
+51 Wool, fine/coarse animal hair, horsehair yarn</p>
+      <p>and fabric
+53 Other vegetable textile fibres; paper yarn and</p>
+      <p>woven fab
+54 Man-made filaments
+55 Man-made staple fibres
+56 Wadding, felt and nonwoven; yarns; twine,</p>
+      <p>cordage, etc
+57 Carpets and other textile floor coverings
+58 Special woven fab; tufted tex fab; lace;</p>
+      <p>tapestries etc
+59 Impregnated, coated, cover/laminated textile</p>
+      <p>fabric etc
+60 Knitted or crocheted fabrics
+61 Art of apparel and clothing access, knitted or</p>
+      <p>crocheted.
+62 Art of apparel and clothing access, not knitted/
+crocheted
+86 Railw/tramw locom, rolling-stock and parts</p>
+      <p>thereof; etc
+87 Vehicles o/t railw/tramw roll-stock, pts and</p>
+      <p>accessories
+88 Aircraft, spacecraft, and parts thereof.
+89 Ships, boats and floating structures
+90 Optical, photo, cine, meas, checking, precision,</p>
+      <p>etc
+91 Clocks and watches and parts thereof
+92 Musical instruments; parts and access of such</p>
+      <p>articles
+93 Arms and ammunition; parts and accessories</p>
+      <p>thereof
+94 Furniture; bedding, mattress, matt support,</p>
+      <p>cushion etc
+95 Toys, games and sports requisites; parts and</p>
+      <p>access thereof
+96 Miscellaneous manufactured articles
+n
+f io
+o t</p>
+      <p>c
+e u
+r d ) .9 .9 .0 .7 .6 .0 .6 .7 .4 .6 .5 .8 .3 .5 .6 .0 .0 .9
+u r l e
+lop svk uhn zce trp rcg sep fra ita nfi ed bg eb sw ilr kdn tau lnd
+$
+S
+U
+0
+la 002 005
+t
+i
+p d 2</p>
+      <p>)
+y n 5
+rad tiao 002
+n l
+o 4 u –
+c 6 p 6
+se – o 9
+5 p 9</p>
+      <p>1
+rep e2 fo .g
+.5 .8 .1 .4 .6 .0 .4 .7 .1 .4 .8 .0 .0 .9 .0 .7 .4 .9
+p g v 0 4 1 7 1 2 9 2 4 3 1 4 0 8 8 9 6 6
+U A (% A 8 8 7 8 2 5 3 6 4 7 8 6 6 7 5 7 7 6
+s T ( A
+e
+r
+u
+sa ) 5
+e P 0</p>
+      <p>P 0</p>
+      <p>2 7 1 3 3 6 1 7 4 2 5 0 9 2 4 8 4
+vk .0 .0 .6 .1 .0 .3 .1 .1 .2 .6 .9 .2 .2 .0 .8 .7 .0
+s 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+lo .02 .05 .44 .01 .20 .62 .8 3 7 7 9 4 1 2
+3 4 3
+0 .1 .1 .4 .7 .1 .2 .0 .6 .8 .0
+p 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</p>
+      <p>3 0 5 1 6 5 8 3 7 7 9 5 7 4 0 0 1
+un .07 .13 .71 .12 .80 .64 .0 6 3 9</p>
+      <p>9 7 8 9 3 5 0
+2 .2 .3 .6 .2 .3 .0 .7 .8 .9 .1
+h 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+rb .77 .85 .61 .29 .97 .19 .97 .97 .8 .3 .8 .9 .7 .1 .6 .2 .8</p>
+      <p>0 3 7 7 8 7 3 4 5
+g 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</p>
+      <p>1 9 2 6 3 6 5 7 5 6 3 1 2 3 8 7 9
+0
+0
+2
+–
+.
+g
+v
+a
+l
+r
+e
+v
+n .9 .9 .2 .8 .6 .8 .8 .7 .5 .0 .7 .8 .9 .0 .3 .0 .9
+5 d 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</p>
+      <p>6 4 4 8 1 3 6 2 0 1 1 3 8 0 3 3 3
+6 u
+9 e .8 .9 .4 .8 .8 .9 .9 .9 .7 .2 .8 .9 .8 .1 .5 .1 .9
+9 d 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1</p>
+      <p>0 1 4 2 8 5 2 1 2 1 5 4 1 4 0 1 8
+A e
+. z .2 .3 .4 .2 .7 .4 .5 .6 .9 .7 .5 .6 .2 .4 .0 .6 .2
+p c 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Arellano</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>1993</year>
+          ).
+          <article-title>On the testing of correlated effects with panel data</article-title>
+          .
+          <source>Journal of Econometrics</source>
+          ,
+          <volume>59</volume>
+          (
+          <issue>1</issue>
+          / 2),
+          <fpage>87</fpage>
+          -
+          <lpage>97</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Aturupane</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Djankov</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Hoekman</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          ).
+          <article-title>Horizontal and vertical intra-industry trade between Eastern Europe and the European Union</article-title>
+          . Weltwirtschaftliches Archiv/Review of World Economics,
+          <volume>135</volume>
+          (
+          <issue>1</issue>
+          ),
+          <fpage>62</fpage>
+          -
+          <lpage>81</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Barro</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Lee</surname>
+            ,
+            <given-names>J. W.</given-names>
+          </string-name>
+          (
+          <year>1993</year>
+          ).
+          <article-title>International comparisons of educational attainment</article-title>
+          .
+          <source>Journal of Monetary Economics</source>
+          ,
+          <volume>32</volume>
+          (
+          <issue>2</issue>
+          ),
+          <fpage>363</fpage>
+          -
+          <lpage>394</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Benhabib</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Spiegel</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>1994</year>
+          ).
+          <article-title>The role of human capital in economic development: Evidence from aggregate cross-country data</article-title>
+          .
+          <source>Journal of Monetary Economics</source>
+          ,
+          <volume>34</volume>
+          (
+          <issue>2</issue>
+          ),
+          <fpage>143</fpage>
+          -
+          <lpage>173</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Coe</surname>
+            ,
+            <given-names>D. T.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Helpman</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          (
+          <year>1995</year>
+          ). International R&amp;
+          <article-title>D spillovers</article-title>
+          .
+          <source>European Economic Review</source>
+          ,
+          <volume>39</volume>
+          (
+          <issue>5</issue>
+          ),
+          <fpage>859</fpage>
+          -
+          <lpage>887</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Copeland</surname>
+            ,
+            <given-names>B. R.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Kotwal</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          ).
+          <article-title>Product quality and the theory of comparative advantage</article-title>
+          .
+          <source>European Economic Review</source>
+          ,
+          <volume>40</volume>
+          (
+          <issue>9</issue>
+          ),
+          <fpage>1745</fpage>
+          -
+          <lpage>1760</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Crespo</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Fontoura</surname>
+            ,
+            <given-names>M. P.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ).
+          <article-title>Intra-industry trade by types: What can we learn from Portuguese data?</article-title>
+          <source>Review of World Economics/Weltwirtschaftliches Archiv</source>
+          ,
+          <volume>140</volume>
+          (
+          <issue>1</issue>
+          ),
+          <fpage>52</fpage>
+          -
+          <lpage>79</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Davis</surname>
+            ,
+            <given-names>D. R.</given-names>
+          </string-name>
+          (
+          <year>1995</year>
+          ).
+          <article-title>Intra-industry trade: A Heckscher-Ohlin-Ricardo approach</article-title>
+          .
+          <source>Journal of International Economics</source>
+          ,
+          <volume>39</volume>
+          (
+          <issue>3</issue>
+          ),
+          <fpage>201</fpage>
+          -
+          <lpage>226</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Durkin</surname>
+            ,
+            <given-names>J. T.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Krygier</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          ).
+          <article-title>Differences in GDP per capita and the share of intra-industry trade: The role of vertically differentiated trade</article-title>
+          .
+          <source>Review of International Economics</source>
+          ,
+          <volume>8</volume>
+          (
+          <issue>4</issue>
+          ),
+          <fpage>760</fpage>
+          -
+          <lpage>774</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Falvey</surname>
+            ,
+            <given-names>R. E.</given-names>
+          </string-name>
+          (
+          <year>1981</year>
+          ).
+          <article-title>Commercial policy and intra-industry trade</article-title>
+          .
+          <source>Journal of International Economics</source>
+          ,
+          <volume>11</volume>
+          (
+          <issue>4</issue>
+          ),
+          <fpage>495</fpage>
+          -
+          <lpage>511</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Falvey</surname>
+            ,
+            <given-names>R. E.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Kierzkowski</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          (
+          <year>1987</year>
+          ).
+          <article-title>Product quality, intra-industry trade and (Im)perfect competition</article-title>
+          . From In H. Kierzkowski (Ed.),
+          <article-title>Protection and competition in international trade</article-title>
+          . Oxford: Basil Blackwell.
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Flam</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Helpman</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          (
+          <year>1987</year>
+          ).
+          <article-title>Vertical product differentiation and North-South trade</article-title>
+          .
+          <source>American Economic Review</source>
+          ,
+          <volume>77</volume>
+          (
+          <issue>5</issue>
+          ),
+          <fpage>810</fpage>
+          -
+          <lpage>822</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Fontagne´</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Freudenberg</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>1997</year>
+          ).
+          <article-title>Intra-Industry Trade: Methodological Issues Reconsidered</article-title>
+          . (CEPII Working Paper No.
+          <fpage>97</fpage>
+          -
+          <lpage>01</lpage>
+          ). Paris:
+          <string-name>
+            <surname>Centre D'Etudes Prospectives</surname>
+          </string-name>
+          et d'Informations Internationales.
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Frees</surname>
+            ,
+            <given-names>E. W.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ).
+          <article-title>Omitted variables in Longitudinal Data Models</article-title>
+          .
+          <source>Canadian Journal of Statistics</source>
+          ,
+          <volume>29</volume>
+          (
+          <issue>4</issue>
+          ),
+          <fpage>573</fpage>
+          -
+          <lpage>595</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Frees</surname>
+            ,
+            <given-names>E. W.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ).
+          <article-title>Longitudinal and panel data: analysis and applications in the social sciences</article-title>
+          . Cambridge: Cambridge University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Greenaway</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hine</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Milner</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          (
+          <year>1995</year>
+          ).
+          <article-title>Vertical and horizontal intra-industry trade: A cross industry analysis for the United Kingdom</article-title>
+          .
+          <source>Economic Journal</source>
+          ,
+          <volume>105</volume>
+          (
+          <issue>433</issue>
+          ),
+          <fpage>1505</fpage>
+          -
+          <lpage>1518</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Grubel</surname>
+            ,
+            <given-names>H. G.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Lloyd</surname>
+            ,
+            <given-names>P. J.</given-names>
+          </string-name>
+          (
+          <year>1975</year>
+          ).
+          <article-title>Intra-industry trade: The theory and measurement of international trade in differentiated products</article-title>
+          . London: MacMillan Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Gullstrand</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2002a</year>
+          ).
+          <article-title>Does the measurement of intra-industry trade matter</article-title>
+          ? Weltwirtschaftliches Archiv/ Review of World Economics,
+          <volume>138</volume>
+          (
+          <issue>2</issue>
+          ),
+          <fpage>317</fpage>
+          -
+          <lpage>339</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Gullstrand</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2002b</year>
+          ).
+          <article-title>Demand patterns and vertical intra-industry trade with special reference to to North-South Trade</article-title>
+          .
+          <source>Journal of International Trade and Development</source>
+          ,
+          <volume>11</volume>
+          (
+          <issue>4</issue>
+          ),
+          <fpage>429</fpage>
+          -
+          <lpage>455</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>Hausman</surname>
+            ,
+            <given-names>J. A.</given-names>
+          </string-name>
+          (
+          <year>1978</year>
+          ).
+          <article-title>Specification tests in econometrics</article-title>
+          .
+          <source>Econometrica</source>
+          ,
+          <volume>46</volume>
+          (
+          <issue>4</issue>
+          ),
+          <fpage>1251</fpage>
+          -
+          <lpage>1271</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <surname>Hausman</surname>
+            ,
+            <given-names>J. A.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Taylor</surname>
+          </string-name>
+          , W. E. (
+          <year>1981</year>
+          ).
+          <article-title>Panel data and unobservable individual effects</article-title>
+          .
+          <source>Econometrica</source>
+          ,
+          <volume>49</volume>
+          (
+          <issue>6</issue>
+          ),
+          <fpage>1377</fpage>
+          -
+          <lpage>1398</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <surname>Hsiao</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>Analysis of panel data</article-title>
+          . Cambridge: Cambridge University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>Jensen</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          , &amp; L u¨thje,
+          <string-name>
+            <surname>T.</surname>
+          </string-name>
+          (
+          <year>2008</year>
+          ).
+          <article-title>Country specific effects of differences in factor endowments on intraindustry trade-illustrated by the Danish case</article-title>
+          .
+          <source>Global Business and Finance Review</source>
+          ,
+          <volume>13</volume>
+          (
+          <issue>1</issue>
+          ),
+          <fpage>35</fpage>
+          -
+          <lpage>46</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>Leamer</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          (
+          <year>1984</year>
+          ).
+          <article-title>Sources of comparative advantage</article-title>
+          . Cambridge, MA: MIT Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <surname>Liang</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Zeger</surname>
+            ,
+            <given-names>S. L.</given-names>
+          </string-name>
+          (
+          <year>1986</year>
+          ).
+          <article-title>Longitudinal data analysis using generalized linear models</article-title>
+          .
+          <source>Biometrika</source>
+          ,
+          <volume>73</volume>
+          (
+          <issue>1</issue>
+          ),
+          <fpage>13</fpage>
+          -
+          <lpage>22</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <surname>Linder</surname>
+            ,
+            <given-names>S. B.</given-names>
+          </string-name>
+          (
+          <year>1961</year>
+          ).
+          <article-title>An essay on trade and transformation</article-title>
+          . Stockholm: Almqvist &amp; Wiksell.
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          L u¨thje,
+          <string-name>
+            <surname>T.</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>Is intra-industry trade in reality two-way trade? Global Business</article-title>
+          and Finance Review,
+          <volume>8</volume>
+          (
+          <issue>1</issue>
+          ),
+          <fpage>89</fpage>
+          -
+          <lpage>102</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <article-title>Mart´ın-</article-title>
+          <string-name>
+            <surname>Montaner</surname>
+            ,
+            <given-names>J. A.</given-names>
+          </string-name>
+          , &amp; R´ıos,
+          <string-name>
+            <surname>V. O.</surname>
+          </string-name>
+          (
+          <year>2002</year>
+          ).
+          <article-title>Vertical specialization and intra-industry trade: The role of factor endowments</article-title>
+          . Weltwirtschaftliches Archiv/Review of World Economics,
+          <volume>138</volume>
+          (
+          <issue>2</issue>
+          ),
+          <fpage>340</fpage>
+          -
+          <lpage>365</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <surname>Mora</surname>
+            ,
+            <given-names>C. D.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ).
+          <article-title>The role of comparative advantage in trade within industries: A panel data approach for the European Union</article-title>
+          . Weltwirtschaftliches Archiv/Review of World Economics,
+          <volume>138</volume>
+          (
+          <issue>2</issue>
+          ),
+          <fpage>291</fpage>
+          -
+          <lpage>316</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <string-name>
+            <surname>Murphy</surname>
+            ,
+            <given-names>K. M.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Shleifer</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>1997</year>
+          ).
+          <article-title>Quality and trade</article-title>
+          .
+          <source>Journal of Development Economics</source>
+          ,
+          <volume>53</volume>
+          ,
+          <fpage>1</fpage>
+          -
+          <lpage>15</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          <string-name>
+            <surname>Nielsen</surname>
+            , J. U.-M., &amp; L u¨thje,
+            <given-names>T.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ).
+          <article-title>Tests of the empirical classification of horizontal and vertical intra-industry trade</article-title>
+          . Weltwirtschaftliches Archiv/Review of World Economics,
+          <volume>138</volume>
+          (
+          <issue>4</issue>
+          ),
+          <fpage>587</fpage>
+          -
+          <lpage>604</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <string-name>
+            <surname>Stokey</surname>
+            ,
+            <given-names>N. L.</given-names>
+          </string-name>
+          (
+          <year>1991</year>
+          ).
+          <article-title>The volume and composition of trade between rich and poor countries</article-title>
+          .
+          <source>Review of Economic Studies</source>
+          ,
+          <volume>58</volume>
+          (
+          <issue>1</issue>
+          ),
+          <fpage>63</fpage>
+          -
+          <lpage>80</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          <string-name>
+            <surname>Venables</surname>
+            ,
+            <given-names>A. J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Rice</surname>
+            ,
+            <given-names>P. G.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Stewart</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <source>Topics in Economic Analysis and Policy</source>
+          ,
+          <volume>3</volume>
+          (
+          <issue>1</issue>
+          ):
+          <fpage>1</fpage>
+          -
+          <lpage>23</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          <string-name>
+            <surname>White</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          (
+          <year>1980</year>
+          ).
+          <article-title>A hetroskedastictity-consistent covariance matrix estimator and a direct test for hetroskedasticity</article-title>
+          .
+          <source>Econometrica</source>
+          ,
+          <volume>48</volume>
+          (
+          <issue>4</issue>
+          ),
+          <fpage>817</fpage>
+          -
+          <lpage>838</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          <string-name>
+            <surname>Zhang</surname>
+          </string-name>
+          , J., van
+          <string-name>
+            <surname>Witteloostuijn</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Zhou</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          (
+          <year>2005</year>
+          ).
+          <article-title>Chinese bilateral intra-industry trade: A panel data study for 50 countries in the 1992-2001 period</article-title>
+          . Weltwirtschaftliches Archiv/Review of World Economics,
+          <volume>141</volume>
+          (
+          <issue>3</issue>
+          ),
+          <fpage>510</fpage>
+          -
+          <lpage>540</lpage>
+          .
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

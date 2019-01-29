@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_4"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Bacevich Andrew J., "Slow Learner" Washington rules: America's Path to Permanent 
+War. New York: Metropolitan Books (2010) 1-18.</ref>
+<ref>Dietrich, Wolfgang, Wolfgang Sutzl, A Call for Many Peaces"Schlu sseltexte der 
+Friedensforschung = Key texts of peace studies = Textos claves de la investigaciónparala 
+paz. Wien: Lit Verlag (2006) 282-301.</ref>
+<ref>Harvey, David, Neoliberalism 'with Chinese Characteristics" A Brief History of 
+Neoliberalism. Oxford: Oxford University Press (2005) 120-151.</ref>
+<ref>Morgan, Michael L., Philosophy, Totality, and the Everyday: Discovering Levinas. New 
+York: Cambridge University Press (2007) 85-114.</ref>
+<ref>Sachs, Wolfgang, One World: Schlusseltexte der Friedensforschung, Key texts of peace 
+studies Textos claves de la investigaciónpara la paz. Wien: Lit Verlag (2006) 209-224.</ref>
+<ref>Truman Harry, Truman Inaugural Address: Harry S. Truman Library and Museum. N.p., 
+January 20, 1949. 
+n.d.http://www.trumanlibrary.org/whistlestop/50yr_archive/inagural20jan1949.htm 
+[Accessed on 16 Nov. 2011.]</ref>
+<ref>Zizek, Slavoj, Occupy first, Demands come later: The Guardian.N.p., 26 Oct. 2011. 
+http://www.guardian.co.uk/commentisfree/2011/oct/26/occupy-protesters-bill-
+clinton?fb=native &CMP=FBCNETTXT9038 [Accessed on 17 Nov. 2011.]</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,35 @@
+Arellano, M. (1993). On the testing of correlated effects with panel data. Journal of Econometrics, 59(1/ 2), 87–97.
+Aturupane, C., Djankov, S., & Hoekman, B. (1999). Horizontal and vertical intra-industry trade between Eastern Europe and the European Union. Weltwirtschaftliches Archiv/Review of World Economics, 135(1), 62–81.
+Barro, R., & Lee, J. W. (1993). International comparisons of educational attainment. Journal of Monetary Economics, 32(2), 363–394.
+Benhabib, J., & Spiegel, M. (1994). The role of human capital in economic development: Evidence from aggregate cross-country data. Journal of Monetary Economics, 34(2), 143–173.
+Coe, D. T., & Helpman, E. (1995). International R&D spillovers. European Economic Review, 39(5), 859–887.
+Copeland, B. R., & Kotwal, A. (1996). Product quality and the theory of comparative advantage. European Economic Review, 40(9), 1745–1760.
+Crespo, N., & Fontoura, M. P. (2004). Intra-industry trade by types: What can we learn from Portuguese data? Review of World Economics/Weltwirtschaftliches Archiv, 140(1), 52–79.
+Davis, D. R. (1995). Intra-industry trade: A Heckscher-Ohlin-Ricardo approach. Journal of International Economics, 39(3), 201–226.
+Durkin, J. T., & Krygier, M. (2000). Differences in GDP per capita and the share of intra-industry trade: The role of vertically differentiated trade. Review of International Economics, 8(4), 760–774.
+Falvey, R. E. (1981). Commercial policy and intra-industry trade. Journal of International Economics, 11(4), 495–511.
+Falvey, R. E., & Kierzkowski, H. (1987). Product quality, intra-industry trade and (Im)perfect competition. From In H. Kierzkowski (Ed.), Protection and competition in international trade. Oxford: Basil Blackwell.
+Flam, H., & Helpman, E. (1987). Vertical product differentiation and North-South trade. American Economic Review, 77(5), 810–822.
+Fontagné, L., & Freudenberg, M. (1997). Intra-Industry Trade: Methodological Issues Reconsidered. (CEPII Working Paper No. 97-01). Paris: Centre D’Etudes Prospectives et d’Informations Internationales.
+Frees, E. W. (2001). Omitted variables in Longitudinal Data Models. Canadian Journal of Statistics, 29(4), 573–595.
+Frees, E. W. (2004). Longitudinal and panel data: analysis and applications in the social sciences. Cambridge: Cambridge University Press.
+Greenaway, D., Hine, R., & Milner, C. (1995). Vertical and horizontal intra-industry trade: A cross industry analysis for the United Kingdom. Economic Journal, 105(433), 1505–1518.
+Grubel, H. G., & Lloyd, P. J. (1975). Intra-industry trade: The theory and measurement of international trade in differentiated products. London: MacMillan Press.
+Gullstrand, J. (2002a). Does the measurement of intra-industry trade matter? Weltwirtschaftliches Archiv/ Review of World Economics, 138(2), 317–339.
+Gullstrand, J. (2002b). Demand patterns and vertical intra-industry trade with special reference to to North-South Trade. Journal of International Trade and Development, 11(4), 429–455.
+Hausman, J. A. (1978). Speciﬁcation tests in econometrics. Econometrica, 46(4), 1251–1271.
+Hausman, J. A., & Taylor, W. E. (1981). Panel data and unobservable individual effects. Econometrica, 49(6), 1377–1398.
+Hsiao, C. (2003). Analysis of panel data. Cambridge: Cambridge University Press.
+Jensen, L., & L üthje, T. (2008). Country speciﬁc effects of differences in factor endowments on intraindustry trade—illustrated by the Danish case. Global Business and Finance Review, 13(1), 35–46.
+Leamer, E. (1984). Sources of comparative advantage. Cambridge, MA: MIT Press.
+Liang, K., & Zeger, S. L. (1986). Longitudinal data analysis using generalized linear models. Biometrika, 73(1), 13–22.
+Linder, S. B. (1961). An essay on trade and transformation. Stockholm: Almqvist & Wiksell.
+L üthje, T. (2003). Is intra-industry trade in reality two-way trade? Global Business and Finance Review, 8(1), 89–102.
+Mart´ın-Montaner, J. A., & R´ıos, V. O. (2002). Vertical specialization and intra-industry trade: The role of factor endowments. Weltwirtschaftliches Archiv/Review of World Economics, 138(2), 340–365.
+Mora, C. D. (2002). The role of comparative advantage in trade within industries: A panel data approach for the European Union. Weltwirtschaftliches Archiv/Review of World Economics, 138(2), 291–316.
+Murphy, K. M., & Shleifer, A. (1997). Quality and trade. Journal of Development Economics, 53, 1–15.
+Nielsen, J. U.-M., & L üthje, T. (2002). Tests of the empirical classiﬁcation of horizontal and vertical intra-industry trade. Weltwirtschaftliches Archiv/Review of World Economics, 138(4), 587–604.
+Stokey, N. L. (1991). The volume and composition of trade between rich and poor countries. Review of Economic Studies, 58(1), 63–80.
+Venables, A. J., Rice, P. G., & Stewart M. (2003). Topics in Economic Analysis and Policy, 3(1):1–23.
+White, H. (1980). A hetroskedastictity-consistent covariance matrix estimator and a direct test for hetroskedasticity. Econometrica, 48(4), 817–838.
+Zhang, J., van Witteloostuijn, A., & Zhou, C. (2005). Chinese bilateral intra-industry trade: A panel data study for 50 countries in the 1992–2001 period. Weltwirtschaftliches Archiv/Review of World Economics, 141(3), 510–540.
