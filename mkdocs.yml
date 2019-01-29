@@ -12,4 +12,5 @@ pages:
   - Home: 'index.md'
   - About:
     - 'Introduction': 'Introduction.md'
+    - 'Demo': 'Demo.md'
   
