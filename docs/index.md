@@ -3,3 +3,4 @@
 <h3>About</h3>
 
 * [Introduction](Introduction.md)
+* [Demo](Demo.md)
