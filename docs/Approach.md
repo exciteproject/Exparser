@@ -3,7 +3,7 @@ The proposed method of extraction references from PDF documents operates in two 
 ## Features
 ### Line-based (ln)
 #### isup(ln):
-**description:** Does this line start with a capital character?
-**Output:** Boolean (True/False)
+*Description*: Whether the line begins with a capital character?<br/>
+*Output*: Boolean (True/False)
 
 ### Token-based
