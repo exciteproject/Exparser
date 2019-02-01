@@ -3,3 +3,5 @@ This reporsitory contains two folders:
 Is dedicated to extract references from PDF documents 
 [2]:	Evaluation
 
+
+Documentation under https://exparser.readthedocs.io
