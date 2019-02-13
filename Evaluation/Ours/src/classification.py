@@ -276,7 +276,7 @@ def ref_ext(reader):
 	FS[np.isinf(FS)]=0
 	FS=np.transpose([(x-min(x))/(max(x)-min(x)) for x in np.transpose(FS)])
 	FS[np.isnan(FS)]=0
-	a=density_dist(clf1.predict(FS),1,rfidx)
+	a=density_dist(clf.predict(FS),1,rfidx)
 	#a=clf.predict(FS)
 	b=clf.predict_proba(FS)
 	b=[[x[0],x[1],x[2],x[2]] for x in b]

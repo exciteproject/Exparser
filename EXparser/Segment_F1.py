@@ -16,6 +16,7 @@ import jenkspy
 import sqlite3
 import cPickle
 import pickle
+from itertools import groupby
 from collections import OrderedDict
 execfile('./src/Initial_Data.py')
 execfile('./src/gle_fun.py')
@@ -275,7 +276,8 @@ with open('Utils/kde_llen.pkl', 'rb') as fid:
 	kde_llen = pickle.load(fid)
 with open('Utils/kde_tlen.pkl', 'rb') as fid:
 	kde_tlen = pickle.load(fid)
-
+with open('Utils/rf.pkl', 'rb') as fid:
+	clf = pickle.load(fid)
 
 	
 

@@ -44,7 +44,7 @@ def get_sw(ln): #[4]
 def get_yr_re(ln): #[5]   #re=reference extraction
 	# extract all 4 digits from 1000 to 2999
 	yr=re.findall(r'1[8-9]{1}[0-9]{2}|20[0-2]{1}[0-9]{1}'.decode('utf-8'), ln)
-	yr=bool(yr)
+	yr=int(bool(yr))
 	return yr
 	
 def get_qm(ln): #[6]
@@ -92,8 +92,8 @@ def get_cd_re(ln): #[13]   re=reference extraction
 def get_lh(ln,bins,alh): #[14]
 	#bins=[0,3,6,8,12,np.inf]      # it is important to note that the ranges are: from 0 to 3, from 3 to 6 and so on
 	tmp=map(len, ln.split()) 
-	#tmp=np.asarray(map(len, ln.split()))  
-	lh,bins=np.histogram(tmp,bins)
+	tmp2=[np.argmin(abs(np.array(bins)-x)) for x in tmp]
+	lh=np.array([tmp2.count(x) for x in range(len(bins))])
 	lh2=1.0*lh/sum(lh)
 	lh=[x for _,x in sorted(zip(alh,lh),reverse=True)]
 	lh=1.0*np.array(lh)/sum(lh)
@@ -105,7 +105,8 @@ def get_ch(ln,bins,ach): #[15]
 		tmp=[1,1]
 	tmp=[x - tmp[i - 1] for i, x in enumerate(tmp)][1:]
 	#bins=[0,3,6,8,12,np.inf]      # it is important to note that the ranges are: from 0 to 3, from 3 to 6 and so on
-	ch,bins=np.histogram(tmp,bins)
+	tmp2=[np.argmin(abs(np.array(bins)-x)) for x in tmp]
+	ch=np.array([tmp2.count(x) for x in range(len(bins))])
 	ch2=1.0*ch/sum(ch)
 	ch=[x for _,x in sorted(zip(ach,ch),reverse=True)]
 	ch=1.0*np.array(ch)/sum(ch)
@@ -117,9 +118,8 @@ def get_pg_re(ln): #[16]   re=reference extraction
 	return pg
 	
 def get_hc(hp,cl): #[17]
-	#cl=[25,87,120]    #classes which have to be defined
-	tmp=np.absolute(np.asarray(cl)-float(hp))
-	hc=1.0*(np.argmin(tmp)+1)/len(cl)
+	
+	hc=(float(hp)-cl[0])/(cl[1]-cl[0])
 	return hc	
 	
 def get_pb(pb,cl): #[18]
@@ -128,28 +128,25 @@ def get_pb(pb,cl): #[18]
 	
 # width class
 def get_wc(wd,cl): #[19]
-	#cl=[25,87,120]    #classes which have to be defined
-	tmp=np.absolute(np.asarray(cl)-float(wd))
-	wc=1.0*(np.argmin(tmp)+1)/len(cl)
+	wc=(float(wd)-cl[0])/(cl[1]-cl[0])
 	return wc
 
+# width class
+def get_spl(sp,pl): #[19]
+	sc=(float(sp)-pl[0])/(pl[1]-pl[0])
+	return sc	
+	
 #length of lines in term of characters (histogram)   
-def get_ll(ln,bins,all):   #[1bis]
+def get_ll(ln,bins):   #[1bis]
 	tmp=len(re.sub(r'\s'.decode('utf-8'), '', ln))
-	ll,bins=np.histogram(tmp,bins)
-	ll2=1.0*(np.argmax(ll))/len(ll)
-	ll=[x for _,x in sorted(zip(all,ll),reverse=True)]
-	ll=1.0*(np.argmax(ll))/len(ll)
-	return ll,ll2
+	ll=(float(tmp)-bins[0])/(bins[1]-bins[0])
+	return ll
 	
 #length of lines in term of words (histogram)   
-def get_llw(ln,bins,allw):   #[2bis]
+def get_llw(ln,bins):   #[2bis]
 	tmp=len(ln.split())
-	llw,bins=np.histogram(tmp,bins)
-	llw2=1.0*(np.argmax(llw))/len(llw)
-	llw=[x for _,x in sorted(zip(allw,llw),reverse=True)]
-	llw=1.0*(np.argmax(llw))/len(llw)
-	return llw,llw2	
+	llw=(float(tmp)-bins[0])/(bins[1]-bins[0])
+	return llw
 	
 #the position of the line in terms of the entire file   
 def get_lv(lv,lvg):   #[3bis]
@@ -236,3 +233,58 @@ def fin_db_re(ln,stopw,b1,b2,b3,b4,b5,b6):    #re=reference extraction
 	a[4]=1.0*a[4]/len(ln) if len(ln)>0 else 0
 	a[5]=1.0*a[5]/len(ln) if len(ln)>0 else 0
 	return a
+
+def get_index(ln):
+	tmp=re.findall(r'^([\[]*[0-9][\.\)\]]*[\s\b\t ]+)',ln)
+	tmp1=re.findall(r'^([A-ZÄÜÖÏÈÉÇÂÎÔÊËÙÌÒÀÃÕÑÛ]+[a-zäüöïèéçâîôêëùìòàãõñû])',ln)
+	if bool(tmp):
+		idx=1
+	elif bool(tmp1):
+		idx=1
+	else:
+		idx=0
+	return idx
+	
+def check_litratur(row,rfidx,u):		#textlow of ln and last reference index and current position
+	x=re.findall(r'literatur[e]*|references|bibliografie|bibliography|referenz|verweise',textlow(row[0]))
+	y=re.findall(r'Bold|Italic',row[6].split('+')[-1])
+	x=x[0] if bool(x) else ''
+	if ((len(x)>0)&((len(row[0])-len(x))<=6)&bool(y)):
+		rfidx[0]=u
+		rfidx[2]=row[6].split('+')[-1]
+		rfidx[3]=round(float(row[3]),2)
+	elif ((rfidx[1]<rfidx[0])&(len(re.sub(r'[^A-ZÄÜÖÏÈÉÇÂÎÔÊËÙÌÒÀÃÕÑÛa-zäüöïèéçâîôêëùìòàãõñû]*','',row[0]))>5)):		#find the next title after literatur
+		c1=((rfidx[2]==row[6].split('+')[-1])&(rfidx[3]==round(float(row[3]),2)))
+		c2=(bool(re.findall(r'Bold',row[6].split('+')[-1])))
+		if(c1|c2):  #either they have same font and size or different size but both bolds
+			rfidx[1]=u
+	return rfidx
+	
+def get_pos_lit(rfidx,u):
+	if rfidx[0]==0:
+		pdx=0
+	elif u<=rfidx[0]:
+		pdx=-1
+	else:
+		pdx=1
+	if ((u>rfidx[1])&(rfidx[1]>rfidx[0])):
+		pdx=-1
+	return pdx
+	
+def min_ver_dist(vsl,pvsl,nvsl):			#minimal vertical distance 
+	pd=vsl-pvsl if pvsl!=0 else -1
+	pd=500 if pd<0 else pd
+	nd=nvsl-vsl if nvsl!=0 else -1
+	nd=500 if nd<0 else nd
+	mspl=min([pd,nd])
+	return mspl
+	
+def get_ffm(fm,ffm):
+	if fm in ffm[0]:
+		ff=ffm[0].index(fm)
+	else: 
+		ff=-1
+	tmp=int(bool(re.findall(r'Bold',fm)))
+	tmp1=int(bool(re.findall(r'Italic',fm)))
+	fbi=tmp+tmp1
+	return ff,fbi

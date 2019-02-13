@@ -23,7 +23,6 @@ def preproc(ln):
 
 	#remove space between two given names A. B.
 	ln=re.sub(r"((?<!["+acc+asc+"0-9])["+acc+"][\.])([\s]+["+acc+"][\.](?!["+acc+asc+"0-9]))".decode('utf-8'), r"\1\2", ln)
-	ln=re.sub(r"(et)[\s]+(al\.)", r"\1\2", ln)
 	
 	# remove empty tags
 	tag='|'.join(ftag)
@@ -129,7 +128,7 @@ def get_rse(w):  	#ratio special character to everything
 	return rse
 	
 def get_rca(w):  	#ratio capital letter to all letters
-	rca=1.0*len(re.findall(r'['+acc+']+'.decode('utf-8'),w))/max(1,len(re.findall(r'['+acc+asc+']'.decode('utf-8'),w)))
+	rca=1.0*len(re.findall(r'[A'+acc+']+'.decode('utf-8'),w))/max(1,len(re.findall(r'['+acc+asc+']'.decode('utf-8'),w)))
 	return rca
 	
 def get_rsa(w):  	#ratio small letter to all letters
@@ -137,15 +136,13 @@ def get_rsa(w):  	#ratio small letter to all letters
 	return rsa
 
 def get_yr(w): #[2]
-
 	# extract all 4 digits from 1000 to 2999
-	
 	yr=re.findall(r'1[8-9]{1}[0-9]{2}|20[0-2]{1}[0-9]{1}'.decode('utf-8'), w)
 	yr=bool(yr)
 	return yr
 	
 def get_pg(w): #[3]
-	tmp=re.findall(r'[0-9]{1,3}[^0-9\.\(\)\[\]\{\}]+[0-9]{1,3}'.decode('utf-8'), w)
+	tmp=re.findall(r'[0-9]+[^0-9\.\(\)\[\]\{\}]+[0-9]+'.decode('utf-8'), w)
 	pg=bool(tmp)
 	return pg
 
@@ -216,17 +213,10 @@ def get_lnk(w): #[*1]   #is link
 	lnk=bool(tmp)
 	return lnk	
 	
-def get_doi(w): #[*1]   #is link
-	#tmp=re.findall(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+'.decode('utf-8'), w)
-	tmp=re.findall(r'(doi:)([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:/~+#-]*[\w@?^=%&/~+#-])?'.decode('utf-8'), w)
-	lnk=bool(tmp)
-	return lnk
-	
 def get_vol(w): #[*2]   #is vol.
 	tmp=re.findall(r'[Vv]ol\.|[Jj]g\.'.decode('utf-8'), w)
 	vol=bool(tmp)
 	return vol
-	
 
 def get_und(w): #[*2]   #is und
 	tmp=re.findall(r'[^0-9'+acc+asc+'](u\.|and|und)[^0-9'+acc+asc+']'.decode('utf-8'), w)
@@ -234,7 +224,7 @@ def get_und(w): #[*2]   #is und
 	return und
 	
 def get_amo(w): #[*2]   #is among others
-	tmp=re.findall(r'[^0-9A'+acc+asc+'](u\.a\.|et\sal\.)[^0-9'+acc+asc+']'.decode('utf-8'), w)
+	tmp=re.findall(r'[^0-9A'+acc+asc+']u\.a\.[^0-9'+acc+asc+']'.decode('utf-8'), w)
 	if tmp:
 		amo=True
 	else:
@@ -320,7 +310,6 @@ def word2feat(w,stopw,i,l,b1,b2,b3,b4,b5,b6):    #pw is the previous word and nw
 		'digit'		: get_dgt(w),
 		'cdigit'	: get_cgt(w),
 		'link'		: get_lnk(w),
-		'doi'		: get_doi(w),
 		'vol'		: get_vol(w),
 		'und'		: get_und(w),    #to be checked
 		'amo'		: get_amo(w),    #to be checked
@@ -364,7 +353,6 @@ def feat_update(feat,feat2,val):
 		val+'digit'		: feat2['digit'],
 		val+'cdigit'	: feat2['cdigit'],
 		val+'link'		: feat2['link'],
-		val+'doi'		: feat2['doi'],
 		val+'vol'		: feat2['vol'],
 		#val+'und'		: feat2['und'],
 		val+'amo'		: feat2['amo'],
@@ -414,3 +402,21 @@ def add2feat(feat,i):
 		#add thos of ++
 		feat[i]=feat_update(feat[i],feat[i+2],'++')
 	return feat
+	
+	
+def filtering_ref(txt,valid,prob):
+	x=np.where(np.array(valid)!=0)[0]
+	txt=[txt[s] for s in x]
+	valid=[valid[s] for s in x] 
+	prob=[prob[s] for s in x] 
+	return txt,valid,prob
+	
+def restriction (lab):		# this heuristic should be replaced in the completness
+	tmp=re.findall('(?<!FN|LN)(FN|LN)',''.join(lab))
+	tmp1=re.findall('(?<!ED)(ED)',''.join(lab))
+	p=0.1 if ((len(tmp)>1)|(len(tmp1)>1)) else 1
+	return p
+		
+def check_ref(lab):			# checking whether a reference is valid or not)
+	valid= ('FN' in lab)|('LN' in lab)|('YR' in lab)|('ED' in lab)|('FP' in lab)|('LP' in lab)|('UR' in lab)|('ID' in lab)|('PB' in lab)|('SR' in lab)|('VL' in lab) 
+	return valid
