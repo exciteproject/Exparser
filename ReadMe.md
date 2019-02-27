@@ -6,4 +6,3 @@ Is dedicated to extract references from PDF documents
 
 Documentation under https://exparser.readthedocs.io
 
-We appologize for shutting down Exparser. An old version was deployed. We are working on deploying the last version and updating Exparser
