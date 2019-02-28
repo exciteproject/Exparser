@@ -8,7 +8,16 @@ Exparser Reference identification results: (10 fold cross validation)
 |  Exparser  | 0.69 | 0.89 | 0.78 |
 
 
+1 line= First line of the reference.
 
+I line= Intermediate line of the reference.
+
+L line= Last line of the reference.
+
+| Precision |        |        | Recall |        |        | F1 Score |        |        |
+|-----------|--------|--------|--------|--------|--------|----------|--------|--------|
+| 1 Line    | I Line | L Line | 1 Line | I Line | L Line | 1 Line   | I Line | L Line |
+| 0.73      | 0.51   | 0.78   | 0.84   | 0.84   | 0.86   | 0.78     | 0.64   | 0.79   |
 
 
 Exparser Reference parsing results: (10 fold cross validation)
@@ -35,6 +44,7 @@ Exparser Reference parsing results: (10 fold cross validation)
 
 
 **Exparser German Dataset**
+
 | Tag         | Precision   | Recall      | F1          |
 |-------------|-------------|-------------|-------------|
 | publisher   | 0.964192636 | 0.81064742  | 0.875111434 |
