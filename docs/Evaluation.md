@@ -22,7 +22,7 @@ L line= Last line of the reference.
 
 Exparser Reference parsing results: (10 fold cross validation)
 
-**Exparser English Dataset**
+**Exparser model evaluation on ExgoldStandard English Dataset**
 
 | Tag         | Precision   | Recall      | F1          |
 |-------------|-------------|-------------|-------------|
@@ -43,7 +43,7 @@ Exparser Reference parsing results: (10 fold cross validation)
 
 
 
-**Exparser German Dataset**
+**Exparser model evaluation on ExgoldStandard German Dataset**
 
 | Tag         | Precision   | Recall      | F1          |
 |-------------|-------------|-------------|-------------|
