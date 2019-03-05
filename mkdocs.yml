@@ -12,7 +12,12 @@ pages:
   - Home: 'index.md'
   - About:
     - 'Introduction': 'Introduction.md'
-    - 'Demo': 'Demo.md'
     - 'Approach': 'Approach.md'
-    - 'Related Documents': 'Related.md'
-  
+    - 'Installation': 'Installation.md'  ***tbd
+    - 'Training':
+        - 'Training Reference Extraction' : 'ReferenceExtraction.md'
+        - 'Training Reference Parsing': 'ReferenceParsing.md'
+    - 'Using the tool': 'usage.md'
+    - 'Evaluation ': 'Evaluation.md'
+    - 'Related Documents': 'Related.md'    
+    - 'Demo': 'Demo.md'
