@@ -5,11 +5,13 @@ The [Online Demo](http://excite.west.uni-koblenz.de/excite) allows to extract se
 ![diagram](./ExciteDemoScreenShots/step1.png)
 2. Upload the file by clicking the ***Upload File*** button.
 ![diagram2](./ExciteDemoScreenShots/step2.png)
-3. Enter your email address if you want to receive the follow up code.
+3. Enter your email address if you want to receive the follow up code. 
 ![diagram2](./ExciteDemoScreenShots/step2.png)
-4. A code is generated for the file under processing.
-![diagram2](./ExciteDemoScreenShots/step3.1.png)
+4. A code (highligheted in the red box) is generated for the file under processing.
+![diagram2](./ExciteDemoScreenShots/step3.png)
 5. You will receive an email once the process is finished.
-6. Enter the generated code to visualise the segmented reference strings.
+6. Results are made available and can be downloaded as highligheted in the figure.
+![diagram2](./ExciteDemoScreenShots/step4.1.png)
+7. Enter the generated code to visualise the segmented reference strings.
 ![diagram2](./ExciteDemoScreenShots/step4.png)
 * Click to download if you want to save the references.
