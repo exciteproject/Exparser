@@ -2,20 +2,20 @@ In order to train the reference parsing model the training data should be prepar
 This document further elaborates on the guideline for annotation different bibliographic elements found in a reference.
 
 
-*  **\<author>**: All authors found in the reference must be enclosed within the <author> </author> tag.
-*  **\<given-names>**: First name, middle names, or maiden name of every author found in the reference. 
-*  **\<surname>**: Surname of every author found in the reference.
-*  **\<lpage>**: Denotes the last page of the article.
-*  **\<fpage>**: Denotes the first page of the article.
-*  **\<title>**: Describes the article-title.
-*  **\<editor>**: Denotes all editors of the reference.
-*  **\<identifier>**: Denotes the unique identifier of the reference.
-*  **\<url>**: Denotes the url found in the reference.
-*  **\<issue>**: Denotes the issue number of the journal.
-*  **\<volume>**: Denotes the volume number of the journal.
-*  **\<publisher>**: Denotes the publisher of the journal.
-*  **\<year>**: Denotes the year in which the article was published.
-*  **\<other>**: Part of the reference which are not related to the tags mentioned above should be tagged as other.
+*  **&lt;author&gt;**: All authors found in the reference must be enclosed within the <author&gt; </author&gt; tag.
+*  **&lt;given-names&gt;**: First name, middle names, or maiden name of every author found in the reference. 
+*  **&lt;surname&gt;**: Surname of every author found in the reference.
+*  **&lt;lpage&gt;**: Denotes the last page of the article.
+*  **&lt;fpage&gt;**: Denotes the first page of the article.
+*  **&lt;title&gt;**: Describes the article-title.
+*  **&lt;editor&gt;**: Denotes all editors of the reference.
+*  **&lt;identifier&gt;**: Denotes the unique identifier of the reference.
+*  **&lt;url&gt;**: Denotes the url found in the reference.
+*  **&lt;issue&gt;**: Denotes the issue number of the journal.
+*  **&lt;volume&gt;**: Denotes the volume number of the journal.
+*  **&lt;publisher&gt;**: Denotes the publisher of the journal.
+*  **&lt;year&gt;**: Denotes the year in which the article was published.
+*  **&lt;other&gt;**: Part of the reference which are not related to the tags mentioned above should be tagged as other.
 
 
 Example of annotating a reference:
