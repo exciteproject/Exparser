@@ -13,7 +13,7 @@ pages:
   - About:
     - 'Introduction': 'Introduction.md'
     - 'Approach': 'Approach.md'
-    - 'Installation': 'Installation.md'  ***tbd
+    - 'Installation': 'Installation.md'
     - 'Training':
         - 'Training Reference Extraction' : 'ReferenceExtraction.md'
         - 'Training Reference Parsing': 'ReferenceParsing.md'
