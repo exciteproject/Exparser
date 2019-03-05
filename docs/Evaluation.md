@@ -1,3 +1,9 @@
+Exparser models (both reference parsing and reference extraction) are trained on research papers in German as well as English language.
+
+The following evaluation results are based on the corpus of 125 research papers from German language including the research papers containing references found in the footnotes and 100 research papers from English language.
+Separate evaluation was performed for both German and English language dataset.
+
+
 Exparser Reference identification results: (10 fold cross validation)
 
 **Exparser English Dataset**
@@ -24,7 +30,7 @@ L line= Last line of the reference.
 Exparser Reference parsing results: (10 fold cross validation)
 
 
-**Exparser model evaluation on ExgoldStandard English Dataset**
+**Exparser model evaluation on Exgoldstandard English Dataset**
 
 | Tag         | Precision   | Recall      | F1          |
 |-------------|-------------|-------------|-------------|
@@ -46,7 +52,7 @@ Exparser Reference parsing results: (10 fold cross validation)
 
 
 
-**Exparser model evaluation on ExgoldStandard German Dataset**
+**Exparser model evaluation on Exgoldstandard German Dataset**
 
 | Tag         | Precision   | Recall      | F1          |
 |-------------|-------------|-------------|-------------|
