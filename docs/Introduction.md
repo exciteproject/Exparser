@@ -14,3 +14,6 @@ This work has been funded by Deutsche Forschungsgemeinschaft (DFG) as part of th
 
 ## Contact
 Please send an email to (excite[at]uni-koblenz[dot]de) or (boukhers[at]uni-koblenz[dot]de)
+
+## Publication:
+[*] Zeyd Boukhers and Shriharsh Ambhore and Steffen Staab: An End-to-end Approach for Extracting and Segmenting High-Variance References from PDF Documents, in ACM/IEEE Joint Conference on Digital Libraries (2019). Accepted for publication.
