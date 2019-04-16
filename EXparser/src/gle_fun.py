@@ -5,7 +5,7 @@
 global b1, b2, b3, b4, b5, b6, stopw
 
 # connect databases
-conn = sqlite3.connect('Utils/list.db')
+conn = sqlite3.connect('EXparser/Utils/list.db')
 conn.text_factory = str
 cur = conn.cursor()
 

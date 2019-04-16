@@ -287,4 +287,5 @@ def get_ffm(fm,ffm):
 	tmp=int(bool(re.findall(r'Bold',fm)))
 	tmp1=int(bool(re.findall(r'Italic',fm)))
 	fbi=tmp+tmp1
+	#fbi=tmp
 	return ff,fbi

@@ -1,5 +1,6 @@
 # -*- coding: UTF-8 -*- 
 
+
 def check_num_page(row,hc,vsl):		# this function checks whether the current line is only a page number
 	check= True if len(row[0].split())<=1 else False		#length in terms of token (<=1 for page number) 
 	check= True if (check & (len(row[0])<=3)) else False		#length in terms of characters (<=3 for page number) 
@@ -113,7 +114,7 @@ def density_dist(vec,stride,rfidx):
 
 	
 def ref_ext(reader):
-	idxx=np.load('idxx.npy')
+	
 	global FSN
 	reader=re.sub(r'[\r\n]+','\n',reader)
 	reader=reader.split('\n')
@@ -276,10 +277,11 @@ def ref_ext(reader):
 	FS[np.isinf(FS)]=0
 	FS=np.transpose([(x-min(x))/(max(x)-min(x)) for x in np.transpose(FS)])
 	FS[np.isnan(FS)]=0
+	clf=clf2 if lng=='de' else clf1
 	a=density_dist(clf.predict(FS),1,rfidx)
 	#a=clf.predict(FS)
 	b=clf.predict_proba(FS)
-	b=[[x[0],x[1],x[2],x[2]] for x in b]
+	#b=[[x[0],x[1],x[2],x[2]] for x in b]
 	original_a=a[:]
 	
 	

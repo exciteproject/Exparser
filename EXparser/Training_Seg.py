@@ -25,7 +25,7 @@ from sklearn_crfsuite import metrics
 import sys
 #sys.path.insert(0, './src')
 #from gle_fun_seg import *
-execfile('./src/Initial_Data.py')
+#execfile('./src/Initial_Data.py')
 execfile('./src/gle_fun.py')
 execfile('./src/gle_fun_seg.py')
 

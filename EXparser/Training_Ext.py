@@ -28,7 +28,7 @@ import cPickle
 from sklearn.feature_selection import RFE
 import sklearn_crfsuite
 from sklearn.cluster import KMeans	
-execfile('./src/Initial_Data.py')
+#execfile('./src/Initial_Data.py')
 idxx=np.load('idxx.npy')
 
 # Training

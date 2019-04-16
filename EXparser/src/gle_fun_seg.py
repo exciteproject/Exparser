@@ -411,12 +411,55 @@ def filtering_ref(txt,valid,prob):
 	prob=[prob[s] for s in x] 
 	return txt,valid,prob
 	
-def restriction (lab):		# this heuristic should be replaced in the completness
-	tmp=re.findall('(?<!FN|LN)(FN|LN)',''.join(lab))
-	tmp1=re.findall('(?<!ED)(ED)',''.join(lab))
-	p=0.1 if ((len(tmp)>1)|(len(tmp1)>1)) else 1
-	return p
+def restriction (lab,ln,mll,o):		# this heuristic should be replaced in the completness
+	if o==1:	#this restriction check if the added line from top is shorter or longer
+		p1=np.exp(-1./max(mll,len(ln)))
+		#p1=np.exp(-1./len(ln))
+		#p1=1
+		tmp=[i for i, x in enumerate(lab) if ((x=='FN')|(x=='LN'))]
+		p2=1./np.exp((tmp[-1]-len(tmp)-1)*0.1) if bool(tmp) else 0.5
+		p1=p1*p2
+	elif o==2:
+		tmp=[i for i, x in enumerate(lab) if ((x=='FN')|(x=='LN'))]
+		p1=1./np.exp((tmp[-1]-len(tmp)-1)*0.1) if bool(tmp) else 0.5
+	elif o==3:
+		tmp=ln[-1]
+		if ((tmp=='-')|(tmp==',')):
+			p1=1
+		#elif tmp=='.':
+			#p1=0.4
+		else:
+			p1=0.5
+		#if bool(tmp2):
+			#p1=p1*0.6
+		 
+		#p1=1 if ((tmp=='-')|(bool(tmp2))) else 0.5
+	elif o==4:
+		#tmp=re.findall(r'.(?=\-[ \s]*[\n\r]+)',ln)
+		tmp=ln[-1]
+		#tmp2=re.findall(r'^((\[.*\])|(\(.*\))|([0-9]+\. ))',ln)
+		if ((tmp=='-')|(tmp==',')):
+			p1=0.01
+		#elif tmp=='.':
+			#p1=0.6
+		else:
+			p1=0.5
+		#if bool(tmp2):
+			#p1=p1*0.4
+		#p1=0.1 if ((tmp=='-')|(bool(tmp2))) else 0.5
+	elif o==5:
+		tmp=re.findall(r'(^\[[a-zA-Z0-9]+\])(.*)',ln)
+		#tmp=ln[0]
+		p1=0.01 if bool(tmp) else 0.5
+	elif o==6:
+		tmp=re.findall(r'(^\[[a-zA-Z0-9]+\])(.*)',ln)
+		#tmp=ln[0]
+		p1=1 if bool(tmp) else 0.5
+	#tmp=re.findall('(?<!FN|LN)(FN|LN)',''.join(lab))
+	#tmp1=re.findall('(?<!ED)(ED)',''.join(lab))
+	#p=0.1 if ((len(tmp)>1)|(len(tmp1)>1)) else 1
+	return p1
 		
 def check_ref(lab):			# checking whether a reference is valid or not)
-	valid= ('FN' in lab)|('LN' in lab)|('YR' in lab)|('ED' in lab)|('FP' in lab)|('LP' in lab)|('UR' in lab)|('ID' in lab)|('PB' in lab)|('SR' in lab)|('VL' in lab) 
+	valid= ('FN' in lab)|('LN' in lab)|('ED' in lab)|('FP' in lab)|('LP' in lab)|('UR' in lab)|('ID' in lab)|('PB' in lab)|('SR' in lab)|('VL' in lab) 
 	return valid

@@ -25,7 +25,7 @@ import sklearn_crfsuite
 from sklearn_crfsuite import scorers
 from sklearn_crfsuite import metrics
 from scipy import stats
-execfile('./src/Initial_Data.py')
+#execfile('./src/Initial_Data.py')
 
 def dist_tags(b):
 	ntag=[]
@@ -33,34 +33,44 @@ def dist_tags(b):
 	ltag=[]
 	atag=[]
 	gtag=[]
-	abv0=['FN','AT','PG','YR']
-	wtag=1.0*sum([1 if tmp in b else 0 for tmp in abv0])/len(abv0)
+	abv0=['FN','YR','AT','PG','SR','ED']
+	b=[tmp for tmp in b if tmp in abv0]
+	wtag=[1 if tmp in b else 0 for tmp in abv0]
+	tmp=[b[j] for j in sorted(set([b.index(elem) for elem in b]))]
+	bb=b[::-1]
+	tmp2=[bb[j] for j in sorted(set([bb.index(elem) for elem in bb]))]
 	for i in range (len(abv0)):
 		if abv0[i] in b:
-			a=len(re.findall(r'('+abv0[i]+')+',''.join(b)))
-			ntag.extend([1.0*a/len(b)])
-			tmp = re.finditer(r'('+abv0[i]+')+',''.join(b))
-			dtag.extend([1.0*np.mean([(m.end(0)-m.start(0))/2 for m in tmp])/len(b)])
-			tmp=[0]*2
-			tmp[0]=b.index(abv0[i])
-			tmp[1]=len(b)-list(reversed(b)).index(abv0[i])
-			a=filter(lambda a: a != abv0[i], {i for i in b[tmp[0]:tmp[1]]})
-			ltag.extend([1.0*len(a)/len(b)])
-			tmp=[b[j] for j in sorted(set([b.index(elem) for elem in b]))]
-			atag.extend([1.0*tmp.index(abv0[i])/len(b)])   #position of the tag in the reference string
+			#a=len(re.findall(r'('+abv0[i]+')+',''.join(b)))
+			#ntag.extend([1.0*a/len(b)])
+			#tmp = re.finditer(r'('+abv0[i]+')+',''.join(b))
+			#dtag.extend([1.0*np.mean([(m.end(0)-m.start(0))/2 for m in tmp])/len(b)])
+			#tmp=[0]*2
+			#tmp[0]=b.index(abv0[i])
+			#tmp[1]=len(b)-list(reversed(b)).index(abv0[i])
+			#a=filter(lambda a: a != abv0[i], {i for i in b[tmp[0]:tmp[1]]})
+			#ltag.extend([1.0*len(a)/len(b)])
+			#tmp=[b[j] for j in sorted(set([b.index(elem) for elem in b]))]
+			#atag.extend([1.0*(tmp.index(abv0[i])+1)/len(tmp)])   #position of the tag in 
+			#ntag.extend([1.0*(tmp2.index(abv0[i])+1)/len(tmp2)])   #position of the tag in the reference string
+			atag.extend([tmp.index(abv0[i])+1])   #position of the tag in 
+			ntag.extend([tmp2.index(abv0[i])+7-len(tmp2)])   #position of the tag in the reference string
 		else:
-			ntag.extend([-1])
-			dtag.extend([-1])
-			ltag.extend([-1])
-			atag.extend([-1])
-	#gtag=np.concatenate((ltag,atag,[wtag],ntag))    #best
-	gtag=np.concatenate((ntag,[wtag]))
+			ntag.extend([0])
+			#dtag.extend([-1])
+			#ltag.extend([-1])
+			atag.extend([0])
+			
+	#print str(atag)
+	#print str(ntag)
+	gtag=np.concatenate((ltag,atag,wtag,ntag))    #best
+	#gtag=np.concatenate((ntag,[wtag]))
 	return ntag,dtag,ltag,atag,wtag,gtag
 
 
 
 def findtag(w,l):    #w is the word and l is if the tag is still open 
-	tag=['given-names','surname','year','title','editor','source','publisher','other','page','volume','page','issue','url','identifier']
+	tag=['given-names','surname','year','title','editor','source','publisher','other','volume','page','issue','url','identifier']
 
 	a=-1
 	i=0
@@ -147,14 +157,15 @@ def preproc(ln):
 
 #preparing training data
 global abv
-abv=['FN','LN','YR','AT','ED','SR','PB','OT','PG','VL','PG','IS','UR','ID']
+abv=['FN','LN','YR','AT','ED','SR','PB','OT','VL','PG','IS','UR','ID']
 dtag=[]
 ltag=[]
 ntag=[]
 atag=[]
 wtag=[]
 gtag=[]   #general
-fold="./Dataset/SEG"											#****************************************************************
+sfx='_en'		#suffix"
+fold="./Dataset/SEG"+sfx											#****************************************************************
 fdir=os.listdir(fold)
 train_label=[]
 for u in range (len(fdir)):
@@ -185,7 +196,7 @@ for u in range (len(fdir)):
 		dtag.append(tmpd)
 		ltag.append(tmpl)
 		atag.append(tmpa)
-		wtag.append([tmpw])
+		wtag.append(tmpw)
 		gtag.append(tmpg)
 	file.close()
 
@@ -217,33 +228,30 @@ for u in range (len(fdir)):
 		
 	
 
+#kde_ltag=KernelDensity(kernel='gaussian', bandwidth=1).fit(ltag)
+kde_ntag=KernelDensity(kernel='gaussian', bandwidth=0.5).fit(ntag)
+#kde_dtag=KernelDensity(kernel='gaussian', bandwidth=1).fit(dtag)
+kde_atag=KernelDensity(kernel='gaussian', bandwidth=0.5).fit(atag)
+kde_wtag=KernelDensity(kernel='gaussian', bandwidth=0.5).fit(wtag)
+#kde_gtag=KernelDensity(kernel='gaussian', bandwidth=1).fit(gtag)
+#kde_llen=KernelDensity(kernel='gaussian', bandwidth=1).fit(llen)
+#kde_tlen=KernelDensity(kernel='gaussian', bandwidth=1).fit(tlen)
 
-
-
-kde_ltag=KernelDensity(kernel='epanechnikov', bandwidth=0.3).fit(ltag)
-kde_ntag=KernelDensity(kernel='epanechnikov', bandwidth=0.3).fit(ntag)
-kde_dtag=KernelDensity(kernel='epanechnikov', bandwidth=0.3).fit(dtag)
-kde_atag=KernelDensity(kernel='epanechnikov', bandwidth=0.3).fit(atag)
-kde_wtag=KernelDensity(kernel='epanechnikov', bandwidth=0.3).fit(wtag)
-kde_gtag=KernelDensity(kernel='epanechnikov', bandwidth=0.3).fit(gtag)
-kde_llen=KernelDensity(kernel='epanechnikov', bandwidth=0.5).fit(llen)
-kde_tlen=KernelDensity(kernel='epanechnikov', bandwidth=0.5).fit(tlen)
-
-with open('Utils/kde_ltag.pkl', 'wb') as fid:
-	pickle.dump(kde_ltag, fid) 
-with open('Utils/kde_ntag.pkl', 'wb') as fid:
+#with open('Utils/kde_ltag.pkl', 'wb') as fid:
+	#pickle.dump(kde_ltag, fid) 
+with open('Utils/kde_ntag'+sfx+'.pkl', 'wb') as fid:
 	pickle.dump(kde_ntag, fid) 
-with open('Utils/kde_dtag.pkl', 'wb') as fid:
-	pickle.dump(kde_dtag, fid) 
-with open('Utils/kde_atag.pkl', 'wb') as fid:
+#with open('Utils/kde_dtag.pkl', 'wb') as fid:
+	#pickle.dump(kde_dtag, fid) 
+with open('Utils/kde_atag'+sfx+'.pkl', 'wb') as fid:
 	pickle.dump(kde_atag, fid) 
-with open('Utils/kde_wtag.pkl', 'wb') as fid:
+with open('Utils/kde_wtag'+sfx+'.pkl', 'wb') as fid:
 	pickle.dump(kde_wtag, fid) 
-with open('Utils/kde_gtag.pkl', 'wb') as fid:
-	pickle.dump(kde_gtag, fid) 
-with open('Utils/kde_llen.pkl', 'wb') as fid:
-	pickle.dump(kde_llen, fid) 
-with open('Utils/kde_tlen.pkl', 'wb') as fid:
-	pickle.dump(kde_tlen, fid) 
+#with open('Utils/kde_gtag.pkl', 'wb') as fid:
+	#pickle.dump(kde_gtag, fid) 
+#with open('Utils/kde_llen.pkl', 'wb') as fid:
+	#pickle.dump(kde_llen, fid) 
+#with open('Utils/kde_tlen.pkl', 'wb') as fid:
+	#pickle.dump(kde_tlen, fid) 
 
 #execfile('Training_Com.py')
