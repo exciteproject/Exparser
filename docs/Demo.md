@@ -1,4 +1,4 @@
-The [Online Demo](http://excite.west.uni-koblenz.de/excite) allows to extract segmented reference strings from your PDF documents in XML, BibTex and Text formats. 
+The [Online Demo](https://excite.informatik.uni-stuttgart.de/excite) allows to extract segmented reference strings from your PDF documents in XML, BibTex and Text formats. 
 
 ## Steps:
 1) Select the PDF document from your computer.
