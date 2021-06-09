@@ -1,22 +1,23 @@
 This folder contains all scripts developed for reference extraction in EXCITE. 
 
 Folders:
-	LYT/:		Contains 100 (.csv) files, each of which is the extracted contents and layout from the corresponding PDF file (using Cermine).
-					First column:	Line's content.
-					Second column:	The horizontal distance from the left margin to the beginning of the line.
-					Third column:	The vertical distance from the top margin to the line (of the same page).
-					Fourth column: 	Width of the line.
-					Fifth column:	Length of the line.
-					Sixth column:	The index of the paragraph.
-	LRT/:		Contains the corresponding (.csv) files of "LYT/*.csv", with annotated reference strings. Each reference string is started with 
+
+	 LYT/:		Contains 100 (.csv) files, each of which is the extracted contents and layout from the corresponding PDF file (using Cermine).
+					 First column:	Line's content.
+					 Second column:	The horizontal distance from the left margin to the beginning of the line.
+					 Third column:	The vertical distance from the top margin to the line (of the same page).
+					 Fourth column: Width of the line.
+					 Fifth column:	Length of the line.
+					 Sixth column:	The index of the paragraph.
+	 LRT/:		Contains the corresponding (.csv) files of "LYT/*.csv", with annotated reference strings. Each reference string is started with 
 	            <ref> and terminated with </ref>
-	SEG/:		Contains 162 (.xml) files, each of which contains all the extracted reference strings. A reference string is parsed into its 
+	 SEG/:		Contains 162 (.xml) files, each of which contains all the extracted reference strings. A reference string is parsed into its 
 	            components (e.g. author, title, etc.)
-	Utils/:		Contains the necessary files for the extraction
+	 Utils/:	Contains the necessary files for the extraction
 					list.db:	Database of names, sources and cities.
-	Features/:	Contains the extracted features from "LYT/*.csv" using FEXT.py
-	RefLD/:		Contains the types of lines extracted from "LRT/*csv" using REFLD.py
-	src/:		Contains the functions and modules needed for running different scripts
+	 Features/:	Contains the extracted features from "LYT/*.csv" using FEXT.py
+	 RefLD/:	Contains the types of lines extracted from "LRT/*csv" using REFLD.py
+	 src/:		Contains the functions and modules needed for running different scripts
 	
 	
 	
