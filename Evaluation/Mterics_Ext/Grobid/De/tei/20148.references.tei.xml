@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_7"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Michael Young führte für eine derart von Leistung und Verdienst (engl. merit) bestimmte Gesellschaft den 
+Begriff "Meritokratie" ein. Vgl. Michael Young, The Rise of Meritocracy, London 1958.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

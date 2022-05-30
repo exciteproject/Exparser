@@ -25,7 +25,7 @@ import os
 import numpy as np
 from itertools import groupby
 execfile('./Segment_F2.py')
-execfile('./src/Initial_Data.py')
+#execfile('./src/Initial_Data.py')
 
 if not os.path.isdir('Datasets/'+dat_set+'/Output_Ext'):
 	os.mkdir('Datasets/'+dat_set+'/Output_Ext')
@@ -34,7 +34,7 @@ if not os.path.isdir('Datasets/'+dat_set+'/Output_Ext'):
 
 
 
-trainingFolds=os.listdir("Datasets/"+dat_set+"/CrossValidationFiles"+dat_set+"/Testing/")
+trainingFolds=os.listdir("Datasets/"+dat_set+"/CrossValidationFiles/Testing/")
 for tindex,tfold in enumerate(trainingFolds):
 	if not os.path.isdir("Datasets/"+dat_set+"/Output_Ext/R1/fold"+str(tindex)+"/"):
 		os.mkdir("Datasets/"+dat_set+"/Output_Ext/R1/fold"+str(tindex)+"/")

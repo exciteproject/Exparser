@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_7"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>American Statistical Association. (2004). Interviewer falsi-
+fication in survey research: Current best methods for 
+prevention, detection, and repair of its effects. Survey 
+Research. Newsletter from the Survey Research Labo-
+ratory, College of Urban Planning and Public Affairs, 
+University of Illinois at Chicago. 35(1), 1-5.</ref>
+<ref>Diekmann, A. (2005). Betrug und Täuschung in der Wis-
+senschaft. Datenfälschung, Diagnoseverfahren, Kon-
+sequenzen. Schweizerische Zeitschrift für Soziologie, 
+31(1), 7-29.</ref>
+<ref>Elmagarmid, A. K., Ipeirotis, P. G., & Verykios, V. S. (2007). 
+Duplicate record detection: a survey. IEEE Transac-
+tions on Knowledge and Data Engineering, 19(1), 1-
+16.</ref>
+<ref>Ferrarini, A. (2011). A fitter use of Monte Carlo simula-
+tions in regression models. Computational Ecology 
+and Software, 1(4), 240-243.</ref>
+<ref>Finn, A. & Ranchhod, V. (2013). Genuine fakes: The preva-
+lence and implications of fieldworker fraud in a large 
+South African survey. Working Paper 115 of the South-
+ern Africa Labour and Development Research Unit, 
+University of Cape Town, 115.</ref>
+<ref>Hassanzadeh, O. & Miller, R. J. (2009). Creating prob-
+abilistic databases from duplicated data. The VLDB 
+Journal-The International Journal on Very Large 
+Data Bases, 18(5), 1141-1166.</ref>
+<ref>Hill, T. P. (1999). The difficulty of faking data. Chance, 
+12(3), 27-31.</ref>
+<ref>Koczela, S., Furlong, C., McCarthy, J., & Mushtaq, A. 
+(2015). Curbstoning and beyond: confronting data fab-
+rication in survey research. Statistical Journal of the 
+IAOS, 31(3), 413-422.</ref>
+<ref>Kuriakose, N. & Robbins, M. (2016). Don't get duped: Fraud 
+through duplication in public opinion surveys. Statisti-
+cal Journal of the IAOS, 32(3), 283-291.</ref>
+<ref>Lessler, J. & Kalsbeek, W. (1992). Nonsampling error in sur-
+veys. New York: Wiley.</ref>
+<ref>Schnell, R. (1991). Der Einfluß gefälschter Interviews auf 
+Survey-Ergebnisse. Zeitschrift für Soziologie, 20(1), 
+25-35.</ref>
+<ref>Schräpler, J.-.-.-P. & Wagner, G. G. (2005). Characteristics 
+and impact of faked interviews in surveys-An analysis 
+of genuine fakes in the raw data of SOEP. Allgemeines 
+Statistisches Archiv, 89(1), 7-20.</ref>
+<ref>Schreiner, I., Pennie, K., & Newbrough, J. (1988). Inter-
+viewer falsification in Census Bureau surveys. In Pro-
+ceedings of the American Statistical Association (Sur-
+vey Research Methods Section) (pp. 491-496).</ref>
+<ref>Slomczynski, K. M., Powałko, P., & Krauze, T. (2017). Non-
+unique records in International Survey Projects: The 
+need for extending data quality control. Survey Re-
+search Methods, 11(1), 1-16. doi:doi:10.18148/srm/ 
+2017.v11i1.6557</ref>
+<ref>Waller, L. G. (2013). Interviewing the surveyors: Factors 
+which contribute to questionnaire falsification (curb-
+stoning) among Jamaican field surveyors. Interna-
+tional Journal of Social Research Methodology, 16(2), 
+155-164.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

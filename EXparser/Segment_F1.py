@@ -315,7 +315,7 @@ def segment(txt,ref_prob0,valid):   #ref_prob is the probability given by refere
 		tmp=max(ref_prob)
 		
 		
-		
+	
 	##################################################
 	#We try to merge references if they are wrongly splited (rather missted to be merged in the previous step)
 	ref_id=np.array(ref_id)
@@ -339,8 +339,8 @@ def segment(txt,ref_prob0,valid):   #ref_prob is the probability given by refere
 		b,lb,_=main_sg(' '.join(l),0)
 		p=get_score(pb,len(' '.join(l).split()),'a')
 		cp=comp_prob(lb,llin,tlin,kde_ntag,kde_ltag,kde_dtag,kde_atag,kde_wtag,kde_gtag,kde_llen,kde_tlen)
-		w=random.randint(0, 1)   #top or buttom
-		if ii>0:
+		w=random.randint(0, 1)   #up or down
+		if ((ii>0)&(w==0)):
 			id1=np.where(ref_id==Z[ii-1])[0]
 			l1=[txt[idd] for idd in id1]
 			l0=l1+l
@@ -355,15 +355,15 @@ def segment(txt,ref_prob0,valid):   #ref_prob is the probability given by refere
 			pn0=max(ref_prob0[id[0]][2::])*max(ref_prob0[id1[-1]][1:3])
 			pn=ref_prob0[id[0]][1]*ref_prob0[id1[-1]][3]
 			###
-			rp0=restriction(lb0,l1[-1],mll,3)*restriction(lb0,l[0],mll,5)*restriction(lb0,l[0],mll,2)*restriction(lb0,l[0],mll,2)
-			rp=restriction(lb,l1[-1],mll,4)*restriction(lb,l[0],mll,6)*restriction(lb,l[0],mll,2)*restriction(lb1,l[0],mll,2)
+			rp0=restriction(lb0,l1[-1],mll,3)*restriction(lb0,l[0],mll,5)*restriction(lb0,l[0],mll,2)#*restriction(lb0,l[0],mll,2)
+			rp=restriction(lb,l1[-1],mll,4)*restriction(lb,l[0],mll,6)*restriction(lb,l[0],mll,2)#*restriction(lb1,l[0],mll,2)
 			cp0=comp_prob(lb0,llin+1,tlin0,kde_ntag,kde_ltag,kde_dtag,kde_atag,kde_wtag,kde_gtag,kde_llen,kde_tlen)
 			
 			#with open('rrr.txt','ab') as fid:
 				#fid.write(str(i)+'(up):'+str([pn0,rp0,cp0,p0,p10])+':'+' '.join(l0)+'\r'+str([pn,rp,cp,p,p1])+':'+' '.join(l)+'\r\r\r')
 			if (pn0*rp0*cp0*p0*p10)>(pn*rp*cp*p*p1):
 				ref_id[np.where(ref_id==Z[ii-1])[0]]=Z[ii]
-		if ii<(len(Z)-1):
+		if ((ii<(len(Z)-1))&(w==1)):
 			id1=np.where(ref_id==Z[ii+1])[0]
 			l1=[txt[idd] for idd in id1]
 			l0=l+l1	
@@ -378,8 +378,8 @@ def segment(txt,ref_prob0,valid):   #ref_prob is the probability given by refere
 			pn0=max(ref_prob0[id1[0]][2::])*max(ref_prob0[id[-1]][1:3])
 			pn=ref_prob0[id1[0]][1]*ref_prob0[id[-1]][3]
 			###
-			rp0=restriction(lb0,l[-1],mll,3)*restriction(lb0,l1[0],mll,5)*restriction(lb0,l[0],mll,2)*restriction(lb0,l[0],mll,2)
-			rp=restriction(lb,l[-1],mll,4)*restriction(lb0,l1[0],mll,6)*restriction(lb,l[0],mll,2)*restriction(lb1,l[0],mll,2)
+			rp0=restriction(lb0,l[-1],mll,3)*restriction(lb0,l1[0],mll,5)*restriction(lb0,l[0],mll,2)#*restriction(lb0,l[0],mll,2)
+			rp=restriction(lb,l[-1],mll,4)*restriction(lb0,l1[0],mll,6)*restriction(lb,l[0],mll,2)#*restriction(lb1,l[0],mll,2)
 			cp0=comp_prob(lb0,llin+1,tlin0,kde_ntag,kde_ltag,kde_dtag,kde_atag,kde_wtag,kde_gtag,kde_llen,kde_tlen)
 			#with open('rrr.txt','ab') as fid:
 				#fid.write(str(i)+'(down):'+str([pn0,rp0,cp0,p0,p10])+':'+' '.join(l0)+'\r'+str([pn,rp,cp,p,p1])+':'+' '.join(l)+'\r\r\r')
@@ -389,6 +389,7 @@ def segment(txt,ref_prob0,valid):   #ref_prob is the probability given by refere
 		tmp=np.unique(ref_id,return_index=True)
 		Z = [x for _,x in sorted(zip(tmp[1],tmp[0]))][1::]
 		tmp3=[tmp2 for tmp2 in Z if tmp2 not in ZZ]
+	
 	##################################################
 	return ref_id
 	

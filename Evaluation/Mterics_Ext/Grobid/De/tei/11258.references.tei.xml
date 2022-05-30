@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_11"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Chaiken, S./Lieberman, A./Eagly, A.H. (1989): Heuristic and Systematic Information Proces-
+sing Within and Beyond the Persuation Context. In: Uleman, James S./Bargh, John A. (Hg.), 
+Unintended Thought. New York/London (Guilford Press), S. 212-252.</ref>
+<ref>Chaiken, S./Maheswaran, D. (1994): Heuristic Processing Can Bias Systematic Processing. 
+Effects of Source Credibility, Argument Ambiguity, and Task Importance on Attitude Judge-
+ment. Journal of Personality and Social Psychology, 66: 460-473.</ref>
+<ref>Coleman, J.S. (1990): Foundations of Social Theory. Cambridge/London (Harvard University 
+Press).</ref>
+<ref>Flynn, J./Burns, W./Mertz, C.K./Slovic, P. (1992): Trust as a Determinant of Opposition to a 
+High-Level Radioactive Waste Repository: Analysis of a Structural Model. Risk Analysis, 12: 
+417-429.</ref>
+<ref>Frewer, L.J./Howard, C./Hedderly, D./Sheppard, R. (1996): What Determines Trust in Informa-
+tion about Food-Related Risks? Underlying Psychological Constructs. Risk Analysis, 16: 473-
+486.</ref>
+<ref>Jungermann, H./Pfister, H./Fischer, K. (1996): Credibility, Information Preferences, and Infor-
+mation Interests. Risk Analysis, 16: 251-261.</ref>
+<ref>Kunreuther, H./Easterling, D. (1989): Are Risk-Benefit Tradeoffs Possible in Siting Hazardous 
+Facilities? American Economic Review, 80: 252-256.</ref>
+<ref>Kunreuther, H./Easterling, D./Desvousges, W./Slovic, P. (1990): Public Attitudes Toward 
+Siting a High-Level Nuclear Waste Repository in Nevada. Risk Analysis, 10: 469-484.</ref>
+<ref>Slaby, M./Urban, D. (2002): Risikoakzeptanz als individuelle Entscheidung. Zur Integration 
+der Risikoanalyse in die nutzentheoretische Entscheidungs-und Einstellungsforschung. Schrif-
+tenreihe des Instituts für Sozialwissenschaften der Universität Stuttgart, No.1/2002.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

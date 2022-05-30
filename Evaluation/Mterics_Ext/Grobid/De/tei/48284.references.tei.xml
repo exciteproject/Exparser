@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_10"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Franziska Wilke (2015): Betreuungsbiographien von Kindern im Vorschulalter. Eine Ana-
+lyse des Sozio-oekonomischen Panels. -Berlin: Wissenschaftlicher Verlag Berlin, 278 S., 
+ISBN 978-3-86573-903-2.</ref>
+<ref>Bronfenbrenner, U./Morris, P. A. (1998): The ecology of developmental processes. In: Damon, 
+W./Lerner, R. M. (Hrsg.): Handbook of child psychology: Volume 1: Theoretical models of human 
+development. -Hoboken, NJ, S. 993-1028.</ref>
+<ref>Mudiappa, M./Kluczniok, K. (2012): Nutzung kultureller Bildungsangebote in Familie und Kindergarten. 
+Zeitschrift für Soziologie der Erziehung und Sozialisation, 32, 1, S. 75-91.</ref>
+<ref>Tietze, W./Becker-Stoll, F./Bensel, J./Eckhardt, A. G./Haug-Schnabel, G./Kalicki, B. u.a. (Hrsg.) (2013): 
+NUBBEK -Nationale Untersuchung zur Bildung, Betreuung und Erziehung in der frühen Kindheit. 
+-Weimar/Berlin.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

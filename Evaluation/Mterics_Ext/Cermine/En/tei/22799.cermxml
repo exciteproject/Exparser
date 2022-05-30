@@ -1,0 +1,1638 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Group Processes &amp; Intergroup Relations</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1177/1368430206064643</article-id>
+      <title-group>
+        <article-title>Social Compensation: Fact or Social-Comparison Artifact?</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Andrew R. Todd</string-name>
+          <email>a-todd@northwestern.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Dong-Heon Seok, Norbert L. Kerr and Lawrence A. Messé Michigan State University</institution>
+          ,
+          <country country="US">USA</country>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Northwestern University</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2006</year>
+      </pub-date>
+      <volume>9</volume>
+      <issue>3</issue>
+      <fpage>431</fpage>
+      <lpage>442</lpage>
+      <abstract>
+        <p>The use of coactors as non-group controls in prior social compensation research has left open the possibility that the effect might artifactually have resulted from a confound between work condition (Coaction vs. Collective) and the opportunity to make performance comparisons. A direct empirical test of this alternative, artifactual explanation is reported. Its results contradict that explanation and suggest that the use of coactors as controls has, if anything, resulted in an underestimation of the magnitude of the social compensation effect. It is argued that multiple alternative non-group performance baselines can be informative for analyzing group motivation effects.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>group performance</kwd>
+        <kwd>motivation gains</kwd>
+        <kwd>social compensation</kwd>
+        <kwd>social loafing</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>
+        OVER the past 25 years there have been many
+empirical demonstrations of motivation losses
+or social loafing in small performance groups
+        <xref ref-type="bibr" rid="ref20 ref9">(see Karau &amp; Williams, 1993; Shepperd, 1993,
+for reviews)</xref>
+        . However, in the last decade or so,
+a handful of studies
+        <xref ref-type="bibr" rid="ref13 ref22 ref3 ref8">(e.g. Erev, Bornstein, &amp;
+Galili, 1993; Hertel, Kerr, &amp; Messè, 2000;
+Kerr &amp; MacCoun, 1984; Stroebe, Diehl, &amp;
+Abakoumkin, 1996)</xref>
+        have documented group
+motivation gain phenomena—that is, higher task
+motivation within a group performance context
+than within a comparable individual
+performance context. While empirical demonstrations
+of motivation gains are rather rare
+        <xref ref-type="bibr" rid="ref8">(Hertel
+et al., 2000)</xref>
+        , the social compensation effect is a
+noteworthy example of one of the earliest and
+most thoroughly studied of such phenomena
+        <xref ref-type="bibr" rid="ref10 ref23 ref7">(e.g. Williams &amp; Karau, 1991; Karau &amp; Williams,
+1997; Hart, Bridgett, &amp; Karau, 2001)</xref>
+        .
+      </p>
+      <p>
+        Social compensation occurs when ‘. . .
+individuals increase their efforts on collective tasks
+to compensate for the anticipated poor
+performance of other group members’
+        <xref ref-type="bibr" rid="ref10">(Karau &amp;
+Williams, 1997, p. 158)</xref>
+        . In the generic social
+compensation study, subjects work at a simple,
+effort-sensitive task1 (e.g. writing down as many
+uses for a common object as possible) either in
+a coacting pair (who are not interdependent
+nor able to directly monitor one another’s
+performance, but simply work in one another’s
+presence) or within a cooperative dyad
+(collective condition). The group task is (a) additive
+        <xref ref-type="bibr" rid="ref21">(i.e. the group score is the simple sum of the
+group members’ individual—but supposedly
+unidentifiable—scores; Steiner, 1972)</xref>
+        and (b)
+information reducing
+        <xref ref-type="bibr" rid="ref2">(i.e. it is not possible to
+identify the individual group members’
+contributions from the group performance; Davis,
+1969)</xref>
+        . These are precisely the conditions under
+which early social loafing research
+        <xref ref-type="bibr" rid="ref16">(e.g. Latané,
+Williams, &amp; Harkins, 1979)</xref>
+        had found and
+would predict less effort in the collective
+condition. And indeed, when one receives
+preperformance information suggesting that one’s
+partner is quite capable at the task (e.g. will
+exert a high level of effort
+        <xref ref-type="bibr" rid="ref23">(Williams &amp; Karau,
+1991, Experiment 2)</xref>
+        , or has high task ability
+        <xref ref-type="bibr" rid="ref23">(Williams &amp; Karau, 1991, Experiment 3)</xref>
+        ), this
+is exactly what is observed (see the left sides of
+Figure 1a and 1b, which reproduce the results
+of two of Williams &amp; Karau’s early social
+compensation studies). However, when feedback
+suggests that one’s partner is very incapable, a
+rather different pattern obtains (see the right
+sides of Figure 1a and 1b). In the collective
+condition, a good group performance can only be
+achieved if one works extra hard to compensate
+for the anticipated poor performance by one’s
+teammate; it is under these conditions that the
+social loafing effect is reversed and the social
+compensation effect is observed.
+      </p>
+      <p>
+        This basic pattern has been replicated several
+times
+        <xref ref-type="bibr" rid="ref10 ref7">(e.g. Karau &amp; Williams, 1997; Hart et al.,
+2001)</xref>
+        and appears to be robust. However, the
+design of these studies introduced a potential
+confound that raises an alternative, artifactual
+explanation for this social compensation effect.
+The collective versus coactive contrast is
+intended to—and indeed does—compare a
+particular type of group performance (viz.
+performers are interdependent and the nature of
+that interdependence permits one group
+member to compensate through his/her efforts
+for an expected incapacity of a teammate) with
+a corresponding individual performance (viz.
+performers are independent and cannot affect
+one another’s score or outcome through their
+own level of performance). A coaction control
+condition has typically been used (rather than
+a lone individual performer) to control for
+nuisance factors like modeling, distraction, and
+mere presence of another performer.
+Unfortunately, the coaction control condition also
+allows the possibility of a direct, immediate, and
+public comparison of scores with another
+performer, whereas the information-reducing
+aspect of the group task makes such an
+interpersonal comparison unfeasible. In fact, not
+only is such comparison possible in the coactive
+condition, instructions that are delivered to the
+two coactors prior to the task suggest that such
+comparison is certain
+        <xref ref-type="bibr" rid="ref23">(‘The experimenter also
+told the participants that he would count up
+their individual scores . . . at the end of the
+session and tell them how many uses they had
+produced’, p. 574, Williams &amp; Karau, 1991)</xref>
+        .
+Such opportunities for a direct and immediate
+comparison could well lead to one using the
+anticipated output of the coactor as a basis for
+choosing one’s own level of effort—a type of
+‘production matching’ with an implicit
+performance standard
+        <xref ref-type="bibr" rid="ref22">(cf. Stroebe et al., 1996)</xref>
+        .
+      </p>
+      <p>
+        In sum, the social compensation effect could
+be due: (a) to the imperative of compensating
+for an incapable partner in the collective
+condition (the usual interpretation); and/or (b) to
+demotivating effects of public comparison with
+an incapable other in the coaction condition
+(an alternative, artifactual interpretation, which
+we will term the social-comparison explanation).
+The latter possibility is not theoretically
+farfetched; if one believes that the one person with
+whom s/he will soon be publicly compared is
+not very capable, one may feel that less effort is
+required to insure a favorable comparison. In
+addition, the expectation that one’s own
+performance will probably surpass that of readily
+available comparison others could well be
+demotivating by reducing opportunities for
+both meaningful self-evaluation and favorable
+external evaluation
+        <xref ref-type="bibr" rid="ref6">(cf. Harkins, 2001)</xref>
+        .
+Consistent with such speculation, empirical
+demonstrations of the social compensation effect have
+not been characterized by a dramatic rise in
+effort when social compensation is needed (i.e.
+in the incapable partner/collective condition),
+(a) Experiment 2
+(b) Experiment 3
+35
+30
+s
+a
+e
+d
+I
+f
+o25
+r
+e
+b
+m
+u
+N
+20
+15
+35
+30
+f
+o25
+s
+a
+e
+d
+I
+r
+e
+b
+m
+u
+N
+20
+15
+      </p>
+    </sec>
+    <sec id="sec-2">
+      <title>Coactive</title>
+    </sec>
+    <sec id="sec-3">
+      <title>Collective</title>
+    </sec>
+    <sec id="sec-4">
+      <title>High Effort</title>
+    </sec>
+    <sec id="sec-5">
+      <title>Low Effort</title>
+      <sec id="sec-5-1">
+        <title>Partner Effort</title>
+      </sec>
+    </sec>
+    <sec id="sec-6">
+      <title>Coactive</title>
+    </sec>
+    <sec id="sec-7">
+      <title>Collective</title>
+    </sec>
+    <sec id="sec-8">
+      <title>High Ability</title>
+    </sec>
+    <sec id="sec-9">
+      <title>Low Ability</title>
+      <sec id="sec-9-1">
+        <title>Partner Ability</title>
+        <p>but as the social-comparison explanation
+implies, rather by a dramatic drop in effort in
+the coaction control condition (see Figure 1).2</p>
+        <p>
+          One counterargument to the artifactual
+explanation is that a similar pattern of results
+has been found
+          <xref ref-type="bibr" rid="ref23">(Williams &amp; Karau, 1991,
+Experiment 1)</xref>
+          when the subject received no
+direct feedback indicating that his/her partner
+was incapable, but instead was chronically
+mistrustful of others (and thus, to ‘. . . expect
+others to loaf’). Specifically, those medium and
+high in level of trust showed a social loafing
+effect (i.e. coactive &gt; collective), whereas those
+low in trust showed the opposite, social
+compensation effect (i.e. collective &gt; coactive). It
+might be argued that absent direct feedback
+that one’s partner was incapable, the purported
+demotivating effect of being compared with
+him/her should not occur. But these data are
+inconclusive. First, mistrustfulness could breed
+lowered expectation of the other’s likely
+performance not just when the other is a teammate
+but also when s/he is a coactor. Expectations of
+the other’s performance were collected, but
+analyzed in such a way that it is unclear whether
+or not expectations were equally low for
+mistrustful participants in both the collective and
+coaction conditions. Second, unlike the other
+social compensation studies, the key moderator
+here is a personality (rather than a situational)
+factor, and thus, other relevant individual
+differences could have been confounds (e.g. if
+low trusters are also relatively more concerned
+about a possibly invidious comparison). Thus,
+although these data are not irrelevant to the
+artifactual explanation, they do not rule it out.
+        </p>
+        <p>The purpose of this brief paper is to report an
+empirical examination of the artifactual
+socialcomparison explanation. We sought to (a)
+replicate the usual social compensation effect (i.e.
+with a coaction control), and then (b) include
+another isolated-individual-performer control
+condition in which direct and immediate social
+comparison with an incapable coactor was not
+possible. The various nuisance effects that
+coaction has been designed to control (e.g.
+distraction, modeling, mere presence) were
+controlled in all conditions here by preventing
+participants from seeing one another or their
+work products during the experiment.3 Of
+special interest are two possibilities: (1) that the
+pattern of results is the same with an individual
+control as with coactor controls, which would
+contradict the artifactual explanation; and (2)
+that the social compensation effect is eliminated
+when one uses an individual control, findings
+that would suggest the effect is entirely due to
+the artifactual explanation. Of course, other
+patterns are also possible and of interest (e.g.
+the social compensation effect is attenuated but
+not eliminated with the individual control,
+suggesting that the artifact contributes to but does
+not wholly account for the effect; the social
+compensation effect is even stronger with individual
+controls, suggesting that the opportunity for
+social comparison—even with a very incapable
+partner—is motivating and hence, that the use
+of coactor controls actually underestimates the
+magnitude of the social compensation effect).
+To the degree that the artifactual
+social-comparison explanation is supported, the
+attribution veracity of the observed effect being due to
+a motivation gain would be undermined. As a
+result, we would be forced to conclude that
+group motivation gain effects are even rarer
+than previously thought.</p>
+        <sec id="sec-9-1-1">
+          <title>Method</title>
+          <p>
+            Participants and design
+The participants (Ps) were 167 female
+undergraduate students from introductory
+psychology courses who received course credit for their
+participation.
+            <xref ref-type="bibr" rid="ref23 ref7">(Note that previous studies, e.g.
+Williams &amp; Karau, 1991 and Hart et al., 2001,
+report no moderation of the social
+compensation effect by sex of participant.)</xref>
+            The design
+was a 2 (Partner capability: High vs. Low) 3
+(Work condition: Collective vs. Coactive vs.
+Individual) between-Ps factorial.
+          </p>
+          <p>
+            Task and procedure
+The task was the same idea generation exercise
+that most previous social compensation
+research has used. Ps were asked to generate as
+many uses for a common object (viz. knife) as
+they could in a 12-minute period. Instructions
+            <xref ref-type="bibr" rid="ref23">(taken nearly verbatim from Williams et al.,
+1991)</xref>
+            stressed quantity, not quality or creativity
+of uses. In order to maximize the importance or
+meaningfulness of the task, participants were
+told that research suggested that performance
+on the use-generating task is highly correlated
+with intelligence and achievement; it has been
+shown
+            <xref ref-type="bibr" rid="ref23">(Williams &amp; Karau, 1991, Experiment 3)</xref>
+            that social compensation requires a task for
+which good performance is important
+(otherwise, why bother to compensate for an
+incapable partner?). As they performed, Ps sat
+opposite each other at computer tables with a
+sight-blocking partition between them. In the
+Coaction and Individual conditions, there was a
+box on each table into which the uses were
+placed (one per slip of paper). In the Collective
+condition, there was a single, common box
+inside the double-walled partition which caught
+the slips of paper that both dyad members
+pushed through slits in the partition walls.
+These slits were so located that neither dyad
+member could see when a slip was being
+pushed through by her teammate or how many
+slips there were in the box. To further eliminate
+potential distraction, modeling, or mere
+presence effects, Ps wore headphones playing
+music as they performed the task.
+          </p>
+          <p>Most Ps were scheduled in pairs and when
+both showed up, either a Collective or Coactive
+condition—randomly determined—was run.
+When only one P signed or showed up, a female
+confederate took on the partner role. Thus, all
+sessions began with two partners present—
+either two actual Ps or one P plus a
+confederate. As will become clear below, Ps in the
+Individual condition always had the
+confederate as a partner.</p>
+          <p>
+            The procedure used in this experiment was a
+variation on the procedures used by Karau &amp;
+Williams (Experiment 2, 1997) and
+            <xref ref-type="bibr" rid="ref7">Hart et al.
+(2001)</xref>
+            . Upon arrival, both the participants (or
+the actual P and the confederate, if applicable)
+were led to one of two computer tables in the
+laboratory. Each of the computer tables was
+equipped with a computer, a stack of exactly
+fifty blank slips of paper, a pen, and a pair of
+headphones.
+          </p>
+          <p>After signing a consent form, Ps received a
+description of the uses-generation task. In the
+Coaction and Individual conditions, the
+experimenter explained that she was interested in
+their individual performances, not their
+collective performance. In the Collective condition,
+the Ps were told that they comprised a
+twoperson group and that the experimenter was
+only interested in the total number of uses
+generated collectively by the group and not in
+individual performances. The experimenter
+also demonstrated how the single collection
+box worked and, in doing so, stressed the
+anonymity of individual contributions (e.g.
+noted that the dyad members would use pens
+with the same color ink).</p>
+          <p>Participants were then told that one purpose
+of the experiment was to examine the effects of
+standardized communication strategies on
+individual and group task performance.
+Purportedly employees in large corporations had been
+using banks of prewritten messages in order to
+simplify email communication, and we were
+interested in investigating the effect of this
+form of standardized communication on
+employee performance and satisfaction. Ps
+were to choose one message from each of
+three banks of standardized messages (three
+messages total) that would be sent to their
+coworker via computer. The first bank
+expressed Ps’ interest in the task (seven
+alternative messages whose content communicated
+differing levels of task interest, ranging from
+very high to very low). The second bank
+expressed Ps’ expected level of effort on the
+coming task. The third bank expressed Ps’
+selfperceived ability at the coming task. After
+choosing one message from each bank, Ps
+clicked a button to send their message set to
+their partner (in fact, these messages were
+never sent). Ps then shortly after received three
+messages, allegedly from their partner. In all
+conditions, the partner’s first message
+expressed a high interest in the task. The
+remaining two messages manipulated the
+partner’s task capability. In the High capability
+condition, the messages were ‘My effort on this
+task will be extremely high’ and ‘My ability on
+this task is extremely high’. In the Low
+capability condition, the messages were ‘My effort on
+this task will be extremely low’ and ‘My ability
+on this task is extremely low’.4 While the
+message-exchanging portion of the experiment
+was taking place, the experimenter left the
+room; moreover, after reading the messages
+received, Ps clicked a button that allegedly
+permanently erased the messages. This was done to
+ensure that Ps believed that the experimenter
+would not be able to ascertain either a P’s
+professed level of motivation or their ability to
+perform the task.5</p>
+          <p>After a short interval which gave Ps the
+opportunity to read the messages sent by their
+partner, the experimenter re-entered the lab.
+In the Individual condition only, the
+experimenter asked the confederate whether she was,
+as she had indicated on her consent form,
+under 18 years of age. The confederate said she
+was. The experimenter explained that she
+could not participate without parental consent
+and that she would have to obtain such consent
+before she could be rescheduled. For this
+reason, she was excused from the experiment
+and left the lab. Note that this procedure
+insured that the true P in the Individual
+condition always had the knowledge that another
+ostensibly random participant was either very
+high or very low in task capability (as in the
+other two work conditions), but it removed the
+opportunity for a direct, immediate, and public
+performance comparison with that participant
+at the conclusion of the task. (Of course, in
+theory, the experimenter could later compare
+an Individual P’s performance with that of
+other participants, but there was no possibility
+in this condition of immanent comparison
+which we assume to be the P’s concern in our
+social-comparison alternative to the usual social
+compensation explanation.)</p>
+          <p>At this point the participant(s) were directed
+to put on their headphones and to follow the
+rest of the instructions contained on the tape.
+The experimenter again left the room. The
+instructions on the tape, which described the
+specific object (i.e. a knife) for which they were
+to generate as many uses as they could, were
+followed by 12 minutes of music, during which
+the participants worked at the task—thinking of
+uses for the target object, writing their answer
+on slips of paper, folding the slips and placing
+them in their collection box(es). The
+experimenter monitored the time using a stopwatch.
+At the end of the work period, Ps were given a
+post-experimental questionnaire that
+contained manipulation checks and checks of
+suspicion. Finally, Ps were debriefed, thanked,
+and dismissed.</p>
+        </sec>
+        <sec id="sec-9-1-2">
+          <title>Results</title>
+          <p>Manipulation checks
+P’s were asked to assess on 7-point rating scales
+how much effort the partner was willing to exert
+at the task and how much ability she had. As one
+would expect, the partner in the Low capability
+conditions was seen both as willing to exert less
+effort (M = 3.92) and having less ability (M =
+4.22) than the partner in the High capability
+condition (effort M = 6.31, t(152) = 8.36, p &lt;
+.001, d = 1.36; ability M = 5.65, t(152) = 5.79, p &lt;
+.001, d = .94); reduced degrees of freedom
+reflect missing data due to failures to complete
+the questionnaire). Hence, the manipulation of
+partner capability was successful.</p>
+          <p>Analyses of performance
+Replication of the social compensation effect?
+The first question we examined was whether we
+replicated the basic social compensation effect
+under the typical conditions (viz. with coactors
+as controls). In all conditions, the ideas
+generated were counted by subtracting the number
+of unused slips from 50 (all Ps were given 50
+slips of paper before beginning the
+ideageneration task). The key contrast tests an
+interaction effect—is the usual social loafing
+effect observed when one believes that one has
+a very capable partner (i.e. Collective &lt;
+Coactive) reversed when one believes that one
+has a very incapable partner (i.e. Coactive &lt;
+Collective)? A test of this contrast was
+statistically significant (F(1,161) = 4.02, p &lt; .05, d =
+.32), and as one can see in Figure 2 (white and
+black bars), the same pattern is observed as in
+the usual social compensation study (see Figure
+1). In the present study, the social loafing effect
+(High capability partner) was significant
+(t(161) = 1.96, p = .05, d = .31), whereas the
+social compensation contrast (Low capability
+Coactive
+partner) was not (t(161) = .89, ns). Keep in ns). As one can see on the right side of Figure
+mind that the same opportunity for social 2, the level of performance in the Individual
+loafing (low identifiability of individual contri- control condition (diagonal stripe bar) was
+butions to the collective product) is available in actually lower than in the Coaction control
+both collective conditions, so the important (white bar), exactly the opposite to the pattern
+result is that the social loafing effect is signifi- predicted by the social-comparison explanation.
+cantly moderated (i.e. the interaction effect), Our results suggest that had one attempted to
+not that it is significantly reversed (i.e. the work demonstrate the social compensation effect
+condition simple effect with the Low capability using Individual controls rather than Coactive
+partner; cf. Note 2).6 controls, the key interaction effect would have
+been stronger (here, t(161) = 2.52, p &lt; .015,
+Tests of the social comparison explanation Cohen’s d = .40 compared to d = .32 with coactor
+There are several ways in which to test this controls), not weaker or nonsignificant, as the
+explanation. The most direct is to see if the social compensation explanation would predict.
+level of effort in the Low capability/Individual Although it was not of primary interest in this
+control condition (where no direct social com- study, it is also worthwhile to examine the
+parison is possible) is any different than in the Individual control for the High capability
+conLow capability/Coaction control condition dition. If having someone to compare oneself
+(where such comparison is possible). The test to was (if anything) motivating, even if that
+of this contrast was not significant (t(161) = .87, someone was likely to be a poor performer, it
+could be that performance would also be lower
+in the Individual/High capability condition
+than the Coaction/High capability condition.</p>
+          <p>But as one can see in Figure 2, this was not the
+case; there was no difference between these two
+control conditions (t(161) = .07, ns). It is at
+least possible, though, that ceiling effects may
+have prevented such an effect from emerging
+here.</p>
+        </sec>
+        <sec id="sec-9-1-3">
+          <title>Discussion</title>
+          <p>The use of coaction controls in prior social
+compensation research has left open the possibility
+that the effect might artifactually have resulted
+from a confound between work condition
+(Coaction vs. Collective) and the opportunity to
+make performance comparisons. If making
+such a comparison with a very incapable other
+were demotivating, then it could have been the
+case that the social compensation effect had
+little or nothing to do with the need to
+compensate for an incapable partner, but stemmed
+instead from such a social comparison process.
+In the present study, we directly tested this
+alternative, artifactual explanation for the social
+compensation effect. Our data strongly
+contradict it. Removing the opportunity for immediate
+public comparison with an incapable other did
+not, as this explanation would predict, increase
+effort, but actually tended (nonsignificantly) to
+decrease effort. It appears that the opportunity
+for comparison is (if anything) motivating, even
+when the person with whom one will compare is
+very likely to perform poorly. Thus, far from
+being the source of an artifactual explanation,
+the use of the coaction control in prior social
+compensation has tended to work against
+demonstrating the effect, and to
+underestimating its strength.</p>
+          <p>
+            These findings have several useful
+implications. First, and most obviously, they bolster
+the validity of the original interpretation of the
+best documented of the few extant group
+motivation gain effects, the social compensation
+effect. That interpretation suggested that the
+observed motivation gain was attributable to a
+particular pattern of outcome interpendence—
+where one’s prospects of obtaining a highly
+valued outcome (e.g. a group success)
+depended upon compensating for the
+perceived incapacities of other group members by
+working extra hard. However, quite apart from
+the alternative social-comparison explanation
+examined here, there were theoretical and
+empirical reasons to doubt that interpretation.
+For example, when the rewards of group
+success are shared equally by all group
+members (as they were here and in prior social
+compensation research), socially compensating
+for others can result in doing more than an
+equal or fair share of the group’s work. Such an
+inequitable arrangement has been shown to
+lead to motivation losses under some
+conditions—at times, group members will reduce
+their own efforts (and consequently, the
+chances of group success) rather than do more
+than what they see as a fair share of the group’s
+work.
+            <xref ref-type="bibr" rid="ref23">Williams and Karau (1991)</xref>
+            suggest that
+this aversion to ‘playing the sucker’ can be
+overcome if one places a sufficiently high value
+on group success; they even demonstrate (in
+their Experiment 3) that the social
+compensation effect is eliminated if the group’s task is
+seen as unimportant to its members. By
+disconfirming a plausible alternative to the social
+compensation explanation, our results lend
+credibility to their suggestion. Apparently,
+group members who are exerting supernormal
+levels of effort will put up with doing an
+inequitable share of the group’s work if group
+success is sufficiently valued.
+          </p>
+          <p>
+            Our study also touches on a fundamental
+issue in the study of group motivation—what is
+the proper non-group baseline against which to
+detect group motivation gains or losses? Some
+            <xref ref-type="bibr" rid="ref23 ref9">(e.g. Karau &amp; Williams, 1993; Williams &amp; Karau,
+1991)</xref>
+            have argued that coactors provide the
+most appropriate baseline. Others
+            <xref ref-type="bibr" rid="ref11 ref12 ref17">(e.g. Kerr,
+1983; Markus, 2001)</xref>
+            have argued that isolated
+individuals represent better baselines. As the
+present paper suggests, this controversy is
+partially a matter of how best to avoid
+uninteresting confounds (e.g. to control for ‘mere
+presence’ effects when probing for group
+motivation gains or losses). But it is also a matter of
+a fundamental conceptual issue—viz. ‘what is
+and is not a group’? There is no universally
+agreed upon answer to this question; however,
+many if not most scholars include shared goals
+and some degree of mutual interdependence as
+necessary properties of a group, especially a
+performance group
+            <xref ref-type="bibr" rid="ref4">(cf. Forsyth, 1999)</xref>
+            . Our
+own preference for isolated individuals as the
+best non-group baseline stems from the fact
+that many typical elements of the coaction
+setting (such as the mere presence of others,
+the possibility of distraction, the possibility of
+attentional conflict, the opportunity to observe
+others perform, the opportunity to compare
+levels of performance), while common
+elements of performance groups, are not
+defining necessary conditions. Thus,
+motivational gains or losses which ultimately stem
+from such elements could well be viewed as not
+being essentially group phenomena, but
+instead being phenomena that can arise in
+certain group settings but not others. On the
+other hand, one could argue (as Latané et al.,
+1979, did implicitly in their seminal social
+loafing paper) that if certain elements (e.g.
+individual member contributions being
+unidentifiable from a group product) are
+routine features of many performance groups,
+then the motivational effects of those elements
+could fairly be classified as group effects (even
+if those same elements are not necessary for all
+or even most performance groups).
+          </p>
+          <p>
+            Clearly, this is partially a semantic issue, but it
+is more than that. The answer to many
+important questions—e.g. is a particular effect a
+genuine group motivation loss or gain? where
+should one look for such effects? when it comes
+to application, are groups or teams superior or
+inferior to individuals as
+performers?—ultimately depends on just what processes we
+classify as group processes. And whenever
+individual performance differs in individual and
+coactive performance settings, the answers we
+come up with depend on just which baseline we
+choose. Consider, for example, the following:
+• Another recently documented (purported)
+group motivation gain is the Köhler
+motivation gain effect
+            <xref ref-type="bibr" rid="ref8">(Hertel et al., 2000)</xref>
+            . Here, it
+is the least capable group member who must
+work extra hard because the task demands
+are conjunctive
+            <xref ref-type="bibr" rid="ref21">(Steiner, 1972)</xref>
+            —i.e. the
+group’s performance depends on the least
+capable member’s performance. The
+original (
+            <xref ref-type="bibr" rid="ref15">Köhler, 1926</xref>
+            ) and subsequent
+            <xref ref-type="bibr" rid="ref18 ref22 ref8">(Hertel et al., 2000; Messé, Hertel, Kerr,
+Lount, &amp; Park, 2002; Stroebe et al., 1996)</xref>
+            empirical demonstrations of the effect have
+all used isolated individual performers as
+their non-group baselines. But some of the
+proposed explanations of this effect do not
+require what we have advanced as conditions
+necessary for groups. For example, Stroebe
+et al.’s (1996) goal setting explanation only
+requires the availability of a more capable
+performer, not the existence of a more
+capable group member working toward a
+common goal with some interdependence
+(e.g. a conjunctive group task). If such
+explanations are valid, then we might expect
+the Köhler effect to occur in a number of
+coaction settings. Although an initial attempt
+to test this possibility offered little support to
+the goal setting explanation
+            <xref ref-type="bibr" rid="ref8">(see Hertel
+et al., 2000, Experiment 2)</xref>
+            , subsequent tests
+suggest that it does provide a partial
+explanation of the effect
+            <xref ref-type="bibr" rid="ref14">(Kerr, Seok, Poulsen,
+Harris, &amp; Messé, 2006)</xref>
+            . The important point
+is that we could have come to different
+conclusions about whether the Köhler effect was
+a genuine group motivation gain, how large
+it was, and why it occurred had we chosen
+isolated individuals or coactors as our
+baseline of non-group performance.
+• Members of mixed-sex dyads have been
+shown to work harder than either members
+of same-sex dyads or isolated individual
+controls, an effect that has been interpreted
+as a group motivation gain
+            <xref ref-type="bibr" rid="ref11 ref12 ref13">(Kerr &amp; Sullaway,
+1983; Kerr &amp; MacCoun, 1984)</xref>
+            . But if this
+effect is the result of concerns about
+violating traditional sex role expectations, then it
+may not require collaborative group
+action—mixed-sex sets of coactors could
+show a similar effect.
+• Other work has shown that members of
+groups who can engage in intra-
+            <xref ref-type="bibr" rid="ref22">(Stroebe
+et al., 1996)</xref>
+            or intergroup
+            <xref ref-type="bibr" rid="ref24 ref3">(Erev et al., 1993;
+Worchel, Rothgerber, Day, Hart, &amp;
+Butemeyer, 1998)</xref>
+            competition work harder than
+•
+individual controls. But certain explanations
+of this effect suggest that coaction settings
+which offer similar opportunities for
+competition might produce quite similar effects.
+            <xref ref-type="bibr" rid="ref17">Markus (2001)</xref>
+            has shown that some social
+loafing effects might be attributable to the
+differential effects of individual vs. coaction
+work conditions on intrinsic task motivation.
+          </p>
+          <p>We suspect that such issues cannot and
+should not be resolved by fiat—by simply
+declaring one particular non-group baseline as
+the ‘gold standard’ for group motivation
+effects. Rather, we would like to suggest that the
+two most popular non-group baselines—
+isolated individuals and coacting individuals—
+both provide informative baselines for
+analyzing psychological processes of relevance
+to how hard people work in groups. In the
+present study we were able to narrow the range
+of plausible explanations for the social
+compensation effect by including both baselines.
+Future work on group motivation could and
+should be likewise enriched by including
+multiple baselines. And even when this is not
+possible, scholars would be well advised to
+consider the theoretical implications of
+examining alternatives to the baselines they do
+employ.</p>
+          <p>
+            Notes
+1. By effort-sensitive, we mean a task for which
+performance is entirely or almost entirely a
+function of effort (rather than other factors, like
+ability, insight, luck, etc.) and for which there is a
+monotonic relationship between performance
+and effort.
+2. It must be conceded that the pattern in these
+data—a relatively low level of performance of the
+coactor-low capability partner, compared to
+coactor-high capability partner—could result
+from processes other than the social comparison
+explanation proposed here. For example, it is
+conceivable that one tends to match a coworker’s
+expected level of performance, regardless of
+whether performance levels will subsequently be
+compared. This would result in generally lower
+performance in the low partner capability
+conditions (which could then be further
+moderated by a social compensation effect,
+resulting in a relatively higher level of
+performance in the collective-incapable partner
+condition). Thus, we agree with Williams and
+Karau’s suggestion that the result of primary
+interest is a particular interaction effect, viz. the
+reversal—when one has an incapable partner—of
+the usual social loafing effect (observed here
+when one has a capable partner, or as in the
+typical social loafing study, when one knows
+nothing about others’ capabilities).
+3. It should also be noted that the use of a coaction
+control condition is not always simply a matter of
+controlling nuisance variables. A number of tests
+of substantive theories of social facilitation and
+social loafing have suggested that working alone
+is psychologically different than working
+alongside others
+            <xref ref-type="bibr" rid="ref1 ref19 ref5 ref6">(e.g. Cottrell, 1972; Harkins,
+1987, 2001; Sanna, 1992)</xref>
+            .
+4. Note that we jointly varied ability and motivation
+feedback to create the High and Low
+partner-capability conditions. In an experiment
+which orthogonally manipulated ability and
+motivation feedback, Hart et al., (2001) found
+that the standard social compensation effect only
+occurred when both were low. This suggests that
+in earlier studies
+            <xref ref-type="bibr" rid="ref23">(e.g. Williams &amp; Karau, 1991)</xref>
+            where only one of these two bases for capability
+had been manipulated, Ps presumed that the
+other varied in kind (e.g. a poorly motivated
+partner was also likely to have low ability).
+5. Another possible boundary condition on social
+compensation is that those who evaluate group
+task performance (e.g. a supervisor; the
+experimenter) should not know that there is an
+incapable member in the group. Otherwise, such
+an evaluator might attribute a poor group
+performance not to the team as a whole
+(including the more capable member) but just to
+the incapable member’s probable poor
+performance. The more capable member should
+not be as likely to try to compensate under such
+conditions.
+6. We have also argued (see Note 2) that neither the
+significance of the simple partner-capability main
+effects nor or their relative (absolute) magnitudes
+are of special interest here. However, for the
+interested reader, the simple partner-capability
+main effect under coactive conditions was not
+significant (t(161) = .73, ns), while the
+corresponding simple main effect under
+collective conditions was (t(161) = –2.01, p &lt; .05,
+d = .32).
+          </p>
+        </sec>
+        <sec id="sec-9-1-4">
+          <title>Acknowledgments</title>
+          <p>Lawrence A. Messé died on December 1, 2004. This
+paper is dedicated to his memory. Support for this
+research was provided by the National Science
+Foundation (Motivation Gains in Performing
+Groups; BCS-9974664) to the third and fourth
+authors. Portions of this work were presented in a
+symposium, ‘Influence, consensus and conflict:
+Aspects of research on task groups’ (L. Hulbert &amp;
+D. Abrams, Organizers), at the Annual Conference of
+the British Psychological Association, Bournemouth,
+March 13, 2003. The authors are grateful to Galen
+Bodenhausen, Craig Parks, and three anonymous
+reviewers for their helpful comments on an earlier
+draft. The authors wish to thank Hanne Chanange,
+Devin Dombrowski, James Gorniewicz, Mai Kikuchi,
+Rhai-Kyoung Lee, Rebecca Low, Judson McKee,
+Elizabeth Nawrocki, Destiny Saucedo, Darcel Schlitt,
+Melissa Wilde, and Susan Wise for their assistance in
+data collection and coding.</p>
+        </sec>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Cottrell</surname>
+            ,
+            <given-names>N. B.</given-names>
+          </string-name>
+          (
+          <year>1972</year>
+          ).
+          <article-title>Social facilitation</article-title>
+          . In C. G.
+          <string-name>
+            <surname>McClintock</surname>
+          </string-name>
+          (Ed.), Experimental social psychology (pp.
+          <fpage>185</fpage>
+          -
+          <lpage>236</lpage>
+          ). New York: Holt.
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Davis</surname>
+            ,
+            <given-names>J. H.</given-names>
+          </string-name>
+          (
+          <year>1969</year>
+          ). Group performance. Reading, MA: Addison-Wesley.
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Erev</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bornstein</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Galili</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          (
+          <year>1993</year>
+          ).
+          <article-title>Constructive intragroup competition as a solution to the free rider problem: A field experiment</article-title>
+          .
+          <source>Journal of Experimental Social Psychology</source>
+          ,
+          <volume>29</volume>
+          ,
+          <fpage>463</fpage>
+          -
+          <lpage>478</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Forsyth</surname>
+            ,
+            <given-names>D. R.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          ).
+          <article-title>Group dynamics (3rd edn)</article-title>
+          . Belmont. CA: Brooks/Cole Wadsworth.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Harkins</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>1987</year>
+          ).
+          <article-title>Social loafing and social facilitation</article-title>
+          .
+          <source>Journal of Experimental Social Psychology</source>
+          ,
+          <volume>23</volume>
+          ,
+          <fpage>1</fpage>
+          -
+          <lpage>18</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Harkins</surname>
+            ,
+            <given-names>S. G.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ).
+          <article-title>Social influence effects on task performance: The ascendancy of social evaluation over self-evaluation. In K. Williams</article-title>
+          &amp; J.
+          <string-name>
+            <surname>Forgas</surname>
+          </string-name>
+          (Eds.),
+          <source>Social influence: Direct and indirect processes</source>
+          (pp.
+          <fpage>271</fpage>
+          -
+          <lpage>292</lpage>
+          ). Philadelphia: Psychology Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Hart</surname>
+            ,
+            <given-names>J. W.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bridgett</surname>
+            ,
+            <given-names>D. J.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Karau</surname>
+            ,
+            <given-names>S. J.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ).
+          <article-title>Coworker ability and effort as determinants of individual effort on a collective task</article-title>
+          .
+          <source>Group Dynamics</source>
+          ,
+          <volume>5</volume>
+          ,
+          <fpage>181</fpage>
+          -
+          <lpage>190</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Hertel</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kerr</surname>
+            ,
+            <given-names>N. L.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Messé</surname>
+            ,
+            <given-names>L. A.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          ).
+          <article-title>Motivation gains in groups: Paradigmatic and theoretical advances on the Koehler effect</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>79</volume>
+          ,
+          <fpage>580</fpage>
+          -
+          <lpage>601</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Karau</surname>
+            ,
+            <given-names>S. J.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Williams</surname>
+            ,
+            <given-names>K. D.</given-names>
+          </string-name>
+          (
+          <year>1993</year>
+          ).
+          <article-title>Social loafing: A meta-analytic review and theoretical integration</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>65</volume>
+          ,
+          <fpage>681</fpage>
+          -
+          <lpage>706</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Karau</surname>
+            ,
+            <given-names>S. J.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Williams</surname>
+            ,
+            <given-names>K. D.</given-names>
+          </string-name>
+          (
+          <year>1997</year>
+          ).
+          <article-title>The effects of group cohesiveness on social loafing and social compensation</article-title>
+          .
+          <source>Group Dynamics</source>
+          ,
+          <volume>1</volume>
+          ,
+          <fpage>156</fpage>
+          -
+          <lpage>168</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Kerr</surname>
+            ,
+            <given-names>N. L.</given-names>
+          </string-name>
+          (
+          <year>1983</year>
+          ).
+          <article-title>Motivation losses in task-performing groups: A social dilemma analysis</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>45</volume>
+          ,
+          <fpage>819</fpage>
+          -
+          <lpage>828</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Kerr</surname>
+            ,
+            <given-names>N. L.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Sullaway</surname>
+            ,
+            <given-names>M. E.</given-names>
+          </string-name>
+          (
+          <year>1983</year>
+          ).
+          <article-title>Group sex composition and member motivation</article-title>
+          .
+          <source>Sex Roles</source>
+          ,
+          <volume>9</volume>
+          ,
+          <fpage>403</fpage>
+          -
+          <lpage>417</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Kerr</surname>
+            ,
+            <given-names>N. L.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>MacCoun</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          (
+          <year>1984</year>
+          ).
+          <article-title>Sex composition of groups and member motivation II: Effects of relative member ability</article-title>
+          .
+          <source>Basic and Applied Social Psychology</source>
+          ,
+          <volume>5</volume>
+          ,
+          <fpage>255</fpage>
+          -
+          <lpage>271</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Kerr</surname>
+            ,
+            <given-names>N. L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Seok</surname>
+            ,
+            <given-names>D. H.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Poulsen</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Harris</surname>
+            ,
+            <given-names>D. W.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Messé</surname>
+            ,
+            <given-names>L. A.</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          ).
+          <article-title>Social ostracism and group motivation gain. Manuscript under editorial review</article-title>
+          , Michigan State University.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Köhler</surname>
+            ,
+            <given-names>O.</given-names>
+          </string-name>
+          (
+          <year>1926</year>
+          ).
+          <article-title>Kraftleistungen bei Einzel- und Gruppenabeit [Physical performance in individual</article-title>
+          and group situations].
+          <source>Industrielle Psychotechnik</source>
+          ,
+          <volume>3</volume>
+          ,
+          <fpage>274</fpage>
+          -
+          <lpage>282</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Latané</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Williams</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Harkins</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>1979</year>
+          ).
+          <article-title>Many hands make light the work: The causes and consequences of social loafing</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>37</volume>
+          ,
+          <fpage>822</fpage>
+          -
+          <lpage>832</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Markus</surname>
+            ,
+            <given-names>M. J.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          , May).
+          <article-title>Rethinking social loafing: A task motivation hypothesis</article-title>
+          .
+          <source>Paper presented at the Annual Meeting of the Midwestern Psychological Association</source>
+          , Chicago, IL.
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Messé</surname>
+            ,
+            <given-names>L. A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hertel</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kerr</surname>
+            ,
+            <given-names>N. L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Lount</surname>
+            ,
+            <given-names>R. B.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Park</surname>
+            ,
+            <given-names>E. S.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ).
+          <article-title>Knowledge of partner's ability as a moderator of group motivation gains: An exploration of the Köhler discrepancy effect</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>82</volume>
+          ,
+          <fpage>935</fpage>
+          -
+          <lpage>946</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Sanna</surname>
+            ,
+            <given-names>L. J.</given-names>
+          </string-name>
+          (
+          <year>1992</year>
+          ).
+          <article-title>Self efficacy theory: Implications for social facilitation and social loafing</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>62</volume>
+          ,
+          <fpage>774</fpage>
+          -
+          <lpage>786</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>Shepperd</surname>
+            ,
+            <given-names>J. A.</given-names>
+          </string-name>
+          (
+          <year>1993</year>
+          ).
+          <article-title>Productivity loss in performance groups: A motivation analysis</article-title>
+          .
+          <source>Psychological Bulletin</source>
+          ,
+          <volume>113</volume>
+          ,
+          <fpage>67</fpage>
+          -
+          <lpage>81</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <surname>Steiner</surname>
+            ,
+            <given-names>I. D.</given-names>
+          </string-name>
+          (
+          <year>1972</year>
+          ).
+          <article-title>Group performance and productivity</article-title>
+          . New York: Academic Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <surname>Stroebe</surname>
+            ,
+            <given-names>W.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Diehl</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Abakoumkin</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          ).
+          <article-title>Social compensation and the Köhler effect: Toward a theoretical explanation of motivation gains in group productivity</article-title>
+          . In E. Witte &amp; J.
+          <string-name>
+            <surname>Davis</surname>
+          </string-name>
+          (Eds.), Understanding group behavior:
+          <article-title>Consensual action by small groups</article-title>
+          (Vol.
+          <volume>2</volume>
+          , pp.
+          <fpage>37</fpage>
+          -
+          <lpage>65</lpage>
+          ). Mahwah, NJ: Erlbaum.
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>Williams</surname>
+            ,
+            <given-names>K. D.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Karau</surname>
+            ,
+            <given-names>S. J.</given-names>
+          </string-name>
+          (
+          <year>1991</year>
+          ).
+          <article-title>Social loafing and social compensation: The effects of expectations of co-worker performance</article-title>
+          .
+          <source>Journal of Personality and Social Psychology</source>
+          ,
+          <volume>61</volume>
+          ,
+          <fpage>570</fpage>
+          -
+          <lpage>581</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>Worchel</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Rothgerber</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Day</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hart</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          , &amp;
+          <string-name>
+            <surname>Butemeyer</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          ).
+          <article-title>Social identity and individual productivity within groups</article-title>
+          .
+          <source>British Journal of Social Psychology</source>
+          ,
+          <volume>37</volume>
+          ,
+          <fpage>389</fpage>
+          -
+          <lpage>413</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <surname>ANDREW R. TODD is</surname>
+          </string-name>
+          <article-title>a doctoral candidate in the social psychology program</article-title>
+          at Northwestern University.
+          <article-title>His current research focuses on implicit aspects of social cognition, intergroup relations and the self-regulation of intergroup bias, and the influence of contextual variation and LAWRENCE A. MESSÉ was professor of psychology</article-title>
+          at Michigan State University.
+          <article-title>His research interests included the personal bases of interpersonal behavior, moderators of interpersonal conflict, group performance, and minority influence</article-title>
+          .
+          <source>He died on December</source>
+          <volume>1</volume>
+          <fpage>2004</fpage>
+          .
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

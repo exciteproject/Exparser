@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_2"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Binningsbø, Helga Malmin, and Kendra Dupuy 
+(2009), Using Power-Sharing to Win a War: The 
+Implementation of the Lomé Agreement in Sier-
+ra Leone, in: Africa Spectrum, 44, 3, 87-107.</ref>
+<ref>Koskinas, Ioannis (2014), The Only Choice Left for 
+Afghanistan, online: <http://southasia.foreign-
+policy.com/posts/2014/09/11/the_only_choice_ 
+left_for_afghanistan> (27 October 2014).</ref>
+<ref>The Telegraph (2012), Syria: Hillary Clinton calls 
+for full transfer of power as Assad regime de-
+nies massacre, online: <http://telegraph.co.uk/ 
+news/worldnews/middleeast/syria/9315758/ 
+Syria-Hillary-Clinton-calls-for-full-transfer-of-
+power-as-Assad-regime-denies-massacre.html> 
+(27 October 2014).</ref>
+<ref>Tull, Denis M., and Andreas Mehler (2005), The 
+Hidden Costs of Power-Sharing: Reproducing 
+Insurgent Violence in Africa, in: African Affairs, 
+104, 416, 375-398.</ref>
+<ref>Ansorg, Nadine, and Felix Haaß (2013), Multilaterale Friedenssicherung in Afrika, GIGA Focus Afrika, 6, 
+online: <www.giga-hamburg.de/giga-focus/afrika>.</ref>
+<ref>Ansorg, Nadine, Felix Haaß, Andreas Mehler, and Julia Strasheim (2012), Institutionelle Reformen zur 
+Friedenskonsolidierung, GIGA Focus Afrika, 6, online: <www.giga-hamburg.de/giga-focus/afrika>.</ref>
+<ref>Mehler, Andreas, and Sabine Kurtenbach (2013), Introduction: Institutions for Sustainable Peace? Deter-
+minants and Effects of Institutional Choices in Divided Societies, in: Civil Wars, 15, 1, 1-6.</ref>
+<ref>Strasheim, Julia, and Hanne Fjelde (2014), Pre-Designing Democracy: Institutional Design of Interim Gov-
+ernments and Democratization in 15 Post-Conflict Societies, in: Democratization, 21, 2, 335-358.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_3"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Aerts, M. and Claeskens, G. (1997). Local polynomial estimation in multiparameter likeli-
+hood models. Journal of the American Statistical Association, 92:1536-1545.</ref>
+<ref>Bollerslev, T. (1986). Generalized autoregressive conditional heteroskedasticity. Journal of 
+Econometrics, 31:307-327.</ref>
+<ref>Brockwell, P. and Davis, R. (1987). Time Series Analysis: Theory and Methods. Springer, 
+New York.</ref>
+<ref>Davison, A. and Hinkley, D. (2003). Bootstrap Methods and their Application. Cambridge 
+University Press, Cambridge.</ref>
+<ref>Drees, H. and Stărică, C. (2002). A simple non-stationary model for stock returns. Preprint, 
+available at www.math.chalmers.se/ ∼ starica.</ref>
+<ref>Engle, R. (1982). Autoregressive conditional heteroskedasticity with estimates of the vari-
+ance of UK inflation. Econometrica, 50:987-1008.</ref>
+<ref>Jönck, U. (2005). Lokale Likelihood-verfahren zur Modellierung von Finanzzeitreihen. Diplo-
+marbeit, Universität Hamburg.</ref>
+<ref>Judge, G., Hill, R., Griffiths, W., Lütkepohl, H., and Lee, T.-C. (1988). Introduction tho 
+the Theory and Practice of Econometrics. Wiley, New York.</ref>
+<ref>Mikosch, T. and Stărică, C. (2003). Long-range dependence effects and ARCH modelling. 
+In Doukhan, P., Oppenheim, G., and Taqqu, M., editors, Theory and Applications of 
+Long-range Dependence, pages 439-459. Birkhäuser, Boston.</ref>
+<ref>Mikosch, T. and Stărică, C. (2004). Non-stationarities in financial time series, the long range 
+dependence and the IGARCH effect. Review of Economics and Statistics, 86:378-390.</ref>
+<ref>Shapiro, S. and Wilk, M. (1965). An analysis of variance test for normality (complete 
+samples). Biometrika, 52:591-611.</ref>
+<ref>Stărică, C. (2003). Is GARCH(1,1) as good a model as the Nobel prize accolades would 
+imply? Preprint, available at www.math.chalmers.se/ ∼ starica.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

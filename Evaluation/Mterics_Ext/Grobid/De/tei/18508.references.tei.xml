@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_11"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Eggebrecht, Hans Heinrich (2003/1999): Die Musik Gustav Mahlers, Wilhemshaven. 
+Mahler, Gustav (1924): Briefe 1879-1911, Berlin/Wien/Leipzig.</ref>
+<ref>Mahler, Gustav (o. J.): Symphonie IX. Revidierte Fassung, Wien/London 
+Rehbein, Boike (1997): Was heißt es, einen anderen Menschen zu verstehen?, Stuttgart 
+Revers, Peter (1985): Gustav Mahler -Untersuchung zu den späten Sinfonien, Hamburg.</ref>
+<ref>Spinnler, Burkard (1980): »Zur Angemessenheit traditioneller Formbegriffe in der Analyse Mahler-
+scher Symphonik -Eine Untersuchung des ersten Satzes der Neunten Symphonie«, in 
+Stahmer, Klaus Hinrich (Hg.): Form und Idee in Gustav Mahlers Instrumentalmusik, Wilhelmshaven 
+S. 223-276.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

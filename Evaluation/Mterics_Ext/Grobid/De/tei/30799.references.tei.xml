@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_8"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Blien, Uwe/Hirschenauer, Franziska/Arendt, Manfred/Braun, Hans Jürgen/Gunst, 
+Dieter-Michael/Kilcioglu, Sibel/Kleinschmidt, Helmut/Musati, Martina/Roß, Her-
+mann/Vollkommer, Dieter/Wein, Jochen (2004): Typisierung von Bezirken der Agen-
+turen für Arbeit. In: Zeitschrift für Arbeitsmarktforschung 2, S. 146-175.</ref>
+<ref>Blien, Uwe/Hirschenauer, Franziska (2005): Welche Agenturen sind vergleichbar? 
+IAB-Kurzbericht 18, Nürnberg, online im Internet unter: 
+http://doku.iab.de/kurzber/2005/kb1805.pdf</ref>
+<ref>Blien, Uwe/Hirschenauer, Franziska (2005a): Vergleichstypen 2005. Neufassung 
+der Regionaltypisierung für Vergleiche zwischen Agenturbezirken. IAB-
+Forschungsbericht 24, Nürnberg, online im Internet unter: 
+http://doku.iab.de/forschungsbericht/2005/fb2405.pdf</ref>
+<ref>Wiedenbeck, Michael/Züll, Cornelia (2001): "Klassifikation und Clusteranalyse: 
+Grundlegende Techniken hierarchischer und K-means-Verfahren", ZUMA, online im 
+Internet unter: 
+http://www.gesis.org/Publikationen/Berichte/ZUMA_How_to/Dokumente/pdf/how-
+to10mwcz.pdf 
+IAB-Forschungsbericht 8/2008 14</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

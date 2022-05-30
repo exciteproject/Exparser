@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_2"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Elias, Norbert (1997/1938), Über den Prozeß der Zivilisation. Soziogenetische und psychogenetische Untersu-
+chungen, 2 Bde., Frankfurt a.M.</ref>
+<ref>Giedion, Siegfried (1976/1941), Raum Zeit Architektur. Die Entstehung einer neuen Tradition, Basel. 
+Goffman, Erving (1974/1971), Das Individuum im öffentlichen Austausch. Mikrostudien zur öffentlichen 
+Ordnung, Frankfurt a.M.</ref>
+<ref>Hamm, Bernd/Neumann, Ingo (1996), Siedlungs-, Umwelt und Planungssoziologie. Ökologische Soziologie 
+Bd. 2, unter Mitarbeit von Peter Suska und Gabi Gotzen, Opladen.</ref>
+<ref>Janson, Alban/Bürklin, Thorsten (2002), Auftritte -Scenes. Interaktionen mit dem architektonischen 
+Raum: die Campi Venedigs. Interaction with Architectual Space: the campi of Venice, Basel/Boston/ 
+Berlin.</ref>
+<ref>Klotz, Heinrich (1996), Architektur. Texte zur Geschichte, Theorie und Kritik des Bauens, Ostfildern.</ref>
+<ref>Simmel, Georg (1968/1908), »Der Raum und die räumlichen Ordnungen der Gesellschaft«, in: 
+ders. (Hg.), Soziologie. Untersuchungen über die Formen der Vergesellschaftung, Berlin.</ref>
+<ref>Simmel, Georg (1998), »Soziologische Ästhetik«, in: Lichtblau, Klaus (Hg.), Darmstadt, (darin die 
+hier wichtigen Beiträge: Soziologische Ästhetik, S. 77-92; Die Großstädte und das Geistes-
+leben, S. 119-134; Das Problem des Stils, S. 151-160).</ref>
+<ref>Thurn, Hans Peter (1972), »Architektursoziologie. Zur Situation einer interdisziplinären For-
+schungsrichtung in der BRD«, Kölner Zeitschrift für Soziologie und Sozialpsychologie, Jg. 24, 
+S. 301-341.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

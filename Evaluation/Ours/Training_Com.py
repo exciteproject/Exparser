@@ -32,28 +32,34 @@ def dist_tags(b):
 	ltag=[]
 	atag=[]
 	gtag=[]
-	abv0=['FN','AT','PG','YR']
-	wtag=1.0*sum([1 if tmp in b else 0 for tmp in abv0])/len(abv0)
+	abv0=['FN','YR','AT','PG','SR','ED']
+	b=[tmp for tmp in b if tmp in abv0]
+	#wtag=1.0*sum([1 if tmp in b else 0 for tmp in abv0])/len(abv0)
+	wtag=[1 if tmp in b else 0 for tmp in abv0]
+	tmp=[b[j] for j in sorted(set([b.index(elem) for elem in b]))]
+	bb=b[::-1]
+	tmp2=[bb[j] for j in sorted(set([bb.index(elem) for elem in bb]))]
 	for i in range (len(abv0)):
 		if abv0[i] in b:
-			a=len(re.findall(r'('+abv0[i]+')+',''.join(b)))
-			ntag.extend([1.0*a/len(b)])
-			tmp = re.finditer(r'('+abv0[i]+')+',''.join(b))
-			dtag.extend([1.0*np.mean([(m.end(0)-m.start(0))/2 for m in tmp])/len(b)])
-			tmp=[0]*2
-			tmp[0]=b.index(abv0[i])
-			tmp[1]=len(b)-list(reversed(b)).index(abv0[i])
-			a=filter(lambda a: a != abv0[i], {i for i in b[tmp[0]:tmp[1]]})
-			ltag.extend([1.0*len(a)/len(b)])
-			tmp=[b[j] for j in sorted(set([b.index(elem) for elem in b]))]
-			atag.extend([1.0*tmp.index(abv0[i])/len(b)])   #position of the tag in the reference string
+			#a=len(re.findall(r'('+abv0[i]+')+',''.join(b)))
+			#ntag.extend([1.0*a/len(b)])
+			#tmp = re.finditer(r'('+abv0[i]+')+',''.join(b))
+			#dtag.extend([1.0*np.mean([(m.end(0)-m.start(0))/2 for m in tmp])/len(b)])
+			#tmp=[0]*2
+			#tmp[0]=b.index(abv0[i])
+			#tmp[1]=len(b)-list(reversed(b)).index(abv0[i])
+			#a=filter(lambda a: a != abv0[i], {i for i in b[tmp[0]:tmp[1]]})
+			#ltag.extend([1.0*len(a)/len(b)])
+			#tmp=[b[j] for j in sorted(set([b.index(elem) for elem in b]))]
+			atag.extend([1.0*(tmp.index(abv0[i])+1)/len(tmp)])   #position of the tag in 
+			ntag.extend([1.0*(tmp2.index(abv0[i])+1)/len(tmp2)])   #position of the tag in the reference string
 		else:
-			ntag.extend([-1])
-			dtag.extend([-1])
-			ltag.extend([-1])
-			atag.extend([-1])
-	#gtag=np.concatenate((ltag,atag,[wtag],ntag))    #best
-	gtag=np.concatenate((ntag,[wtag]))
+			ntag.extend([2])
+			#dtag.extend([-1])
+			#ltag.extend([-1])
+			atag.extend([2])
+	gtag=np.concatenate((ltag,atag,wtag,ntag))    #best
+	#gtag=np.concatenate((ntag,[wtag]))
 	return ntag,dtag,ltag,atag,wtag,gtag
 
 
@@ -157,9 +163,9 @@ gtag=[]   #general
 
 #*****************************************************************************************************************************************************
 # Choose the dataset:
-dat_set='Ours'
+dat_set='Ours_De'
 #*****************************************************************************************************************************************************
-execfile('./src/Initial_Data.py')
+#execfile('./src/Initial_Data.py')
 
 trainingfolds=os.listdir("./Datasets/"+dat_set+"/CrossValidationFiles/Training/")
 
@@ -208,7 +214,7 @@ for tindex,trainFold in enumerate(trainingfolds):
 			dtag.append(tmpd)
 			ltag.append(tmpl)
 			atag.append(tmpa)
-			wtag.append([tmpw])
+			wtag.append(tmpw)
 			gtag.append(tmpg)
 		file.close()
 
@@ -222,7 +228,7 @@ for tindex,trainFold in enumerate(trainingfolds):
 		file=open(fname,'rb')
 		reader=file.read()
 		file.close()
-		reader=re.sub(r'\.[0]+e\+00\r\n','',reader)
+		reader=re.sub(r'\.[0]+e\+00[\r\n]+','',reader)
 		x=re.findall('12*3*',reader)
 		[llen.append([len(t)]) for t in x]
 		
@@ -235,34 +241,36 @@ for tindex,trainFold in enumerate(trainingfolds):
 		tmp = [(m.start(0),m.end(0)) for m in tmp0]
 		for uu in tmp:
 			tlen.append([sum([len((y.split('\t')[0]).split()) for y in reader2[uu[0]:uu[1]+1]])])    #number of token per ref
+			if sum([len((y.split('\t')[0]).split()) for y in reader2[uu[0]:uu[1]+1]])==0:
+				aaa=8
 			
 			
 		
 
-	kde_ltag=KernelDensity(kernel='epanechnikov', bandwidth=0.3).fit(ltag)
-	kde_ntag=KernelDensity(kernel='epanechnikov', bandwidth=0.3).fit(ntag)
-	kde_dtag=KernelDensity(kernel='epanechnikov', bandwidth=0.3).fit(dtag)
-	kde_atag=KernelDensity(kernel='epanechnikov', bandwidth=0.3).fit(atag)
-	kde_wtag=KernelDensity(kernel='epanechnikov', bandwidth=0.3).fit(wtag)
-	kde_gtag=KernelDensity(kernel='epanechnikov', bandwidth=0.3).fit(gtag)
-	kde_llen=KernelDensity(kernel='epanechnikov', bandwidth=0.5).fit(llen)
-	kde_tlen=KernelDensity(kernel='epanechnikov', bandwidth=0.5).fit(tlen)
+	#kde_ltag=KernelDensity(kernel='gaussian', bandwidth=1).fit(ltag)
+	kde_ntag=KernelDensity(kernel='gaussian', bandwidth=1).fit(ntag)
+	#kde_dtag=KernelDensity(kernel='gaussian', bandwidth=1).fit(dtag)
+	kde_atag=KernelDensity(kernel='gaussian', bandwidth=1).fit(atag)
+	kde_wtag=KernelDensity(kernel='gaussian', bandwidth=1).fit(wtag)
+	#kde_gtag=KernelDensity(kernel='gaussian', bandwidth=1).fit(gtag)
+	#kde_llen=KernelDensity(kernel='gaussian', bandwidth=1).fit(llen)
+	#kde_tlen=KernelDensity(kernel='gaussian', bandwidth=1).fit(tlen)
 
-	with open('Utils/'+dat_set+'/kde_ltag_'+str(tindex)+'.pkl', 'wb') as fid:
-		pickle.dump(kde_ltag, fid) 
+	#with open('Utils/'+dat_set+'/kde_ltag_'+str(tindex)+'.pkl', 'wb') as fid:
+		#pickle.dump(kde_ltag, fid) 
 	with open('Utils/'+dat_set+'/kde_ntag_'+str(tindex)+'.pkl', 'wb') as fid:
 		pickle.dump(kde_ntag, fid) 
-	with open('Utils/'+dat_set+'/kde_dtag_'+str(tindex)+'.pkl', 'wb') as fid:
-		pickle.dump(kde_dtag, fid) 
+	#with open('Utils/'+dat_set+'/kde_dtag_'+str(tindex)+'.pkl', 'wb') as fid:
+		#pickle.dump(kde_dtag, fid) 
 	with open('Utils/'+dat_set+'/kde_atag_'+str(tindex)+'.pkl', 'wb') as fid:
 		pickle.dump(kde_atag, fid) 
 	with open('Utils/'+dat_set+'/kde_wtag_'+str(tindex)+'.pkl', 'wb') as fid:
 		pickle.dump(kde_wtag, fid) 
-	with open('Utils/'+dat_set+'/kde_gtag_'+str(tindex)+'.pkl', 'wb') as fid:
-		pickle.dump(kde_gtag, fid) 
-	with open('Utils/'+dat_set+'/kde_llen_'+str(tindex)+'.pkl', 'wb') as fid:
-		pickle.dump(kde_llen, fid) 
-	with open('Utils/'+dat_set+'/kde_tlen_'+str(tindex)+'.pkl', 'wb') as fid:
-		pickle.dump(kde_tlen, fid) 
+	#with open('Utils/'+dat_set+'/kde_gtag_'+str(tindex)+'.pkl', 'wb') as fid:
+		#pickle.dump(kde_gtag, fid) 
+	#with open('Utils/'+dat_set+'/kde_llen_'+str(tindex)+'.pkl', 'wb') as fid:
+		#pickle.dump(kde_llen, fid) 
+	#with open('Utils/'+dat_set+'/kde_tlen_'+str(tindex)+'.pkl', 'wb') as fid:
+		#pickle.dump(kde_tlen, fid) 
 
 #execfile('Training_Com.py')

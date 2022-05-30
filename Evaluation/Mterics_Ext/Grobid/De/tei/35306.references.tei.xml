@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_11"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Database: Own calculations, based on the Euro-
+pean Social Survey, ESS4-2008 Edition 4.0</ref>
+<ref>Ginsburg, Norman, 1992: Divisions of Wel-
+fare. A Critical Introduction to Compara-
+tive Social Policy, London.</ref>
+<ref>Ferrera, Maurizio, 1998: The Four 'Social 
+Europes': Between Universalism and Se-
+lectivity. In M. Rhodes, Y. Mény, (Hrsg.), 
+The Future of European Welfare. A New 
+Social Contract? 79-96, London.</ref>
+<ref>Nüchter, Oliver, Bieräugel, Roland, Glatzer, 
+Wolfgang, Schmid, Alfons, 2010: Der 
+Sozialstaat im Urteil der Bevölkerung, 
+Opladen.</ref>
+<ref>Roller, Edeltraud, 1992: Einstellungen der 
+Bürger zum Wohlfahrtsstaat der Bundes-
+republik Deutschland, Opladen.</ref>
+<ref>Scheuer, Angelika, 2012: Breite Zustim-
+mung für das europäische Modell eines 
+starken Sozialstaats. In Informations-
+dienst Soziale Indikatoren 47, 12-15.</ref>
+<ref>Svallfors, Stefan, 2003: Welfare Regimes 
+and Welfare Opinions: A Comparison of 
+Eight Western Countries. In Social Indi-
+cators Research, No. 64, 495-520.</ref>
+<ref>Van Oorschot, Wim, Meuleman, Bart, 2012: 
+Welfare Performance and Welfare Sup-
+port. In S. Svallfors (Hrsg.), Contested 
+Welfare States, 25-57. Stanford, CA.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

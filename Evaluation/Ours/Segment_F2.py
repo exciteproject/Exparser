@@ -76,11 +76,11 @@ def comp_prob(label_pred,llin,tlin,kde_ntag,kde_ltag,kde_dtag,kde_atag,kde_wtag,
 	#g=np.concatenate((l,a,[w],n))   #best 
 	g=np.concatenate((n,[w]))
 	g=min(1,np.exp(kde_gtag.score([g])))
-	n=min(1,np.exp(kde_ntag.score([n])))
-	l=min(1,np.exp(kde_ltag.score([l])))
-	d=min(1,np.exp(kde_dtag.score([d])))
-	a=min(1,np.exp(kde_atag.score([a])))
-	w=min(1,np.exp(kde_wtag.score(w)))
+	#n=min(1,np.exp(kde_ntag.score([n])))
+	#l=min(1,np.exp(kde_ltag.score([l])))
+	#d=min(1,np.exp(kde_dtag.score([d])))
+	#a=min(1,np.exp(kde_atag.score([a])))
+	#w=min(1,np.exp(kde_wtag.score(w)))
 	ll=np.exp(kde_llen.score(llin))
 	tl=np.exp(kde_tlen.score(tlin))
 
@@ -143,6 +143,8 @@ def main_sg(ln,vtag):
 		nln=tagging(ln,label_pred,prob_pred)
 		nln=lateproc(nln)
 	elif vtag==2:
+		print(ln)
+		print(label_pred)
 		nln=tagging_wp(ln,label_pred)
 		nln=lateproc_wp(nln)
 		xd=ln

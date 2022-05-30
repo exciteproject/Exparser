@@ -17,8 +17,8 @@ import time
 import sklearn
 import scipy.stats
 from sklearn.metrics import make_scorer
-from sklearn.cross_validation import cross_val_score
-from sklearn.grid_search import RandomizedSearchCV
+from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import RandomizedSearchCV
 import sklearn_crfsuite
 from sklearn_crfsuite import scorers
 from sklearn_crfsuite import metrics
@@ -26,14 +26,14 @@ import sys
 #sys.path.insert(0, './src')
 #from gle_fun_seg import *
 #execfile('./src/Initial_Data.py')
-execfile('./src/gle_fun.py')
-execfile('./src/gle_fun_seg.py')
+execfile('./EXparser/src/gle_fun.py')
+execfile('./EXparser/src/gle_fun_seg.py')
 
 
 
 
 #preparing training data
-fold="Dataset/SEG"
+fold="./EXparser/Dataset/SEG"
 fdir=os.listdir(fold)
 train_sents=[]
 train_feat=[]
@@ -104,7 +104,7 @@ crf = sklearn_crfsuite.CRF(
 
 crf.fit(train_feat, train_label)
 
-with open('Utils/crf_model.pkl', 'wb') as fid:
+with open('./EXparser/Utils/crf_model.pkl', 'wb') as fid:
     cPickle.dump(crf, fid) 
 
 
