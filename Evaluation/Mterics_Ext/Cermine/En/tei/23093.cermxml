@@ -1,0 +1,987 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>A C T I V E L E A R N I N G I N H I G H E R E D U C A T I O N</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1177/1469787405049944</article-id>
+      <title-group>
+        <article-title>From evaluation towards an agenda for quality improvement</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Template Process</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>M A R K N . K . S A U N D E R S</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Biographical notes</institution>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Oxford Brookes University</institution>
+          ,
+          <country country="UK">UK</country>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2005</year>
+      </pub-date>
+      <volume>6</volume>
+      <issue>1</issue>
+      <fpage>60</fpage>
+      <lpage>72</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>University of Gloucestershire, UK
+A B S T R AC T For many students and lecturers evaluation is confined to
+some form of survey. Whilst these can provide useful feedback, their
+focus is likely to reflect the values and norms of those commissioning
+and undertaking the evaluation. For real improvements in quality to
+occur both lecturers’ and students’ perspectives of factors that are
+important need to be made explicit and understood. Drawing upon
+literature relating to service quality and in particular the Service
+Template, this article outlines and evaluates an alternative approach for
+establishing students’ and lecturers’ perspectives, obtaining feedback
+and developing an agenda for improvement. Using the example of
+dissertation supervision, it is argued that a revised Template Process
+operating within a process consultation framework can meet these
+concerns. The article concludes with a discussion of the applicability
+of the Template Process to evaluating teaching and learning.
+K E Y WO R D S : e va l u a t i o n , p r o c e s s c o n s u l t a t i o n , q u a l i t y, s t u d e n t s
+a n d l e c t u r e r s, Te m p l a t e P r o c e s s</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Introduction</title>
+      <p>
+        Student involvement in evaluation of modules is well recognized as a
+cornerstone of quality improvement in hig
+        <xref ref-type="bibr" rid="ref7">her education (Hendry et al.,
+2001</xref>
+        ). However, despite the attention devoted to evaluation and review, for
+many students and lecturers the process of feedback is confined to some
+form of survey designed to assess a range of pre-determined constructs and
+      </p>
+      <p>
+        S AU N D E R S &amp; W I L L I A M S : A N A G E N D A F O R Q U A L I T Y I M P R OV E M E N T
+administered at the end of a module. Whilst such surveys can provide useful
+feedback to lecturers, this raises a number of issues. These relate to the focus
+of data collection, and in particular the extent to which questions asked
+reflect the norms and values of both students and lecturers (
+        <xref ref-type="bibr" rid="ref6">Harvey, 1998</xref>
+        ),
+the low response rate to such surveys and the commitment of lecturers to
+use the findings to improve quality and the learning experience for students
+(
+        <xref ref-type="bibr" rid="ref1">Bingham and Ottewill, 2001</xref>
+        ).
+      </p>
+      <p>
+        Research exploring the quality review process has included work
+drawing upon the service quality literature, arguing that provision of higher
+education programmes can be equated to the provision of a servi
+        <xref ref-type="bibr" rid="ref3 ref5">ce
+(Cuthbert, 1996</xref>
+        ). Whilst acknowledging that equating students to
+customers is open to debate, it can be argued that, by engaging in higher
+education, students are participating in and paying for a service.
+Consequently, evaluation and review of quality should reflect the dyadic nature
+of such service-type relations
+        <xref ref-type="bibr" rid="ref6">hips (Rosen and Suprenant, 1998</xref>
+        )
+incorporating the views of both students as users and lecturers as deliverers. It
+therefore follows that, if meaningful improvements are to occur, both
+students’ and lecturers’ perspectives on those factors that are important and
+their views on the quality of each need to be made explicit. These
+potentially differing perspectives need to be understood by lecturers if they are
+to go beyond addressing surface concerns relating to quality of learning.
+      </p>
+      <p>
+        In this article, we draw upon developments in service quality to propose
+an alternative approach to evaluation of the student experience. Following
+an overview of traditional measures of service quality and their
+shortcomings in relation to evaluation and review,
+        <xref ref-type="bibr" rid="ref15">Staughton and Williams’
+(1994</xref>
+        ) Service Template is evaluated as an alternative. Drawing upon this,
+developments to the process are described, which allow the views of
+students and lecturers to be captured separately and enable them to be
+explored and understood, prior to developing an agenda for action. The
+application of this process is illustrated, using a case study of the
+supervision of undergraduate dissertations at a new university business school.
+We conclude with a discussion of merits and shortcomings of the process.
+      </p>
+    </sec>
+    <sec id="sec-3">
+      <title>Measuring quality</title>
+      <p>
+        Within service quality literature, the most widely used and debated tool is
+SERVQUAL, a generic instrument developed to measure service quality
+(
+        <xref ref-type="bibr" rid="ref11">Parasuraman et al., 1991</xref>
+        ). This instrument and its derivatives have focused
+on measurement of the gap between service users’ perceptions and
+expectations across a series of constructs that characterize a service.
+Notwithstanding shortcomings of conceptualizing service quality in this manner,
+recognized in the SERVQUAL debates (for example
+        <xref ref-type="bibr" rid="ref2">Carmen, 1990</xref>
+        ; Cronin
+      </p>
+      <p>
+        A C T I V E L E A R N I N G I N H I G H E R E D U C A T I O N 6(1)
+and Taylor, 1992), the use of a disconfirmation approach to highlight ‘gaps’
+between perceptions and expectations and indicate possible areas for
+improvement is reported widely in the literature (for example:
+        <xref ref-type="bibr" rid="ref9">Parasuraman,
+1995</xref>
+        ;
+        <xref ref-type="bibr" rid="ref3 ref5">Cuthbert, 1996</xref>
+        ;
+        <xref ref-type="bibr" rid="ref8">Narasimhan, 1997</xref>
+        ). Constructs where service users’
+perceptions do not meet expectations suggest areas for improvement.
+Constructs where users’ perceptions equal or exceed expectations imply that
+there is no requirement for improvement, or that more may be being done
+than necessary. However, implicit within this is an assumption that data
+collected against generic dimensions can capture what is important about a
+particular service.
+      </p>
+      <p>
+        Research by Carmen (1990) highlights that the constructs used to
+characterize service quality are likely to be specific to a service and the industry
+within which it is located, a view echoed in respect of higher edu
+        <xref ref-type="bibr" rid="ref3 ref5">cation
+(for example Cuthbert, 1996</xref>
+        ;
+        <xref ref-type="bibr" rid="ref8">Narasimhan, 1997</xref>
+        ). They and others argue
+that the use of generic constructs to measure service quality does not
+provide the details necessary to assess the quality of higher education
+relationships. Such relationships are considered more complex than those
+of other services such as a shop or restaurant. For example, they are more
+intense, last longer and contain considerable variety at both course and
+module levels. In addition, generic constructs may fail to capture the
+uniqueness of specific modules and be understood and interpreted
+differently by students and lecturers.
+      </p>
+      <p>
+        Traditional approaches such as questionnaires can, with careful design,
+minimize shortcomings associated with generic constructs and be used to
+explore gaps between perceptions and expectations. However, these often
+reflect the values, assumptions and issues that are important to their
+designers, which may not correspond to those of the students (
+        <xref ref-type="bibr" rid="ref3 ref5">Chapple and
+Murphy, 1996</xref>
+        ). Alternatively, standardized questionnaires make
+assumptions about the appropriateness of generic constructs across a range of
+different teaching and lear
+        <xref ref-type="bibr" rid="ref8">ning experiences (Narasimhan, 1997</xref>
+        ).
+Furthermore, the data collected may not provide clear indications of the action
+necessary to improve quality (
+        <xref ref-type="bibr" rid="ref7">Hendry et al., 2001</xref>
+        ).
+      </p>
+      <p>
+        The approaches outlined so far typically assess quality from only the
+students’ perspective, failing to acknowledge the value of the lecturer’s
+perspective in a dyadic service-type relationship. The logic underpinning
+the ‘gaps’ model (
+        <xref ref-type="bibr" rid="ref10">Parasuraman et al., 1985</xref>
+        ) provides further support for
+such an approach, as there may well be differences in that which is
+considered important by students and lecturers and their perceptions and
+expectations. Problems of second order interpretation can occur when data
+collected are subject to interpretation by a third party as part of review
+process, raising doubts about the validity and completeness of such data. A
+lecturer undertaking a module evaluation may have filtered and added her
+      </p>
+      <p>S AU N D E R S &amp; W I L L I A M S : A N A G E N D A F O R Q U A L I T Y I M P R OV E M E N T
+or his own understanding to the language used and emphases placed by
+students.</p>
+      <p>Constructs used to evaluate quality in higher education therefore need
+to capture the realities separately for students and lecturers. If these
+constructs are to be of real benefit, they must be understood and interpreted
+by those responsible for improving quality in relation to the norms and
+values of those who generated them. Therefore, a process leading to an
+informed evaluation of quality should enable students and lecturers to make
+explicit, independently, their own ideas of those characteristics of teaching
+and learning that are important. Furthermore, students and lecturers need
+to be able to highlight, define and record independently any gaps between
+their perceptions and expectations. Finally, those responsible for improving
+quality have to be able to gain a critical understanding of both students’
+and lecturers’ perceptions and expectations of the important constructs and
+any gaps between them.</p>
+    </sec>
+    <sec id="sec-4">
+      <title>The Template Process</title>
+      <p>
+        <xref ref-type="bibr" rid="ref15">Staughton and Williams’ (1994</xref>
+        ) Service Template offers one approach to
+address such concerns. This was developed to illustrate the ‘fit’ between the
+service provided and that service’s users’ needs. The approach
+acknowledged the uniqueness of each specific service, allowing those constructs
+(characteristics) that users believed were important to be defined and gaps
+between perceptions and expectations to be highlighted and recorded
+visually. Each characteristic was defined by service users in terminology
+specific to the service. As part of this, users specified positive and negative
+descriptors for the extremes of a continuum for each characteristic. For
+example, the characteristic ‘staff appearance’ has been defined through the
+extremes of ‘smart’ and ‘scruffy’. Subsequently, these users’ perceptions and
+expectations for each characteristic were located upon its continuum, gaps
+between perceptions and expectations highlighting where action might be
+needed. However, by focusing on users, deliverers’ perceptions and
+expectations were excluded, thereby not reflecting the dyadic nature of such
+relationships.
+      </p>
+      <p>
+        Subsequent development of the Service Template Proce
+        <xref ref-type="bibr" rid="ref14">ss (Williams et al.,
+1999</xref>
+        ) partially addressed this shortcoming. Users and deliverers were
+selected using purposive samples based upon cases that were critical to the
+service, their quality perceptions and expectations being captured separately.
+Each resulting Service Template therefore reflected the language,
+terminology and priorities specific to either service users or deliverers. However,
+there was still a need to develop the process to enable those charged with
+improving quality to take ownership of the evaluation findings.
+      </p>
+      <p>A C T I V E L E A R N I N G I N H I G H E R E D U C A T I O N 6(1)</p>
+      <p>
+        Organizational development research, and in particular that by
+        <xref ref-type="bibr" rid="ref14">Schein
+(1999</xref>
+        ), highlights the importance of problem ownership for those
+developing meaningful solutions. Schein also emphasizes the significance
+of process, often managed by a facilitator, to enable insights by all those
+involved. Thus, using a development of the Service Template Process within
+a process consultation framework might allow users and deliverers to work
+together to improve quality by jointly developing an agenda for action.
+Through a series of process consultations with seven UK based
+organizations, drawn from public and private sectors, the process was revised and
+extended to enable t
+        <xref ref-type="bibr" rid="ref7">his (Saunders and Williams, 2001</xref>
+        ). The resultant
+Template Process is structured around three phases:
+      </p>
+      <sec id="sec-4-1">
+        <title>Phase I: Sample selection</title>
+        <p>Purposive samples are drawn from both students (users) and lecturers
+(deliverers), focusing upon obtaining critical cases from which logical
+generalizations may be made regarding the key themes. Thus, whilst the
+samples are not statistically representative, they capture the diversity and
+key dimensions of the service.</p>
+      </sec>
+      <sec id="sec-4-2">
+        <title>Phase II: Template generation and validation</title>
+        <p>
+          Separate meetings, approximately two hours long, are held by a facilitator
+for between six and ten students and lecturers. Each meeting follows a
+process derived from the four stages of the Service Template Proce
+          <xref ref-type="bibr" rid="ref14">ss
+(Williams et al., 1999</xref>
+          ):
+Stage 1: Preparation The purpose and nature of the process is
+explained and meanings of terms clarified. The situation to be considered,
+for example dissertation supervision, is displayed prominently and referred
+to regularly to help maintain focus.
+        </p>
+        <p>Stage 2: Explore service characteristics The characteristics of this
+situation are elicited and recorded in the order they emerge using the
+participants’ words through a brainstorming type process. Clarification of meanings
+is sought; thereby helping ensure everyone in a meeting is using a similar
+frame of reference and has the same understanding. Subsequently, the list of
+characteristics is refined and descriptors generated for the extremes of each.
+For these, participants are asked to suggest the ‘ideal’ situation and the ‘worst’
+case, the resulting bi-polar rating scales defining these extremes.
+Stage 3: Plot perceptions and expectations against identified
+characteristics A visual representation (template) is built by
+recording first the expectations and then the perceptions for each characteristic</p>
+        <p>S AU N D E R S &amp; W I L L I A M S : A N A G E N D A F O R Q U A L I T Y I M P R OV E M E N T
+relative to the extremes on a 10-point scale (see Figures 1 and 2). For each
+characteristic, perceptions are defined through answers to the question
+‘What do you perceive to be the position today?’ and expectations through
+‘What could reasonably be expected?’ The resultant Template contains
+typically between 20 and 30 characteristics.</p>
+        <p>
+          Stage 4: Interpret and validate issues Each completed template is
+discussed with those generating it. This helps confirm the internal validity
+of the template and those characteristics important in determining quality
+have been captured. Finally, participants are asked to score those
+characteristics they consider most important by allocating 100 points between them.
+Phase III: Exploration, learning and possible action
+Pha
+          <xref ref-type="bibr" rid="ref14">se III draws upon Schein’s (1999</xref>
+          ) ideas about process consultation. The
+templates are used as catalysts for the students and lecturers involved to gain
+insights into each other’s perceptions and expectations, at a facilitated
+meeting. For this to be successful, there must be sufficient time for
+meaningful discussion and reflection. Facilitation needs to enable open,
+non-judgemental discussion between participants as they understand each
+other’s templates and generate possible agendas for action. The event has
+three stages:
+Stage 1: Brief participants, surface concerns and re-familiarize
+Participants are reminded of the process to date. The purpose of this
+twohour meeting, to share explore, learn and identify possible actions, is
+restated.
+        </p>
+        <p>Stage 2: Explore and learn This takes the form of dialogue between
+students and lecturers using their templates as catalysts. It focuses upon
+jointly establishing and understanding which characteristics are important
+for quality and why. The joint nature of the process helps reduce problems
+of second order interpretation, as participants who generated the templates
+undertake the exploration.</p>
+        <p>Stage 3: Generate possible agendas for action Participants are
+asked to reflect on the meeting and focus upon actions needed to improve
+quality. Through this an agenda of items requiring action is identified and
+owned by the students and lecturers.</p>
+        <p>The application and utility of the Template Process to the evaluation and
+review of modules is illustrated now using an evaluation of dissertation
+supervision in a new university business school. Within this university,
+students’ evaluations are a recognised component of quality assurance,
+0
+’ +" +" + 0 ’
+" " &amp;
+m
+e
+T
+1
+F
+s
+n
+o
+i
+t
+" p
+! e</p>
+        <p>c
+$ r
+e
+p
+’
+s
+t
+n
+e
+d
+u
+t
+s
+% g
+$ n
+# i
+t
+c
+e
+fl
+e
+r</p>
+        <p>S AU N D E R S &amp; W I L L I A M S : A N A G E N D A F O R Q U A L I T Y I M P R OV E M E N T
+!
+,
+# ’
++</p>
+        <p>A C T I V E L E A R N I N G I N H I G H E R E D U C A T I O N 6(1)
+questionnaires being used systematically to collect feedback for review
+purposes.</p>
+      </sec>
+    </sec>
+    <sec id="sec-5">
+      <title>Using the Template Process</title>
+      <p>
+        The dissertation module operating within this business s
+        <xref ref-type="bibr" rid="ref2">chool has, since
+the mid-1990</xref>
+        s, doubled in size to over 300 students along with a
+corresponding growth in supervisor numbers. Each student attends six research
+methods workshops, delivered at the start of level III and is allocated a
+supervisor, who provides one-to-one support. A growing number of
+comments from students regarding the nature and quality of supervision
+received suggested there were associated issues that had not been
+identified in the end-of-module evaluation questionnaire. This, combined
+with the rapid growth led the module tutor to undertake a full review of
+the dissertation module and its operation. In discussion with the module
+tutor, it was agreed that we would act as facilitators using the Template
+Process to review dissertation supervision. Through this, we aimed to
+capture students’ and supervisors’ expectations and perceptions of the
+dissertation supervision process and their suggestions for possible
+actions.
+      </p>
+      <p>Two purposive samples were selected to represent student and supervisor
+views. The eight students taking the level III dissertation module
+represented all degree combinations within the business school, whilst the
+six supervisors encompassed a wide range of supervisory and subject
+experience. For both samples, perceptions and expectations of the quality
+of the supervisory process were established and recorded separately. This
+resulted in two templates, one illustrating the students’ and the other the
+supervisors’ perceptions and expectations. Some of the characteristics
+captured by the students’ template included ‘Advice’, ‘Feedback’,
+‘Relationship – trust’ and ‘Information – quality’ (see Figure 1) were not captured
+in the same words in the supervisors’ template (see Figure 2). Conversely,
+characteristics in the supervisors’ template, such as ‘Student motivation’,
+did not appear in the students’ template.</p>
+      <p>Both perceptions and expectations were recorded against the 10-point
+scale. Consistency of interpretation of the scales was explored as the
+perceptions and expectations for each characteristic were plotted, as well as during
+interpretation and validation. Within each meeting, differences between
+individuals’ scores for perceived and expected performance were recorded
+for each characteristic. These were represented by the length of the
+perceived performance and expected performance bars. For example, there
+was considerably more variation in students’ perceptions of the ‘Availability
+of tutor’ than in their expectations (Figure 1). The gap between students’</p>
+      <p>S AU N D E R S &amp; W I L L I A M S : A N A G E N D A F O R Q U A L I T Y I M P R OV E M E N T
+expectation that the research methods ‘Workshops time’ should ‘reflect
+dissertation progress/ongoing’ and their perception that they were ‘lumped
+together’ emphasized the actual gap between their perceptions and
+expectations (Figure 1). The scores revealed those characteristics considered most
+important by students (‘Advice’, ‘Feedback’ and ‘Relationship-trust’) and
+supervisors (‘Assessment criteria clarity’, ‘Student’s commitment to topic’
+and ‘Student’s attitude/preparedness’).</p>
+      <p>Subsequently, all involved explored the templates jointly. This enabled the
+students and supervisors to begin to develop a shared understanding of the
+range of views. Discussion was introduced by a short presentation from
+students and supervisors explaining their own templates and the
+highscoring characteristics. Each participant was provided with copies of both
+templates and necessary clarifications sought. Following the presentations,
+these students and supervisors chose to discuss and explore the supervision
+process collectively, focusing on the major differences and similarities of
+the high scoring characteristics and the gaps between perceptions and
+expectations (Figures 1 and 2).</p>
+      <p>There were clear concerns for both students and supervisors. Students
+highlighted the consistency of the supervisory process. This is apparent in
+the relatively high score (25) of the characteristic ‘Advice’ as well as the
+wide range of perceptions for many other characteristics (Figure 1). The
+ideal for ‘Advice’ was ‘consistent level playing field’, and these terms were
+repeated frequently throughout the discussion. Concerns of supervisors
+centred upon assessment criteria; apparent in the characteristics:
+‘Assessment criteria – clarity’ and ‘Assessment criteria – objective measurement’
+(Figure 2). For both, the relatively wide range of perceptions suggested
+differences in views. Subsequent discussion highlighted further differences.
+Whereas supervisors indicated that support might not reasonably be
+‘readily available’, their perceptions emphasized wide variation in practice
+(Figure 2). In contrast, students expected support should ‘reflect individual
+student need’ and ‘sufficient “quality time”’ should be available, whilst
+perceiving wide variations in practice (Figure 1).</p>
+      <p>As part of the meeting we asked student and supervisors to record the
+‘main messages’ from the templates and suggest ‘actions that would really
+make a difference’. This resulted in, for example, an agreement to
+reschedule research methods workshops to reflect more closely the stages students
+should have reached in their dissertations. Supervisors agreed to explore
+issues of consistency of advice at a subsequent staff development session.
+This highlighted that there was more agreement regarding the nature of the
+dissertation than supervisors had assumed and that the discussion was
+helpful in developing a common understanding. However, further work
+was needed on consistency of advice, in particular the amount of help that</p>
+      <p>A C T I V E L E A R N I N G I N H I G H E R E D U C A T I O N 6(1)
+should reasonably be given to students. A working group considered this
+subsequently.</p>
+    </sec>
+    <sec id="sec-6">
+      <title>Discussion</title>
+      <p>The Template Process allowed students and lecturers to generate
+independently those characteristics they believed were important to a defined
+teaching and learning situation. Subsequently, gaps between perceptions
+and expectations for each characteristic were tested and recorded. The
+process therefore offers a method for establishing valid information
+considered important, rather than reflecting the assumptions and values of
+the evaluation instrument designer. Despite an apparent lack of
+commonality in the language used by students and lecturers, there were often
+elements of common ground in the important characteristics. Where this
+was not the case, it emphasized that students and lecturers were operating
+within differing assumptions and norms. The Template Process therefore
+enables issues to be surfaced that may challenge the established modes of
+teaching and learning.</p>
+      <p>These observations reinforce the use of the Template Process within a
+process consultation framework, the facilitator acting as guardian of the
+process. Her or his role is to ensure that both students and lecturers
+contribute fully to template generation and validation (Phase II). During
+the subsequent exploration, learning and possible action (Phase III), the
+facilitator helps focus dialogue on both learning and action. She or he must
+therefore be able to listen to individuals’ contributions, summarize
+alternative views and judge when to move the process towards identifying possible
+actions. Colleagues who have undertaken this role have commented that the
+skills required are similar to those they use when leading seminar groups.
+However, the requirement for the facilitator to be, and to be seen to be,
+neutral means that she or he is unlikely to be part of the module team.</p>
+      <p>The advantages of the Template Process appear to be greatest for modules
+where problems or issues related to quality are evident but defined poorly.
+In such instances the process allows students and lecturers to define the
+issue independently in their own words. Visual representation of the data
+facilitates confrontative intervention as students and lecturers explore each
+other’s views (Phase III). By doing this jointly, differences and similarities
+in the norms and values upon which these ideas are based are highlighted
+leading to new mutual understandings specific to that situation. Participant
+interpretation and dialogue help maintain data integrity and ensure that the
+level and nature of detail available is sufficient upon which to act. The
+discursive nature of this phase also allows different views to be discussed,
+understood and recognized within the specified context.</p>
+      <p>S AU N D E R S &amp; W I L L I A M S : A N A G E N D A F O R Q U A L I T Y I M P R OV E M E N T
+The Template Process is, compared to traditional means of evaluating
+quality, time consuming for both the students and the lecturers involved.
+For this reason it has been used only on a maximum of one module per
+year group for a course, either as an integral part of teaching (for example
+in modules on research methods or managing service operations), where
+there appears to be an issue or problem that is poorly defined, or in the
+context of a more major review. Subsequently, the characteristics identified
+as important have been incorporated in more traditional evaluation
+methods. We have found that students enjoy the interactive aspects of
+developing their templates and subsequently working with lecturers to
+develop possible actions to improve quality. The majority have commented
+that they found the process engaging and that, unlike more traditional
+methods of evaluation, their contributions were really valued. In addition,
+by introducing variety to the methods of evaluation used across a course,
+student fatigue with more traditional approaches appears to be reduced.</p>
+      <p>In conclusion, the Template Process reflects the reality of a dyadic
+interchange between students and lecturers in teaching and learning. It is not
+intended to provide a statistically representative evaluation. Rather, it offers
+an additional tool to the range of existing quality assessment processes. The
+process enables students and lecturers to test their assumptions about an
+existing module independently prior to developing a common
+understanding of any problems or issues and possible actions. Because predetermined
+scales are not used, the process is applicable without modification to
+evaluating quality across a range of teaching and learning situations. The
+facilitator’s role is to assist in the derivation, exploration and subsequent dialogue
+about the templates and agreement of possible courses of action. The process
+therefore offers an additional tool that, although time-consuming for those
+involved, captures the data in a systematic manner. Integral to the process is
+the need for discussion, understanding and learning about problems and
+issues and taking ownership of agreed solutions – aspects whose importance
+has been highlighted in the maintenance and enhancement of quality.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>B I N G H A M ,</surname>
+          </string-name>
+          <article-title>R</article-title>
+          . &amp;
+          <string-name>
+            <surname>OT T E W I L L</surname>
+            ,
+            <given-names>R .</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          )
+          <article-title>'Whatever Happened to Peer Review? Revitalising the Contribution of Tutors to Course Evaluation'</article-title>
+          ,
+          <source>Quality Assurance in Education</source>
+          <volume>9</volume>
+          (
+          <issue>1</issue>
+          ):
+          <fpage>32</fpage>
+          -
+          <lpage>9</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>C A R M E N</surname>
+            ,
+            <given-names>J. M .</given-names>
+          </string-name>
+          (
+          <year>1990</year>
+          )
+          <article-title>'Consumer Perceptions of Service Quality: An Assessment of the SERVQUAL Dimensions'</article-title>
+          ,
+          <source>Journal of Retailing</source>
+          <volume>66</volume>
+          (
+          <issue>1</issue>
+          ):
+          <fpage>33</fpage>
+          -
+          <lpage>5</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>C H A P P L E</surname>
+            , M . &amp; M U R P H Y,
+            <given-names>R .</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          ) '
+          <article-title>The Nominal Group Technique: Extending the Evaluation of Students' Teaching and Learning Experiences'</article-title>
+          ,
+          <source>Assessment and Evaluation in Higher Education</source>
+          <volume>21</volume>
+          (
+          <issue>2</issue>
+          ):
+          <fpage>147</fpage>
+          -
+          <lpage>59</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>C RO N I N</surname>
+            ,
+            <given-names>J. J.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>TAY L O R</surname>
+            ,
+            <given-names>S</given-names>
+          </string-name>
+          . A . (
+          <year>1992</year>
+          )
+          <article-title>'Measuring Service Quality: A Re-examination and Extension'</article-title>
+          ,
+          <source>Journal of Marketing</source>
+          <volume>56</volume>
+          (July):
+          <fpage>56</fpage>
+          -
+          <lpage>68</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>C U T H B E RT</surname>
+            ,
+            <given-names>P. F.</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          )
+          <article-title>'Managing Service Quality in HE: Is SERVQUAL the Answer? Part 2'</article-title>
+          ,
+          <source>Managing Service Quality</source>
+          <volume>6</volume>
+          (
+          <issue>3</issue>
+          ):
+          <fpage>31</fpage>
+          -
+          <lpage>5</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>H A RV E Y</surname>
+            ,
+            <given-names>L .</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          )
+          <article-title>'An Assessment of Past and Current Approaches to Quality in Higher Education'</article-title>
+          ,
+          <source>Australian Journal of Education</source>
+          <volume>42</volume>
+          (
+          <issue>3</issue>
+          ):
+          <fpage>237</fpage>
+          -
+          <lpage>55</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>H E N D RY</surname>
+          </string-name>
+          , G. D. ,
+          <string-name>
+            <surname>C U M M I N</surname>
+            <given-names>G</given-names>
+          </string-name>
+          , R . G. ,
+          <string-name>
+            <surname>LYO</surname>
+            <given-names>N</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>P. M . &amp; G O R D O N</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ) '
+          <article-title>Student-centred Course Evaluation in a Four-year, Problem Based Medical Programme: Issues in Collection and Management of Feedback'</article-title>
+          ,
+          <source>Assessment and Evaluation in Higher Education</source>
+          <volume>26</volume>
+          (
+          <issue>4</issue>
+          ):
+          <fpage>327</fpage>
+          -
+          <lpage>39</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>N A R A S I M H A N</surname>
+            ,
+            <given-names>K .</given-names>
+          </string-name>
+          (
+          <year>1997</year>
+          )
+          <article-title>'Improving Teaching and Learning: The Perceptions Minus Expectations Gap Analysis Approach'</article-title>
+          ,
+          <source>Training for Quality</source>
+          <volume>5</volume>
+          (
+          <issue>3</issue>
+          ):
+          <fpage>121</fpage>
+          -
+          <lpage>25</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>PA R A S U R A M A N</surname>
+            ,
+            <given-names>A .</given-names>
+          </string-name>
+          (
+          <year>1995</year>
+          )
+          <article-title>'Measuring and Monitoring Service Quality'</article-title>
+          , in W. J. Glynn and
+          <string-name>
+            <surname>J. G.</surname>
+          </string-name>
+          Barnes (eds) Understanding Services Management, pp.
+          <fpage>143</fpage>
+          -
+          <lpage>177</lpage>
+          . Chichester: Wiley.
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>PA R A S U R A M A N,</surname>
+          </string-name>
+          <article-title>A</article-title>
+          . ,
+          <string-name>
+            <surname>Z E I T H A M L</surname>
+            , V. A . &amp; B E R RY,
+            <given-names>L . L .</given-names>
+          </string-name>
+          (
+          <year>1985</year>
+          )
+          <article-title>'A Conceptual Model of Service Quality and Its Implications for Future Research'</article-title>
+          ,
+          <source>Journal of Marketing</source>
+          <volume>49</volume>
+          (Fall):
+          <fpage>41</fpage>
+          -
+          <lpage>50</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>PA R A S U R A M A N,</surname>
+          </string-name>
+          <article-title>A</article-title>
+          . ,
+          <string-name>
+            <surname>Z E I T H A M L</surname>
+            , V. A . &amp; B E R RY,
+            <given-names>L . L .</given-names>
+          </string-name>
+          (
+          <year>1991</year>
+          )
+          <article-title>'SERVQUAL: A Multiple-item Scale for Measuring Consumer Perception of Service Quality'</article-title>
+          ,
+          <source>Journal of Retailing</source>
+          <volume>64</volume>
+          (Spring):
+          <fpage>12</fpage>
+          -
+          <lpage>40</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>RO S E N</surname>
+          </string-name>
+          , D. E . &amp;
+          <string-name>
+            <surname>S U P R E N A N T</surname>
+            ,
+            <given-names>C .</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          )
+          <article-title>'Evaluating Relationships: Are Satisfaction</article-title>
+          and Quality Enough?',
+          <source>International Journal of Service Industry Management</source>
+          <volume>9</volume>
+          (
+          <issue>2</issue>
+          ):
+          <fpage>103</fpage>
+          -
+          <lpage>25</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>S AU N D E R S</surname>
+            ,
+            <given-names>M . N. K</given-names>
+          </string-name>
+          . &amp;
+          <string-name>
+            <surname>W I L L I A M S</surname>
+            ,
+            <given-names>C . S .</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          )
+          <article-title>'Double Loop Learning and Improving Organisational Relationships: The Application of the Template Process'</article-title>
+          , in M. A.
+          <string-name>
+            <surname>Rahim</surname>
+            ,
+            <given-names>R. T.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Golembiewski</surname>
+          </string-name>
+          and C. Lundberg (eds) Current Topics in Management Vol.
+          <volume>6</volume>
+          , pp.
+          <fpage>127</fpage>
+          -
+          <lpage>148</lpage>
+          . Location: Elsevier Science.
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>S C H E I N</surname>
+            ,
+            <given-names>E . H .</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>Process Consultation Revisited: Building the Helping Relationship</article-title>
+          . Reading, MA:
+          <string-name>
+            <surname>Addison-Wesley Longman</surname>
+          </string-name>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>S TAU G H T O N</surname>
+            ,
+            <given-names>R</given-names>
+          </string-name>
+          . V. W. &amp;
+          <string-name>
+            <surname>W I L L I A M S</surname>
+            ,
+            <given-names>C . S .</given-names>
+          </string-name>
+          (
+          <year>1994</year>
+          ) '
+          <article-title>Towards a Simple, Visual Representation of Fit in Service Organisations: The Contribution of the Service Template'</article-title>
+          ,
+          <source>International Journal of Operations and Production Management</source>
+          <volume>14</volume>
+          (
+          <issue>5</issue>
+          ):
+          <fpage>76</fpage>
+          -
+          <lpage>85</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>W I L L I A M S</surname>
+            , C .
+            <given-names>S</given-names>
+            . , S
+          </string-name>
+          <string-name>
+            <surname>AU N D E R S</surname>
+            , M . N. K . &amp; S TAU G H T O N,
+            <given-names>R . V. W.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>'Understanding Service Quality in the New Public Sector: An Exploration of Relationships in the Process of Funding Social Housing'</article-title>
+          ,
+          <source>International Journal of Public Sector Management</source>
+          <volume>12</volume>
+          (
+          <issue>4</issue>
+          ):
+          <fpage>366</fpage>
+          -
+          <lpage>79</lpage>
+          .
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

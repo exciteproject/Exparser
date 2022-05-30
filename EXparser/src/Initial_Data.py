@@ -1,6 +1,7 @@
 import urllib
 import patoolib
 import shutil
+import os
 
 files=[{'name':'Features',
         'url':'3szWo6sp3YoAMqo',
@@ -31,5 +32,5 @@ for file in files:
 		url = 'https://cloud.uni-koblenz-landau.de/s/'+file['url']+'/download' 
 		urllib.urlretrieve(url, './Dataset/Data_Comp/'+file['name']+'.rar')	
 		patoolib.extract_archive("./Dataset/Data_Comp/"+file['name']+".rar", outdir=file['in'])
-shutil.rmtree('./Dataset/Data_Comp') 
+#shutil.rmtree('./Dataset/Data_Comp') 
 	

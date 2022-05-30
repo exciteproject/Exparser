@@ -1,4 +1,4 @@
-dat_lg='En'   #it takes either En or De
+dat_lg='De'   #it takes either En or De
 
 
 import os
@@ -18,7 +18,6 @@ def conn (x,model):
 
 
 
-
 def conv (a):
 	a=np.array(a)
 	for i in range(1, max(a)+1):
@@ -31,25 +30,25 @@ def conv (a):
 
 fold="RESULT"
 fdir=os.listdir('GroundTruth/'+dat_lg+'/'+fold)
-
+'''
 for fld in range (10):
-	fldir=os.listdir('../Ours/Datasets/Ours/Output_Ext/'+dat_lg+'/R1/fold'+str(fld))
+	fldir=os.listdir('../Ours/Datasets/Ours_De/Output_Ext/'+dat_lg+'/R1/fold'+str(fld))
 	for fl in fldir:
 		print 'Copying file . . .'
-		copyfile('../Ours/Datasets/Ours/Output_Ext/'+dat_lg+'/R1/fold'+str(fld)+'/'+fl, 'Ours/'+dat_lg+'RESULT1/'+fl)
-		copyfile('../Ours/Datasets/Ours/Output_Ext/'+dat_lg+'/R2/fold'+str(fld)+'/'+fl, 'Ours/'+dat_lg+'RESULT2/'+fl)
-
+		copyfile('../Ours/Datasets/Ours_De/Output_Ext/'+dat_lg+'/R1/fold'+str(fld)+'/'+fl, 'Ours/'+dat_lg+'RESULT1/'+fl)
+		copyfile('../Ours/Datasets/Ours_De/Output_Ext/'+dat_lg+'/R2/fold'+str(fld)+'/'+fl, 'Ours/'+dat_lg+'RESULT2/'+fl)
+'''
 GT=[]
 GR=[]
 CR=[]
 O1=[]
 O2=[]
 for u in range(len(fdir)):
-	gt=np.load('GroundTruth/'+dat_lg+'RESULT/'+fdir[u])
-	gr=np.load('Grobid/'+dat_lg+'RESULT/'+fdir[u])
-	cr=np.load('Cermine/'+dat_lg+'RESULT/'+fdir[u])
-	o1=np.load('Ours/'+dat_lg+'RESULT1/'+fdir[u][0:-3]+'pdf.npy')
-	o2=np.load('Ours/'+dat_lg+'RESULT2/'+fdir[u][0:-3]+'pdf.npy')
+	gt=np.load('GroundTruth/'+dat_lg+'/RESULT/'+fdir[u])
+	gr=np.load('Grobid/'+dat_lg+'/RESULT/'+fdir[u])
+	cr=np.load('Cermine/'+dat_lg+'/RESULT/'+fdir[u])
+	o1=np.load('Ours/'+dat_lg+'/RESULT1/'+fdir[u][0:-3]+'xml.npy')
+	o2=np.load('Ours/'+dat_lg+'/RESULT2/'+fdir[u][0:-3]+'xml.npy')
 	#o2=conv(o2)
 	x=min(len(gt),len(gr),len(cr),len(o1))
 	print str(len(gt))+'       '+	str(len(o2))
@@ -94,6 +93,7 @@ with open('Result_'+dat_lg+'_0-1.txt', 'wb') as fid:
 	fid.write(conn(precision_recall_fscore_support(GT, GR),'Grobid'))
 	fid.write(conn(precision_recall_fscore_support(GT, CR),'Cermine'))
 	
+	
 
 
 np.place(GT, GT == 2, 1)
@@ -112,7 +112,7 @@ with open('Result_'+dat_lg+'_0-1-2-3.txt', 'wb') as fid:
 	fid.write(conn(precision_recall_fscore_support(GT, O2),'Ours2'))
 	fid.write(conn(precision_recall_fscore_support(GT, GR),'Grobid'))
 	fid.write(conn(precision_recall_fscore_support(GT, CR),'Cermine'))
-		
+	
 
 #execfile('score.py')
 

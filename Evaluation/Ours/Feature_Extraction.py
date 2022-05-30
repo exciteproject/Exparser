@@ -1,5 +1,9 @@
 # -*- coding: UTF-8 -*- 
 
+#*****************************************************************************************************************************************************
+# Choose the dataset:
+dat_set='Ours_De'     #Ours_En or Ours_De
+#*****************************************************************************************************************************************************
 
 import os
 import csv
@@ -10,21 +14,21 @@ import jenkspy
 import collections
 import sqlite3
 from itertools import groupby
-execfile('./src/Initial_Data.py')
+#execfile('./src/Initial_Data.py')
 execfile('./src/gle_fun.py')
 execfile('./src/gle_fun_ext.py')
 
-if not os.path.isdir('./Dataset/Features/tmp'):
-	os.mkdir('./Dataset/Data_Comp/tmp/')
+if not os.path.isdir('./Datasets/'+dat_set+'/Features/tmp'):
+	os.mkdir('./Datasets/'+dat_set+'/Features/tmp')
 
 
 
 
-fold="Datasets/Ours/LYT"
+fold="Datasets/"+dat_set+"/LYT"
 fdir=os.listdir(fold)
 for u in range(0,len(fdir)):
-	if not os.path.isfile('Datasets/Ours/Features/tmp/'+fdir[u]+'.npy'):
-		np.save('Datasets/Ours/Features/tmp/'+fdir[u]+'.npy',0)
+	if not os.path.isfile('Datasets/'+dat_set+'/Features/tmp/'+fdir[u]+'.npy'):
+		np.save('Datasets/'+dat_set+'/Features/tmp/'+fdir[u]+'.npy',0)
 		print 'File in processing = '+str(u)+' out of '+str(len(fdir))+' . . .'
 		fname=fold+"/"+fdir[u]
 		file = open(fname, "rb")
@@ -166,6 +170,7 @@ for u in range(0,len(fdir)):
 			f45=get_index(row[0])
 			f46=get_pos_lit(rfidx,uu)
 			f47,f48=get_ffm(row[6],ffm)
+			#f49=get_hyphen(row[0])
 			uu+=1
 			# end extraction lexicon features
 			
@@ -175,7 +180,7 @@ for u in range(0,len(fdir)):
 			FS=np.append(FS,tp,0)
 			del tp
 			#print time.time()-t
-		np.savetxt('Datasets/Ours/Features/'+fdir[u], FS)
+		np.savetxt('Datasets/'+dat_set+'/Features/'+fdir[u], FS)
 		file.close()
 	else:
 		print 'File already processed'

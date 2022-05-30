@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_12"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Compagna, Diego / Derpmann, Stefan (2009): Verfahren partizipativer Technikentwicklung. Wor-
+king Papers kultur-und techniksoziologische Studien (no 04/2009). Hg.: Diego Compagna / Karen 
+Shire, Universität Duisburg-Essen. In: http://www.uni-due.de/soziologie/compagna_wpkts (letzter 
+Abruf: 27.12.2009).</ref>
+<ref>Giesecke, Susanne (2003): Von der Technik-zur Nutzerorientierung -neue Ansätze in der Innova-
+tionsforschung. In: Dies. (Hg.): Technikakzeptanz durch Nutzerintegration? Beiträge zur Innovati-
+ons-und Technikanalyse. Teltow: VDI/VDE-Technologiezentrum Informationstechnik GmbH. (S. 9-
+17)</ref>
+<ref>Joerges, Bernward (1988): Gerätetechnik und Alltagshandeln. In: Ders: Technik im Alltag. Frank-
+furt/Main: Suhrkamp. (S. 20-50)</ref>
+<ref>Resch, K.-L. (2009): Von Bedarfen und Bedürfnissen. In: Forschende Komplementärmedizin. Vol. 
+16, No. 2, 2009. Basel (u.a.): Karger. (S. 72-74)</ref>
+<ref>WiMi-Care: Förderung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch 
+Mikrosystemtechnik (WiMi-Care). Website: http://www.wimi-care.de.</ref>
+<ref>Working Brief 3: Diego Compagna / Stefan Derpmann / Kathrin Mauz / Karen Shire (2009): Förde-
+rung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch Mikrosystem-
+technik (WiMi-Care), Working Brief 3: Die Personengebundenheit von Wissen. In: http://www.wimi-
+care.de/outputs.html#Briefs (letzter Abruf: 02.12.2009).</ref>
+<ref>Working Brief 13: Diego Compagna / Stefan Derpmann / Kathrin Mauz / Karen Shire (2009): För-
+derung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch Mikrosystem-
+technik (WiMi-Care), Working Brief 13: Erste Methodenreflexion: Die Anwendung der Grounded 
+Theory zur Durchführung von Bedarfsanalysen. In: http://www.wimi-care.de/outputs.html#Briefs 
+(letzter Abruf: 02.12.2009).</ref>
+<ref>Working Brief 15: Diego Compagna / Stefan Derpmann / Kathrin Mauz / Karen Shire (2009): För-
+derung des Wissenstransfers für eine aktive Mitgestaltung des Pflegesektors durch Mikrosystem-
+technik (WiMi-Care), Working Brief 15: Die Einstellung von Pflegekräften gegenüber technischen 
+Neuerungen. In: http://www.wimi-care.de/outputs.html#Briefs (letzter Abruf: 02.12.2009).</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

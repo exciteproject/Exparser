@@ -1,6 +1,8 @@
+
+
 #*****************************************************************************************************************************************************
 # Choose the dataset:
-dat_set='Cermine'  #it takes Cermine, Grobid, Ours_En or Ours_De
+dat_set='Dataset'  #it takes Cermine, Grobid, Ours_En or Ours_De
 #*****************************************************************************************************************************************************
 
 # -*- coding: UTF-8 -*- 
@@ -28,8 +30,8 @@ from itertools import chain
 import sklearn
 import scipy.stats
 from sklearn.metrics import make_scorer
-from sklearn.cross_validation import cross_val_score
-from sklearn.grid_search import RandomizedSearchCV
+#from sklearn.cross_validation import cross_val_score
+#from sklearn.grid_search import RandomizedSearchCV
 import sklearn_crfsuite
 from sklearn_crfsuite import scorers
 from sklearn_crfsuite import metrics
@@ -110,7 +112,7 @@ for tindex,trainingfold in enumerate(folds):
 				#add their features to w
 			#update features
 			train_feat[len(train_feat)-1]=add2feat(train_feat[len(train_feat)-1],i)
-		file.close()
+		#file.close()
 	
 	crf = sklearn_crfsuite.CRF(
 		algorithm='pa',  

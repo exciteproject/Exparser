@@ -439,7 +439,7 @@ def restriction (lab,ln,mll,o):		# this heuristic should be replaced in the comp
 		tmp=ln[-1]
 		#tmp2=re.findall(r'^((\[.*\])|(\(.*\))|([0-9]+\. ))',ln)
 		if ((tmp=='-')|(tmp==',')):
-			p1=0.01
+			p1=0.001
 		#elif tmp=='.':
 			#p1=0.6
 		else:

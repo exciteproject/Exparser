@@ -6,7 +6,7 @@
 #test if it is upper instead of is.upper() which does not consider special character
 def isup(a):
 	b=re.sub(r'[^A-ZÄÜÖÏÈÉÇÂÎÔÊËÙÌÒÀÃÕÑÛ]'.decode('utf-8'), '', a)
-	l=bool(b)
+	l=int(bool(b))
 	return l
 #end test upper
 
@@ -288,3 +288,9 @@ def get_ffm(fm,ffm):
 	tmp1=int(bool(re.findall(r'Italic',fm)))
 	fbi=tmp+tmp1
 	return ff,fbi
+'''	
+def get_hyphen(ln):
+	tmp=re.findall(r'.(?=\-[ \s]*\n)'.decode('utf-8'), ln)
+	hyp=int(bool(tmp))
+	return hyp
+'''	

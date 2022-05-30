@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_1"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Bourdieu, P. (1976b), »Le sens pratique«, in: Actes de la recherche en sciences sociales 
+1, S. 43-86.</ref>
+<ref>Meulemann (Hg.), Wertwandel -Faktum oder Fiktion? Bestandsaufnahmen und 
+Diagnosen aus kultursoziologischer Sicht, Frankfurt: Campus, S. 257-294.</ref>
+<ref>Eder * Klassentheorie als Gesellschaftstheorie * 
+Seite 1</ref>
+<ref>Jantke, C., & Hilger, D. (Hg.) (1965), Die Eigentumslosen. Der deutsche Pauperismus 
+und die Emanzipationskrise in Darstellungen und Deutungen der zeitgenössischen 
+Literatur, Freiburg/München: Alber.</ref>
+<ref>Joppke, Ch. (1986), »The Cultural Dimensions of Class Formation and Class Struggle: 
+On the Social Theory of Pierre Bourdieu«, in: Berkeley Journal of Sociology 31, S. 53-
+78.</ref>
+<ref>Luthe, H.-O., & Meulemann, H., (Hg.), Wertwandel -Faktum oder Fiktion? Bestands-
+aufnahmen und Diagnosen aus kultursoziologischer Sicht, Frankfurt: Campus.</ref>
+<ref>Bonß & H. Hartmann (Hg.), Entzauberte Wissenschaft. Zur Relativität und Geltung 
+soziologischer Forschung, Göttingen: Schwartz, S. 49-64.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

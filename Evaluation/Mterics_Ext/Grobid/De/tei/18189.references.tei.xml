@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_11"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Brader, Doris/Lewerenz, Julia (2006), »Frauen in Führungspositionen«, IAB Kurzbericht. Aktuelle 
+Analyse aus dem Institut für Arbeitsmarkt-und Berufsforschung der Bundesagentur für Arbeit, Nr. 2, 
+24.2.2006, Nürnberg, S. 1-4.</ref>
+<ref>Degele, Nina (2006), »Sportives Schmerznormalisieren. Zur Begegnung von Körper-und Sport-
+soziologie«, in: Gugutzer, Robert (Hg.), body turn. Perspektiven der Soziologie des Körpers und des 
+Sports, Bielefeld, S. 141-161.</ref>
+<ref>Wetterer, Angelika (2003), »Rhetorische Modernisierung: Das Verschwinden der Ungleichheit aus 
+dem zeitgenössischen Differenzwissen«, in: Knapp, Gudrun-Axeli/Wetterer, Angelika (Hg.), 
+Achsen der Differenz. Gesellschaftstheorie und feministische Kritik II, Münster, S. 286-319.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

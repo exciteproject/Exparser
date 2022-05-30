@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_3"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Evrazijstvo. Opyt sistematičeskogo izloženija, in: Puti Evrazii. Russkaja intelligencija i sud'by Rossii, Mos-
+kva, 1992, S. 399.</ref>
+<ref>Die folgenden Ausführungen basieren auf einem Aufsatz des Verfassers in der Zeitschrift Mir Rossii, Nr. 4/ 
+1996, S. 3-66.</ref>
+<ref>Gasprinskij Ismail bej, Russkoe musul'manstvo. Mysli, zametki i nabljudenija [1881], in: Gasprinskij Ismail 
+bej, Rossija i Vostok, Kazan', 1993, S. 21.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

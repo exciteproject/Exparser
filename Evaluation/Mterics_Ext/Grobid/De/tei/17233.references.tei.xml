@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_11"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Bateson, Gregory (1972), »A Theory of Play and Fantasy«, in: ders. (Hg.), Steps to an Ecology of Mind, 
+New York, S. 177-193.</ref>
+<ref>Becker, Barbara (1997), »Virtuelle Identitäten: Die Technik, das Subjekt und das Imaginäre«, in: 
+Becker, Barbara/Paetau, Michael (Hg.): Virtualisierung des Sozialen. Die Informationsgesellschaft 
+zwischen Fragmentierung und Globalisierung, Frankfurt a.M., S. 163-184.</ref>
+<ref>Hahn, Alois/Willems, Herbert (1998), »Zivilisation, Modernität, Theatralität: Identitäten und Iden-
+titätsdarstellungen«; in: Willems, Herbert /Jurga, Martin (Hg.), Inszenierungsgesellschaft, Opladen, 
+S. 193-213.</ref>
+<ref>Misoch, Sabina (2004a), Identitäten im Internet. Zur Selbstdarstellung auf privaten Homepages, Konstanz. 
+Misoch, Sabina (2004b), »Selbstdarstellungen Jugendlicher auf privaten Homepages«, merz 2004/5, 
+S. 43-47.</ref>
+<ref>Rheingold, Howard (1996), Virtuelle Welten, Reinbek.</ref>
+<ref>Sennett, Richard (2000), Der flexible Mensch. Die Kultur des neuen Kapitalismus, Berlin. 
+Turkle, Sherry (1998/1995), Leben im Netz. Identität im Zeitalter des Internet, Reinbek (orig. »Life on 
+the Screen«).</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

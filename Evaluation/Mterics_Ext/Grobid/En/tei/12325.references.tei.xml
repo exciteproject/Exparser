@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_4"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Anderson JC, Williams S, Mcgee R, 
+Silva PA (1987) DSM-III disorders in 
+preadolescent children: prevalence in a 
+large sample from the general popula-
+tion. Arch General Psychiatry 44:69-76</ref>
+<ref>Arcelus J, Vostanis P (2003) Child 
+psychiatric disorders among primary 
+mental health service attenders. Br J 
+Gen Pract 52:214-216</ref>
+<ref>Brown TA, Barlow DH (2005) Dimen-
+sional versus categorical classification 
+of mental disorders in the fifth edition 
+of the Diagnostic and statistical manual 
+of mental Disorders and beyond: 
+comment on the special section. 
+J Abnorm Psychol 114:551-556</ref>
+<ref>Cohen J (1986) Weighted kappa: nom-
+inal scale agreement with provision for 
+scaled disagreement or partial credit. 
+Psychol Bull 70:213-220</ref>
+<ref>Cuthbert BN (2005) Dimensional 
+models of psychopathology: research 
+agenda and clinical utility. J Abnorm 
+Psychol 114:565-569</ref>
+<ref>Gillberg C (2003) Deficits in attention, 
+motor control, and perception: a brief 
+review. Arch Dis Childhood 88:904-910</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

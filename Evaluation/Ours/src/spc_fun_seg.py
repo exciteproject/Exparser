@@ -378,6 +378,8 @@ def tagging_wp(ln,label):		#tagging without probabilities
 						old=''
 					else:
 						nln=nln+'</'+tag[a]+'>'+old+' '+ln[i][0:tmp1[0]]+'<'+tag[tmp]+'>'+ln[i][tmp1[0]:tmp1[1]]
+						print(ln[i])
+						print(tmp1)
 						old=ln[i][tmp1[1]::]
 					a=tmp
 		else:

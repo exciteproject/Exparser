@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_5"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Pavel M. Alexejew, Valentin M. Kalinin und Rajmond G. Piotrowski (Hg.) (1973): 
+Sprachstatistik. München/Salzburg.</ref>
+<ref>Gershon Alperovich (1984): The size distribution of cities -On the empirical validity of the 
+rank-size rule. Journal of Urban Economics, XVI, S. 232-239.</ref>
+<ref>Felix Auerbach (1913): Das Gesetz der Bevölkerungskonzentration. Petermanns 
+Geographische Mitteilungen, Band LIX, S. 73 -76.</ref>
+<ref>Flavio Bonifacio (2004): An automatic method for detection of extreme values : rules and 
+applications. 3 rd Conference in Actuarial Science and Finance, Samos, Greece, 2-5 
+September 2004. Internet.</ref>
+<ref>Steven Brakman, Harry Garretsen,Charles van Marrewijk und Marianne van den Berg 
+(1999): The return of Zipf -Towards a further understanding of the rank-size 
+distribution. Journal of Regional Science, Vol 39, S.183-213.</ref>
+<ref>Manfred Bretz und Edgar Wedel (1988): Zweck und Bedeutung der Volks-, Berufs-, 
+Gebäude-und Wohnungszählung. Wirtschaft und Statistik 3/1987, S.195-206.</ref>
+<ref>Glenn R. Carroll (1982): National city-size distributions -What do we know after 67 years 
+of research? Progress in Human Geographie VI, S.1-43.</ref>
+<ref>Charles Darwin (1859): On the origin of species by means of natural selection -Or the 
+preservation of favoured races in the struggle for life. London.</ref>
+<ref>Albert Einstein (1922): Über die spezielle und allgemeine Relativitätstheorie. Braunschweig. 
+Ernst Engel (1881): Das Rechnungsbuch der Hausfrau und seine Bedeutung im 
+Wirtschaftsleben der Nation. Zeitschrift des Königlich Preussischen Statistischen 
+Bureaus 21, S.379-390.</ref>
+<ref>Xavier Gabaix (1999): Zipf`s law for cities -An explanation. The Quarterly Journal of 
+Economics, 114, S.739-767.</ref>
+<ref>Johann Gottfried Galle (1858): Über die Verbesserung der Planeten-Elemente aus 
+beobachteten Oppositionen, angewandt auf eine neue Bestimmung der Pallas-Bahn. 
+Breslau.</ref>
+<ref>Wolfgang Gerß (1984): Statistische Einzelangaben als Grundlage der regionalen 
+wirtscha ftlichen Gesamtrechnungen. Jahrbücher für Statistik und Landeskunde von 
+Baden-Württemberg, Jahrgang 29, S.151-158.</ref>
+<ref>Wolfgang Gerß (1990): Inter-und intraregionale Unterschiede der Wertschöpfung in der 
+Bundesrepublik Deutschland. Statistische Rundschau Nordrhein-Westfalen Jg. 42/9, 
+S.639-649.</ref>
+<ref>Wolfgang Gerß (1996): Statistische Signifikanz der Diversität im Zusammenhang mit 
+biologischen Bestandserfassungen. Allgemeines Statistisches Archiv 80 (2), S.219-226.</ref>
+<ref>Wolfgang Gerß (2000): Statistische Auswertung einer zehnjährigen Punkt-Stopp-
+Vogelzählung im niederbergischen Hügelland. Charadrius 36 Heft 2, S.49-56.</ref>
+<ref>Ernest P. Goodrich (1926) : The statistical relationship between population and the city plan. 
+American Journal of Sociology, Vol. 20, S.123-128.</ref>
+<ref>Volker Hannemann (1992):Ergebnisse, Nutzen, Qualität und Organisation von 
+Volkszählungen in den alten Bundesländern. In: Forum der Bundesstatistik, Band 21, 
+S.67-82, Stuttgart.</ref>
+<ref>Michael Harrison (1985): Brownian motion and stochastic flow systems. New York. 
+Jeroen Hinloopen und Charles van Marrewijk (2004): Locating economic concentration. 
+Tinbergen Institute Discussion Paper. Internet.</ref>
+<ref>Robert T. Holt, Brian L. Job und Lawrence Markus (1978): Catastrophe theory and the study 
+of war. Journal of Conflict Resolution 22, S.171-208.</ref>
+<ref>Yannis M. Ioannides und Henry G. Overman (2003): Zipf`s law for cities -An empirical 
+examination . Regional Science and Urban Economics, Vol.33, S.127-137.</ref>
+<ref>Robert I. Jennrich (1978): siehe Ralston.</ref>
+<ref>Brian L. Job (1978): siehe Holt.</ref>
+<ref>Valentin M. Kalinin (1973): siehe Alexejew.</ref>
+<ref>Thorbjörn Knudsen (2001): Zipf`´slaw for cities and beyo nd -The case of Denmark. 
+American Journal of Economics and Sociology, Vol.60 No.1, S.123 -146.</ref>
+<ref>Alfred J. Lotka (1925): The elements of physical biology. Baltimore.</ref>
+<ref>Anne E. Magurran (1988): Ecological diversity and its measurement. London.</ref>
+<ref>Karl Marx (1867/ 1885/ 1894): Das Kapital -Kritik der politischen Ökonomie; Bände I,II,III. 
+Hamburg.</ref>
+<ref>Henry G. Overman (2003): siehe Ioannides.</ref>
+<ref>Johann Pfanzagl (1963): Über die Parallelität von Zeitreihen. Metrika 6, S.100-113.</ref>
+<ref>Rajmond G. Piotrowski (1973): siehe Alexejew.</ref>
+<ref>Mary L. Ralston und Robert I. Jennrich (1978): DUD, a derivative-free algorithm for 
+nonlinear least squares. Technometrics 20, S.7-14.</ref>
+<ref>Cambell B. Read (1988): Zipf´s law. In: S. Kotz, N.L. Johnson, C.B.Read (Hg), 
+Encyclopedia of Statistical Sciences, New York.</ref>
+<ref>Marco Scharmer (2001): Ergebnisse der Pendlerrechnung Nordrhein-Westfalen 1998. 
+Statistische Analysen und Studien NRW 4/2001, S.27-44.</ref>
+<ref>Narushige Shiode und Michael Batty(2000): Power law distributions in real and virtual 
+worlds. INET 2000 Proceedings, The Internet Society Conference, Yokohama, 18-21 
+July 2000. Internet.</ref>
+<ref>Herbert Alexander Simon (1955): On a class of skew distribution functions. Biometrika 42, S. 
+S.426-439.</ref>
+<ref>Kwok Tong Soo (2002): Zipf´s law for cities -A cross country investigation . Mimeo, 
+London School of Economics. Internet.</ref>
+<ref>John Quincy Stewart (1947): Empirical mathematical rules concerning the distribution and 
+equilibrium of population. The Geographical Review, Vol. 37, S.461-485.</ref>
+<ref>John Quincy Stewart (1948): Demographic gravitation -Evidence and applications. 
+Sociometry, Vol. 11 Nr. 1 und 2, S.31-58.</ref>
+<ref>Hugo de Vries (1901, 1903): Die Mutationstheorie -Versuche und Beobachtungen über die 
+Entstehung von Arten im Pflanzenreich. Leipzig.</ref>
+<ref>Rolf Wiegert (1999): Einführung in die Diskussion um einen Zensus 2001 in 
+Deutschland.Sonderheft 33 zum Allgemeinen Statistischen Archiv, S.9-14. Göttingen.</ref>
+<ref>Paul Würzberger und Edgar Wedel (1988): Erste Ergebnisse der Volkszählung 1987. 
+Wirtschaft und Statistik 12/ 1988, S.829-836.</ref>
+<ref>Erik Christopher Zeeman (1976): Catastrophe theory. Scientific American 234, S.65-83.</ref>
+<ref>George Kingsley Zipf (1941): National unity and disunity -The nation as a bio-social 
+organism. Bloomington/Ind.</ref>
+<ref>George Kingsley Zipf (1942): The unity of nature, least-action, and natural social science. 
+Sociometry Vol. 5, S.48-62.</ref>
+<ref>George Kingsley Zipf (1947): The hypothesis of théMinimum Equation´as a unifying social 
+principle, with attempted synthesis. American Sociological Review, Vol.12, S.627-650.</ref>
+<ref>George Kingsley Zipf (1949): Human behavior and the principle of least efforts -An 
+introduction to human ecology. Cambridge/Mass. [Faksimile New York 1972].</ref>
+<ref>Ab No. 1/1999 sind alle Beiträge im Internet abrufbar unter 
+http://soziologie.uni-duisburg.de/dbsf.htm</ref>
+<ref>Bisher sind in der Reihe "Duisburger Beiträge" erschienen: 
+No. 1/1988 Zum Anspruch einer evolutionsbiologischen Fundierung der Moral. 
+Fritz Rudolph</ref>
+<ref>No. 2/1988 Moralische Institutionen und die Ordnung des Handelns in der Gesellschaft. 
+Die "utilitaristische" Theorietradition und die Durkheimsche Herausforderung. 
+Hans J. Hummell</ref>
+<ref>No. 3/1988 Selbstreferentielle Technologiepolitik. Theoretische und thematische 
+Grundlagen der Wirtschaftsbezogenen F & T -Politik.</ref>
+<ref>Dieter Urban 
+No. 4/1988 Berufseinmündung, Berufssituation und soziale Lage Duisburger 
+Diplom-Sozialwissenschaftler/innen. 
+Erste Ergebnisse einer empirischen Erhebung.</ref>
+<ref>Dieter W. Emmerling</ref>
+<ref>No. 5/1988 Negative Dialektik -oder: Das "andere Genus des Denkens". 
+Helga Gripp-Hagelstange</ref>
+<ref>No. 1/1989 Entscheidungsprozesse im Studium: Weiterstudieren oder Aufgeben? 
+Christoph Rülcker, Adelheid Berger, Dieter Emmerling 
+No. 2/1989 Lokale Handlungsebene und Jugendarbeitslosigkeit. 
+Ein Forschungsbeitrag zur wohlfahrtsstaatlichen 
+Dezentralisierungsdebatte. Ergebniszusammenfassung. 
+Jürgen Krüger, Manfred Pojana, Roland Richter 
+No. 3/1989 Binäre LOGIT-Analyse: ein statistisches Verfahren zur Bestimmung 
+der Abhängigkeitsstruktur qualitativer Variablen. 
+Dieter Urban</ref>
+<ref>No. 4/1989 Niklas Luhmann -oder: Was ist ein "differenztheoretischer" Ansatz? 
+Helga Gripp-Hagelstange</ref>
+<ref>No. 1/1996 Arbeitslosigkeit und Sucht: Eine qualitative Studie zu Suchtkarrieren 
+von Arbeitslosen. Forschungsgruppe Langzeitarbeitslosigkeit: 
+Thomas Schweer (inhaltlich verantwortlich), Hermann Strasser, Gabriele 
+Klein, Thomas Bongartz, Klaus Gröhnke 
+No. 2/1996 Soziale Netzwerke bei Langzeitarbeitslosen. 
+Forschungsgruppe Langzeitarbeitslosigkeit: 
+Klaus Gröhnke (inhaltlich verantwortlich), Hermann Strasser, 
+Thomas Bongartz, Gabriele Klein, Thomas Schweer 
+No. 3/1996 Lohnemanzipation in Europa: Synoptische Beurteilung der Gleichstellung 
+abhängig beschäftigter Männer und Frauen nach ihren Durchschnittsverdiensten 
+in der Europäischen Union. 
+Wolfgang Gerß</ref>
+<ref>No. 4/1996 Am Fordismus vorbei: Bauwirtschaft und Gastgewerbe in Deutschland 
+und Frankreich. 
+Stefan Lücking, Stephan Voswinkel 
+No. 5/1996 Generationensolidarität oder Altenmacht -Was trägt (künftig) 
+den Generationenvertrag? 
+Zur politischen Soziologie der staatlichen Alterssicherung. 
+Jürgen Krüger</ref>
+<ref>No. 1/1997 "Pumps, leider zu klein...": Eine empirische Studie über den privaten 
+Gebrauchtwarenhandel via Offertenblatt. 
+Birgit Kunde, Christoph Rülcker, Ansgar Schulz-Kleyenstüber, 
+Uwe Zander 
+No. 2/1997 Leistungen und Leistungspotentiale älterer Menschen, Bilanz und Perspektiven 
+des intergenerationalen Lastenausgleichs in Familie und sozialem Netz. 
+(Tagungsband)</ref>
+<ref>No. 3/1997 Merkmalsraumbildung und Differenzierung von mehrstelligen Variablen. 
+Günter Winter 
+No. 4/1997 Determinanten der Studiendauer: 
+Differenzen zwischen Studierenden verschiedener Fachbereiche? 
+Ein Zwei-Gruppen-Test.</ref>
+<ref>Josef Köster, Uwe Matzat 
+No. 5/1997 Die Arbeitsplatzsuchstrategien von Arbeitslosen. 
+Forschungsprojekt Langzeitarbeitslosigkeit: 
+Klaus Gröhnke, Hermann Strasser 
+No. 1/1998 Arbeitszeitverkürzung, Entgelt und Beschäftigung. 
+Gerhard Bosch 
+No. 2/1998 "Marxloh". Ansichten über einen Duisburger Stadtteil. 
+Thomas Rommelspacher, Christoph Rülcker, 
+Ansgar Schulz-Kleyenstüber, Uwe Zander 
+No. 1/1999 Marktphilosophien in der Beschäftigungskrise . Zu den Wirksamkeits-
+und Wirtschaftlichkeitsannahmen im Ersten und Zweiten Arbeitsmarkt. 
+Achim Trube 
+No. 2/1999 Der große Zapfenstreich. 
+Eine soziologische Analyse eines umstrittenen Rituals. 
+Ulrich Steuten 
+No. 3/1999 Sozialwissenschaftliches Praktikum in der amtlichen Statistik. 
+Fallbeispiel: Ergebnisse politischer Wahlen und Strukturmerkmale 
+der nordrhein-westfälischen Gemeinden. 
+Wolfgang Gerß</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

@@ -2,7 +2,7 @@
 
 #*****************************************************************************************************************************************************
 # Choose the dataset:
-dat_set='Ours_De'     #Ours_En or Ours_De
+dat_set='ParsCit'     #Ours_En or Ours_De
 #*****************************************************************************************************************************************************
 
 
@@ -38,9 +38,9 @@ from sklearn.feature_selection import SelectFromModel
 from sklearn.ensemble import ExtraTreesClassifier
 from sklearn.cluster import KMeans	
 idxx=np.load('idxx.npy')
-execfile('./src/Initial_Data.py')
+#execfile('./src/Initial_Data.py')
 
-if 
+
 
 
 folds=os.listdir("./Datasets/"+dat_set+"/CrossValidationFiles/Training/")
@@ -52,7 +52,7 @@ for tindex,trainingfold in enumerate(folds):
 	print trainingfold
 
 	# Training
-	FS=np.empty((0,50*3),float)   #feature space
+	FS=np.empty((0,50*3),float)   #feature space		#50
 	SM=np.empty((0,1),float)   #feature space
 	train_feat=[]
 	train_label=[]
@@ -79,7 +79,7 @@ for tindex,trainingfold in enumerate(folds):
 		reader2=reader2.split('|')
 		reader2 = reader2[0:-1] if reader2[-1]=='' else reader2
 
-		Fs=np.empty((0,50*3),float)   #feature space
+		Fs=np.empty((0,50*3),float)   #feature space   #50
 		Sm=np.empty((0,1),float)   #feature space
 		
 		for uu in range (len(reader)):
@@ -106,10 +106,10 @@ for tindex,trainingfold in enumerate(folds):
 			
 			Fs=np.append(Fs,[r],0)	
 
-		Fs[np.isinf(Fs)]=1
+		Fs[np.isinf(Fs)]=-1
 		#Uncomment for Normalisation
 		#Fs=np.transpose([(x-min(x))/(max(x)-min(x)) for x in np.transpose(Fs)])
-		Fs[np.isnan(Fs)]=1
+		Fs[np.isnan(Fs)]=-1
 		
 		tmp=Fs[np.where(Sm==0)[0]]
 		kmeans = KMeans(n_clusters=min([len(tmp)-1,8*(len(Fs)-len(tmp))])).fit(tmp)
@@ -148,7 +148,7 @@ for tindex,trainingfold in enumerate(folds):
 	tmp3=np.concatenate((tmp3,tmp3[tmp0]), axis=0)
 	FSN=np.concatenate((FS[tmp],FS[tmp1],FS[tmp2],FS[tmp3]), axis=0)
 	SMN=np.concatenate((SM[tmp],SM[tmp1],SM[tmp2],SM[tmp3]), axis=0)
-
+	
 	FSN[np.isinf(FSN)]=1
 	np.save('Utils/'+dat_set+'/FSN_'+str(tindex)+'.npy',FSN)
 	np.save('Utils/'+dat_set+'/SMN_'+str(tindex)+'.npy',SMN)

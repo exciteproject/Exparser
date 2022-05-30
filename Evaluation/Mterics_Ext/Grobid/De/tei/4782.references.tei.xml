@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_1"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Monitoring "Političeskaja situacija v regionach Rossii. Oktjabr' 1998". Moskva: Rossijskij Obščestvenno-Političeskij Centr, 
+1998, S. 13-18.</ref>
+<ref>Siehe dazu z.B. J.R. Mettke, Vor einer Ära des Terrors?, Der Spiegel, 49, 1998, S. 196-200.</ref>
+<ref>Siehe z.B. V. Kuvaldin, Moral' semiletki radikal'nych reform. Lučše demontirovat' vsë, čto nareformirovali, Nezavisimaja 
+gazeta, NG-Scenarii, 8, 1998, S. 10.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

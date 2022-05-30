@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_6"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<ref>Siehe Sergei Lunew: Rußlands Politik gegenüber Indien und Südasien, in: Klaus Fritsche (Hrsg.): Rußland und die Dritte 
+Welt, Baden-Baden 1996, insbesondere S. 144-154.</ref>
+<ref>Indien und Russland erneuern ihre Partnerschaft, in: NZZ, 24.12.1997, S. 10.</ref>
+			</listBibl>
+		</back>
+	</text>
+</TEI>

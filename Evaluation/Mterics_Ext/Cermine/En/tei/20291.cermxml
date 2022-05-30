@@ -1,0 +1,2050 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Eur Child Adolesc Psychiatry</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1007/s00787-009-0044-5</article-id>
+      <title-group>
+        <article-title>When does the Autism Spectrum Screening Questionnaire (ASSQ) predict autism spectrum disorders in primary school-aged children?</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Marja-Leena Mattila</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <xref ref-type="aff" rid="aff3">3</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Katja Jussila</string-name>
+          <email>katja.jussila@oulu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <xref ref-type="aff" rid="aff3">3</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Sanna Kuusikko</string-name>
+          <email>sanna.kuusikko@gmail.com</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <xref ref-type="aff" rid="aff3">3</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Marko Kielinen</string-name>
+          <email>marko.kielinen@oulu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <xref ref-type="aff" rid="aff3">3</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Sirkka-Liisa Linna</string-name>
+          <email>sirkkaliisa.linna@oulu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <xref ref-type="aff" rid="aff3">3</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Hanna Ebeling</string-name>
+          <email>hanna.ebeling@oulu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <xref ref-type="aff" rid="aff3">3</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Risto Bloigu</string-name>
+          <email>risto.bloigu@oulu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <xref ref-type="aff" rid="aff3">3</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Leena Joskitt</string-name>
+          <email>leena.joskitt@oulu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <xref ref-type="aff" rid="aff3">3</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>David Pauls</string-name>
+          <email>dpauls@pngu.mgh.harvard.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <xref ref-type="aff" rid="aff3">3</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Irma Moilanen</string-name>
+          <email>irma.moilanen@oulu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <xref ref-type="aff" rid="aff3">3</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>D. Pauls Psychiatric and Neurodevelopmental Genetics Unit, Center for Human Genetic Research, Massachusetts General Hospital, Harvard Medical School</institution>
+          ,
+          <addr-line>Charlestown, MA</addr-line>
+          ,
+          <country country="US">USA</country>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>M. Kielinen Department of Educational Sciences and Teacher Education, University of Oulu</institution>
+          ,
+          <addr-line>P.O. Box 2000, 90014 Oulu</addr-line>
+          ,
+          <country country="FI">Finland</country>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>M.-L. Mattila (&amp;) K. Jussila S. Kuusikko H. Ebeling L. Joskitt I. Moilanen Clinic of Child Psychiatry, University Hospital of Oulu, University of Oulu</institution>
+          ,
+          <addr-line>P.O. Box 26, 90029 Oulu</addr-line>
+          ,
+          <country country="FI">Finland</country>
+        </aff>
+        <aff id="aff3">
+          <label>3</label>
+          <institution>R. Bloigu Medical Informatics Group, University of Oulu</institution>
+          ,
+          <addr-line>P.O. Box 5000, 90014 Oulu</addr-line>
+          ,
+          <country country="FI">Finland</country>
+        </aff>
+        <aff id="aff4">
+          <label>4</label>
+          <institution>S.-L. Linna Department of Public Health and General Practice, University of Oulu</institution>
+          ,
+          <addr-line>P.O. Box 5000, 90014 Oulu</addr-line>
+          ,
+          <country country="FI">Finland</country>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2009</year>
+      </pub-date>
+      <volume>18</volume>
+      <fpage>499</fpage>
+      <lpage>509</lpage>
+      <history>
+        <date date-type="accepted">
+          <day>7</day>
+          <month>5</month>
+          <year>2009</year>
+        </date>
+        <date date-type="received">
+          <day>19</day>
+          <month>2</month>
+          <year>2009</year>
+        </date>
+      </history>
+      <abstract>
+        <p>The aims of this study were, firstly, to study the association between parents' and teachers' ratings for the Finnish version of the Autism Spectrum Screening Questionnaire (ASSQ), secondly, to find out whether the original cut-off scores of the ASSQ identify primary school-aged children with Asperger syndrome (AS) or autism by using the Finnish ASSQ, and thirdly, to evaluate the validity of the ASSQ. Parents and/or teachers of higher-functioning (full-scale intelligence quotient C 50) 8-year-old total population school children (n = 4,408) and 7-12-year-old outpatients with AS/autism (n = 47) completed the Finnish version of the ASSQ. Agreement between informants was slight. In the whole total population, low positive correlation was found between parents' and teachers' ratings, while in the sample of high-scoring children the correlation turned out to be negative. A cut-off of 30 for parents' and teacher's summed score and 22 for teachers' single score is recommended. A valid cut-off for parents' single score could not been estimated. The clinicians are reminded that the ASSQ is a screening instrument, not a diagnosing instrument. The importance of using both parents' and teachers' ratings for screening in clinical settings is underlined.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Asperger syndrome</kwd>
+        <kwd>Pervasive developmental disorders</kwd>
+        <kwd>Autism spectrum disorders</kwd>
+        <kwd>Autism Spectrum Screening Questionnaire (ASSQ)</kwd>
+        <kwd>Screening</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="./data/testing/9/20291.images/img_7_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data/testing/9/20291.images/img_8_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="./data/testing/9/20291.images/img_8_2.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>Introduction</title>
+      <p>
+        According to a study by Howlin and Asgharian [
+        <xref ref-type="bibr" rid="ref11">11</xref>
+        ], parents
+of children with autism were generally aware of
+developmental problems by 18 months of age, and parents of
+children with Asperger syndrome (AS) at around 30 months
+of age, while the average age of confirmed diagnoses was
+around 5.5 years in the autism group and 11 years in the AS
+group. The diagnoses of autism spectrum disorders (ASD)
+thus seemed to be assigned much later than the time when
+parents notice developmental deviances in their child. In
+order to help to identify ASDs, a number of screening
+instruments have been developed, many of them for more
+severely handicapped children with autism [e.g. 4, 5, 13] or
+for children with ASD at all intelligence levels [e.g. 7, 8,
+21]. Additionally, some screening instruments have been
+developed and validated precisely for higher-functioning
+phenotypes [e.g. 9, 10, 22, 27].
+      </p>
+      <p>
+        The Autism Spectrum Screening Questionnaire (ASSQ)
+[
+        <xref ref-type="bibr" rid="ref10">10</xref>
+        ] was the first screening instrument developed precisely
+for AS. Initially it was known as the Asperger Syndrome
+Screening Questionnaire. The rationale for evaluation of the
+ASSQ in AS and other ASDs in higher-functioning children
+was the fact that there is a clear overlap of symptoms at
+behavioural level, reflected in the International
+Classification of Mental and Behavioural Disorders (ICD-10, WHO)
+[
+        <xref ref-type="bibr" rid="ref28">28</xref>
+        ] and Diagnostic and Statistical Manual of Mental
+Disorders (DSM-IV, APA) [
+        <xref ref-type="bibr" rid="ref2">2</xref>
+        ] criteria for ASDs. Originally
+designed in Sweden in Swedish, the questionnaire was
+developed specifically for teacher screening in children
+aged 7–16 years with normal intelligence or mild mental
+retardation. However, the Swedish cut-off scores were
+determined later for both parents’ and teachers’ ratings
+[
+        <xref ref-type="bibr" rid="ref10 ref9">9, 10</xref>
+        ]. The ASSQ has been used in clinical settings in
+Finland since the 1990s and it has also been translated into
+other languages (English [
+        <xref ref-type="bibr" rid="ref10">10</xref>
+        ], Lithuanian [
+        <xref ref-type="bibr" rid="ref15">15</xref>
+        ], Norwegian
+[
+        <xref ref-type="bibr" rid="ref19">19</xref>
+        ]). No other validated screening instrument especially
+for AS was available when the ASSQ was imported from
+Sweden to Finland.
+      </p>
+      <p>
+        In reports on child psychiatric symptoms, agreement
+between parents’ and teachers’ ratings is generally low to
+moderate [
+        <xref ref-type="bibr" rid="ref1 ref14">1, 14</xref>
+        ]. Agreement between informants has been
+studied not only in general child psychiatric symptoms, but
+also in autistic features [
+        <xref ref-type="bibr" rid="ref19 ref24">19, 24</xref>
+        ]. Szatmari et al. [
+        <xref ref-type="bibr" rid="ref24">24</xref>
+        ]
+reported slight agreement between parents’ and teachers’
+ratings (r = 0.17) in the Autism Behavior Checklist
+(ABC; [
+        <xref ref-type="bibr" rid="ref13">13</xref>
+        ]) when assessing children with pervasive
+developmental disorders (PDD). The results were
+suggested to be partly explained by real differences in
+behaviour at school and at home. In turn, Posserud et al.
+[
+        <xref ref-type="bibr" rid="ref19">19</xref>
+        ] reported low-to-moderate agreement between parents
+and teachers when assessing autistic features in a total
+population of 7–9-year-old children by using the ASSQ. As
+a consequence of low-to-moderate agreement, it is well
+grounded to assume that the number of informants—a
+multi-informant versus a single-informant approach—may
+influence diagnostics [
+        <xref ref-type="bibr" rid="ref15 ref18 ref23 ref9">9, 15, 18, 23</xref>
+        ]. Because of large
+differences across informants, the need to gather
+information from both families and schools when screening for
+ASDs was also suggested by Posserud et al. [
+        <xref ref-type="bibr" rid="ref19">19</xref>
+        ].
+      </p>
+      <p>
+        The purpose of our study was threefold: first, to study
+the association between parents’ and teachers’ ratings on
+the Finnish version of the ASSQ, second, to find out
+whether the original cut-off scores recommended by Ehlers
+et al. [
+        <xref ref-type="bibr" rid="ref10">10</xref>
+        ] are able to identify Finnish higher-functioning
+[full-scale intelligence quotient (FSIQ) C 50] primary
+school-aged children with AS or autism and whether using
+multi-informant ratings could increase the value of the
+ASSQ as a screening instrument, and third, to evaluate the
+sensitivity, specificity, positive predictive value (PPV),
+negative predictive value (NPV), likelihood ratio (LR),
+per cent agreement (% agreement) and kappa on the
+Finnish ASSQ.
+      </p>
+    </sec>
+    <sec id="sec-2">
+      <title>Methods</title>
+      <sec id="sec-2-1">
+        <title>Participants</title>
+        <p>
+          The participants of this study were drawn from two ongoing
+studies concerning higher-functioning (FSIQ C 50)
+children with AS or autism: (1) the ‘‘total population study’’
+[
+          <xref ref-type="bibr" rid="ref18">18</xref>
+          ], consisting of 4,408 children (FSIQ C 50) and (2) the
+‘‘outpatient study’’ of high-functioning (FSIQ C 80)
+outpatient children with AS/autism, consisting of 34 children.
+The participants were then divided into three partly
+overlapping groups: (1) ‘‘total population group’’: 4,408
+eightyear-old children (mean age 8.3, range 7.8–8.8) from the
+‘‘total population study’’ including 13 outpatients with ASD
+(FSIQ C 50), (2) ‘‘validation sample’’: 104 eight-year-old
+children (mean age 8.3, range 7.8–8.8) from the ‘‘total
+population study’’ including the 13 outpatients mentioned
+above with ASD (FSIQ C 50) and (3) ‘‘outpatient group’’:
+47 outpatient children aged 7–12 (mean age 9.7, range
+7.7–12.2) with ASD (FSIQ C 50) from Oulu University
+Hospital (n = 43) or at Tahkokangas Service Centre in
+Oulu (i.e. a rehabilitation centre for mentally handicapped,
+n = 4) including the above-mentioned 13 outpatients with
+ASD from the ‘‘total population study’’.
+        </p>
+        <p>In Finland, compulsory education offers equal
+educational possibilities for every child aged 7–16 years. From
+the age of 7 to the age of 12, children attend primary
+school, and from 13 to 16 years they attend secondary
+school. All children undergo developmental examinations
+in children’s health care centres several times before school
+age. If any developmental deviances are found or mental
+retardation is suspected, the child is referred to more
+detailed investigations and school readiness examinations
+also including the determination of IQ. Parents thus get to
+know the cognitive level of their child. If mental
+retardation is assigned, the child is referred to prolonged
+compulsory education and further service (at Tahkokangas
+Service Centre in the Oulu University Hospital area).</p>
+        <sec id="sec-2-1-1">
+          <title>Registered ASD diagnoses</title>
+          <p>Of the 47 ASD outpatients in this study, 32 had the
+registered diagnosis of AS, 3 had infantile autism with mild
+mental retardation, whereas 11 had ‘‘AS traits’’ and 1 had
+‘‘autistic traits’’ with mild mental retardation in the records
+of the Oulu University Hospital and/or Tahkokangas
+Service Centre. AS and AS traits diagnoses had been assigned
+based on the ICD-10 criteria regarding current behaviour.
+Thus, a differential diagnosis between AS and
+high-functioning autism (HFA) had not been made. The diagnosis
+‘‘AS traits’’ refers to the features of AS, and ‘‘autistic
+traits’’ to the features of autism.</p>
+        </sec>
+      </sec>
+      <sec id="sec-2-2">
+        <title>Procedure</title>
+        <p>The studies were approved by the ethical committee of
+Oulu University Hospital. The school inspector, the
+superintendents of all 43 municipalities and all 329 school
+principals were informed and permission was asked to
+carry out the screening phase of the ‘‘total population
+study’’. Written informed consent was obtained from
+parents and from children aged 12–13 years.</p>
+      </sec>
+      <sec id="sec-2-3">
+        <title>Total population study</title>
+        <sec id="sec-2-3-1">
+          <title>Screening phase of the study</title>
+          <p>
+            The ‘‘total population study’’ started in September 2000 in
+the Northern Ostrobothnia Hospital District area [
+            <xref ref-type="bibr" rid="ref18">18</xref>
+            ]
+(Fig. 1). All 8-year-old children born in 1992 attending
+primary or special school and living in this area in autumn
+2000 were chosen for the target population, n = 5,484
+(Statistics Finland, 31st of December, 2000). The teachers
+of these children were given an information package
+concerning the study, including lectures on AS and the ASSQ,
+after which the questionnaires were distributed to parents
+by teachers. The parents were required to provide a written
+informed consent to participate in the study and were asked
+to complete the ASSQ and a developmental questionnaire,
+in which possible AS and autism diagnosis and possible
+mental retardation were asked about. In the case of mental
+retardation, the level (mild, moderate, severe or profound)
+was also inquired in the developmental questionnaire.
+          </p>
+          <p>Parent questionnaires were returned to teachers in closed
+envelopes with written permission to participate on the
+cover. Parents of 4,424 children (80.7%) gave permission.
+After permission from parents the teachers of these
+children completed the ASSQ. The teachers were also asked
+about the child’s curriculum: general or special needs
+education (i.e. partly or completely adjusted education or
+education for children with mild, moderate, severe or
+profound mental retardation, or any other special
+education). Finally, the teachers returned all questionnaires to the
+researchers. Based on parents’ reports on the level of
+mental retardation with complementary curriculum
+information from teachers, eight children were excluded as
+having moderate or severe mental retardation. A total of
+4,416 children remained in the study.</p>
+        </sec>
+        <sec id="sec-2-3-2">
+          <title>Missing data</title>
+          <p>
+            Of these 4,416 children, 660 did not have parents’, 26
+teachers’ and two did not have either parents’ or teachers’
+ratings, and 183 parents’ ASSQs were discarded due to
+missing information (i.e. 1–25 items were missing).
+Missing items in teachers’ ASSQs were asked either by regular
+mail or by telephone, and all teachers’ ASSQs were
+thus successfully completed. Eventually, 4,414 children
+remained, with 3,571 parents’ and 4,388 teachers’ ASSQs.
+‘‘Validation sample’’ for ASSQ validity evaluations
+Of the 4,414 children, 125 were included in the ‘‘validation
+sample’’ in which the ASSQ validity was evaluated. The
+sample of 125 children consisted of all 73
+screening-positive (parent ASSQ C 19 and/or teacher ASSQ C 22; [
+            <xref ref-type="bibr" rid="ref10">10</xref>
+            ])
+children and a sample of 52 screening-negative children. Of
+the 73 screening-positive children, 24 were
+screeningpositive only in parents’, 36 only in teachers’ and 13 in both
+ratings. The inclusion criteria of screening-negative
+children were based on two Swedish articles [
+            <xref ref-type="bibr" rid="ref10 ref12">10, 12</xref>
+            ]: teacher
+ASSQ 17-21 (n = 28) [
+            <xref ref-type="bibr" rid="ref12">12</xref>
+            ]; parent ASSQ 7-18 and teacher
+ASSQ 9-16 (n = 24) [
+            <xref ref-type="bibr" rid="ref10">10</xref>
+            ]; these minimum scores, parent
+ASSQ score of 7 and teacher ASSQ score of 9, were
+selected from the Receiver Operating Characteristic (ROC)
+curves in the study of Ehlers et al. [
+            <xref ref-type="bibr" rid="ref10">10</xref>
+            ] with sensitivity of
+95%. Of the 125 children, 110 (88.0%) agreed to proceed,
+65 of whom were screening-positive (89.0%) and 45
+screening-negative (86.5%). Thus, 15 children declined,
+two of whom with AS/AS traits diagnosis according to the
+parents’ developmental questionnaire.
+          </p>
+          <p>To find out the outpatients with registered ASD diagnosis
+in the ‘‘validation sample’’, developmental history
+questionnaires completed by parents and patient records at the
+University Hospital of Oulu and Tahkokangas Service
+Centre were studied. Permission to check the patient records
+was asked from the parents. Of these 110 children, 18 were
+outpatients with ASD diagnosis (4 AS, 6 AS traits, 1 AS
+suspected, 1 HFA, 3 autism with mild mental retardation, 1
+autismus infantilis, 1 PDD with mild mental retardation, and
+1 autistic traits with mild mental retardation).</p>
+        </sec>
+        <sec id="sec-2-3-3">
+          <title>Diagnostic re-assignments</title>
+          <p>
+            These 18 outpatients with registered ASD diagnosis
+underwent diagnostic examinations. The Autism Diagnostic
+Interview-Revised (ADI-R; [
+            <xref ref-type="bibr" rid="ref16">16</xref>
+            ]), as a structured
+developmental and symptom history from parent(s), and the Autism
+Diagnostic Observation Schedule (ADOS; [
+            <xref ref-type="bibr" rid="ref17">17</xref>
+            ]), module 3,
+as a semi-structured child observation, were administered
+and videotaped by a paediatrician (M.-L.M.), clinically
+experienced in ASDs, and the Wechsler Intelligence Scale
+for Children-Third Revision (WISC-III) [
+            <xref ref-type="bibr" rid="ref25">25</xref>
+            ] was
+administered by two psychologists. Parents were also asked to
+supplement incompletely completed ASSQs (n = 1; four
+items missing) or fulfil non-completed ASSQs (n = 3).
+          </p>
+          <p>Three screening-positive outpatients with ASD were
+now tested as having an FSIQ below 50, and they were
+excluded, leaving 15 outpatients with ASD for further
+reevaluations. In the ‘‘validation sample’’, the WISC-III was
+administered to three children without any registered ASD
+diagnosis to find out the accurate FSIQ level. One
+screening-positive child had earlier been diagnosed to have
+mild/moderate mental retardation; the FSIQ of that child
+was now determined as below 50. Two screening-negative
+had severe neurological disability and the previous IQ level
+was unsure; these two still could not be tested reliably. All
+three children were excluded from the study.</p>
+          <p>After diagnostic examinations, school day observations
+of five children were undertaken to obtain more
+information. The observations were performed by an autism
+researcher of our team, a Master of Education (M.K.) blind
+to the primary examinations. The observation of each child
+lasted an entire school day, including direct observation
+during lessons and breaks, ‘‘structured interview’’ (ASSQ)
+and non-structured discussion with the teacher. After that,
+re-evaluations of 15 outpatients with ASD were performed
+by experienced clinicians (S.-L.L. and M.-L.M.) by
+reviewing all available data (ADI-R, ADOS tapes, ASSQs,
+patient records and school day observations). M.K.
+participated in the re-evaluation meetings for the five children
+whose school day was observed. The ICD-10 research
+criteria were then fulfilled, item by item, based on the
+consensus between S.-L.L. and M.-L.M. Two outpatients
+with ASD (one AS traits and one AS suspected) did not
+meet the ICD-10 research criteria for AS or autism. Finally,
+13 were re-assigned as ASD, 5 of them as AS, 6 as HFA,
+and 2 as autism with mild mental retardation. Six of the 13
+outpatients with re-assigned ASD were registered as ASD
+in hospital patient records after parent and teacher ASSQ
+ratings (i.e. after the screening phase of our study).</p>
+        </sec>
+        <sec id="sec-2-3-4">
+          <title>Final groups in the ‘‘total population study’’</title>
+        </sec>
+      </sec>
+      <sec id="sec-2-4">
+        <title>Assessment instruments</title>
+        <p>Eventually, 4,408 (80.4%) children with ASSQ made up
+the ‘‘total population group’’, including 3,565 (80.9%)
+parents’ ASSQs, and 4,382 (99.4%) teachers’ ASSQs,
+3,539 of which (80.3%) rated by both, all of the children
+having an FSIQ C 50 and no items missing on the ASSQs.</p>
+        <p>In addition, of the 4,408 children, 61 screening-positive
+and 43 screening-negative made up a ‘‘validation sample’’
+(n = 104), all rated by parents and 103 by teachers,
+including 13 outpatients with registered and verified ASD.
+The ASSQ validation was to be evaluated in the
+‘‘validation sample’’.</p>
+      </sec>
+      <sec id="sec-2-5">
+        <title>Outpatient study</title>
+        <p>The ‘‘outpatient study’’ started in January 2003 and is part
+of a larger research project concerning high-functioning
+(FSIQ C 80) outpatient children with AS or autism of Oulu
+University Hospital (Fig. 1). All 7–12-year-old primary
+school-aged outpatients with AS or AS traits, excluding
+outpatients born in 1992 (i.e. the outpatients already in the
+‘‘total population study’’), were invited (n = 38), and 34
+(89.5%) participated. All parents completed the ASSQ.</p>
+        <p>
+          The ASD diagnoses of 34 outpatients were re-assigned by
+using the ADI-R [
+          <xref ref-type="bibr" rid="ref16">16</xref>
+          ] to acquire developmental and
+symptom history from parent(s), and by using the ADOS, module
+3 [
+          <xref ref-type="bibr" rid="ref17">17</xref>
+          ] to observe the child’s behaviour and communication
+skills. The examinations were administered and videotaped
+by a research psychologist (K.J.). The patient records of all
+participants were studied. The diagnoses were then
+redefined according to the ICD-10 research criteria, based on
+information obtained with the ADI-R, ADOS and from
+patient records, by a psychologist (K.J.) consulting an
+experienced clinician (M.-L.M.) when a second opinion was
+needed. Development in the first 3 years of life was now
+taken into account. In these evaluations 21 children met the
+ICD-10 research criteria for AS and 13 for autism.
+        </p>
+        <p>The teachers of all 34 children were asked to complete
+the ASSQ 1 year later. Questionnaires were sent by regular
+mail to the parents, who were asked to complete the
+consent and then give the questionnaire to their child’s teacher.
+The questionnaire was resent twice if the ASSQ was not
+returned by the teacher. One 12-year-old child did not give
+permission to the teacher to complete the ASSQ. Finally,
+33 teachers completed the ASSQ with parents’ (and
+child’s) permission.</p>
+        <p>Eventually, the ‘‘outpatient group’’ consisted of 47
+children (13 from the ‘‘total population study’’ and 34 from
+the ‘‘outpatient study’’), 26 of whom met the re-assigned
+diagnosis for AS, 19 for HFA and 2 for autism with mild
+mental retardation. The ASSQ was completed by all
+parents and by 46 teachers.</p>
+        <sec id="sec-2-5-1">
+          <title>Autism Spectrum Screening Questionnaire</title>
+          <p>
+            The ASSQ [
+            <xref ref-type="bibr" rid="ref10">10</xref>
+            ] comprises 27 items rated on a 3-point
+scale, 0 indicating normal, 1 some abnormality and 2
+definite abnormality. The range of score is 0–54. Eleven
+items tap topics regarding social interaction, six cover
+communication problems and five refer to restricted and
+repetitive behaviour. The remaining five items embrace
+motor clumsiness and other associated symptoms including
+motor and vocal tics. Completing the ASSQ takes 10 min.
+Cut-off scores of 19 or more for parents’ and 22 or more
+for teachers’ ratings have been recommended in Sweden
+for screening to identify ASDs in children with normal
+intelligence or mild mental retardation in a clinical setting
+[
+            <xref ref-type="bibr" rid="ref10 ref9">9, 10</xref>
+            ]. The content and concurrent and discriminating
+validity of the questionnaire have been studied, and it has
+been published by Ehlers et al. [
+            <xref ref-type="bibr" rid="ref10">10</xref>
+            ].
+          </p>
+          <p>The ASSQ was first translated into Finnish by two
+clinically experienced psychologists and then
+back-translated into Swedish by an official Swedish translator. The
+final version was completed based on comparison between
+the original and the back-translated Swedish forms by the
+authors and on comments by child neurologists at Oulu
+University Hospital. On the 3-point scale, we decided to
+exclude the word ‘‘definite’’ from the alternative ‘‘definite
+abnormality’’ in the Finnish version because of clinical
+experience of Finnish parents’ reluctance to assess their
+children’s features as ‘‘definite’’.</p>
+        </sec>
+        <sec id="sec-2-5-2">
+          <title>Autism Diagnostic Interview-Revised and Autism</title>
+        </sec>
+        <sec id="sec-2-5-3">
+          <title>Diagnostic Observation Schedule</title>
+          <p>
+            The ADI-R [
+            <xref ref-type="bibr" rid="ref16">16</xref>
+            ] is a standardized investigator-based parent
+interview developed to elicit a full range of information
+across all three main symptom areas needed to produce a
+diagnosis of autism and to assist in the assessment of
+related PDDs. The ADI-R was translated into Finnish by
+two clinical psychologists in the 1990s and then
+backtranslated into English by an official English translator.
+After comparison the final Finnish version was completed
+by a group of professionals in the field of ASDs, all trained
+in the use of the ADI-R.
+          </p>
+          <p>
+            The ADOS [
+            <xref ref-type="bibr" rid="ref17">17</xref>
+            ] is a semi-structured assessment of
+social interaction, communication and play or imaginative
+use of materials for individuals who may have autism or
+other PDDs. The ADOS comprises four modules based on
+the verbal level of the subject. Module 3 was used in this
+study and was translated into Finnish by an official English
+translator.
+          </p>
+          <p>The physicians (M.-L.M. and S.-L.L.), psychologist
+(K.J.) and Master of Education (M.K.) who participated in
+the diagnostic process have been trained in the use of the
+ADI-R and ADOS for research purposes. The cut-off
+scores of the algorithms are standardized for autism and
+ASDs, but there are no algorithms precisely for AS. The
+ADI-R and ADOS algorithms were not used in this study.</p>
+        </sec>
+        <sec id="sec-2-5-4">
+          <title>Wechsler Intelligence Scale for Children-Third Revision</title>
+          <p>
+            IQ was measured by the WISC-III [
+            <xref ref-type="bibr" rid="ref25">25</xref>
+            ]. Throughout this
+study, the diagnosis of ‘‘HFA’’ is used in subjects with
+autism who had an FSIQ C 70, and the FSIQ of
+‘‘higherfunctioning’’ subjects is defined to be C50.
+          </p>
+        </sec>
+        <sec id="sec-2-5-5">
+          <title>Patient records</title>
+          <p>The University Hospital of Oulu and/or Tahkokangas
+Service Centre records of the subjects in the ‘‘validation
+sample’’ and in the ‘‘outpatient group’’ were studied. Early
+development was verified.</p>
+        </sec>
+      </sec>
+      <sec id="sec-2-6">
+        <title>Statistical analyses</title>
+        <p>The distributions of total ASSQ scores were skewed in the
+‘‘total population group’’, while total ASSQ scores were
+normally distributed in the ‘‘validation sample’’ and in the
+‘‘outpatient group’’. In skewed distributed data and in small
+samples, non-parametric Mann–Whitney’s U-test (Z) and
+Wilcoxon’s test were used. In normally distributed data,
+analyses were performed by parametric t-test for two
+independent samples and paired t-test. Correlations
+between parents’ and teachers’ ratings were estimated
+using Spearman’s rho in skewed distributed data and in
+small samples, and Pearson correlation in normally
+distributed data. Correlations’ P-values are reported as
+onesided and others’ as two-sided. P-values \ 0.05 were
+interpreted as significant. ROC analyses were performed to
+assess the discriminating validity of the ASSQ. Analyses
+were produced with the Statistical Package for Social
+Sciences version 16.0 for Windows.</p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>Results</title>
+      <sec id="sec-3-1">
+        <title>Medians and means in ratings and differences between ratings</title>
+        <p>The median in parents’ ratings was 24.0 (n = 47) and in
+teachers’ ratings was 27.5 (n = 46) in the ‘‘outpatient
+group’’; the corresponding figures were 1.0 (n = 3,565)
+and 0.0 (n = 4,382) in the ‘‘total population group’’. Mean
+differences between ‘‘outpatient group’’ and ‘‘total
+population group’’ in parents’ (M = 24.3 vs. 2.0; P \ 0.001)
+and teachers’ ratings (M = 27.2 vs. 1.5; P \ 0.001) were
+significant. In the ‘‘total population group’’, mean interrater
+difference between parent and teacher scorings was 0.4
+(M = 2.0 vs. 1.6; Z = -11.209; n = 3.539; P \ 0.001),
+and in the ‘‘validation sample’’, -5.8 (M = 12.2 vs. 18.0;
+95% confidence interval [CI] -8.7 to -3.0; n = 103;
+P \ 0.001). The mean difference for parents’ scores in
+the ‘‘outpatient group’’ between the subjects (n = 6)
+rated before and the ones (n = 41) rated after getting
+outpatient ASD diagnosis was significant (M = 18.0 vs.
+25.2; Z = -1.963; P = 0.049) (Table 1).</p>
+        <p>In the ‘‘outpatient group’’, means between males and
+females did not differ significantly in parents’ (M = 23.7
+vs. 26.2) and teachers’ (M = 26.6 vs. 29.2) ratings,
+whereas in the ‘‘total population group’’, males were rated
+significantly higher than females by parents (M = 2.3 vs.
+1.7; Z = -4.219; P \ 0.001) and by teachers (M = 2.2 vs.
+0.9; Z = -8.568; P \ 0.001) (Table 1). The ASSQ scores
+did not differentiate children with AS and HFA (Fig. 2).</p>
+      </sec>
+      <sec id="sec-3-2">
+        <title>Association between ratings</title>
+        <p>Kappa (r) between parents and teachers was 0.207
+(n = 3.539; P \ 0.001) in the ‘‘total population group’’,
+and 0.097 (P = 0.038) in subjects (n = 337) from the 14
+schools where teachers were known not to participate in the
+lectures on AS and the ASSQ.</p>
+        <p>The correlation coefficient between parents’ and
+teachers’ ratings was 0.258 (P \ 0.001) in the ‘‘total population
+group’’, and 0.205 (P \ 0.001) in children (n = 337) from
+the 14 schools where teachers were known not to
+participate in the lectures on AS and the ASSQ. In turn,
+correlation coefficient between parents’ and teachers’ ratings
+was negative in the ‘‘validation sample’’ (r = -0.368,
+P \ 0.001) (Fig. 3), and it was also negative in
+highscoring children (n = 42; parent ASSQ C 7 or teacher
+ASSQ C 9) from the 14 schools where teachers were
+known not to participate in the lectures on AS and the
+ASSQ (r = -0.421, P = 0.003).</p>
+      </sec>
+      <sec id="sec-3-3">
+        <title>Participants scoring at or above the original cut-off</title>
+        <p>
+          scores in the ‘‘outpatient group’’
+Of the ‘‘outpatient group’’, mainly rated at the interval of
+1 year, 81.1% of parents’ (n = 37), 72.2% of teachers’
+(n = 36) and 97.3% of either parents’ or teachers’ ratings
+(n = 37) were at or above the original cut-offs of the
+ASSQ (parents C 19, teachers C 22) [
+          <xref ref-type="bibr" rid="ref10">10</xref>
+          ], and only one
+subject fell below both cut-offs (18 from mother and 13
+from teacher). Ratings were also analysed separately in the
+group of ten children with AS/autism from the ‘‘outpatient
+group’’, rated at the same time by both informants: 60.0%
+of parents’, 80.0% of teachers’ and 90.0% of either parents’
+or teachers’ ratings were at or above the original cut-offs
+and only one subject fell below the cut-off scores (11 from
+mother and 19 from teacher).
+        </p>
+      </sec>
+      <sec id="sec-3-4">
+        <title>ASSQ validation in the ‘‘validation sample’’</title>
+        <p>Discriminant validity was studied using the ROC analyses
+for ASSQ scores of parents, teachers and summed scores of
+parents and teacher in the ‘‘validation sample’’. ROC
+analyses of the parent-rated ASSQs estimated no valid
+Fig. 2 Means and ranges of total scores on the ASSQ rated by
+parents and by teachers in children with AS or HFA. ASSQ Autism
+Spectrum Screening Questionnaire, AS Asperger syndrome, HFA
+high-functioning autism
+cut-off (Fig. 4, Table 2). The teacher-rated ASSQs yielded
+the cut-off of 22, with sensitivity of 0.85 and specificity of
+0.69. However, the cut-off of 30 with sensitivity of 1.00
+and specificity of 0.73 was the best estimation for summed
+scores of parents and teacher. For the teacher cut-off of 22,
+PPV was 0.28, NPV 0.97, LR 2.72, % agreement 70.9 and
+kappa 0.29 (95% CI: 0.05–0.52). The corresponding
+statistics for the summed parents and teacher cut-off of 30
+were as follows: PPV 0.35, NPV 1.00, LR 3.75, %
+agreement 76.7 and kappa 0.41 (95% CI: 0.20–0.62) (Table 2).</p>
+      </sec>
+    </sec>
+    <sec id="sec-4">
+      <title>Discussion</title>
+      <p>This study presents how the Finnish ASSQ works as a
+screening instrument. The ASSQ seems to find the
+higherFig. 3 Correlation (r = -0.368) between parents’ and teachers’
+ratings in the ‘‘validation sample’’
+Fig. 4 ROC curves for the prediction of AS/autism from summed
+parents’ and teacher’s ASSQ score, teachers’ single ASSQ score and
+parents’ single ASSQ score in the ‘‘validation sample’’. ROC receiver
+operating characteristic, AS Asperger syndrome, ASSQ Autism
+Spectrum Screening Questionnaire
+functioning children with AS/autism. The medians and
+means of the ASSQ scores in parents’ and teachers’ ratings
+were significantly higher in children with AS/autism
+(‘‘outpatient group’’) than in the total population (‘‘total
+population group’’). In addition, parents scored children
+who were rated on the ASSQ in our study after receiving
+ASD diagnosis at the outpatient clinic significantly higher
+than children who were rated on the ASSQ in our study
+before receiving ASD diagnosis at the outpatient clinic.</p>
+      <p>This might indicate that parents of the children who were
+already diagnosed as ASD at the outpatient clinic probably
+knew better what kind of features they had to assess,
+leading them to rate their children higher, or that they
+already knew what was causing their children’s symptoms
+and they were more educated to perceive certain symptoms
+typical of ASD. Based on this discovery, it may be
+assumed that parents might score lower on the ASSQ at
+diagnostic examinations in clinical settings, because they
+usually do not know very much about ASDs when their
+child is referred to the outpatient clinic. After the child has
+been diagnosed with ASD parents obtain knowledge about
+ASDs, and they might score higher on the ASSQ.
+However, the number of subjects (n = 6) who were not
+diagnosed as ASD before ASSQ ratings was low. Therefore, the
+effect of parents’ awareness of diagnosis on their scoring
+should be analysed in larger samples. The teachers’ scores
+were at the same level irrespective of whether the
+outpatient ASD diagnoses were already given or not. However,
+we did not know who of the teachers were aware of the
+outpatient ASD diagnosis.</p>
+      <p>
+        No crucial score difference between genders was found
+in the ‘‘outpatient group’’. However, reliable conclusion
+about the gender non-differences in higher-functioning
+subjects with ASD has to be treated with prudence because
+of the wide score ranges and the small number of females
+in the ‘‘outpatient group’’ (n = 10). Baron-Cohen et al. [
+        <xref ref-type="bibr" rid="ref6">6</xref>
+        ]
+also reported that male and female scores (on the Autism
+Spectrum Quotient; AQ) did not differ significantly among
+the AS/HFA group; however, the number of females
+(n = 13) was also small in their study. In turn, in the ‘‘total
+population group’’ males were rated significantly higher
+than females by both parents and teachers, which lends
+support to the assumption that females are more competent
+in their social skills than males [
+        <xref ref-type="bibr" rid="ref26 ref6">6, 26</xref>
+        ]. There is a clear
+overlap of symptoms at the behavioural level between
+children with AS and other high-functioning children with
+ASD based on the ICD-10 and DSM-IV criteria for ASDs.
+      </p>
+      <p>No significant ASSQ score difference was found between
+the children with AS and HFA (Fig. 2), showing that
+differential diagnosis between AS and HFA cannot be made
+by using the ASSQ.</p>
+      <p>
+        In Finland, primary school teachers get to know their
+pupils and their behaviour well, because there is one main
+teacher for each class group who teaches the same pupils for
+many hours every day from one to several years. Thus, it can
+be assumed that both parents and teachers know the
+behaviour of the children quite well, which might have
+yielded high concordance in the ratings. However,
+agreement between informants was slight (r = 0.207), and even
+negative correlation (r = -0.368) was found between
+parents’ and teachers’ ratings in the higher scoring ‘‘validation
+sample’’. This might indicate that the differences in
+behaviour between home and school are real. In addition, the
+Kappa (CI 95%)
+0.12 (0–0.43)
+0.13 (0–0.42)
+0.12 (0–0.41)
+0.11 (0–0.38)
+0.14 (0–0.40)
+0.17 (0–0.45)
+0.19 (0–0.46)
+0.21 (0–0.47)
+0.29 (0.05–0.52)
+0.28 (0.04–0.52)
+0.53 (0.30–0.77)
+0.41 (0.20–0.62)
+0.34 (0.11–0.57)
+0.39 (0.17–0.61)
+0.42 (0.20–0.64)
+0.41 (0.19–0.64)
+0.46 (0.23–0.70)
+SE sensitivity, SP specificity, PPV positive predictive value, NPV negative predictive value, LR likelihood ratio, CI confidence interval
+teacher observes the child’s behaviour in a group, having a
+better chance to notice behaviour abnormalities in social
+interaction than the parents who may have no opportunity to
+compare their child with peers. As described, the teachers
+were given an information package concerning the study,
+including lectures on AS and the ASSQ. By receiving
+information, the teachers may have been better aware than
+parents as to what kind of features they were supposed to
+assess. This might skew the correlation between informants
+in the ‘‘total population group’’. In Oulu, the biggest
+municipality of this study and the capital of Northern
+Ostrobothnia, we were able to obtain the information that
+teachers from 14 schools did not took in the lectures on AS
+and the ASSQ. However, in spite of the fact that these
+teachers were not trained, agreement between informants
+was slight (0.097), and in high-scoring ASSQs (parent C 7,
+or teacher C 9), correlation was negative (r = -0.421)
+between parents’ and teachers’ ratings, being in
+concordance with the results of the high-scoring ‘‘validation
+sample’’. In contrast, Swedish and Norwegian researchers have
+reported a stronger association between parents’ and
+teachers’ ratings on the ASSQ. Ehlers et al. [
+        <xref ref-type="bibr" rid="ref10">10</xref>
+        ] reported
+marked interrater reliability (Pearson r = 0.66) of the ASSQ
+mean total score for parents’ and teachers’ ratings in
+children (n = 105) who were consecutively referred to the child
+neuropsychiatric clinic, and the correlation across
+informants for children with ASD (n = 20) was also marked
+(r = 0.77) in their study. In turn, Posserud et al. [
+        <xref ref-type="bibr" rid="ref19">19</xref>
+        ]
+reported a moderate correlation of 0.48 between teacher and
+parent score for boys and a low correlation of 0.34 between
+informants for girls on the ASSQ in a population sample of
+9,430 children. For the whole, scale agreement between
+parents and teachers was 0.40 (weighted kappa) in the study
+of Posserud et al. [
+        <xref ref-type="bibr" rid="ref19">19</xref>
+        ].
+      </p>
+      <p>
+        The first stage of the ASSQ validation was to find out
+whether the original cut-offs are workable in the
+‘‘outpatient group’’. Our results showed that only two subjects
+with ASD fell below the original parent and teacher
+cutoffs (parent ASSQ \ 19, teacher ASSQ \ 22). In addition,
+none of the outpatient children with ASD were rated below
+both minimum scores with 95% sensitivity based on the
+ROC curves in the study of Ehlers et al. [
+        <xref ref-type="bibr" rid="ref10">10</xref>
+        ] (parent
+ASSQ \ 7, teacher ASSQ \ 9).
+      </p>
+      <p>
+        After the first stage of the ASSQ validation, we
+proceeded to the second phase to evaluate the statistics of
+the ASSQ. For this reason, all potential children with ASD
+[
+        <xref ref-type="bibr" rid="ref10 ref12">10, 12</xref>
+        ] were selected from the ‘‘total population study’’
+to make up a ‘‘validation sample’’ in which the ASSQ
+validation was evaluated. Generalizations of the validity
+findings might be limited to the clinical settings when
+diagnosing higher-functioning patients who are suspected
+to have AS or autism. Generalization to whole population
+screening has to be treated with caution because the
+‘‘validation sample’’ was not selected randomly. We gave
+up random selection because of the low number of ASD
+diagnoses in total population [e.g. 3, 23].
+      </p>
+      <p>
+        Based on our results, the use of the original Swedish
+cutoff of 22 [
+        <xref ref-type="bibr" rid="ref10">10</xref>
+        ] with 85% sensitivity and 69% specificity for
+teacher ASSQ score is indicated in Finland as well.
+      </p>
+      <p>
+        In contrast, Ehlers et al. [
+        <xref ref-type="bibr" rid="ref10">10</xref>
+        ] reported poorer sensitivity
+(65–70%) and better specificity (91%) for the teacher
+cut-off score of 22. However, according to our results the
+ASSQ seems to work best by using a summed parents’ and
+teacher’s score. In clinical settings, it is important to screen
+all potential ASD subjects. Thus, the cut-off score of 30 for
+the summed parents’ and teacher’s score is recommended
+to be used in clinical settings with 100% sensitivity and
+73% specificity. Ehlers et al. [
+        <xref ref-type="bibr" rid="ref10">10</xref>
+        ] estimated the cut-off
+score of 19 for parents’ ratings with the sensitivity of
+62–82% and the specificity of 90%. Importantly, in Finland
+the ASSQ seemed to be invalid in identifying subjects with
+AS/autism, if single rating by parents was used: if
+sensitivity was high, specificity was low, and vice versa. Thus,
+there is a strong caution against the use of single ASSQ
+rating by parents when screening higher-functioning
+children with suspected AS/autism.
+      </p>
+      <p>This study showed that the Finnish ASSQ works as a
+screening instrument with some limitations. The ASSQ
+identifies the majority of higher-functioning children with
+AS/autism by using the summed parents’ and teacher’s score
+or by using single rating by teacher. NPVs (1.00; 0.97) were
+excellent, showing that no children with AS/autism fell
+below the cut-offs in summed parents’ and teacher’s ratings
+and only few children in single ratings by teacher; i.e. it is
+unlikely that a child has AS/autism if rated below the cut-off
+scores in summed parents’ and teacher’s or in single
+teacher’s rating. However, PPVs (0.35; 0.28) were very low,
+indicating that many subjects without a registered AS or
+autism diagnosis were rated above the cut-offs in summed
+parents’ and teacher’s ratings and in single teacher’s ratings.</p>
+      <p>
+        In turn, Ehlers et al. [
+        <xref ref-type="bibr" rid="ref10">10</xref>
+        ] did not report any PPV or NPV
+values in their study. Our validation findings are preliminary;
+research is ongoing and more results are expected later.
+      </p>
+    </sec>
+    <sec id="sec-5">
+      <title>Conclusions</title>
+      <p>First, because of the low PPV it is emphasized that the
+ASSQ is a screening instrument, not a diagnostic
+instrument; all screening-positive children have to undergo
+diagnostic examinations.</p>
+      <p>Second, this article points out the importance of using
+multiple informants, as also suggested by previous studies
+concerning ASDs [e.g. 3, 18–20, 24]. Although the cut-off
+score could not be estimated for single parent ratings, the
+cut-off score for summed parents’ and teacher’s ratings
+turned out to be the best.</p>
+      <p>Acknowledgments We want to thank the children and their parents,
+the teachers and the entire staff of the schools for participating in this
+study. We thank chief psychologist Terttu Tapio and clinical
+psychologist Kati Wedman for their comments and help with this study.
+The Graduate School of Circumpolar Wellbeing, Health and
+Adaptation is acknowledged for their support. This study received financial
+support from Finland’s Slot Machine Association awarded to the
+Finnish Association for Autism and Asperger’s Syndrome and from
+the Child Psychiatric Research Foundation, Finland, awarded to the
+Eija and Veikko Lesonen Foundation, Oulu, Finland. Dr. Marja-Leena
+Mattila received research grants from the Rinnekoti Research
+Foundation, Espoo, Finland, the Alma and K. A. Snellman Foundation,
+Oulu, Finland, the Child Psychiatric Research Foundation, Finland, the
+Child Psychiatric Research Foundation, Oulu Area, Finland, and the
+Oulu Medical Research Foundation, Oulu, Finland. Psychologist Katja
+Jussila received a research grant from the Alma and K. A. Snellman
+Foundation, Oulu, Finland, and psychologist Sanna Kuusikko from the
+Alma and K. A. Snellman Foundation Oulu, Finland, and the Child
+Psychiatric Research Foundation, Finland. This particular study was
+also financially supported by a National Alliance for Autism Research
+(NAAR) grant awarded to professor David Pauls.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          1.
+          <string-name>
+            <surname>Achenbach</surname>
+            <given-names>TM</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>McConaughy</surname>
+            <given-names>SH</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Howell</surname>
+            <given-names>CT</given-names>
+          </string-name>
+          (
+          <year>1987</year>
+          )
+          <article-title>Child/ adolescent behavioral and emotional problems: implications of cross-informant correlations for situational specificity</article-title>
+          .
+          <source>Psychol Bull</source>
+          <volume>101</volume>
+          :
+          <fpage>213</fpage>
+          -
+          <lpage>232</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          2.
+          <string-name>
+            <given-names>American</given-names>
+            <surname>Psychiatric Association</surname>
+          </string-name>
+          (
+          <year>1994</year>
+          )
+          <article-title>Diagnostic and statistical manual of mental disorders, 4th edn</article-title>
+          . American Psychiatric Association, Washington, DC
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          3.
+          <string-name>
+            <surname>Baird</surname>
+            <given-names>G</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Simonoff</surname>
+            <given-names>E</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Pickles</surname>
+            <given-names>A</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Chandler</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Loucas</surname>
+            <given-names>T</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Meldrum</surname>
+            <given-names>D</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Charman</surname>
+            <given-names>T</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>Prevalence of disorders of the autism spectrum in a population cohort of children in South Thames: the Special Needs and Autism Project (SNAP)</article-title>
+          .
+          <source>Lancet</source>
+          <volume>15</volume>
+          :
+          <fpage>210</fpage>
+          -
+          <lpage>215</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          4.
+          <string-name>
+            <surname>Baron-Cohen</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Allen</surname>
+            <given-names>J</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Gillberg</surname>
+            <given-names>C</given-names>
+          </string-name>
+          (
+          <year>1992</year>
+          )
+          <article-title>Can autism be detected at 18 months? The needle, the haystack, and the CHAT</article-title>
+          .
+          <source>Br J Psychiatry</source>
+          <volume>161</volume>
+          :
+          <fpage>839</fpage>
+          -
+          <lpage>843</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          5.
+          <string-name>
+            <surname>Baron-Cohen</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Cox</surname>
+            <given-names>A</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Baird</surname>
+            <given-names>G</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Swettenham</surname>
+            <given-names>J</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Nightingale</surname>
+            <given-names>N</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Morgan</surname>
+            <given-names>K</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Drew</surname>
+            <given-names>A</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Charman</surname>
+            <given-names>T</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          )
+          <article-title>Psychological markers in the detection of autism in infancy in a large population</article-title>
+          .
+          <source>Br J Psychiatry</source>
+          <volume>168</volume>
+          :
+          <fpage>158</fpage>
+          -
+          <lpage>163</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          6.
+          <string-name>
+            <surname>Baron-Cohen</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wheelwright</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Skinner</surname>
+            <given-names>R</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Martin</surname>
+            <given-names>J</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Clubley</surname>
+            <given-names>E</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          )
+          <article-title>The autism-spectrum quotient (AQ): evidence from Asperger syndrome/high-functioning autism, males and females, scientists and mathematicians</article-title>
+          .
+          <source>J Autism Dev Disord</source>
+          <volume>31</volume>
+          :
+          <fpage>5</fpage>
+          -
+          <lpage>17</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          7.
+          <string-name>
+            <surname>Berument</surname>
+            <given-names>SK</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Rutter</surname>
+            <given-names>M</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Lord</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Pickles</surname>
+            <given-names>A</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bailey</surname>
+            <given-names>A</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>Autism screening questionnaire: diagnostic validity</article-title>
+          .
+          <source>Br J Psychiatry</source>
+          <volume>175</volume>
+          :
+          <fpage>444</fpage>
+          -
+          <lpage>451</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          8.
+          <string-name>
+            <surname>Constantino</surname>
+            <given-names>JN</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Davis</surname>
+            <given-names>SA</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Todd</surname>
+            <given-names>RD</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Schindler</surname>
+            <given-names>MK</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Gross</surname>
+            <given-names>MM</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Brophy</surname>
+            <given-names>SL</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Metzger</surname>
+            <given-names>LM</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Shoushtari</surname>
+            <given-names>CS</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Splinter</surname>
+            <given-names>R</given-names>
+          </string-name>
+          , Reich W (
+          <year>2003</year>
+          )
+          <article-title>Validation of a brief quantitative measure of autistic traits: comparison of the social responsiveness scale with the autism diagnostic interview-revised</article-title>
+          .
+          <source>J Autism Dev Disord</source>
+          <volume>33</volume>
+          :
+          <fpage>427</fpage>
+          -
+          <lpage>433</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          9.
+          <string-name>
+            <surname>Ehlers</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Gillberg</surname>
+            <given-names>C</given-names>
+          </string-name>
+          (
+          <year>1993</year>
+          )
+          <article-title>The epidemiology of Asperger syndrome. A total population study</article-title>
+          .
+          <source>J Child Psychol Psychiatr</source>
+          <volume>34</volume>
+          :
+          <fpage>1327</fpage>
+          -
+          <lpage>1350</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          10.
+          <string-name>
+            <surname>Ehlers</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Gillberg</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wing L</surname>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>A screening questionnaire for Asperger syndrome and other high-functioning autism spectrum disorders in school age children</article-title>
+          .
+          <source>J Autism Dev Disord</source>
+          <volume>29</volume>
+          :
+          <fpage>129</fpage>
+          -
+          <lpage>141</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          11.
+          <string-name>
+            <surname>Howlin</surname>
+            <given-names>P</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Asgharian</surname>
+            <given-names>A</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>The diagnosis of autism and Asperger syndrome: findings from a survey of 770 families</article-title>
+          .
+          <source>Dev Med Child Neurol</source>
+          <volume>41</volume>
+          :
+          <fpage>834</fpage>
+          -
+          <lpage>839</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          12.
+          <string-name>
+            <surname>Kadesjo</surname>
+            <given-names>B</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Gillberg</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hagberg</surname>
+            <given-names>B</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>Brief report: autism and Asperger syndrome in seven year-old children: a total population study</article-title>
+          .
+          <source>J Autism Dev Disord</source>
+          <volume>29</volume>
+          :
+          <fpage>327</fpage>
+          -
+          <lpage>331</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          13.
+          <string-name>
+            <surname>Krug</surname>
+            <given-names>DA</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Arick</surname>
+            <given-names>J</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Almond</surname>
+            <given-names>P</given-names>
+          </string-name>
+          (
+          <year>1980</year>
+          )
+          <article-title>Behavior checklist for identifying severely handicapped individuals with high levels of autistic behavior</article-title>
+          .
+          <source>J Child Psychol Psychiatr</source>
+          <volume>21</volume>
+          :
+          <fpage>221</fpage>
+          -
+          <lpage>229</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          14.
+          <string-name>
+            <surname>Kumpulainen</surname>
+            <given-names>K</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Rasanen</surname>
+            <given-names>E</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Henttonen</surname>
+            <given-names>I</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Moilanen</surname>
+            <given-names>I</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Piha</surname>
+            <given-names>J</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Puura</surname>
+            <given-names>K</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Tamminen</surname>
+            <given-names>T</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Almqvist</surname>
+            <given-names>F</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          )
+          <article-title>Children's behavioural/emotional problems: a comparison of parents' and teachers' reports for elementary school-aged children</article-title>
+          .
+          <source>Eur Child Adolesc Psychiatry</source>
+          <volume>8</volume>
+          :
+          <fpage>41</fpage>
+          -
+          <lpage>47</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          15.
+          <string-name>
+            <surname>Lesinskiene</surname>
+            <given-names>S</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          )
+          <article-title>Vilniaus miesto vaiku autizmas, Vilniaus Universitetas, Daktaro disetacijos santrauka, Biomedicinos mokslai, medicina 07B, psichiatrija B650</article-title>
+          . Vilnius, Lithuania
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          16.
+          <string-name>
+            <surname>Lord</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Rutter</surname>
+            <given-names>M</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Le Couteur</surname>
+            <given-names>A</given-names>
+          </string-name>
+          (
+          <year>1994</year>
+          )
+          <article-title>Autism Diagnostic Interview-Revised: a revised version of a diagnostic interview for caregivers of individuals with possible pervasive developmental disorders</article-title>
+          .
+          <source>J Autism Dev Disord</source>
+          <volume>24</volume>
+          :
+          <fpage>659</fpage>
+          -
+          <lpage>685</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          17.
+          <string-name>
+            <surname>Lord</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Risi</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Lambrecht</surname>
+            <given-names>L</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Cook</surname>
+            <given-names>EH</given-names>
+          </string-name>
+          Jr,
+          <string-name>
+            <surname>Leventhal</surname>
+            <given-names>BL</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>DiLavore</surname>
+            <given-names>PC</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Pickles</surname>
+            <given-names>A</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Rutter</surname>
+            <given-names>M</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          )
+          <article-title>The autism diagnostic observation schedule-generic: a standard measure of social and communication deficits associated with the spectrum of autism</article-title>
+          .
+          <source>J Autism Dev Disord</source>
+          <volume>30</volume>
+          :
+          <fpage>205</fpage>
+          -
+          <lpage>223</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          18.
+          <string-name>
+            <surname>Mattila</surname>
+            <given-names>ML</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kielinen</surname>
+            <given-names>M</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Jussila</surname>
+            <given-names>K</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Linna</surname>
+            <given-names>SL</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bloigu</surname>
+            <given-names>R</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Ebeling</surname>
+            <given-names>H</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Moilanen</surname>
+            <given-names>I</given-names>
+          </string-name>
+          (
+          <year>2007</year>
+          )
+          <article-title>An epidemiological and diagnostic study of Asperger syndrome according to four sets of diagnostic criteria</article-title>
+          .
+          <source>J Am Acad Child Adolesc Psychiatry</source>
+          <volume>46</volume>
+          :
+          <fpage>636</fpage>
+          -
+          <lpage>646</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          19.
+          <string-name>
+            <surname>Posserud</surname>
+            <given-names>MB</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Lundervold</surname>
+            <given-names>AJ</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Gillberg</surname>
+            <given-names>C</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>Autistic features in a total population of 7-9-year-old children assessed by the ASSQ (Autism Spectrum Screening Questionnaire)</article-title>
+          .
+          <source>J Child Psychol Psychiatry</source>
+          <volume>47</volume>
+          :
+          <fpage>167</fpage>
+          -
+          <lpage>175</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          20.
+          <string-name>
+            <surname>Risi</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Lord</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Gotham</surname>
+            <given-names>K</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Corsello</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Chrysler</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Szatmari</surname>
+            <given-names>P</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Cook</surname>
+            <given-names>EH</given-names>
+          </string-name>
+          Jr,
+          <string-name>
+            <surname>Leventhal</surname>
+            <given-names>BL</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Pickles</surname>
+            <given-names>A</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          )
+          <article-title>Combining information from multiple sources in the diagnosis of autism spectrum disorders</article-title>
+          .
+          <source>J Am Acad Child Adolesc Psychiatry</source>
+          <volume>45</volume>
+          :
+          <fpage>1094</fpage>
+          -
+          <lpage>1103</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          21.
+          <string-name>
+            <surname>Rutter</surname>
+            <given-names>M</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bailey</surname>
+            <given-names>A</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Lord</surname>
+            <given-names>C</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          )
+          <article-title>SCQ: social communication questionnaire</article-title>
+          .
+          <source>Western Psychological Services</source>
+          , Los Angeles, CA
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          22.
+          <string-name>
+            <surname>Scott</surname>
+            <given-names>FJ</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Baron-Cohen</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bolton</surname>
+            <given-names>P</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Brayne</surname>
+            <given-names>C</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          )
+          <article-title>The CAST (Childhood Asperger Syndrome Test): preliminary development of a UK screen for mainstream primary-school-age children</article-title>
+          .
+          <source>Autism</source>
+          <volume>6</volume>
+          :
+          <fpage>9</fpage>
+          -
+          <lpage>31</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          23.
+          <string-name>
+            <surname>Sponheim</surname>
+            <given-names>E</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Skjeldal</surname>
+            <given-names>O</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          )
+          <article-title>Autism and related disorders: epidemiological findings in a Norwegian study using ICD-10 diagnostic criteria</article-title>
+          .
+          <source>J Autism Dev Disord</source>
+          <volume>28</volume>
+          :
+          <fpage>217</fpage>
+          -
+          <lpage>227</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          24.
+          <string-name>
+            <surname>Szatmari</surname>
+            <given-names>P</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Archer</surname>
+            <given-names>L</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Fisman</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Streiner</surname>
+            <given-names>DL</given-names>
+          </string-name>
+          (
+          <year>1994</year>
+          )
+          <article-title>Parent and teacher agreement in the assessment of pervasive developmental disorders</article-title>
+          .
+          <source>J Autism Dev Disord</source>
+          <volume>24</volume>
+          :
+          <fpage>703</fpage>
+          -
+          <lpage>717</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          25.
+          <string-name>
+            <surname>Wechsler</surname>
+            <given-names>D</given-names>
+          </string-name>
+          (
+          <year>1991</year>
+          )
+          <article-title>Wechsler Intelligence Scale for Children, 3rd edition (WISC-III)</article-title>
+          .
+          <source>Psychological Corporation</source>
+          , New York
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          26.
+          <string-name>
+            <surname>Williams</surname>
+            <given-names>JG</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Allison</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Scott</surname>
+            <given-names>FJ</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bolton</surname>
+            <given-names>PF</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Baron-Cohen</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Matthews</surname>
+            <given-names>FE</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Brayne</surname>
+            <given-names>C</given-names>
+          </string-name>
+          (
+          <year>2008</year>
+          )
+          <article-title>The Childhood Autism Spectrum Test (CAST): sex differences</article-title>
+          .
+          <source>J Autism Dev Disord</source>
+          <volume>38</volume>
+          :
+          <fpage>1731</fpage>
+          -
+          <lpage>1739</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          27.
+          <string-name>
+            <surname>Williams</surname>
+            <given-names>J</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Scott</surname>
+            <given-names>F</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Stott</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Allison</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bolton</surname>
+            <given-names>P</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Baron-Cohen</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Brayne</surname>
+            <given-names>C</given-names>
+          </string-name>
+          (
+          <year>2005</year>
+          )
+          <article-title>The CAST (Childhood Asperger Syndrome Test): test accuracy</article-title>
+          .
+          <source>Autism</source>
+          <volume>9</volume>
+          :
+          <fpage>45</fpage>
+          -
+          <lpage>68</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          28. World Health Organisation (
+          <year>1993</year>
+          )
+          <article-title>International Classification of Mental and Behavioural Disorders (ICD-10)</article-title>
+          .
+          <article-title>Diagnostic criteria for research</article-title>
+          . WHO, Geneva
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

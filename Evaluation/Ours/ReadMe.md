@@ -18,7 +18,15 @@ Folders:
 	RefLD/:		Contains the types of lines extracted from "LRT/*csv" using REFLD.py
 	src/:		Contains the functions and modules needed for running different scripts
 	
-	
+
+Requirements:
+	Before being able to run any of the scripts on your dataset, it is mandatory to prepare the data into the required format.
+
+	1. The ground truth file should contain all the lines of all documents in a txt format.
+	2. The refLines file should contain all the raw lines of all documents in a txt formal. 
+	3. Run the script under `./Datasets/Dataset/CrossValidation/preapreCrossValidation.py`. This script returns a set of files under `training` and `testing` containing the line indexes of the reflines and ground truth. 
+	4. Use the indexes generated under `./Datasets/Dataset/CrossValidation/testing & /training` to create the ground truth and reflines folds under `./Datasets/Dataset/GroundTruth` and `./Datasets/Dataset/RefLines` respectively.
+	5. Now the Data is ready to be used by the Exparser scripts.
 	
 	
 Scripts:
