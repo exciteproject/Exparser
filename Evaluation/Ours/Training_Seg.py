@@ -100,19 +100,21 @@ for tindex,trainingfold in enumerate(folds):
 			train_label[len(train_label)-1].extend([b])
 		#update features
 		train_feat[len(train_feat)-1]=add2feat(train_feat[len(train_feat)-1],0)
-		
-		for i in range (1,len(ln)):
-			#add the +2 word
-			if i<len(ln)-2:
-				w=ln[i+2]
-				a,b,l=findtag(w,l)
-				train_sents[len(train_sents)-1].extend([(a,b)])
-				train_feat[len(train_feat)-1].extend([word2feat(a,stopw,i+2,len(ln),b1,b2,b3,b4,b5,b6)])
-				train_label[len(train_label)-1].extend([b])
-				#add their features to w
-			#update features
-			train_feat[len(train_feat)-1]=add2feat(train_feat[len(train_feat)-1],i)
-		#file.close()
+		try:
+			for i in range (1,len(ln)):
+				#add the +2 word
+				if i<len(ln)-2:
+					w=ln[i+2]
+					a,b,l=findtag(w,l)
+					train_sents[len(train_sents)-1].extend([(a,b)])
+					train_feat[len(train_feat)-1].extend([word2feat(a,stopw,i+2,len(ln),b1,b2,b3,b4,b5,b6)])
+					train_label[len(train_label)-1].extend([b])
+					#add their features to w
+				#update features
+				train_feat[len(train_feat)-1]=add2feat(train_feat[len(train_feat)-1],i)
+			#file.close()
+		except:
+			print "empty"
 	
 	crf = sklearn_crfsuite.CRF(
 		algorithm='pa',  
